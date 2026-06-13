@@ -20,8 +20,7 @@ deduplication).
 
 ## Context
 
-This repository is part of the Master's thesis *"Analysis of AI Methods for
-Adaptive Foreign Language Learning"* (Astana IT University, 2026). It is one of
+This repository is part of the Master's thesis *"Analysis of artificial intelligence methods for adaptive foreign language learning based on analyzing learner's progress"* (Astana IT University, 2026). It is one of
 four open-source repositories released with the thesis (see
 [Related repositories](#related-repositories)). The item bank is the content
 foundation on which the Knowledge Tracing experiments are run.
