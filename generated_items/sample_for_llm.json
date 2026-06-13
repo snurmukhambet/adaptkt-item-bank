@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "total_generated": 2790,
+    "total_accepted": 2757,
+    "total_rejected": 33,
+    "total_cost_usd": 11.9359,
+    "generation_model": "claude-sonnet-4-6",
+    "timestamp": "2026-04-26T13:38:26.706996+00:00"
+  },
+  "metadata_per_skill_example": [
+    {
+      "skill_id": "past_simple",
+      "skill_name": "Past Simple",
+      "generated": 33,
+      "accepted": 33,
+      "rejected": 0
+    },
+    {
+      "skill_id": "connectors_basic",
+      "skill_name": "Basic Connectors (And/But/Or/So/Because)",
+      "generated": 33,
+      "accepted": 30,
+      "rejected": 3
+    }
+  ],
+  "exercises_examples_by_type": [
+    {
+      "id": "ex_past_simple_cloze_0000",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (eat) a big sandwich for lunch yesterday.",
+        "correct_answer": "ate",
+        "distractors": [
+          "eats",
+          "eaten",
+          "eatted"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action in the past with 'yesterday'",
+          "past participle alone cannot form a simple past statement without an auxiliary",
+          "invented regular form; 'eat' is irregular and its past simple is 'ate', not 'eatted'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0000",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ his lunch at noon yesterday.",
+        "correct_answer": "ate",
+        "distractors": [
+          "eats",
+          "eat",
+          "eated"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action at a specific past time (noon yesterday)",
+          "bare infinitive is used in questions and negatives with did, not in affirmative past statements",
+          "eated is a common learner error applying regular -ed to an irregular verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0000",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She go to the market yesterday morning.",
+        "correct_answer": "went",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She go to the market yesterday morning.",
+        "corrected_sentence": "She went to the market yesterday morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_word_formation_0000",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The sky is very ___ today. (BLUE)",
+        "correct_answer": "blue",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BLUE"
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_colours_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ]
+}

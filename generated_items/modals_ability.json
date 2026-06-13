@@ -1,0 +1,1863 @@
+{
+  "skill_id": "modals_ability",
+  "skill_name": "Modals: Ability (Can/Could/Be Able To)",
+  "exercises": [
+    {
+      "id": "ex_modals_ability_cloze_0000",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My little brother ___ ride a bike, but he needs help to start.",
+        "correct_answer": "can",
+        "distractors": [
+          "could",
+          "will can",
+          "is able"
+        ],
+        "distractor_rationale": [
+          "could refers to past ability, but the sentence describes a current skill with present tense context",
+          "will can is never grammatically possible; the correct future form is will be able to",
+          "is able is incomplete; the correct form requires is able to before the verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0001",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ speak any English when she started school last year.",
+        "correct_answer": "couldn't",
+        "distractors": [
+          "can't",
+          "isn't able to",
+          "won't be able to"
+        ],
+        "distractor_rationale": [
+          "can't refers to present inability, but last year clearly places the situation in the past",
+          "isn't able to is a present form and contradicts the past time marker last year",
+          "won't be able to refers to future inability, which is impossible with the past marker last year"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0002",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ to play the guitar, but he practises every day now.",
+        "correct_answer": "couldn't",
+        "distractors": [
+          "can't",
+          "wasn't able",
+          "will can't"
+        ],
+        "distractor_rationale": [
+          "can't refers to present inability, but the contrast with now shows the situation is in the past",
+          "wasn't able is incomplete; the correct form requires wasn't able to before the verb",
+          "will can't is never grammatically possible in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0003",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After months of practice, Sara ___ finally play the whole song without stopping.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "can",
+          "will be able to"
+        ],
+        "distractor_rationale": [
+          "could is not used for a specific achieved result in the past; was able to is required for a single successful past achievement",
+          "can refers to present ability, but after months of practice and finally show this is a completed past event",
+          "will be able to refers to future ability, which contradicts the past context of after months of practice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0004",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James has been studying hard, so he ___ pass his driving test next month.",
+        "correct_answer": "will be able to",
+        "distractors": [
+          "will can",
+          "could",
+          "can"
+        ],
+        "distractor_rationale": [
+          "will can is never grammatically possible; can cannot follow will",
+          "could refers to past ability or polite possibility, not a future result of current preparation",
+          "can expresses present ability, but next month clearly places the situation in the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0005",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When I was young, I ___ run very fast, but now my knees hurt too much.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "was able to",
+          "will be able to"
+        ],
+        "distractor_rationale": [
+          "can refers to present ability, which contradicts when I was young and now my knees hurt",
+          "was able to describes a specific single achievement in the past; could is correct for a general past ability",
+          "will be able to refers to future ability, which is impossible with the past time marker when I was young"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0006",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The rescue team searched for hours and ___ find all the missing hikers before dark.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "can",
+          "were able"
+        ],
+        "distractor_rationale": [
+          "could is not used for a specific successful outcome in a past situation; was able to is required here",
+          "can refers to present ability, which is impossible given the past narrative context",
+          "were able is incomplete; the correct form requires were able to before the verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0007",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the end of this course, students ___ write a formal email without making basic grammar mistakes.",
+        "correct_answer": "will be able to",
+        "distractors": [
+          "will can",
+          "could",
+          "are able to"
+        ],
+        "distractor_rationale": [
+          "will can is never grammatically possible; can cannot be used after will",
+          "could refers to past ability or polite possibility, not a future outcome of a course",
+          "are able to describes a current ability, but by the end of this course places the result in the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0008",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although the traffic was very heavy that morning, Anna ___ arrive at the interview on time.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "can",
+          "had been able to"
+        ],
+        "distractor_rationale": [
+          "could is not used for a single specific successful achievement in a past situation; was able to is required",
+          "can refers to present ability, which contradicts the past time markers that morning and was",
+          "had been able to implies the ability existed before another past event, but no such earlier reference point is given in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0009",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David has damaged his right hand, so he ___ type at work until it heals completely.",
+        "correct_answer": "isn't able to",
+        "distractors": [
+          "couldn't",
+          "won't can",
+          "wasn't able to"
+        ],
+        "distractor_rationale": [
+          "couldn't refers to past inability, but has damaged is present perfect indicating a current situation affecting the present",
+          "won't can is never grammatically possible in English",
+          "wasn't able to refers to past inability, which contradicts the present perfect has damaged and the present context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0010",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My little brother ___ ride a bike now, but he couldn't do it last year.",
+        "correct_answer": "can",
+        "distractors": [
+          "could",
+          "will can",
+          "is able"
+        ],
+        "distractor_rationale": [
+          "could refers to past ability, but the contrast with 'last year' shows this is a present ability",
+          "'will can' is not a grammatical form in English; will be able to is the correct future construction",
+          "'is able' is incomplete without 'to ride'; the bare infinitive after 'is able' is ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0011",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When Sara was seven, she ___ speak two languages fluently.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "will be able to",
+          "is able to"
+        ],
+        "distractor_rationale": [
+          "'can' refers to present ability and cannot be used to describe ability in a past time frame marked by 'when Sara was seven'",
+          "'will be able to' refers to future ability, which contradicts the past time marker 'when Sara was seven'",
+          "'is able to' is present tense and cannot describe a past state established by 'when Sara was seven'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0012",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After months of practice, Tom ___ finally play the guitar well enough to perform at the school concert.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "can",
+          "will be able to"
+        ],
+        "distractor_rationale": [
+          "'could' describes general past ability, but this sentence describes a specific achievement reached after effort; 'was able to' is required for a specific past accomplishment",
+          "'can' is present tense and contradicts the past context established by 'after months of practice' and 'the school concert'",
+          "'will be able to' refers to future ability and contradicts the completed past event described in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0013",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you keep studying every day, you ___ read the news in Spanish before the end of the year.",
+        "correct_answer": "will be able to",
+        "distractors": [
+          "will can",
+          "could",
+          "can"
+        ],
+        "distractor_rationale": [
+          "'will can' is ungrammatical; English does not allow two modal verbs together, so 'will be able to' is the correct future ability form",
+          "'could' describes past ability or polite possibility, not a future outcome following a present condition",
+          "'can' describes present ability, but the future time marker 'before the end of the year' and the conditional 'if you keep studying' require a future form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_cloze_0014",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Despite the heavy traffic on the road, the ambulance ___ reach the hospital in time to save the patient.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "couldn't",
+          "can"
+        ],
+        "distractor_rationale": [
+          "'could' is used for general past ability, not for a specific successful achievement against difficult circumstances; 'was able to' correctly expresses that this particular effort succeeded",
+          "'couldn't' means the ambulance failed to reach the hospital, which contradicts 'in time to save the patient' and reverses the meaning of the sentence",
+          "'can' is present tense and is incompatible with the completed past event described by the context of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_ability_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0000",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My little brother ___ ride a bike now — he learned last summer.",
+        "correct_answer": "can",
+        "distractors": [
+          "could",
+          "will can",
+          "is able"
+        ],
+        "distractor_rationale": [
+          "could refers to past ability, but the sentence says 'now', indicating present ability",
+          "will can is ungrammatical — can cannot follow will; will be able to is the correct future form",
+          "is able is incomplete — the correct form is is able to, and even then 'can' is the natural present ability form here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0001",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When Maria was three years old, she ___ say a few words in two languages.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "will be able to",
+          "can to"
+        ],
+        "distractor_rationale": [
+          "can is a present tense modal and cannot refer to past ability at age three",
+          "will be able to refers to future ability, not a past childhood situation",
+          "can to is ungrammatical — can is never followed by to before the infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0002",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ speak French very well — he takes classes every week.",
+        "correct_answer": "can",
+        "distractors": [
+          "could",
+          "can to",
+          "will can"
+        ],
+        "distractor_rationale": [
+          "could signals past ability, but the present tense clue 'takes classes every week' shows this is a current ability",
+          "can to is ungrammatical — can is a bare modal and is never followed by to",
+          "will can is ungrammatical — two modal verbs cannot appear together in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0003",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After months of practice, Sara ___ finally play the piano piece from start to finish without any mistakes.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "can",
+          "will be able to"
+        ],
+        "distractor_rationale": [
+          "could is not used for a specific single achievement in the past; was able to is required when someone succeeded on one particular occasion",
+          "can is a present modal and cannot describe a completed past achievement",
+          "will be able to refers to future ability, not a past accomplishment that has already happened"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0004",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Once James finishes his driving lessons next month, he ___ drive to work on his own.",
+        "correct_answer": "will be able to",
+        "distractors": [
+          "will can",
+          "could",
+          "can"
+        ],
+        "distractor_rationale": [
+          "will can is ungrammatical — can cannot follow will; will be able to is the only correct future ability form",
+          "could refers to past ability or polite possibility, not a future ability that will result from finishing lessons",
+          "can describes present ability, but the time marker 'once he finishes next month' places the ability in the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0005",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The doctor told Anna that she ___ return to work after two weeks of rest.",
+        "correct_answer": "would be able to",
+        "distractors": [
+          "could",
+          "will be able to",
+          "can"
+        ],
+        "distractor_rationale": [
+          "could here would suggest past ability or present polite possibility, not a future ability reported in indirect speech after a past-tense reporting verb",
+          "will be able to is incorrect in reported speech after a past tense verb; back-shift requires would be able to",
+          "can is a present modal and does not fit the reported speech context introduced by the past tense 'told'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0006",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David ___ swim when he was young, but he has forgotten most of what he learned.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "was able to",
+          "will be able to"
+        ],
+        "distractor_rationale": [
+          "can describes present ability, which contradicts the past time marker 'when he was young'",
+          "was able to is used for a specific past achievement on one occasion, not for a general past ability over a period of time",
+          "will be able to refers to future ability, not a past general skill that has since been lost"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0007",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Even though the fire had spread quickly through the building, the firefighters ___ rescue everyone inside before it collapsed.",
+        "correct_answer": "were able to",
+        "distractors": [
+          "could",
+          "can",
+          "would be able to"
+        ],
+        "distractor_rationale": [
+          "could is not used for a specific successful achievement in the past on one occasion; were able to is required to express that they actually succeeded",
+          "can is a present modal and cannot describe a completed past event in a building fire that already happened",
+          "would be able to expresses a conditional or reported future ability, not a specific past achievement that is presented as a fact"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0008",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa has been practising her presentation every day this week, so she ___ deliver it confidently by Friday.",
+        "correct_answer": "will be able to",
+        "distractors": [
+          "will can",
+          "could",
+          "was able to"
+        ],
+        "distractor_rationale": [
+          "will can is ungrammatical — modal verbs cannot be stacked; the correct future ability form is will be able to",
+          "could signals past ability or polite possibility, not an expected future ability resulting from current preparation",
+          "was able to describes a specific past achievement that has already occurred, but the time marker 'by Friday' places the ability in the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_multiple_choice_0009",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The technician worked on the broken server for three hours and ___ fix the problem before the office opened in the morning.",
+        "correct_answer": "was able to",
+        "distractors": [
+          "could",
+          "can",
+          "will be able to"
+        ],
+        "distractor_rationale": [
+          "could is inappropriate for a specific single past achievement where success is confirmed; was able to is required to show the technician actually succeeded on that occasion",
+          "can is a present modal and cannot describe a completed past action that happened before the office opened",
+          "will be able to refers to future ability, but the sentence describes a completed event in the past confirmed by 'worked for three hours'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_ability_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0000",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My little brother can ride a bike when he was six years old.",
+        "correct_answer": "could ride",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My little brother can ride a bike when he was six years old.",
+        "corrected_sentence": "My little brother could ride a bike when he was six years old.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0001",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She can to speak three languages, which is very impressive.",
+        "correct_answer": "can speak",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She can to speak three languages, which is very impressive.",
+        "corrected_sentence": "She can speak three languages, which is very impressive.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0002",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After practising every day for a month, Tom could finally finish the difficult puzzle last Sunday.",
+        "correct_answer": "was able to finish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After practising every day for a month, Tom could finally finish the difficult puzzle last Sunday.",
+        "corrected_sentence": "After practising every day for a month, Tom was finally able to finish the difficult puzzle last Sunday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0003",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "David will can join the advanced class next term if he passes the test.",
+        "correct_answer": "will be able to join",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "David will can join the advanced class next term if he passes the test.",
+        "corrected_sentence": "David will be able to join the advanced class next term if he passes the test.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0004",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The technician could fix the broken printer yesterday after he found the right part.",
+        "correct_answer": "was able to fix",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The technician could fix the broken printer yesterday after he found the right part.",
+        "corrected_sentence": "The technician was able to fix the broken printer yesterday after he found the right part.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0005",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He can to understand the instructions, so he assembled the furniture without any help.",
+        "correct_answer": "could understand",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He can to understand the instructions, so he assembled the furniture without any help.",
+        "corrected_sentence": "He could understand the instructions, so he assembled the furniture without any help.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0006",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although the storm was very strong, the rescue team could reach all the passengers safely that evening.",
+        "correct_answer": "was able to reach",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although the storm was very strong, the rescue team could reach all the passengers safely that evening.",
+        "corrected_sentence": "Although the storm was very strong, the rescue team was able to reach all the passengers safely that evening.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_ability_error_correction_0007",
+      "skill_ids": [
+        "modals_ability"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Once she completes the training programme next month, she will can handle customer complaints on her own.",
+        "correct_answer": "will be able to handle",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Once she completes the training programme next month, she will can handle customer complaints on her own.",
+        "corrected_sentence": "Once she completes the training programme next month, she will be able to handle customer complaints on her own.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:25:28.005005+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_ability_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

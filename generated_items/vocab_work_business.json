@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_work_business",
+  "skill_name": "Work & Business",
+  "exercises": [
+    {
+      "id": "ex_vocab_work_business_cloze_0000",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria asked her ___ for a day off because she had a doctor's appointment.",
+        "correct_answer": "boss",
+        "distractors": [
+          "client",
+          "colleague",
+          "brand"
+        ],
+        "distractor_rationale": [
+          "a client is a customer, not the person who grants employee leave",
+          "a colleague is a co-worker at the same level, not someone with authority to approve leave",
+          "a brand is a product identity, not a person who can give permission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0001",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The shop does not accept cards, so you must pay in ___.",
+        "correct_answer": "cash",
+        "distractors": [
+          "budget",
+          "charge",
+          "business"
+        ],
+        "distractor_rationale": [
+          "a budget is a financial plan, not a method of payment you hand over",
+          "charge means a fee applied to something, not a physical form of payment",
+          "business refers to a commercial activity, not a payment method"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0002",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom works for a large ___ that makes furniture and sells it across the country.",
+        "correct_answer": "company",
+        "distractors": [
+          "career",
+          "advertisement",
+          "colleague"
+        ],
+        "distractor_rationale": [
+          "a career is a person's professional journey, not an organisation that employs people",
+          "an advertisement is a promotional message, not an organisation that manufactures furniture",
+          "a colleague is an individual co-worker, not an organisation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0003",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The marketing team placed a full-page ___ in the newspaper to promote their new product launch.",
+        "correct_answer": "advertisement",
+        "distractors": [
+          "budget",
+          "career",
+          "client"
+        ],
+        "distractor_rationale": [
+          "a budget is a financial plan, not something you place in a newspaper to promote a product",
+          "a career is a person's professional path, not a promotional item placed in a newspaper",
+          "a client is a customer, not a message placed in a newspaper"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0004",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara has built a successful ___ in finance over the past fifteen years, moving from junior analyst to department head.",
+        "correct_answer": "career",
+        "distractors": [
+          "business",
+          "brand",
+          "charge"
+        ],
+        "distractor_rationale": [
+          "a business is a commercial organisation, not the personal professional journey of an individual employee",
+          "a brand is a product or company identity, not a personal professional path",
+          "a charge is a fee or accusation, not a long-term professional development story"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0005",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The hotel ___ an extra fee for breakfast because it was not included in the original room price.",
+        "correct_answer": "charged",
+        "distractors": [
+          "advertised",
+          "competed",
+          "applied"
+        ],
+        "distractor_rationale": [
+          "advertised means promoted publicly, not added a fee to a bill",
+          "competed means took part in a contest against others, not added a payment to a bill",
+          "applied means submitted a request or put something to use, not added a fee to a bill"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0006",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James sent his CV and cover letter to ___ for the sales manager position advertised online.",
+        "correct_answer": "apply",
+        "distractors": [
+          "compete",
+          "advertise",
+          "charge"
+        ],
+        "distractor_rationale": [
+          "compete means to rival others in a contest, not to formally submit documents for a job",
+          "advertise means to promote something publicly, not to submit an application",
+          "charge means to request payment, not to submit documents for a job vacancy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0007",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The project manager stayed within the approved ___ by negotiating lower prices with suppliers and cutting unnecessary travel costs.",
+        "correct_answer": "budget",
+        "distractors": [
+          "brand",
+          "cash",
+          "career"
+        ],
+        "distractor_rationale": [
+          "a brand is a company or product identity, not a financial limit that can be stayed within by cutting costs",
+          "cash refers to physical money, not a pre-approved financial plan with a set limit",
+          "a career is a professional journey, not a financial allocation that managers stay within"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0008",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The company spent heavily to build a recognisable ___, using the same logo, colours, and tone of voice across all its products and social media channels.",
+        "correct_answer": "brand",
+        "distractors": [
+          "budget",
+          "colleague",
+          "client"
+        ],
+        "distractor_rationale": [
+          "a budget is a financial plan, not a visual and communicative identity built through consistent logo and tone",
+          "a colleague is a co-worker, not an identity expressed through logos and communication style",
+          "a client is a customer, not a corporate identity created through design and messaging"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0009",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The two airlines ___ fiercely on the same routes by offering lower fares and extra services to attract more passengers.",
+        "correct_answer": "compete",
+        "distractors": [
+          "advertise",
+          "apply",
+          "charge"
+        ],
+        "distractor_rationale": [
+          "advertise means to promote publicly, not to directly rival another company on the same routes by undercutting prices",
+          "apply means to submit a request or put something into use, not to rival another business for customers",
+          "charge means to request payment, not to actively rival another company by offering lower fares"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0010",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria asked her ___ for permission to leave work one hour early on Friday.",
+        "correct_answer": "boss",
+        "distractors": [
+          "client",
+          "colleague",
+          "brand"
+        ],
+        "distractor_rationale": [
+          "a client is a customer outside the company and cannot give an employee permission to leave work early",
+          "a colleague is a co-worker at the same level and does not have authority to grant permission to leave",
+          "a brand is a product or company identity, not a person who can give permission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0011",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The shop does not accept cards, so please pay in ___ at the counter.",
+        "correct_answer": "cash",
+        "distractors": [
+          "budget",
+          "charge",
+          "career"
+        ],
+        "distractor_rationale": [
+          "a budget is a financial plan, not a method of payment you hand over at a counter",
+          "charge means to ask someone to pay a price; it is not a form of payment the customer gives",
+          "a career is a person's working life, not a payment method"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0012",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The marketing team decided to ___ the new product on social media and in local newspapers to reach more customers.",
+        "correct_answer": "advertise",
+        "distractors": [
+          "apply",
+          "compete",
+          "charge"
+        ],
+        "distractor_rationale": [
+          "apply means to make a formal request for something such as a job; it does not mean to promote a product to customers",
+          "compete means to take part in a contest against others; it does not describe the act of promoting a product through media",
+          "charge means to set a price or make a payment demand; it cannot take the object 'the new product' in the context of using social media and newspapers to reach customers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0013",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James sent his CV and a cover letter to ___ for the sales manager position at a large company in the city.",
+        "correct_answer": "apply",
+        "distractors": [
+          "advertise",
+          "compete",
+          "budget"
+        ],
+        "distractor_rationale": [
+          "advertise means to promote something publicly; sending a CV and cover letter is the action of a job seeker, not an advertiser",
+          "compete means to try to win against others; while competition is involved in job hunting, you do not 'compete for a position' by sending a CV — you apply",
+          "budget is a noun meaning a financial plan; it cannot function as a verb meaning to submit an application for a job"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_cloze_0014",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The project manager had to reduce the ___ by twenty percent after the company's total income fell sharply in the second quarter.",
+        "correct_answer": "budget",
+        "distractors": [
+          "brand",
+          "career",
+          "advertisement"
+        ],
+        "distractor_rationale": [
+          "a brand is a company's identity or name associated with its products; you cannot reduce a brand in response to falling income in the way described",
+          "a career is a person's long-term professional path; it is not a financial resource that a project manager can reduce by a percentage",
+          "an advertisement is a single promotional message; while ad spending can be cut, you do not 'reduce an advertisement by twenty percent' as a financial management action — you reduce a budget"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_work_business_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria asked her ___ for a day off, and he said yes because she had worked very hard that month.",
+        "correct_answer": "boss",
+        "distractors": [
+          "client",
+          "colleague",
+          "customer"
+        ],
+        "distractor_rationale": [
+          "a client is an external person who buys services, not someone who grants employees time off",
+          "a colleague is a co-worker at the same level, not a person with authority to approve leave",
+          "a customer buys goods or services from a business and has no role in managing staff leave"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The shop did not accept cards, so Tom had to pay in ___ at the checkout.",
+        "correct_answer": "cash",
+        "distractors": [
+          "charge",
+          "budget",
+          "brand"
+        ],
+        "distractor_rationale": [
+          "charge means a fee or cost, not a method of payment you hand over physically",
+          "budget is a plan for spending money, not a form of payment used at a checkout",
+          "brand refers to a company's name or identity on products, not a payment method"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna works with several friendly ___ in her office, and they often have lunch together.",
+        "correct_answer": "colleagues",
+        "distractors": [
+          "clients",
+          "bosses",
+          "businessmen"
+        ],
+        "distractor_rationale": [
+          "clients are external people who pay for services, not people who share an office and eat lunch with staff",
+          "bosses are managers above the employee; having several bosses and eating lunch with all of them contradicts normal workplace structure",
+          "businessmen refers to people who own or run businesses, not to co-workers sharing a regular office routine"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The company decided to ___ its new product on social media to reach younger customers.",
+        "correct_answer": "advertise",
+        "distractors": [
+          "apply",
+          "compete",
+          "charge"
+        ],
+        "distractor_rationale": [
+          "apply means to submit a request for something such as a job, not to promote a product to an audience",
+          "compete means to take part in a contest against rivals, not to promote a product through a channel",
+          "charge means to set a price or demand payment, not to promote a product on a platform"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara read the job ___ carefully before she sent her CV and cover letter to the company.",
+        "correct_answer": "advertisement",
+        "distractors": [
+          "budget",
+          "brand",
+          "career"
+        ],
+        "distractor_rationale": [
+          "budget is a financial plan for spending and cannot be read before sending a CV",
+          "brand is a company's identity or name on products, not a document that prompts someone to send a CV",
+          "career is a person's long-term professional path, not a document posted by a company to attract applicants"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The hotel ___ guests an extra fee for using the gym, which was not included in the room price.",
+        "correct_answer": "charged",
+        "distractors": [
+          "advertised",
+          "applied",
+          "competed"
+        ],
+        "distractor_rationale": [
+          "advertised means promoted to attract customers, not demanded a payment for a specific service",
+          "applied means submitted a request, not demanded payment from guests for facility use",
+          "competed means took part in a rivalry, which makes no sense when a hotel asks guests for a fee"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James decided to start his own ___ selling handmade furniture after he left his office job.",
+        "correct_answer": "business",
+        "distractors": [
+          "career",
+          "budget",
+          "advertisement"
+        ],
+        "distractor_rationale": [
+          "career is a professional path over time, not an enterprise a person starts and runs independently",
+          "budget is a financial plan, not an organisation you set up to sell products",
+          "advertisement is a promotional message, not an entity you start and operate as a seller"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The marketing team worked hard to build a strong ___ so that customers would immediately recognise their products on the shelf.",
+        "correct_answer": "brand",
+        "distractors": [
+          "budget",
+          "client",
+          "career"
+        ],
+        "distractor_rationale": [
+          "budget is a financial plan for spending and cannot be built to make products recognisable on a shelf",
+          "client is an individual customer or buyer, not an identity that makes products visually recognisable",
+          "career is a personal professional journey and cannot be built by a marketing team to identify products"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The project manager had to cut the ___ by twenty percent after the company's income fell sharply in the second quarter.",
+        "correct_answer": "budget",
+        "distractors": [
+          "brand",
+          "career",
+          "colleague"
+        ],
+        "distractor_rationale": [
+          "brand is a company's identity and image, not a financial allocation that can be reduced by a percentage",
+          "career is a personal professional path, not a financial resource that a project manager can cut",
+          "colleague is a co-worker, not a financial plan that can be reduced in response to falling income"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After ten years in sales, Lisa decided to change her ___ completely and retrain as a software developer.",
+        "correct_answer": "career",
+        "distractors": [
+          "company",
+          "client",
+          "colleague"
+        ],
+        "distractor_rationale": [
+          "company is an organisation or business, not a personal professional path that an individual can change and retrain for",
+          "client is an external buyer of services, not a long-term professional direction a person follows and then changes",
+          "colleague is a co-worker, not a professional trajectory that someone can abandon in order to retrain in a new field"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_work_business_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_word_formation_0000",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She works as a ___ at a small shop near her home. (CASH)",
+        "correct_answer": "cashier",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CASH"
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_work_business_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_word_formation_0001",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The manager put a job ___ in the local newspaper to find new staff. (ADVERTISE)",
+        "correct_answer": "advertisement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ADVERTISE"
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_work_business_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_word_formation_0002",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom sent his ___ to three different companies before he got an interview. (APPLY)",
+        "correct_answer": "application",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "APPLY"
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_work_business_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_word_formation_0003",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The two companies are in direct ___ with each other for the same group of clients in the city. (COMPETE)",
+        "correct_answer": "competition",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COMPETE"
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_work_business_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_work_business_word_formation_0004",
+      "skill_ids": [
+        "vocab_work_business"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The department head asked every team leader to submit a detailed ___ plan for the next financial quarter before the end of the week. (BUDGET)",
+        "correct_answer": "budgetary",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BUDGET"
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:29:02.568763+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_work_business_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

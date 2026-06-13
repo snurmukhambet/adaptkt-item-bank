@@ -1,0 +1,1863 @@
+{
+  "skill_id": "modals_obligation",
+  "skill_name": "Modals: Obligation & Necessity",
+  "exercises": [
+    {
+      "id": "ex_modals_obligation_cloze_0000",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You ___ touch the paintings in the museum — there are signs everywhere saying it is forbidden.",
+        "correct_answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "should",
+          "must"
+        ],
+        "distractor_rationale": [
+          "don't have to means there is no obligation, but here touching is forbidden, not merely unnecessary",
+          "should expresses advice, not a strict prohibition backed by museum rules",
+          "must expresses obligation to do something, not a prohibition against doing it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0001",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The entry to the park is free, so visitors ___ pay anything at the gate.",
+        "correct_answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "shouldn't",
+          "must not"
+        ],
+        "distractor_rationale": [
+          "mustn't means it is forbidden to pay, which is nonsensical — paying is simply not required",
+          "shouldn't means it is inadvisable to pay, which contradicts the neutral fact that entry is free",
+          "must not expresses prohibition, but the sentence states there is no requirement, not that payment is banned"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0002",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "All passengers ___ wear a seatbelt while the car is moving — it is the law.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "don't have to",
+          "must to"
+        ],
+        "distractor_rationale": [
+          "should expresses advice or a weaker recommendation, not a legal requirement",
+          "don't have to means there is no obligation, which directly contradicts the legal requirement stated",
+          "must to is grammatically incorrect — must is followed directly by the base verb without to"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0003",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You look really tired — you ___ go to bed earlier on weeknights so you feel better at work.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "mustn't",
+          "don't have to"
+        ],
+        "distractor_rationale": [
+          "must implies a strong external obligation or rule, but the speaker is giving personal advice based on concern, not imposing a rule",
+          "mustn't expresses prohibition, which is the opposite of the intended meaning of recommending an action",
+          "don't have to means there is no necessity to go to bed earlier, which contradicts the advice being given"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0004",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When Sara was a student, she ___ hand in all her assignments by Friday or her grade would be affected.",
+        "correct_answer": "had to",
+        "distractors": [
+          "must",
+          "musted",
+          "has to"
+        ],
+        "distractor_rationale": [
+          "must cannot be used to express obligation in the past; it has no past tense form for this meaning",
+          "musted is not a word in English; must has no simple past inflection",
+          "has to is the present tense form and cannot refer to a completed past routine"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0005",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The uniform is optional at this school, so students ___ wear it if they prefer their own clothes.",
+        "correct_answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "ought not to",
+          "must not"
+        ],
+        "distractor_rationale": [
+          "mustn't means wearing the uniform is forbidden, which contradicts the sentence — it is simply not required",
+          "ought not to means it is inadvisable to wear the uniform, which also contradicts the neutral statement about choice",
+          "must not expresses prohibition, not the absence of obligation that the sentence clearly communicates"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0006",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Employees ___ share their computer passwords with anyone, as it is a serious security risk.",
+        "correct_answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "should",
+          "have to"
+        ],
+        "distractor_rationale": [
+          "don't have to means sharing is not necessary, but the sentence describes a prohibition due to a security risk",
+          "should expresses mild advice, whereas the security context demands a strong prohibition",
+          "have to means employees are obligated to share passwords, which is the exact opposite of the intended meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0007",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor said that Mark ___ avoid salty food and exercise at least three times a week to lower his blood pressure.",
+        "correct_answer": "ought to",
+        "distractors": [
+          "must",
+          "had to",
+          "doesn't have to"
+        ],
+        "distractor_rationale": [
+          "must implies a strong external rule or the speaker's own authority, whereas a doctor's reported advice is better expressed with ought to or should",
+          "had to refers to a completed past obligation, but the advice applies to Mark's ongoing behaviour from now on",
+          "doesn't have to means there is no necessity to avoid salty food, which directly contradicts the doctor's recommendation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0008",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Because the fire alarm went off during the night, all the guests ___ leave their rooms immediately and gather in the car park.",
+        "correct_answer": "had to",
+        "distractors": [
+          "must",
+          "should have",
+          "were having to"
+        ],
+        "distractor_rationale": [
+          "must cannot express a completed past obligation with a specific past trigger; had to is required for past necessity",
+          "should have implies the guests failed to leave but ought to have done so, contradicting the sentence which states they did leave",
+          "were having to is not a standard English construction; have to does not typically form the past continuous in this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0009",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The contract clearly states that neither party ___ disclose the terms of the agreement to outside organisations without written consent.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "doesn't have to",
+          "ought to"
+        ],
+        "distractor_rationale": [
+          "should expresses a recommendation, but a formal legal contract uses must to impose a binding obligation",
+          "doesn't have to means disclosure is not required, which is the opposite of the prohibition the contract imposes",
+          "ought to expresses a weaker moral or advisory obligation and is inappropriate for the binding language of a formal contract"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0010",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You ___ pay to enter the park — it is completely free for everyone.",
+        "correct_answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "must",
+          "should"
+        ],
+        "distractor_rationale": [
+          "mustn't means it is forbidden, but the sentence says it is free — there is no prohibition, just no requirement",
+          "must expresses strong obligation, which directly contradicts the fact that entry is free",
+          "should expresses advice or recommendation, but the sentence states a factual absence of any requirement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0011",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Children ___ touch the hot oven — it can burn them badly.",
+        "correct_answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "should",
+          "must"
+        ],
+        "distractor_rationale": [
+          "don't have to means there is no obligation, but the sentence describes a dangerous prohibition, not a lack of necessity",
+          "should expresses mild advice, which is too weak for a serious safety rule about burning danger",
+          "must expresses positive obligation to do something, but the sentence requires a prohibition against touching"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0012",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you feel tired after lunch, you ___ take a short rest before your afternoon meeting.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "mustn't",
+          "don't have to"
+        ],
+        "distractor_rationale": [
+          "must implies a strict legal or external obligation, but the context is personal advice based on feeling tired, not a formal rule",
+          "mustn't expresses prohibition, which is the opposite of what is intended — the speaker is recommending rest, not forbidding it",
+          "don't have to states there is no obligation, but the speaker is actively giving advice, not removing a requirement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0013",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When Mark arrived late at the office last Monday, he ___ explain to his manager why he had missed the morning briefing.",
+        "correct_answer": "had to",
+        "distractors": [
+          "must",
+          "musted",
+          "should have"
+        ],
+        "distractor_rationale": [
+          "must cannot be used to express obligation in a finished past situation — it has no past tense form for this meaning",
+          "musted is not a real English word — must has no simple past inflection and learners who add -ed are applying a regular verb rule incorrectly",
+          "should have expresses past criticism or regret about something that did not happen, but the sentence describes an obligation that was actually carried out"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_cloze_0014",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Passengers ___ show a valid ticket before boarding the train, or they will be fined by the inspector.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "don't have to",
+          "ought to"
+        ],
+        "distractor_rationale": [
+          "should expresses advice or recommendation, which is too weak for an enforced rule backed by a financial penalty",
+          "don't have to means there is no obligation, which directly contradicts the fine mentioned in the second clause",
+          "ought to also expresses moral advice or recommendation and, like should, is too weak to convey an officially enforced regulation with a stated legal consequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_obligation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0000",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You ___ touch the paintings in the museum — it is not allowed.",
+        "correct_answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "should",
+          "must"
+        ],
+        "distractor_rationale": [
+          "don't have to means it is not necessary, not that it is forbidden — the context makes clear it is prohibited",
+          "should expresses advice or weak recommendation, not a strict prohibition",
+          "must expresses obligation to do something, not a prohibition against doing it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0001",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The entrance to the park is free, so visitors ___ pay to get in.",
+        "correct_answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "shouldn't",
+          "must not"
+        ],
+        "distractor_rationale": [
+          "mustn't means it is forbidden, but paying is simply not required — there is no prohibition against paying",
+          "shouldn't expresses that something is inadvisable, which does not fit a factual statement about a free entrance",
+          "must not is a prohibition, but the sentence states the entrance is free, meaning payment is simply unnecessary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0002",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "All drivers ___ wear a seatbelt — it is the law in this country.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "must to",
+          "are must"
+        ],
+        "distractor_rationale": [
+          "should expresses advice or a weaker recommendation, but the sentence states this is a legal requirement",
+          "must to is grammatically incorrect — must is a bare modal and is never followed by to",
+          "are must is not a grammatical construction in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0003",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria has a bad cough, so she ___ see a doctor before it gets worse.",
+        "correct_answer": "should",
+        "distractors": [
+          "mustn't",
+          "don't have to",
+          "musted"
+        ],
+        "distractor_rationale": [
+          "mustn't expresses prohibition, but the sentence is giving health advice, not forbidding an action",
+          "don't have to means there is no obligation, which contradicts the advice implied by 'before it gets worse'",
+          "musted is not a word — must has no past tense inflection and cannot take -ed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0004",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The conference starts at nine, so Tom ___ arrive by eight-thirty to set up the equipment.",
+        "correct_answer": "has to",
+        "distractors": [
+          "don't have to",
+          "mustn't",
+          "ought"
+        ],
+        "distractor_rationale": [
+          "don't have to means there is no obligation, which contradicts the practical necessity of setting up before the conference",
+          "mustn't means it is forbidden to arrive by eight-thirty, which makes no sense in context",
+          "ought is incomplete — the correct form is ought to, and even then it expresses weaker advice rather than the strong practical necessity shown here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0005",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You ___ to finish the report today — the deadline is next Friday, so there is plenty of time.",
+        "correct_answer": "don't have",
+        "distractors": [
+          "mustn't",
+          "shouldn't",
+          "must not"
+        ],
+        "distractor_rationale": [
+          "mustn't means finishing the report is forbidden, which contradicts the idea that there is simply extra time available",
+          "shouldn't means finishing today is inadvisable, but the sentence only says it is not necessary — there is nothing wrong with finishing early",
+          "must not also expresses prohibition, making it wrong for the same reason as mustn't"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0006",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Children under twelve ___ use the gym equipment without an adult present, according to the safety rules.",
+        "correct_answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "ought to",
+          "should"
+        ],
+        "distractor_rationale": [
+          "don't have to means it is not necessary, but the sentence refers to a safety rule that prohibits unsupervised use",
+          "ought to expresses a recommendation to do something, which is the opposite of what the safety rule requires",
+          "should expresses advice, not the strict prohibition that a formal safety rule implies"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0007",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When James was a student, he ___ share a room with two other people because the private rooms were fully booked.",
+        "correct_answer": "had to",
+        "distractors": [
+          "must",
+          "musted",
+          "has to"
+        ],
+        "distractor_rationale": [
+          "must cannot be used to express past obligation — it has no past tense form and must be replaced by had to in past contexts",
+          "musted is not a valid English word — must cannot be inflected with -ed to form a past tense",
+          "has to is present tense and cannot refer to a completed past situation indicated by 'when James was a student'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0008",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The hotel swimming pool closes at ten o'clock, so guests ___ swim after that time under any circumstances.",
+        "correct_answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "hadn't to",
+          "ought not"
+        ],
+        "distractor_rationale": [
+          "don't have to means swimming after ten is optional rather than forbidden, which contradicts 'under any circumstances'",
+          "hadn't to is not a standard English construction — the negative past of have to is didn't have to",
+          "ought not is grammatically incomplete and too weak — the correct form is ought not to, and even then it expresses advice rather than a firm rule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_multiple_choice_0009",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Although the training session is recommended by the manager, employees ___ attend if they have a prior commitment that day.",
+        "correct_answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "must",
+          "ought to"
+        ],
+        "distractor_rationale": [
+          "mustn't means attending is forbidden, which directly contradicts the fact that the manager recommends the session",
+          "must expresses strong obligation, but the sentence explicitly states attendance is only recommended, not required",
+          "ought to expresses a recommendation to attend, which is the opposite meaning — the sentence says attendance is not obligatory"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_obligation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0000",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You must to wear a uniform at this school every day.",
+        "correct_answer": "must wear",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You must to wear a uniform at this school every day.",
+        "corrected_sentence": "You must wear a uniform at this school every day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0001",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Children mustn't to run near the swimming pool because it is dangerous.",
+        "correct_answer": "mustn't run",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Children mustn't to run near the swimming pool because it is dangerous.",
+        "corrected_sentence": "Children mustn't run near the swimming pool because it is dangerous.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0002",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The exam starts at nine, so you don't have to be late or they won't let you in.",
+        "correct_answer": "mustn't be",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The exam starts at nine, so you don't have to be late or they won't let you in.",
+        "corrected_sentence": "The exam starts at nine, so you mustn't be late or they won't let you in.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0003",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The meeting is optional, so your colleagues mustn't attend if they have other work to finish.",
+        "correct_answer": "don't have to attend",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The meeting is optional, so your colleagues mustn't attend if they have other work to finish.",
+        "corrected_sentence": "The meeting is optional, so your colleagues don't have to attend if they have other work to finish.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0004",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When Sara was a student, she must study for several hours every evening to keep up with her classes.",
+        "correct_answer": "had to study",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When Sara was a student, she must study for several hours every evening to keep up with her classes.",
+        "corrected_sentence": "When Sara was a student, she had to study for several hours every evening to keep up with her classes.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0005",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Passengers mustn't show their boarding pass at the gate — the staff scan it automatically from your phone.",
+        "correct_answer": "don't have to show",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Passengers mustn't show their boarding pass at the gate — the staff scan it automatically from your phone.",
+        "corrected_sentence": "Passengers don't have to show their boarding pass at the gate — the staff scan it automatically from your phone.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0006",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After the pipe burst last winter, the whole building had to don't use the water for almost two days.",
+        "correct_answer": "had to go without",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After the pipe burst last winter, the whole building had to don't use the water for almost two days.",
+        "corrected_sentence": "After the pipe burst last winter, the whole building couldn't use the water for almost two days.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_obligation_error_correction_0007",
+      "skill_ids": [
+        "modals_obligation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Drivers should to carry their licence at all times under the road safety regulations in this area.",
+        "correct_answer": "should carry",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Drivers should to carry their licence at all times under the road safety regulations in this area.",
+        "corrected_sentence": "Drivers should carry their licence at all times under the road safety regulations in this area.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:39:33.635023+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_obligation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

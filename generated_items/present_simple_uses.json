@@ -1,0 +1,1865 @@
+{
+  "skill_id": "present_simple_uses",
+  "skill_name": "Present Simple (Special Uses)",
+  "exercises": [
+    {
+      "id": "ex_present_simple_uses_cloze_0000",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This soup ___ (contain) a lot of salt, so you should not add any more.",
+        "correct_answer": "contains",
+        "distractors": [
+          "is containing",
+          "contained",
+          "has contained"
+        ],
+        "distractor_rationale": [
+          "stative verbs describing composition do not take continuous form; 'is containing' is a classic learner error",
+          "past simple implies the soup no longer contains salt, contradicting the present warning",
+          "present perfect implies a recent change in state rather than a permanent property"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0001",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I ___ (promise) to call you as soon as I arrive at the hotel tonight.",
+        "correct_answer": "promise",
+        "distractors": [
+          "am promising",
+          "promised",
+          "will promise"
+        ],
+        "distractor_rationale": [
+          "performative verbs like 'promise' use present simple to perform the act; continuous is not used for instantaneous speech acts",
+          "past simple would mean the promise was already made in the past, not now",
+          "future 'will promise' is redundant because the verb itself performs the commitment at the moment of speaking"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0002",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "That red bag ___ (belong) to Maria — she left it on the chair this morning.",
+        "correct_answer": "belongs",
+        "distractors": [
+          "is belonging",
+          "belonged",
+          "has belonged"
+        ],
+        "distractor_rationale": [
+          "stative verbs of possession like 'belong' cannot be used in continuous form; 'is belonging' is a direct learner error",
+          "past simple contradicts the present evidence that the bag is still on the chair",
+          "present perfect implies uncertain or recently changed ownership, but the context clearly identifies the current owner"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0003",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The recipe says: first, you ___ (chop) the onions, then you add them to the hot pan.",
+        "correct_answer": "chop",
+        "distractors": [
+          "are chopping",
+          "chopped",
+          "will chop"
+        ],
+        "distractor_rationale": [
+          "instructional present simple is used in recipes and directions; continuous is not used for sequential steps in instructions",
+          "past simple is not used for giving cooking instructions that apply every time the recipe is followed",
+          "future 'will chop' is not the conventional form for recipe instructions, which use present simple for timeless steps"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0004",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The commentator shouts: 'Johnson ___ (pass) the ball to Torres, and Torres shoots — it's a goal!'",
+        "correct_answer": "passes",
+        "distractors": [
+          "is passing",
+          "passed",
+          "has passed"
+        ],
+        "distractor_rationale": [
+          "sports commentary uses present simple, not continuous, to narrate rapid simultaneous actions as they happen",
+          "past simple is not used in live commentary because the action is described at the exact moment it occurs",
+          "present perfect implies a recently completed action with current relevance, but commentary uses simple present for immediacy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0005",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She ___ (seem) tired today — perhaps she did not sleep well last night.",
+        "correct_answer": "seems",
+        "distractors": [
+          "is seeming",
+          "seemed",
+          "has seemed"
+        ],
+        "distractor_rationale": [
+          "stative verbs of perception like 'seem' are not used in continuous form; 'is seeming' is a frequent learner error",
+          "past simple 'seemed' would imply she no longer appears tired, contradicting the present observation 'today'",
+          "present perfect 'has seemed' suggests a repeated or prolonged state with past relevance, not a simple present observation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0006",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The historian writes: 'Napoleon ___ (cross) the Alps in 1800 and surprises the Austrian army.'",
+        "correct_answer": "crosses",
+        "distractors": [
+          "crossed",
+          "is crossing",
+          "had crossed"
+        ],
+        "distractor_rationale": [
+          "although past simple is historically accurate, the sentence uses historic present to make the narrative vivid; the parallel verb 'surprises' confirms this pattern",
+          "present continuous cannot be used for the historic present in narrative; it would imply an ongoing action at the moment of speaking",
+          "past perfect implies the crossing happened before another past event, but the historic present tense pattern requires simple present here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0007",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Now that I have read the full report, I ___ (understand) why the manager made that difficult decision last month.",
+        "correct_answer": "understand",
+        "distractors": [
+          "am understanding",
+          "understood",
+          "have understood"
+        ],
+        "distractor_rationale": [
+          "stative verbs of cognition like 'understand' cannot take continuous form; 'am understanding' is a classic learner error even when 'now' is present",
+          "past simple 'understood' would imply the understanding no longer exists, contradicting the present result clause 'now that I have read'",
+          "present perfect 'have understood' suggests the understanding began at a past point and is being reported, whereas stative 'understand' correctly describes the current mental state"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0008",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I ___ (declare) this meeting open and invite everyone to share their ideas freely.",
+        "correct_answer": "declare",
+        "distractors": [
+          "am declaring",
+          "will declare",
+          "have declared"
+        ],
+        "distractor_rationale": [
+          "performative instantaneous verbs like 'declare' use present simple to enact the action at the moment of speaking; continuous cannot perform the speech act",
+          "'will declare' places the action in the future, but the speaker is performing the act of opening the meeting right now",
+          "present perfect 'have declared' reports a past completed act, whereas present simple is required for the instantaneous performative use"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0009",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Even though the label is small, it clearly ___ (state) that the product does not contain any artificial colours.",
+        "correct_answer": "states",
+        "distractors": [
+          "is stating",
+          "stated",
+          "has stated"
+        ],
+        "distractor_rationale": [
+          "written information uses present simple because the text is a permanent, timeless statement; continuous implies a temporary ongoing process, which is wrong for written labels",
+          "past simple would imply the label no longer carries that information, contradicting 'clearly' and the present context",
+          "present perfect 'has stated' implies a recently completed communicative act with present relevance, but present simple is used for what written texts permanently say"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0011",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark ___ (believe) that regular exercise is the key to staying healthy, so he goes to the gym every morning.",
+        "correct_answer": "believes",
+        "distractors": [
+          "is believing",
+          "believed",
+          "has believed"
+        ],
+        "distractor_rationale": [
+          "stative verbs of opinion such as 'believe' cannot be used in the continuous form; 'is believing' is a classic learner error",
+          "past simple 'believed' contradicts the present-tense evidence in the second clause showing an ongoing habit",
+          "present perfect 'has believed' implies a recently acquired or changed opinion, which is not supported by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0012",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The blue jacket in the wardrobe ___ (belong) to my sister, so please do not take it.",
+        "correct_answer": "belongs",
+        "distractors": [
+          "is belonging",
+          "belonged",
+          "has belonged"
+        ],
+        "distractor_rationale": [
+          "stative verbs of possession like 'belong' cannot be used in continuous form; 'is belonging' reflects a common learner confusion with action verbs",
+          "past simple 'belonged' implies the jacket no longer belongs to the sister, contradicting the warning not to take it",
+          "present perfect 'has belonged' introduces an unnecessary focus on a past-to-now duration, which is not the meaning required here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0013",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I ___ (know) exactly what you mean now that you have explained the situation more clearly.",
+        "correct_answer": "know",
+        "distractors": [
+          "am knowing",
+          "knew",
+          "have known"
+        ],
+        "distractor_rationale": [
+          "stative verbs of mental state like 'know' cannot be used in the continuous form; 'am knowing' is the most frequent learner error with this verb",
+          "past simple 'knew' is contradicted by the time marker 'now', which anchors the understanding to the present moment",
+          "present perfect 'have known' implies long-term familiarity with someone or something, not a moment of sudden comprehension signalled by 'now'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_cloze_0014",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This old building ___ (seem) quite safe from the outside, but the inspector says the walls need urgent repairs.",
+        "correct_answer": "seems",
+        "distractors": [
+          "is seeming",
+          "seemed",
+          "has seemed"
+        ],
+        "distractor_rationale": [
+          "stative verbs of perception such as 'seem' are not used in the continuous form; 'is seeming' is a direct result of learners incorrectly treating it as an action verb",
+          "past simple 'seemed' conflicts with the present-tense reporting verb 'says' in the second clause, which frames the whole sentence in the present",
+          "present perfect 'has seemed' implies a recently changed or newly noticed appearance, but the sentence describes a current observable state with no such implication"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0000",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "This bag ___ to my sister, so please don't touch it.",
+        "correct_answer": "belongs",
+        "distractors": [
+          "is belonging",
+          "belong",
+          "is belonged"
+        ],
+        "distractor_rationale": [
+          "belong is a stative verb and cannot be used in the continuous form",
+          "third-person singular subject 'this bag' requires the -s ending on the verb",
+          "belong is not a passive verb in this context; it is stative and takes no continuous or passive form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0001",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I ___ what you are saying, but I still disagree with your idea.",
+        "correct_answer": "understand",
+        "distractors": [
+          "am understanding",
+          "understood",
+          "have understood"
+        ],
+        "distractor_rationale": [
+          "understand is a stative verb expressing a mental state and cannot be used in the continuous form",
+          "past simple 'understood' is incorrect because the understanding is happening right now in the present",
+          "present perfect suggests a recently completed action, but the stative verb 'understand' describes a current state, not a completed event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0002",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "This juice ___ a lot of sugar, so the doctor told me not to drink it every day.",
+        "correct_answer": "contains",
+        "distractors": [
+          "is containing",
+          "contain",
+          "has been containing"
+        ],
+        "distractor_rationale": [
+          "contain is a stative verb describing composition and cannot be used in the continuous form",
+          "the subject 'this juice' is third-person singular and requires the -s ending",
+          "present perfect continuous is used for ongoing actions, but contain is a stative verb that cannot take any continuous form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0003",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The recipe says: first, you ___ the onions into small pieces and then add them to the pan.",
+        "correct_answer": "cut",
+        "distractors": [
+          "are cutting",
+          "have cut",
+          "will cut"
+        ],
+        "distractor_rationale": [
+          "instructions and recipes use the present simple, not the present continuous, to describe steps",
+          "present perfect describes completed actions, but recipe instructions use present simple for each step",
+          "future 'will cut' is not used in recipe instructions, which conventionally use the present simple"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0004",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She ___ a large apartment near the city centre, but she rarely spends time there.",
+        "correct_answer": "owns",
+        "distractors": [
+          "is owning",
+          "own",
+          "is having"
+        ],
+        "distractor_rationale": [
+          "own is a stative verb expressing possession and cannot be used in the continuous form",
+          "the third-person singular subject 'she' requires the -s ending on the stative verb",
+          "is having incorrectly uses the continuous form of 'have' for possession; stative possession requires 'has' or 'owns'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0005",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The commentator shouts: 'Johnson ___ the ball forward and scores a brilliant goal!'",
+        "correct_answer": "passes",
+        "distractors": [
+          "is passing",
+          "passed",
+          "has passed"
+        ],
+        "distractor_rationale": [
+          "sports commentary uses the present simple for instantaneous actions as they happen, not the continuous form",
+          "past simple is incorrect because the commentary describes the action at the exact moment it occurs",
+          "present perfect suggests a completed action with current relevance, but live commentary uses present simple for each immediate action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0006",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I ___ that the project will be finished on time, and I will do everything I can to help.",
+        "correct_answer": "promise",
+        "distractors": [
+          "am promising",
+          "promised",
+          "will promise"
+        ],
+        "distractor_rationale": [
+          "performative verbs like 'promise' use the present simple to perform the act at the moment of speaking, not the continuous",
+          "past simple 'promised' places the act in the past, but the speaker is making the promise right now",
+          "future 'will promise' is incorrect because performative verbs use present simple to enact the speech act immediately"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0007",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The historian writes: 'In 1789, the crowd ___ the gates and the revolution begins.'",
+        "correct_answer": "breaks down",
+        "distractors": [
+          "is breaking down",
+          "broke down",
+          "has broken down"
+        ],
+        "distractor_rationale": [
+          "the historic present uses present simple, not continuous, to describe past events vividly as if happening now",
+          "although the event is historical, the author uses the historic present tense for dramatic effect, not past simple",
+          "present perfect is used for events with current relevance, not for the historic present used in narrative writing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0008",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "He ___ that the new policy will cause serious problems for small businesses in the region.",
+        "correct_answer": "believes",
+        "distractors": [
+          "is believing",
+          "believe",
+          "has believed"
+        ],
+        "distractor_rationale": [
+          "believe is a stative verb expressing an opinion or mental state and cannot be used in the continuous form",
+          "the third-person singular subject 'he' requires the -s ending on the stative verb 'believe'",
+          "present perfect 'has believed' suggests the belief started in the past and is now complete or notable, which changes the meaning; present simple is used for a current held opinion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_multiple_choice_0009",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The word 'frugal' ___ someone who is careful not to spend too much money on unnecessary things.",
+        "correct_answer": "means",
+        "distractors": [
+          "is meaning",
+          "mean",
+          "is meant"
+        ],
+        "distractor_rationale": [
+          "mean is a stative verb in this definitional context and cannot be used in the continuous form",
+          "the subject 'the word frugal' is third-person singular and requires the -s ending",
+          "is meant is a passive construction that changes the meaning and is not the standard form for defining a word's meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_simple_uses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0000",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "This soup is containing a lot of salt, so you should drink more water after eating it.",
+        "correct_answer": "contains",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "This soup is containing a lot of salt, so you should drink more water after eating it.",
+        "corrected_sentence": "This soup contains a lot of salt, so you should drink more water after eating it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0001",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She is having a small apartment near the city centre, so she walks to work every day.",
+        "correct_answer": "has",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She is having a small apartment near the city centre, so she walks to work every day.",
+        "corrected_sentence": "She has a small apartment near the city centre, so she walks to work every day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0002",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I am knowing the answer to your question, but I need a moment to explain it clearly.",
+        "correct_answer": "know",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I am knowing the answer to your question, but I need a moment to explain it clearly.",
+        "corrected_sentence": "I know the answer to your question, but I need a moment to explain it clearly.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0003",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager believe that the new policy will improve communication across all teams.",
+        "correct_answer": "believes",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager believe that the new policy will improve communication across all teams.",
+        "corrected_sentence": "The manager believes that the new policy will improve communication across all teams.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0004",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "That red bicycle is belonging to my younger brother, so please do not move it from the garden.",
+        "correct_answer": "belongs",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "That red bicycle is belonging to my younger brother, so please do not move it from the garden.",
+        "corrected_sentence": "That red bicycle belongs to my younger brother, so please do not move it from the garden.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0005",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "First, you are heating the oil in the pan, and then you add the chopped onions and stir them gently.",
+        "correct_answer": "heat",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "First, you are heating the oil in the pan, and then you add the chopped onions and stir them gently.",
+        "corrected_sentence": "First, you heat the oil in the pan, and then you add the chopped onions and stir them gently.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0006",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The word 'frugal' is meaning careful with money, especially when buying things you do not really need.",
+        "correct_answer": "means",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The word 'frugal' is meaning careful with money, especially when buying things you do not really need.",
+        "corrected_sentence": "The word 'frugal' means careful with money, especially when buying things you do not really need.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_simple_uses_error_correction_0007",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She is seeming quite confident during interviews, even though she tells me she feels nervous inside.",
+        "correct_answer": "seems",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She is seeming quite confident during interviews, even though she tells me she feels nervous inside.",
+        "corrected_sentence": "She seems quite confident during interviews, even though she tells me she feels nervous inside.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_simple_uses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_present_simple_uses_cloze_0010",
+      "skill_ids": [
+        "present_simple_uses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This soup ___ (contain) a lot of salt, so you should not add any more.",
+        "correct_answer": "contains",
+        "distractors": [
+          "is containing",
+          "contained",
+          "has contained"
+        ],
+        "distractor_rationale": [
+          "stative verbs describing composition do not take continuous form; 'is containing' is a typical learner error",
+          "past simple is wrong because the statement describes a current, permanent property of the soup, not a past event",
+          "present perfect is wrong because the salt content is a stable fact, not a recently completed change"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:35:29.310114+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_simple_uses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

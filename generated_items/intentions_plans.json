@@ -1,0 +1,1863 @@
+{
+  "skill_id": "intentions_plans",
+  "skill_name": "Intentions & Plans (Intend/Plan/Mean to)",
+  "exercises": [
+    {
+      "id": "ex_intentions_plans_cloze_0000",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (intend) to apply for a new job by the end of the month.",
+        "correct_answer": "intends",
+        "distractors": [
+          "is intending of",
+          "intending",
+          "intend of"
+        ],
+        "distractor_rationale": [
+          "'intend' is a stative verb not normally used with 'of'; the correct structure is intend + to-inf",
+          "a bare -ing form without an auxiliary cannot function as the main verb here",
+          "'intend of' is not a valid English construction; the correct pattern is intend + to-inf"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0001",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We are thinking ___ (move) to a bigger apartment next year because the family is growing.",
+        "correct_answer": "of moving",
+        "distractors": [
+          "to move",
+          "of to move",
+          "move"
+        ],
+        "distractor_rationale": [
+          "'be thinking to' is not a standard English structure; the correct pattern after 'thinking' is 'of + -ing'",
+          "'of to move' combines two incompatible structures; only 'of + -ing' is grammatically correct here",
+          "a bare infinitive cannot follow 'thinking' without a preposition; 'thinking of moving' is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0002",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara ___ (mean) to call her doctor last week, but she completely forgot.",
+        "correct_answer": "meant",
+        "distractors": [
+          "means",
+          "was meaning",
+          "had meant to calling"
+        ],
+        "distractor_rationale": [
+          "present simple 'means' contradicts 'last week', which anchors the event firmly in the past",
+          "'mean' is a stative-like verb in this intention sense and is not normally used in the past continuous",
+          "'had meant to calling' incorrectly combines past perfect with a gerund; the correct form is past simple 'meant'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0003",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager ___ (plan) to review all the contracts before signing anything new next quarter.",
+        "correct_answer": "plans",
+        "distractors": [
+          "is planning on reviewing",
+          "planning",
+          "plans on review"
+        ],
+        "distractor_rationale": [
+          "'plan on + -ing' changes the meaning slightly and the sentence already has 'to review', making the structure contradictory and grammatically inconsistent",
+          "a bare -ing form without an auxiliary cannot serve as the finite main verb of the sentence",
+          "'plan on review' omits the required -ing form after the preposition 'on'; additionally, 'plans' + 'to review' is the correct pattern used in this sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0004",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The train ___ (due) to depart at nine o'clock, so please make sure you arrive at the platform early.",
+        "correct_answer": "is due",
+        "distractors": [
+          "is about",
+          "is going",
+          "dues"
+        ],
+        "distractor_rationale": [
+          "'is about to depart' implies the departure is happening in the next few seconds, which contradicts the scheduled time reference; 'is due to' is correct for a timetabled event",
+          "'is going to depart' expresses a general intention or prediction, not a scheduled arrangement tied to a timetable",
+          "'dues' is a noun form and cannot function as a verb phrase here; the correct structure is 'is due to + base verb'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0005",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna didn't mean ___ (offend) anyone with her comment during the meeting; she was just being honest.",
+        "correct_answer": "to offend",
+        "distractors": [
+          "offending",
+          "to offending",
+          "offend"
+        ],
+        "distractor_rationale": [
+          "'mean + -ing' produces an unrelated meaning ('mean' as in 'signify'); for intention, 'mean + to-inf' is required",
+          "'to offending' incorrectly combines the to-infinitive marker with a gerund; only 'to + base verb' is grammatical",
+          "a bare infinitive without 'to' after 'mean' is not grammatically acceptable in standard English when expressing intention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0006",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look — the bus driver has just closed the doors. The bus ___ (about) to leave, so run!",
+        "correct_answer": "is about",
+        "distractors": [
+          "is due",
+          "is going",
+          "intends"
+        ],
+        "distractor_rationale": [
+          "'is due to leave' refers to a scheduled timetable, not an action happening in the next few seconds; the context ('run!') demands the imminence marker 'be about to'",
+          "'is going to leave' expresses a general future intention or prediction, not the immediate imminence shown by the closed doors and the urgent command",
+          "'intends to leave' describes a deliberate personal intention of the driver, which is far too formal and does not convey the split-second imminence the context requires"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0007",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David and his colleagues ___ (think) about launching a community project at some point, although they haven't set a date yet.",
+        "correct_answer": "are thinking",
+        "distractors": [
+          "think",
+          "are thinking of to launch",
+          "were thinking to launch"
+        ],
+        "distractor_rationale": [
+          "simple present 'think' here would mean 'believe', not express an ongoing plan under consideration; 'are thinking about + -ing' is the correct structure for a developing intention",
+          "'are thinking of to launch' incorrectly combines the preposition 'of' with a to-infinitive; after 'thinking of/about', only the gerund (-ing) is grammatical",
+          "'were thinking to launch' uses past continuous, which contradicts the present context, and 'thinking to' is not a standard English structure for expressing intention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0008",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new library ___ (due) to open at the end of the year, provided the construction work finishes on schedule.",
+        "correct_answer": "is due",
+        "distractors": [
+          "is about",
+          "is intending",
+          "was due"
+        ],
+        "distractor_rationale": [
+          "'is about to open' signals imminent action within seconds or minutes, which is incompatible with 'at the end of the year'; 'is due to' correctly marks a scheduled future date",
+          "'is intending to open' attributes a personal intention to a building, which is semantically inappropriate; 'be due to' is the correct structure for institutional or scheduled events",
+          "'was due to open' shifts the sentence to the past, contradicting the future time marker 'at the end of the year' and the conditional clause about future construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0009",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa fully intends ___ (complete) her research report before the conference begins next month, even if it means working late.",
+        "correct_answer": "to complete",
+        "distractors": [
+          "completing",
+          "to completing",
+          "on completing"
+        ],
+        "distractor_rationale": [
+          "'intend + -ing' is a common learner error; the verb 'intend' requires a to-infinitive complement, not a gerund",
+          "'to completing' incorrectly attaches the -ing suffix to a form that already has the infinitive marker 'to'; only 'to + base verb' is grammatical after 'intend'",
+          "'intend on completing' is modelled on 'plan on + -ing' but is not a standard collocation; 'intend' requires 'to + base verb' and does not take the preposition 'on'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0010",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (intend) to look for a new job by the end of the year.",
+        "correct_answer": "intends",
+        "distractors": [
+          "is intending",
+          "intending",
+          "intended"
+        ],
+        "distractor_rationale": [
+          "intend is a stative verb and is not normally used in the continuous form",
+          "a bare -ing form without an auxiliary cannot function as the main verb here",
+          "past simple contradicts the future time marker 'by the end of the year'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0011",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We are planning ___ (move) to a bigger flat next year because our family is growing.",
+        "correct_answer": "to move",
+        "distractors": [
+          "moving",
+          "of moving",
+          "move"
+        ],
+        "distractor_rationale": [
+          "plan requires a to-infinitive, not a bare -ing form; 'planning moving' is a common learner error",
+          "'planning of moving' confuses the structure of 'plan to do' with 'think of doing'; 'of' is not used after 'planning' here",
+          "a bare infinitive without 'to' is ungrammatical after 'planning'; 'plan' requires 'to + base verb'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0012",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna is thinking ___ (apply) for a scholarship so she can study abroad next semester.",
+        "correct_answer": "of applying",
+        "distractors": [
+          "to apply",
+          "of to apply",
+          "apply"
+        ],
+        "distractor_rationale": [
+          "'think of' requires a gerund (-ing form), not a to-infinitive; 'thinking to apply' is a direct transfer error from languages that use infinitives after mental verbs",
+          "'of to apply' incorrectly combines both structures; only one complement form follows 'thinking of'",
+          "a bare infinitive without a preposition is ungrammatical after 'thinking'; the structure must be 'thinking of + -ing'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0013",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I meant ___ (call) you yesterday evening, but I got home much later than expected.",
+        "correct_answer": "to call",
+        "distractors": [
+          "calling",
+          "to calling",
+          "call"
+        ],
+        "distractor_rationale": [
+          "'mean' in the sense of 'intend' requires a to-infinitive, not a gerund; 'meant calling' confuses this with 'mean' used to describe consequence",
+          "'to calling' incorrectly adds 'to' before a gerund, mixing the to-infinitive and gerund structures",
+          "a bare infinitive is ungrammatical after 'meant'; 'mean' expressing intention always takes 'to + base verb'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_cloze_0014",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new library ___ (due) open to the public next Monday, but the builders have not finished yet.",
+        "correct_answer": "is due to",
+        "distractors": [
+          "is about to",
+          "is going to",
+          "is meant to"
+        ],
+        "distractor_rationale": [
+          "'be about to' signals an action happening in the next few seconds or minutes, not a scheduled event on a specific future date like 'next Monday'",
+          "'be going to' expresses a general future intention or plan, whereas 'be due to' specifically marks an officially scheduled or expected event",
+          "'be meant to' expresses what something is supposed or designed to do, not a formal scheduled opening date; it does not carry the same sense of an official timetable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "intentions_plans_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0000",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria ___ to visit her grandmother this weekend, so she has already bought the train tickets.",
+        "correct_answer": "intends",
+        "distractors": [
+          "is intending",
+          "intending",
+          "intended"
+        ],
+        "distractor_rationale": [
+          "intend is a stative verb and is not normally used in continuous forms in standard usage",
+          "omits the auxiliary verb, producing a non-finite form that cannot function as the main verb",
+          "past tense contradicts 'this weekend', which refers to a future event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0001",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We are ___ of moving to a bigger apartment before the baby arrives.",
+        "correct_answer": "thinking",
+        "distractors": [
+          "think",
+          "thought",
+          "to think"
+        ],
+        "distractor_rationale": [
+          "after 'are', the continuous participle is required; base form 'think' cannot follow 'are' here",
+          "past participle 'thought' would require 'have' as auxiliary, not 'are'",
+          "to-infinitive after 'are' produces a different structure (be + to-inf) with a different meaning, and 'be to think of' is not a standard intention phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0002",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ to start a new exercise routine from Monday, and he has already joined a gym.",
+        "correct_answer": "plans",
+        "distractors": [
+          "planning",
+          "is planned",
+          "plan to"
+        ],
+        "distractor_rationale": [
+          "omits the auxiliary verb needed for a continuous form; 'planning' alone cannot be the finite main verb here",
+          "passive form 'is planned' is semantically wrong — Tom is the agent making the plan, not the object of someone else's plan",
+          "'plan to' duplicates the infinitive marker already implied and creates a non-standard third-person form without the -s ending"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0003",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The director ___ announce the new project at tomorrow's meeting, so everyone should be there.",
+        "correct_answer": "is due to",
+        "distractors": [
+          "is about to",
+          "is going to",
+          "intends to"
+        ],
+        "distractor_rationale": [
+          "'is about to' signals something happening in the next few seconds or minutes, not at a scheduled future event like tomorrow's meeting",
+          "'is going to' expresses general future intention but lacks the sense of a formal schedule or appointment implied by the context",
+          "'intends to' expresses personal intention but not a formally scheduled or expected event, which 'due to' conveys"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0004",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She didn't mean ___ your feelings when she made that comment about your work.",
+        "correct_answer": "to hurt",
+        "distractors": [
+          "hurting",
+          "hurt",
+          "to hurting"
+        ],
+        "distractor_rationale": [
+          "'mean' in the sense of intend requires a to-infinitive, not a gerund; 'mean hurting' has a different meaning (involve/entail hurting)",
+          "bare infinitive 'hurt' is ungrammatical after 'mean' in this intention sense; a to-infinitive is required",
+          "'to hurting' is not a standard English form; 'to' as an infinitive marker is followed by a base verb, not a gerund"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0005",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James and Lisa are planning ___ a small dinner party for their closest friends next Saturday.",
+        "correct_answer": "to host",
+        "distractors": [
+          "hosting",
+          "host",
+          "of hosting"
+        ],
+        "distractor_rationale": [
+          "'plan' requires a to-infinitive complement, not a gerund; 'planning hosting' is ungrammatical",
+          "bare infinitive 'host' without 'to' is ungrammatical after 'planning'",
+          "'of hosting' would be correct after 'thinking' (be thinking of + -ing), not after 'planning', which takes to-infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0006",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look — the bus ___ leave! Run to the stop before it goes without you!",
+        "correct_answer": "is about to",
+        "distractors": [
+          "is due to",
+          "is going to",
+          "intends to"
+        ],
+        "distractor_rationale": [
+          "'is due to' implies a scheduled timetable event, not the immediate, imminent action visible right now",
+          "'is going to' expresses a general future intention or prediction, not the immediate imminence that the context ('Look — Run!') demands",
+          "'intends to' attributes a conscious decision to the bus, which is inanimate; more importantly, it lacks the sense of immediate imminence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0007",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After years of renting, Anna is seriously thinking ___ buying a small flat near the city centre.",
+        "correct_answer": "about",
+        "distractors": [
+          "to",
+          "of to",
+          "for"
+        ],
+        "distractor_rationale": [
+          "'think to' is not a standard collocation for expressing intention; 'thinking to buy' is non-standard in this context",
+          "'of to' combines two prepositions incorrectly and produces an ungrammatical string before the gerund",
+          "'think for' is not a standard collocation; 'for' does not link 'thinking' to the gerund complement here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0008",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new bridge ___ open to traffic next spring, according to the official construction schedule.",
+        "correct_answer": "is due to",
+        "distractors": [
+          "is about to",
+          "is meaning to",
+          "is planning to"
+        ],
+        "distractor_rationale": [
+          "'is about to' signals imminent action within seconds or minutes, which contradicts 'next spring' — a future date months away",
+          "'is meaning to' is not a standard continuous form used for scheduled events; 'mean to' expresses personal intention, not institutional timetables",
+          "'is planning to' attributes deliberate human decision-making to the bridge, which is inanimate; 'due to' correctly expresses a scheduled, expected event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_multiple_choice_0009",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Although the project is behind schedule, the team intends ___ all the outstanding tasks completed by the end of the month.",
+        "correct_answer": "to get",
+        "distractors": [
+          "getting",
+          "to getting",
+          "get"
+        ],
+        "distractor_rationale": [
+          "'intend' must be followed by a to-infinitive; 'getting' (gerund) is the error learners make by analogy with verbs that take gerunds",
+          "'to getting' incorrectly combines the to-infinitive marker with a gerund, producing a non-standard and ungrammatical form",
+          "bare infinitive 'get' without 'to' is ungrammatical after 'intends'; the to-infinitive is obligatory"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "intentions_plans_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0000",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She intends finishing her report before the end of the working day.",
+        "correct_answer": "intends to finish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She intends finishing her report before the end of the working day.",
+        "corrected_sentence": "She intends to finish her report before the end of the working day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0001",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom plans going to the gym three times a week starting from next month.",
+        "correct_answer": "plans to go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom plans going to the gym three times a week starting from next month.",
+        "corrected_sentence": "Tom plans to go to the gym three times a week starting from next month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0002",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I mean finishing the kitchen renovation before our guests arrive next weekend.",
+        "correct_answer": "mean to finish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I mean finishing the kitchen renovation before our guests arrive next weekend.",
+        "corrected_sentence": "I mean to finish the kitchen renovation before our guests arrive next weekend.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0003",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We are thinking to switch to a different internet provider because the current one is too slow.",
+        "correct_answer": "thinking of switching",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We are thinking to switch to a different internet provider because the current one is too slow.",
+        "corrected_sentence": "We are thinking of switching to a different internet provider because the current one is too slow.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0004",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new manager intend to review all the team's targets before making any decisions.",
+        "correct_answer": "intends to review",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new manager intend to review all the team's targets before making any decisions.",
+        "corrected_sentence": "The new manager intends to review all the team's targets before making any decisions.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0005",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Look — the bus is going to leave! Run or we will miss it completely.",
+        "correct_answer": "is about to leave",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Look — the bus is going to leave! Run or we will miss it completely.",
+        "corrected_sentence": "Look — the bus is about to leave! Run or we will miss it completely.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0006",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The contractor is due starting the building work on Monday, so we need to clear the area by Sunday evening.",
+        "correct_answer": "due to start",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The contractor is due starting the building work on Monday, so we need to clear the area by Sunday evening.",
+        "corrected_sentence": "The contractor is due to start the building work on Monday, so we need to clear the area by Sunday evening.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_intentions_plans_error_correction_0007",
+      "skill_ids": [
+        "intentions_plans"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although she had been very busy lately, Sara still intend to apply for the promotion before the deadline closes.",
+        "correct_answer": "intends to apply",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although she had been very busy lately, Sara still intend to apply for the promotion before the deadline closes.",
+        "corrected_sentence": "Although she had been very busy lately, Sara still intends to apply for the promotion before the deadline closes.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:36:37.533383+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "intentions_plans_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

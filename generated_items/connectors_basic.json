@@ -1,0 +1,1867 @@
+{
+  "skill_id": "connectors_basic",
+  "skill_name": "Basic Connectors (And/But/Or/So/Because)",
+  "exercises": [
+    {
+      "id": "ex_connectors_basic_cloze_0000",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I was hungry, ___ I ate a sandwich.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "because introduces a reason, not a result — the sandwich is what happened as a result of being hungry, not the reason for it",
+          "but signals contrast, and eating a sandwich is a natural consequence of being hungry, not a contrast",
+          "or signals an alternative choice between two options, which does not fit here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0001",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom likes coffee ___ he doesn't like tea.",
+        "correct_answer": "but",
+        "distractors": [
+          "and",
+          "so",
+          "because"
+        ],
+        "distractor_rationale": [
+          "and joins ideas that go in the same direction; liking coffee and not liking tea are contrasting preferences",
+          "so introduces a result, but not liking tea is not a result of liking coffee",
+          "because introduces a reason, and the dislike of tea is not a reason for liking coffee"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0002",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you want juice ___ water with your meal?",
+        "correct_answer": "or",
+        "distractors": [
+          "but",
+          "and",
+          "so"
+        ],
+        "distractor_rationale": [
+          "but signals contrast between two clauses, not a choice between two drink options in a question",
+          "and would mean both drinks are offered together, not as alternatives to choose between",
+          "so introduces a result or consequence, which makes no sense in a question offering a choice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0003",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria didn't go to school today ___ she had a bad headache.",
+        "correct_answer": "because",
+        "distractors": [
+          "so",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "so introduces a result, but the headache is the reason for missing school, not the result of it",
+          "but signals contrast; missing school and having a headache are not contrasting ideas — the headache explains the absence",
+          "or signals an alternative choice, which does not make logical sense in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0004",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The weather was cold ___ sunny, so we still went for a walk in the park.",
+        "correct_answer": "but",
+        "distractors": [
+          "and",
+          "or",
+          "because"
+        ],
+        "distractor_rationale": [
+          "and joins ideas that agree or add to each other; cold and sunny are contrasting weather conditions",
+          "or signals a choice between alternatives, but cold and sunny are being described as simultaneous conditions, not options",
+          "because introduces a reason; cold is not a reason for being sunny — they are contrasting qualities of the same weather"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0005",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna bought some bread ___ milk at the supermarket on her way home.",
+        "correct_answer": "and",
+        "distractors": [
+          "but",
+          "or",
+          "so"
+        ],
+        "distractor_rationale": [
+          "but signals contrast; buying bread and buying milk are not contrasting actions — they are two things purchased together",
+          "or signals a choice between alternatives, but Anna bought both items, not one or the other",
+          "so introduces a result; milk is not a consequence or result of buying bread"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0006",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The restaurant was full, ___ we decided to eat at home instead.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "because introduces a reason; the restaurant being full is the cause, and eating at home is the result — 'because' would reverse the logical direction here",
+          "but signals contrast; eating at home is the direct consequence of the restaurant being full, not a contrast to it",
+          "or signals an alternative choice presented to someone, not a decision made as a consequence of a situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0007",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You should leave now ___ you will miss the last bus to the city centre.",
+        "correct_answer": "or",
+        "distractors": [
+          "but",
+          "and",
+          "because"
+        ],
+        "distractor_rationale": [
+          "but signals contrast between two clauses; missing the bus is not a contrasting idea — it is the negative consequence of not leaving",
+          "and joins two actions that both happen; leaving now and missing the bus cannot both happen at the same time — the sentence warns against missing it",
+          "because introduces a reason; missing the bus is the consequence of not leaving, not the reason for leaving"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0008",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James studied hard every evening for two weeks ___ he passed his driving test with a very high score.",
+        "correct_answer": "and",
+        "distractors": [
+          "so",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "so implies that passing was a direct logical result caused by studying, but the sentence presents both facts as equally important events that happened in sequence, joined as a narrative — 'and' is the correct additive connector here; 'so' would require a comma after 'weeks' and changes the register",
+          "but signals contrast; passing with a high score after studying hard is not a surprising contrast — it is the expected outcome",
+          "or signals an alternative choice, which makes no logical sense when both studying and passing are stated as facts that occurred"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0009",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa wanted to visit her friend in hospital, ___ she was not allowed in because visiting hours had already finished.",
+        "correct_answer": "but",
+        "distractors": [
+          "so",
+          "and",
+          "because"
+        ],
+        "distractor_rationale": [
+          "so introduces a result; being refused entry is not a result of wanting to visit — it is the obstacle that prevented the visit, making this a contrast",
+          "and joins ideas moving in the same direction; wanting to visit and being refused entry are opposite outcomes, not additions",
+          "because introduces a reason; not being allowed in is not the reason Lisa wanted to visit her friend — the two clauses describe contrasting intentions and outcomes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0011",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom likes tea, ___ he doesn't like coffee.",
+        "correct_answer": "but",
+        "distractors": [
+          "and",
+          "so",
+          "because"
+        ],
+        "distractor_rationale": [
+          "and adds similar or additional information, but liking tea and disliking coffee are contrasting preferences, not matching ones",
+          "so introduces a result, and disliking coffee is not a result of liking tea",
+          "because introduces a reason, and disliking coffee is not the reason for liking tea"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0012",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We can meet at the café ___ at the library — you choose.",
+        "correct_answer": "or",
+        "distractors": [
+          "but",
+          "and",
+          "so"
+        ],
+        "distractor_rationale": [
+          "but signals contrast between two clauses, not a free choice between two options for the listener to select",
+          "and would mean both places are chosen together, but 'you choose' confirms only one option should be picked",
+          "so introduces a result, and neither location is a consequence of the other"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0013",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara missed the bus ___ she arrived at work twenty minutes late.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "but",
+          "and"
+        ],
+        "distractor_rationale": [
+          "because would make arriving late the cause of missing the bus, which reverses the logical order — missing the bus caused the lateness, not the other way around",
+          "but signals contrast, and arriving late after missing the bus is the expected result, not a surprising contrast",
+          "and simply adds two events without showing that the second is a direct consequence of the first, losing the cause-and-result meaning required by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_cloze_0014",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna didn't go to the party last night ___ she had an early start at work the next morning.",
+        "correct_answer": "because",
+        "distractors": [
+          "so",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "so would mean the early start is the result of not going to the party, which is illogical — the early start existed before her decision and caused it",
+          "but signals contrast between the two clauses, yet not going to the party and having an early start are not contrasting ideas — one explains the other",
+          "or signals an alternative between two choices, but the sentence describes a single decision and its explanation, not two options"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0001",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She likes tea ___ she doesn't like coffee.",
+        "correct_answer": "but",
+        "distractors": [
+          "and",
+          "so",
+          "because"
+        ],
+        "distractor_rationale": [
+          "and connects similar or additional ideas, not contrasting ones — liking tea and disliking coffee are opposites",
+          "so introduces a result, but disliking coffee is not a result of liking tea",
+          "because introduces a reason, but disliking coffee is not the reason she likes tea"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0003",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom bought some bread ___ a carton of milk at the supermarket.",
+        "correct_answer": "and",
+        "distractors": [
+          "but",
+          "or",
+          "so"
+        ],
+        "distractor_rationale": [
+          "but signals contrast, and buying bread and milk are not contrasting actions",
+          "or signals a choice between alternatives, but Tom bought both items, not one or the other",
+          "so introduces a result clause, but 'a carton of milk' is a noun phrase, not a result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0004",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria didn't go to the party ___ she had a lot of homework to finish.",
+        "correct_answer": "because",
+        "distractors": [
+          "so",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "so introduces a result, but having homework is the reason she didn't go, not the result of not going",
+          "but signals contrast, and the second clause explains why she didn't go rather than contrasting with it",
+          "or signals an alternative, but no alternative choice is being offered in this sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0005",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The weather was cold, ___ we decided to stay inside and watch a film.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "or",
+          "and"
+        ],
+        "distractor_rationale": [
+          "because introduces a reason clause, but the cold weather is the cause, and staying inside is the result — the connector must link cause to result, not the other way around",
+          "or signals an alternative choice, but the sentence describes what actually happened, not a choice",
+          "and simply adds information and does not express the cause-and-effect relationship that the context requires"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0006",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You can take the bus ___ walk to the station — both options take about twenty minutes.",
+        "correct_answer": "or",
+        "distractors": [
+          "but",
+          "so",
+          "because"
+        ],
+        "distractor_rationale": [
+          "but signals contrast between two opposing ideas, but the sentence presents two equally valid options, not a contrast",
+          "so introduces a result, but walking to the station is not a result of taking the bus",
+          "because introduces a reason, but walking to the station is not the reason for taking the bus"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0007",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna studied very hard for the exam, ___ she still didn't pass it.",
+        "correct_answer": "but",
+        "distractors": [
+          "so",
+          "and",
+          "because"
+        ],
+        "distractor_rationale": [
+          "so introduces a result, but failing the exam is the opposite of what you would expect from studying hard — a contrast connector is needed",
+          "and simply adds information without expressing the unexpected contrast between studying hard and still failing",
+          "because introduces a reason, but not passing is not the reason she studied hard"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0008",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager was pleased with the report ___ it contained all the information she had asked for.",
+        "correct_answer": "because",
+        "distractors": [
+          "so",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "so introduces a result, but the second clause explains why the manager was pleased, not what happened as a result of her being pleased",
+          "but signals contrast, and containing all the required information is consistent with — not opposite to — the manager being pleased",
+          "or signals an alternative, but no choice or alternative is being presented in this sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0009",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The shop was closed when we arrived, ___ we had to go to a different one on the other side of town.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "because introduces a reason, but going to a different shop is the result of the first shop being closed, not the reason for it",
+          "but signals contrast, and going to a different shop is a natural consequence of the first being closed, not an unexpected contrast",
+          "or signals an alternative choice, but the sentence describes what actually happened as a direct result, not a choice being offered"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0000",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I was hungry, and I didn't eat anything.",
+        "correct_answer": "but",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I was hungry, and I didn't eat anything.",
+        "corrected_sentence": "I was hungry, but I didn't eat anything.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0001",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "It was raining, so we went outside.",
+        "correct_answer": "but",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "It was raining, so we went outside.",
+        "corrected_sentence": "It was raining, but we went outside.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0002",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You can take the bus but the train to get to the city centre.",
+        "correct_answer": "or",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You can take the bus but the train to get to the city centre.",
+        "corrected_sentence": "You can take the bus or the train to get to the city centre.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0003",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She studied hard, because she passed the exam with a high score.",
+        "correct_answer": "so",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She studied hard, because she passed the exam with a high score.",
+        "corrected_sentence": "She studied hard, so she passed the exam with a high score.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0004",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom didn't go to the party so he had a headache.",
+        "correct_answer": "because",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom didn't go to the party so he had a headache.",
+        "corrected_sentence": "Tom didn't go to the party because he had a headache.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0005",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria likes coffee and she never drinks it after six o'clock in the evening.",
+        "correct_answer": "but",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria likes coffee and she never drinks it after six o'clock in the evening.",
+        "corrected_sentence": "Maria likes coffee but she never drinks it after six o'clock in the evening.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0006",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The supermarket was closed, so we had to walk to the one on the next street because we could buy some milk.",
+        "correct_answer": "so that",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The supermarket was closed, so we had to walk to the one on the next street because we could buy some milk.",
+        "corrected_sentence": "The supermarket was closed, so we had to walk to the one on the next street so that we could buy some milk.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_basic_error_correction_0007",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You should call the doctor but make an appointment online, whichever is easier for you.",
+        "correct_answer": "or",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You should call the doctor but make an appointment online, whichever is easier for you.",
+        "corrected_sentence": "You should call the doctor or make an appointment online, whichever is easier for you.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_connectors_basic_cloze_0010",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I was hungry, ___ I ate a sandwich.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "because introduces a reason, not a result — 'I was hungry, because I ate a sandwich' reverses the logic: eating is the result, not the cause",
+          "but signals contrast, and there is no contrast here — eating when hungry is the expected outcome",
+          "or signals an alternative choice between two options, which makes no sense in this cause-and-result context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0000",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I was hungry, ___ I ate a sandwich.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "but",
+          "or"
+        ],
+        "distractor_rationale": [
+          "because introduces a reason, not a result — the clause after the gap is what happened as a result of being hungry, not the cause",
+          "but signals contrast, and eating after being hungry is not a contrast",
+          "or signals an alternative choice, but no choice is being presented here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    },
+    {
+      "id": "ex_connectors_basic_multiple_choice_0002",
+      "skill_ids": [
+        "connectors_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Do you want juice ___ water with your meal?",
+        "correct_answer": "or",
+        "distractors": [
+          "but",
+          "and",
+          "so"
+        ],
+        "distractor_rationale": [
+          "but signals contrast between two statements, not a choice between two options in a question",
+          "and would mean the person gets both drinks, but the question is asking them to choose one",
+          "so introduces a result, which makes no sense in a question offering drink options"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:50:48.192846+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 3
+  }
+}

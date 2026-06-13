@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_home_daily",
+  "skill_name": "Home & Daily Life",
+  "exercises": [
+    {
+      "id": "ex_vocab_home_daily_cloze_0000",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She set her ___ for seven o'clock so she would not be late for work.",
+        "correct_answer": "clock",
+        "distractors": [
+          "blanket",
+          "carpet",
+          "bin"
+        ],
+        "distractor_rationale": [
+          "a blanket is a bed covering and cannot be set to wake someone up",
+          "a carpet is a floor covering and has no alarm function",
+          "a bin is a container for rubbish and cannot be set for a time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0001",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom threw the empty bottle into the ___ because it was full of rubbish.",
+        "correct_answer": "bin",
+        "distractors": [
+          "cupboard",
+          "bed",
+          "chair"
+        ],
+        "distractor_rationale": [
+          "a cupboard is used to store items, not to dispose of rubbish",
+          "a bed is for sleeping and is not a container for rubbish",
+          "a chair is for sitting and cannot hold rubbish"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0002",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The child pulled the ___ over herself because she felt cold in bed at night.",
+        "correct_answer": "blanket",
+        "distractors": [
+          "carpet",
+          "ceiling",
+          "clock"
+        ],
+        "distractor_rationale": [
+          "a carpet covers the floor and cannot be pulled over a person in bed",
+          "a ceiling is the top surface of a room and cannot be pulled over someone",
+          "a clock shows the time and is not used to keep warm in bed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0003",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria turned on the ___ and waited for the water to heat up before she got in to wash.",
+        "correct_answer": "bath",
+        "distractors": [
+          "bed",
+          "cupboard",
+          "chair"
+        ],
+        "distractor_rationale": [
+          "a bed is for sleeping and does not fill with water for washing",
+          "a cupboard stores items and cannot be filled with water",
+          "a chair is for sitting and has no function in washing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0004",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna stored the extra plates and glasses in the kitchen ___ so the counter would be clear.",
+        "correct_answer": "cupboard",
+        "distractors": [
+          "bathroom",
+          "bedroom",
+          "carpet"
+        ],
+        "distractor_rationale": [
+          "a bathroom is a room for washing and is not where kitchen plates are stored",
+          "a bedroom is a room for sleeping and is not used to store kitchen items",
+          "a carpet is a floor covering and cannot store plates or glasses"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0005",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James used the ___ to boil water and fry eggs for breakfast every morning before leaving the house.",
+        "correct_answer": "cooker",
+        "distractors": [
+          "clock",
+          "blanket",
+          "bin"
+        ],
+        "distractor_rationale": [
+          "a clock shows the time and cannot boil water or fry eggs",
+          "a blanket is a bed covering and has no cooking function",
+          "a bin is for rubbish and cannot be used to prepare food"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0006",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The decorator painted the ___ white so the room would look taller and brighter from below.",
+        "correct_answer": "ceiling",
+        "distractors": [
+          "carpet",
+          "chair",
+          "blanket"
+        ],
+        "distractor_rationale": [
+          "a carpet is on the floor and is not painted to make a room look taller",
+          "a chair is a piece of furniture and painting it would not affect the room's height",
+          "a blanket is a fabric covering and is not part of the room structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0007",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Lisa moved into a small ___ on the third floor of the building, which had one bedroom and a shared laundry room.",
+        "correct_answer": "apartment",
+        "distractors": [
+          "bathroom",
+          "cupboard",
+          "bedroom"
+        ],
+        "distractor_rationale": [
+          "a bathroom is a single room for washing, not a self-contained living unit with a bedroom",
+          "a cupboard is a storage unit and cannot contain a bedroom or laundry room",
+          "a bedroom is a single room for sleeping, not a complete living unit with its own floor level"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0008",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The cleaner vacuumed the ___ in the living room carefully because the thick fabric collected a lot of dust.",
+        "correct_answer": "carpet",
+        "distractors": [
+          "ceiling",
+          "clock",
+          "cooker"
+        ],
+        "distractor_rationale": [
+          "a ceiling is the top surface of a room and is not vacuumed with a standard vacuum cleaner",
+          "a clock is a time-keeping device and is not made of thick fabric that collects dust",
+          "a cooker is a kitchen appliance used for cooking and is not vacuumed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0009",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "David decided to ___ a large pot of vegetable soup from scratch, chopping all the ingredients himself and adding fresh herbs at the end.",
+        "correct_answer": "cook",
+        "distractors": [
+          "clean",
+          "bed",
+          "bath"
+        ],
+        "distractor_rationale": [
+          "clean does not collocate with 'a pot of soup' and cannot describe the action of preparing food with ingredients and herbs",
+          "bed is a noun referring to furniture for sleeping and cannot function as a verb describing food preparation",
+          "bath is a noun or verb related to washing and cannot describe making soup with ingredients"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0010",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom set his ___ for seven o'clock so he would not be late for work.",
+        "correct_answer": "clock",
+        "distractors": [
+          "blanket",
+          "bin",
+          "carpet"
+        ],
+        "distractor_rationale": [
+          "a blanket is used for warmth in bed and cannot be set to ring at a specific time",
+          "a bin is a container for rubbish and has no function related to waking someone up",
+          "a carpet is a floor covering and cannot be set to display or signal a time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0011",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She threw the empty bottle into the ___ near the kitchen door.",
+        "correct_answer": "bin",
+        "distractors": [
+          "bed",
+          "chair",
+          "cupboard"
+        ],
+        "distractor_rationale": [
+          "a bed is for sleeping and you do not throw rubbish into it",
+          "a chair is for sitting and is not used to collect rubbish",
+          "a cupboard stores food or objects neatly and is not where you throw empty bottles away"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0012",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria turned on the ___ and waited for the water to get hot before she started making soup.",
+        "correct_answer": "cooker",
+        "distractors": [
+          "bathroom",
+          "ceiling",
+          "blanket"
+        ],
+        "distractor_rationale": [
+          "a bathroom is a room used for washing, not a device you turn on to heat water for cooking soup",
+          "a ceiling is the upper surface of a room and cannot be turned on or used for cooking",
+          "a blanket is a bed covering used for warmth and has no role in heating water for soup"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0013",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James stored the extra plates and glasses in the ___ above the sink so the counter stayed clear.",
+        "correct_answer": "cupboard",
+        "distractors": [
+          "bed",
+          "carpet",
+          "bath"
+        ],
+        "distractor_rationale": [
+          "a bed is a piece of furniture for sleeping and cannot be positioned above a sink to store plates",
+          "a carpet is a floor covering and cannot be used to store plates and glasses above a sink",
+          "a bath is a large tub used for washing the body and is not found above a kitchen sink"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_cloze_0014",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The painter had to stand on a tall ladder to reach the ___ and cover the water stain left by the leak.",
+        "correct_answer": "ceiling",
+        "distractors": [
+          "carpet",
+          "blanket",
+          "cupboard"
+        ],
+        "distractor_rationale": [
+          "a carpet lies on the floor and cannot be reached by climbing a ladder to cover a stain caused by a roof leak",
+          "a blanket is a soft bed covering and is not a surface in a room that a painter would stand on a ladder to paint",
+          "a cupboard is a storage unit fixed to a wall or floor and is not the overhead surface where a water stain from a leak would appear"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_home_daily_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She put the dirty clothes in the ___ to wash them.",
+        "correct_answer": "bin",
+        "distractors": [
+          "cupboard",
+          "blanket",
+          "carpet"
+        ],
+        "distractor_rationale": [
+          "a cupboard is for storing items, not for washing clothes",
+          "a blanket is a bed covering, not a container for laundry",
+          "a carpet is a floor covering, not a container for anything"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom looked at the ___ on the wall to check what time it was.",
+        "correct_answer": "clock",
+        "distractors": [
+          "carpet",
+          "ceiling",
+          "blanket"
+        ],
+        "distractor_rationale": [
+          "a carpet is on the floor and cannot show the time",
+          "a ceiling is the top surface of a room, not a time-telling device",
+          "a blanket is a bed covering and cannot show the time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The child was tired, so she went to her ___ to sleep.",
+        "correct_answer": "bed",
+        "distractors": [
+          "chair",
+          "cooker",
+          "cupboard"
+        ],
+        "distractor_rationale": [
+          "a chair is for sitting, not for sleeping",
+          "a cooker is a kitchen appliance for cooking food, not for sleeping",
+          "a cupboard is a storage unit, not a place to sleep"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria turned on the ___ and waited for the water to get hot before she stepped in.",
+        "correct_answer": "bath",
+        "distractors": [
+          "cooker",
+          "carpet",
+          "ceiling"
+        ],
+        "distractor_rationale": [
+          "a cooker is used for cooking food, not for filling with hot water to step into",
+          "a carpet is a floor covering that one does not fill with water",
+          "a ceiling is the top surface of a room and cannot be turned on or stepped into"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James opened the ___ under the sink and took out the cleaning products stored inside.",
+        "correct_answer": "cupboard",
+        "distractors": [
+          "blanket",
+          "carpet",
+          "clock"
+        ],
+        "distractor_rationale": [
+          "a blanket is a soft bed covering and cannot be opened to store cleaning products",
+          "a carpet is fixed to the floor and is not a storage space",
+          "a clock is a time-telling device and does not store anything inside it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The new ___ in the living room is very soft and comfortable to walk on in bare feet.",
+        "correct_answer": "carpet",
+        "distractors": [
+          "ceiling",
+          "blanket",
+          "clock"
+        ],
+        "distractor_rationale": [
+          "a ceiling is fixed overhead and cannot be walked on in a living room",
+          "a blanket is a bed covering and is not laid across a floor for walking on",
+          "a clock is a time-telling device and is not something you walk on"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara pulled the ___ over herself because the room was cold during the night.",
+        "correct_answer": "blanket",
+        "distractors": [
+          "carpet",
+          "cupboard",
+          "cooker"
+        ],
+        "distractor_rationale": [
+          "a carpet is fixed to the floor and cannot be pulled over a person for warmth",
+          "a cupboard is a solid storage unit that cannot be pulled over someone",
+          "a cooker is a kitchen appliance and cannot be used to cover someone for warmth"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The painter had to stand on a ladder to reach the ___ and cover the large brown stain above the light fitting.",
+        "correct_answer": "ceiling",
+        "distractors": [
+          "carpet",
+          "cupboard",
+          "chair"
+        ],
+        "distractor_rationale": [
+          "a carpet is on the floor and a painter would not need a ladder to reach it",
+          "a cupboard is a storage unit at standing height, not above a light fitting overhead",
+          "a chair is a piece of furniture at floor level, not a surface above a light fitting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna rents a small ___ on the fourth floor of a building in the city centre, which includes a kitchen and one bedroom.",
+        "correct_answer": "apartment",
+        "distractors": [
+          "bathroom",
+          "bedroom",
+          "cupboard"
+        ],
+        "distractor_rationale": [
+          "a bathroom is a single room inside a home, not a complete living space that includes a kitchen and bedroom",
+          "a bedroom is a single room for sleeping, not a complete living space with its own kitchen",
+          "a cupboard is a storage unit, not a self-contained living space on a floor of a building"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "David used the ___ to boil water and fry eggs for breakfast before leaving for work.",
+        "correct_answer": "cooker",
+        "distractors": [
+          "clock",
+          "cupboard",
+          "bin"
+        ],
+        "distractor_rationale": [
+          "a clock tells the time and cannot be used to boil water or fry eggs",
+          "a cupboard is a storage unit and cannot apply heat to cook food",
+          "a bin is used to dispose of waste and cannot be used to boil water or fry eggs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_home_daily_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_word_formation_0000",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The kitchen floor is very ___. (DIRT)",
+        "correct_answer": "dirty",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DIRT"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_home_daily_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_word_formation_0001",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She is a good ___ and always makes delicious meals for her family. (COOK)",
+        "correct_answer": "cooker",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COOK"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_home_daily_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_word_formation_0002",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom did a thorough ___ of the bathroom before the guests arrived on Saturday. (CLEAN)",
+        "correct_answer": "cleaning",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLEAN"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_home_daily_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_word_formation_0003",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The living room felt warm and ___ because of the thick carpet and soft blankets on the sofa. (COMFORT)",
+        "correct_answer": "comfortable",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COMFORT"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_home_daily_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_home_daily_word_formation_0004",
+      "skill_ids": [
+        "vocab_home_daily"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the old apartment was so low that tall people had to be careful not to hit their heads on the light fittings. (CEIL)",
+        "correct_answer": "ceiling",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CEIL"
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:53:26.751740+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_home_daily_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

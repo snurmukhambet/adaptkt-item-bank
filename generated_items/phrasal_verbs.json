@@ -1,0 +1,1863 @@
+{
+  "skill_id": "phrasal_verbs",
+  "skill_name": "Phrasal Verbs",
+  "exercises": [
+    {
+      "id": "ex_phrasal_verbs_cloze_0000",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The music was too loud, so Maria asked Tom to turn ___ before the neighbours complained.",
+        "correct_answer": "it down",
+        "distractors": [
+          "down it",
+          "it off",
+          "down them"
+        ],
+        "distractor_rationale": [
+          "with a pronoun object, the particle must follow the pronoun — 'down it' is incorrect word order for a separable phrasal verb",
+          "'turn it off' means to stop the music completely, but the sentence says it was too loud, implying a reduction in volume, not stopping it",
+          "'them' does not refer to any plural noun in this context; the object is the music, which is singular"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0001",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Could you look ___ my plants while I am away on holiday next week?",
+        "correct_answer": "after",
+        "distractors": [
+          "them after",
+          "at",
+          "after them"
+        ],
+        "distractor_rationale": [
+          "'look them after' incorrectly separates the inseparable phrasal verb 'look after' by inserting the object between verb and particle",
+          "'look at' means to direct your eyes toward something, not to take care of it",
+          "'look after them' would be correct only if a pronoun replaced 'my plants', but 'my plants' is already the object in the sentence, so the gap requires only the particle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0002",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James decided to give ___ chocolate completely because he wanted to eat more healthily.",
+        "correct_answer": "up",
+        "distractors": [
+          "it up",
+          "out",
+          "off"
+        ],
+        "distractor_rationale": [
+          "'give it up' would be correct only if a pronoun replaced 'chocolate', but 'chocolate' is already present as the full noun object after the gap",
+          "'give out' means to distribute or to stop working, not to stop consuming something",
+          "'give off' means to produce or emit something such as heat or a smell, not to stop doing something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0003",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The scientist needed to ___ several experiments before she could publish her results.",
+        "correct_answer": "carry out",
+        "distractors": [
+          "carry on",
+          "carry over",
+          "carry away"
+        ],
+        "distractor_rationale": [
+          "'carry on' means to continue doing something, not to perform or conduct experiments",
+          "'carry over' means to transfer something to a later time or different situation, not to perform tests",
+          "'carry away' means to become overly excited or to transport something physically, not to conduct scientific work"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0004",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara had been feeling tired for weeks, so the doctor told her to ___ smoking immediately.",
+        "correct_answer": "give up",
+        "distractors": [
+          "give out",
+          "give in",
+          "give off"
+        ],
+        "distractor_rationale": [
+          "'give out' means to stop working or to distribute things, not to quit a habit",
+          "'give in' means to surrender or agree reluctantly to something, not to stop a habit like smoking",
+          "'give off' means to emit or produce something such as smoke or a smell, not to stop doing something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0005",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We only ___ that the meeting had been cancelled when we arrived at the empty office.",
+        "correct_answer": "found out",
+        "distractors": [
+          "found about",
+          "looked out",
+          "came across"
+        ],
+        "distractor_rationale": [
+          "'find about' is not a standard phrasal verb; the correct form requires the particle 'out' to convey discovering information",
+          "'look out' means to be careful or to watch for danger, not to discover information",
+          "'come across' means to encounter something by chance, not to receive specific information about an event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0006",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The noise from the road was so irritating that Anna could not put ___ any longer and called the council.",
+        "correct_answer": "up with it",
+        "distractors": [
+          "up with",
+          "it up with",
+          "with it up"
+        ],
+        "distractor_rationale": [
+          "'put up with' is a three-part inseparable phrasal verb meaning to tolerate; omitting the pronoun 'it' leaves the sentence without an object, making it grammatically incomplete",
+          "'put it up with' incorrectly inserts the pronoun between the verb and the first particle, breaking the inseparable three-part structure",
+          "'put with it up' places the pronoun and particles in a completely ungrammatical order for this inseparable phrasal verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0007",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager asked everyone to ___ their phones before the important presentation began.",
+        "correct_answer": "turn off",
+        "distractors": [
+          "turn them off",
+          "turn down",
+          "switch on"
+        ],
+        "distractor_rationale": [
+          "'turn them off' would be correct only if a pronoun replaced 'their phones', but the full noun object is already present after the gap, so only the phrasal verb itself is needed",
+          "'turn down' means to reduce the volume or to reject an offer, not to switch something off completely",
+          "'switch on' means to start a device, which is the opposite of what is required in a setting where silence is needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0008",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The engineer explained the new safety rules to the team and then ___ a series of checks on all the equipment.",
+        "correct_answer": "carried out",
+        "distractors": [
+          "carried on",
+          "set out",
+          "went through"
+        ],
+        "distractor_rationale": [
+          "'carried on' means to continue an activity already in progress, not to perform or conduct a new set of checks",
+          "'set out' means to begin a journey or to arrange items, not to perform technical checks on equipment",
+          "'went through' means to examine or experience something in detail, but it does not collocate with 'a series of checks' the way 'carry out' does as the standard collocation for performing formal procedures"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0009",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David had borrowed the report from his colleague, so he made sure to ___ once he had finished reading it.",
+        "correct_answer": "give it back",
+        "distractors": [
+          "give back it",
+          "give back",
+          "hand it over"
+        ],
+        "distractor_rationale": [
+          "'give back it' places the pronoun after the particle, which is ungrammatical for this separable phrasal verb when used with a pronoun object; the pronoun must go between verb and particle",
+          "'give back' without a pronoun leaves the sentence without an object, making it unclear what was returned, and the context requires an explicit pronoun since the noun 'report' appeared earlier",
+          "'hand it over' means to transfer control or ownership of something, often under pressure or permanently, which does not match the context of simply returning a borrowed item to a colleague"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0010",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The music is too loud — please turn ___ before the neighbours complain.",
+        "correct_answer": "it down",
+        "distractors": [
+          "down it",
+          "it off",
+          "down them"
+        ],
+        "distractor_rationale": [
+          "placing the particle before the pronoun is incorrect for separable phrasal verbs; the pronoun must go between verb and particle",
+          "'turn it off' means to stop the music completely, but the context asks only to reduce the volume, making 'down' the required particle",
+          "'them' does not refer to any plural noun in the sentence; the object is the music, which is singular"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0011",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My aunt agreed to look ___ my cat while I was on holiday last month.",
+        "correct_answer": "after",
+        "distractors": [
+          "it after",
+          "after it",
+          "for"
+        ],
+        "distractor_rationale": [
+          "inserting the pronoun 'it' between 'look' and 'after' breaks this inseparable phrasal verb, which cannot be split",
+          "'look after it' would require replacing the noun phrase 'my cat' with a pronoun; here the full noun phrase follows the particle, so 'after it' is structurally wrong",
+          "'look for' means to search for something, not to take care of it, which contradicts the meaning required by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0012",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David had been smoking for ten years, but he finally gave ___ last spring after his doctor warned him.",
+        "correct_answer": "it up",
+        "distractors": [
+          "up it",
+          "up smoking",
+          "it away"
+        ],
+        "distractor_rationale": [
+          "the pronoun must be placed between the verb and the particle in a separable phrasal verb; 'up it' reverses this required order",
+          "the gap must be filled with a pronoun replacing the implied object because 'smoking' has already been established as the topic earlier in the sentence; repeating the noun here is redundant and the gap structure requires the pronoun form",
+          "'give it away' means to give something to someone for free, not to stop a habit, so the particle 'away' produces the wrong idiomatic meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0013",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The engineers are carrying ___ a series of safety checks on the bridge before it reopens to traffic.",
+        "correct_answer": "out",
+        "distractors": [
+          "on",
+          "over",
+          "them out"
+        ],
+        "distractor_rationale": [
+          "'carry on' means to continue doing something, not to perform or conduct a task, which is the meaning required by 'a series of safety checks'",
+          "'carry over' means to move something to a later time or period, not to perform or conduct an activity",
+          "the object 'a series of safety checks' is a full noun phrase, not a pronoun, so the particle must follow the verb directly without a pronoun inserted before it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_cloze_0014",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara finds it very difficult to put ___ her new colleague's habit of interrupting people during meetings.",
+        "correct_answer": "up with",
+        "distractors": [
+          "up",
+          "with",
+          "up it with"
+        ],
+        "distractor_rationale": [
+          "'put up' alone is not a complete phrasal verb meaning to tolerate; the three-part verb 'put up with' requires both particles together to convey the meaning of tolerating something unpleasant",
+          "'put with' omits the particle 'up', producing a non-existent phrasal verb that has no idiomatic meaning in English",
+          "inserting a pronoun between 'up' and 'with' breaks this inseparable three-part phrasal verb; 'put up with' cannot be separated by any object or pronoun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "phrasal_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0000",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The baby is sleeping, so please ___ the television before you leave the room.",
+        "correct_answer": "turn off",
+        "distractors": [
+          "turn it off",
+          "turn down",
+          "switch away"
+        ],
+        "distractor_rationale": [
+          "with a full noun object 'the television', the particle must follow the verb phrase — inserting a pronoun here creates a grammatically redundant structure",
+          "'turn down' means to reduce volume or reject an offer, not to switch off a device",
+          "'switch away' is not a real phrasal verb in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0001",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria asked her neighbour to ___ her cat while she was on holiday for two weeks.",
+        "correct_answer": "look after",
+        "distractors": [
+          "look it after",
+          "look for",
+          "look after to"
+        ],
+        "distractor_rationale": [
+          "'look after' is inseparable — the object must follow the full phrasal verb, not be inserted between the verb and particle",
+          "'look for' means to search for something, not to take care of it",
+          "'look after to' adds an unnecessary preposition that does not exist in this phrasal verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0002",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom decided to ___ smoking after his doctor told him it was seriously damaging his health.",
+        "correct_answer": "give up",
+        "distractors": [
+          "give in",
+          "give back",
+          "give out"
+        ],
+        "distractor_rationale": [
+          "'give in' means to stop resisting or to surrender to someone, not to quit a habit",
+          "'give back' means to return something to its owner, not to stop doing something",
+          "'give out' means to distribute items or to stop working, not to quit a habit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0003",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We need to ___ the details of the meeting before we send the invitation to everyone in the department.",
+        "correct_answer": "sort out",
+        "distractors": [
+          "sort it out",
+          "sort through",
+          "sort about"
+        ],
+        "distractor_rationale": [
+          "when the object is a full noun phrase 'the details', inserting a pronoun mid-phrase is redundant and ungrammatical",
+          "'sort through' means to examine a collection of things one by one, not to organise or settle details",
+          "'sort about' is not a recognised phrasal verb in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0004",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager asked the team to ___ the safety checks before starting the new construction project.",
+        "correct_answer": "carry out",
+        "distractors": [
+          "carry on",
+          "carry away",
+          "carry through"
+        ],
+        "distractor_rationale": [
+          "'carry on' means to continue doing something already in progress, not to perform or conduct a task",
+          "'carry away' means to become overly excited or to transport something, not to perform an official task",
+          "'carry through' means to complete something despite difficulties, but is not the standard collocation with 'safety checks'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0005",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The light in the hallway was bothering Anna, so she turned ___ before going to bed.",
+        "correct_answer": "it off",
+        "distractors": [
+          "off it",
+          "it down",
+          "off the light"
+        ],
+        "distractor_rationale": [
+          "when the object is a pronoun, it must be placed between the verb and the particle — 'off it' places the pronoun after the particle, which is ungrammatical with separable phrasal verbs",
+          "'turn it down' means to reduce the brightness or volume, or to refuse an offer, not to switch off a light",
+          "the pronoun 'it' has already replaced the noun, so repeating 'the light' after the particle creates a double object and is grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0006",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James couldn't ___ what the sign said because it was written in very small letters.",
+        "correct_answer": "make out",
+        "distractors": [
+          "make up",
+          "make off",
+          "make over"
+        ],
+        "distractor_rationale": [
+          "'make up' means to invent a story or to reconcile after an argument, not to read or see something with difficulty",
+          "'make off' means to escape or run away quickly, not to read something",
+          "'make over' means to transform the appearance of something, not to read or see something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0007",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Living in a noisy flat is difficult, but Sara has learned to ___ the constant sound of traffic outside her window.",
+        "correct_answer": "put up with",
+        "distractors": [
+          "put up",
+          "put with",
+          "put up to"
+        ],
+        "distractor_rationale": [
+          "'put up' without 'with' means to erect something or to accommodate a guest, not to tolerate an unpleasant situation",
+          "'put with' is missing the particle 'up' — the full three-part phrasal verb 'put up with' is required to express tolerance",
+          "'put up to' means to encourage someone to do something mischievous, not to tolerate a situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0008",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project was difficult, but the team managed to ___ despite losing two members halfway through.",
+        "correct_answer": "carry on",
+        "distractors": [
+          "carry out",
+          "carry over",
+          "carry on with it"
+        ],
+        "distractor_rationale": [
+          "'carry out' requires a direct object such as a task or plan — used intransitively here without an object, it is ungrammatical",
+          "'carry over' means to move something to a later time or period, not to continue working in the face of difficulty",
+          "'carry on with it' introduces an unnecessary pronoun object — the intransitive use of 'carry on' does not require an object here and the addition makes the sentence awkward and ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_multiple_choice_0009",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David had been looking forward to the concert for months, so when it was cancelled, he found it very hard to ___ the disappointment.",
+        "correct_answer": "get over",
+        "distractors": [
+          "get over it",
+          "get through",
+          "get past with"
+        ],
+        "distractor_rationale": [
+          "the noun object 'the disappointment' is already present in the sentence — adding the pronoun 'it' creates a double object, which is ungrammatical",
+          "'get through' means to survive a difficult experience or to make contact, and does not collocate naturally with 'disappointment' in this emotional recovery context",
+          "'get past with' is not a recognised phrasal verb — 'get past' can mean to move beyond an obstacle but does not take 'with' and does not collocate with 'disappointment'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 27,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "phrasal_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0000",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Please turn off it before you leave the room — the electricity bill is very high this month.",
+        "correct_answer": "turn it off",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Please turn off it before you leave the room — the electricity bill is very high this month.",
+        "corrected_sentence": "Please turn it off before you leave the room — the electricity bill is very high this month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0001",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Could you look it after while I am away on my business trip next week?",
+        "correct_answer": "look after it",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Could you look it after while I am away on my business trip next week?",
+        "corrected_sentence": "Could you look after it while I am away on my business trip next week?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0002",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager asked the team to carry the new safety procedures out by the end of the month.",
+        "correct_answer": "carry out the new safety procedures",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager asked the team to carry the new safety procedures out by the end of the month.",
+        "corrected_sentence": "The manager asked the team to carry out the new safety procedures by the end of the month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0003",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She decided to give up it after just two weeks because the training schedule was too demanding.",
+        "correct_answer": "give it up",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She decided to give up it after just two weeks because the training schedule was too demanding.",
+        "corrected_sentence": "She decided to give it up after just two weeks because the training schedule was too demanding.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0004",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I finally found it out that the meeting had been moved to Thursday afternoon.",
+        "correct_answer": "found out",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I finally found it out that the meeting had been moved to Thursday afternoon.",
+        "corrected_sentence": "I finally found out that the meeting had been moved to Thursday afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0005",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Working in a noisy open-plan office is something I simply cannot put with, so I always wear headphones.",
+        "correct_answer": "put up with",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Working in a noisy open-plan office is something I simply cannot put with, so I always wear headphones.",
+        "corrected_sentence": "Working in a noisy open-plan office is something I simply cannot put up with, so I always wear headphones.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0006",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The doctor told him to take up a lighter form of exercise now that he had recovered, so he took swimming.",
+        "correct_answer": "took up swimming",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The doctor told him to take up a lighter form of exercise now that he had recovered, so he took swimming.",
+        "corrected_sentence": "The doctor told him to take up a lighter form of exercise now that he had recovered, so he took up swimming.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_phrasal_verbs_error_correction_0007",
+      "skill_ids": [
+        "phrasal_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although the project was difficult, the whole team managed to get on with despite having very little time to prepare.",
+        "correct_answer": "get on with it",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although the project was difficult, the whole team managed to get on with despite having very little time to prepare.",
+        "corrected_sentence": "Although the project was difficult, the whole team managed to get on with it despite having very little time to prepare.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:59:55.507986+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "phrasal_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

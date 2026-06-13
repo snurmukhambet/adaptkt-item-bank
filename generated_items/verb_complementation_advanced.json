@@ -1,0 +1,1863 @@
+{
+  "skill_id": "verb_complementation_advanced",
+  "skill_name": "Verb Complementation: Advanced (Verb + to-inf / -ing with Meaning Change)",
+  "exercises": [
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0000",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I clearly remember ___ (lock) the front door before we left for the airport, so it must be secure.",
+        "correct_answer": "locking",
+        "distractors": [
+          "to lock",
+          "locked",
+          "lock"
+        ],
+        "distractor_rationale": [
+          "remember + to-infinitive means a duty to be done in the future, but the sentence describes a past action the speaker recalls doing",
+          "bare past participle cannot follow remember as a complement in this construction",
+          "bare infinitive without to cannot follow remember as a complement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0001",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children finally stopped ___ (argue) when their father came into the room and asked them to be quiet.",
+        "correct_answer": "arguing",
+        "distractors": [
+          "to argue",
+          "argued",
+          "argue"
+        ],
+        "distractor_rationale": [
+          "stop + to-infinitive means pausing in order to do something else, but the sentence means they ceased arguing entirely",
+          "bare past form cannot follow stop as a gerund complement",
+          "bare infinitive without to cannot follow stop as a gerund complement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0002",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please remember ___ (send) the report to your manager before five o'clock this afternoon.",
+        "correct_answer": "to send",
+        "distractors": [
+          "sending",
+          "sent",
+          "send"
+        ],
+        "distractor_rationale": [
+          "remember + -ing describes recalling a past action already done, but the sentence is a reminder about a future duty",
+          "bare past participle cannot follow remember as an infinitive complement",
+          "bare infinitive without to cannot follow remember as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0003",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark was walking home when he stopped ___ (check) the map on his phone because he wasn't sure of the route.",
+        "correct_answer": "to check",
+        "distractors": [
+          "checking",
+          "checked",
+          "check"
+        ],
+        "distractor_rationale": [
+          "stop + -ing means ceasing an activity, but the sentence means he paused his walking in order to check the map",
+          "bare past form cannot follow stop as an infinitive complement",
+          "bare infinitive without to cannot follow stop as an infinitive complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0004",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna forgot ___ (turn off) the oven after dinner, and when she came home later, it was still on.",
+        "correct_answer": "to turn off",
+        "distractors": [
+          "turning off",
+          "turned off",
+          "turn off"
+        ],
+        "distractor_rationale": [
+          "forget + -ing means failing to remember a past experience, but the sentence describes a duty she failed to carry out",
+          "bare past participle cannot follow forget as an infinitive complement",
+          "bare infinitive without to cannot follow forget as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0005",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The soup is too salty, so why don't you try ___ (add) a little sugar to balance the flavour?",
+        "correct_answer": "adding",
+        "distractors": [
+          "to add",
+          "added",
+          "add"
+        ],
+        "distractor_rationale": [
+          "try + to-infinitive means making an effort to achieve something difficult, but the sentence suggests experimenting with a possible solution",
+          "bare past form cannot follow try as a gerund complement",
+          "bare infinitive without to cannot follow try as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0006",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I will never forget ___ (see) the northern lights for the first time — it was the most beautiful thing I had ever witnessed.",
+        "correct_answer": "seeing",
+        "distractors": [
+          "to see",
+          "saw",
+          "see"
+        ],
+        "distractor_rationale": [
+          "forget + to-infinitive means failing to carry out a duty, but the sentence describes an unforgettable past experience",
+          "bare past form cannot follow forget as a gerund complement",
+          "bare infinitive without to cannot follow forget as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0007",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor tried ___ (explain) the diagnosis clearly, but the patient was too anxious to take in all the information at once.",
+        "correct_answer": "to explain",
+        "distractors": [
+          "explaining",
+          "explained",
+          "explain"
+        ],
+        "distractor_rationale": [
+          "try + -ing means experimenting with a method to see if it works, but the sentence describes an effortful attempt at a difficult task",
+          "bare past form cannot follow try as an infinitive complement",
+          "bare infinitive without to cannot follow try as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0008",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After working at the company for ten years, Sara went on ___ (become) the head of the entire marketing department.",
+        "correct_answer": "to become",
+        "distractors": [
+          "becoming",
+          "became",
+          "become"
+        ],
+        "distractor_rationale": [
+          "go on + -ing means continuing the same activity without stopping, but the sentence describes a subsequent achievement that came after her earlier work",
+          "bare past form cannot follow go on as an infinitive complement",
+          "bare infinitive without to cannot follow go on as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0009",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Even though the meeting had already run over time, the manager went on ___ (discuss) every single point on the agenda without any break.",
+        "correct_answer": "discussing",
+        "distractors": [
+          "to discuss",
+          "discussed",
+          "discuss"
+        ],
+        "distractor_rationale": [
+          "go on + to-infinitive means moving on to a new activity after finishing the previous one, but the sentence makes clear the manager continued the same activity without stopping",
+          "bare past form cannot follow go on as a gerund complement",
+          "bare infinitive without to cannot follow go on as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0010",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I clearly remember ___ (lock) the front door before we left for the airport, so I don't know why you think we forgot.",
+        "correct_answer": "locking",
+        "distractors": [
+          "to lock",
+          "locked",
+          "lock"
+        ],
+        "distractor_rationale": [
+          "remember + to-infinitive means a duty to be performed in the future, not a memory of a completed past action",
+          "a bare past participle cannot follow remember as a complement; the gerund is required for past memory",
+          "a bare infinitive without 'to' cannot follow remember in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0011",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor told Mark to stop ___ (eat) fast food if he wanted to improve his health.",
+        "correct_answer": "eating",
+        "distractors": [
+          "to eat",
+          "eat",
+          "eaten"
+        ],
+        "distractor_rationale": [
+          "stop + to-infinitive means to pause in order to do something new, not to cease an activity; the context clearly means ceasing the habit",
+          "a bare infinitive without 'to' cannot follow stop as a complement in this structure",
+          "a past participle cannot follow stop as a complement; the gerund is required for the meaning of ceasing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0012",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna forgot ___ (send) the report to her manager before the deadline, so her manager never received it.",
+        "correct_answer": "to send",
+        "distractors": [
+          "sending",
+          "send",
+          "having sent"
+        ],
+        "distractor_rationale": [
+          "forget + -ing describes a past event that has been forgotten from memory; the context shows the report was never sent, meaning a duty was neglected, which requires forget + to-infinitive",
+          "a bare infinitive without 'to' cannot follow forget as a complement in this structure",
+          "forget + having + past participle is not a standard construction and does not match the meaning of a neglected duty"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0013",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The soup was too salty, so Lisa tried ___ (add) a little sugar to balance the flavour, and it actually worked.",
+        "correct_answer": "adding",
+        "distractors": [
+          "to add",
+          "added",
+          "add"
+        ],
+        "distractor_rationale": [
+          "try + to-infinitive means to make an attempt at something difficult; the context shows Lisa is experimenting with a remedy she has not tried before, which requires try + -ing",
+          "a past form cannot follow try as a complement in this structure",
+          "a bare infinitive without 'to' cannot follow try as a complement in standard grammar"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_cloze_0014",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "He was halfway through his speech when he stopped ___ (check) his notes, then continued speaking with more confidence.",
+        "correct_answer": "to check",
+        "distractors": [
+          "checking",
+          "check",
+          "having checked"
+        ],
+        "distractor_rationale": [
+          "stop + -ing means to cease an activity permanently or habitually; the context shows he paused his speech in order to perform the action of checking notes, which requires stop + to-infinitive to express purpose",
+          "a bare infinitive without 'to' cannot follow stop as a complement in this structure",
+          "stop + having + past participle is not a standard construction and does not correctly express the meaning of pausing in order to do something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0000",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Please stop ___ so loudly — the baby is trying to sleep in the next room.",
+        "correct_answer": "talking",
+        "distractors": [
+          "to talk",
+          "to talking",
+          "talk"
+        ],
+        "distractor_rationale": [
+          "stop + to-infinitive means pausing in order to do something, not ceasing an action",
+          "'to talking' is not a grammatical construction in English",
+          "bare infinitive after stop is not grammatical in this complementation pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0001",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Do you remember ___ your keys on the kitchen table before you left for work yesterday?",
+        "correct_answer": "leaving",
+        "distractors": [
+          "to leave",
+          "to leaving",
+          "left"
+        ],
+        "distractor_rationale": [
+          "remember + to-infinitive means recalling a duty to perform, not recalling a past event that already happened",
+          "'to leaving' is not a grammatical construction in English",
+          "past tense form cannot follow remember as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0002",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She stopped ___ a coffee on her way to the office because she was already late.",
+        "correct_answer": "to buy",
+        "distractors": [
+          "buying",
+          "to buying",
+          "buy"
+        ],
+        "distractor_rationale": [
+          "stop + -ing means ceasing an action, but here she paused her journey in order to buy coffee, so -ing gives the wrong meaning",
+          "'to buying' is not a grammatical construction in English",
+          "bare infinitive after stop is not grammatical in this complementation pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0003",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I forgot ___ the electricity bill last month, so now I have to pay a late fee as well.",
+        "correct_answer": "to pay",
+        "distractors": [
+          "paying",
+          "to paying",
+          "paid"
+        ],
+        "distractor_rationale": [
+          "forget + -ing describes failing to remember a past experience, not a duty that was left undone; here the bill was not paid because she forgot the obligation",
+          "'to paying' is not a grammatical construction in English",
+          "past tense form cannot follow forget as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0004",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The heating system in the flat kept breaking down, so the engineer tried ___ a different setting on the thermostat to see if it helped.",
+        "correct_answer": "adjusting",
+        "distractors": [
+          "to adjust",
+          "to adjusting",
+          "adjusted"
+        ],
+        "distractor_rationale": [
+          "try + to-infinitive means making an effort or attempt, often implying difficulty; try + -ing means experimenting with a method to see if it works, which fits the context of testing a different setting",
+          "'to adjusting' is not a grammatical construction in English",
+          "past tense form cannot follow try as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0005",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Remember ___ the forms before the deadline on Friday, or your application will not be accepted.",
+        "correct_answer": "to submit",
+        "distractors": [
+          "submitting",
+          "to submitting",
+          "submitted"
+        ],
+        "distractor_rationale": [
+          "remember + -ing refers to recalling a past event that already happened; here the action is a future duty that must not be forgotten",
+          "'to submitting' is not a grammatical construction in English",
+          "past tense form cannot follow remember as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0006",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I will never forget ___ my grandmother's house for the first time as a child — the smell of fresh bread was amazing.",
+        "correct_answer": "visiting",
+        "distractors": [
+          "to visit",
+          "to visiting",
+          "visited"
+        ],
+        "distractor_rationale": [
+          "forget + to-infinitive describes failing to remember a duty; here the speaker is saying they will always remember a past experience, so -ing is required",
+          "'to visiting' is not a grammatical construction in English",
+          "past tense form cannot follow forget as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0007",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager went on ___ the same problems with the team's communication even after everyone had agreed to make changes.",
+        "correct_answer": "describing",
+        "distractors": [
+          "to describe",
+          "to describing",
+          "described"
+        ],
+        "distractor_rationale": [
+          "go on + to-infinitive means moving on to a new, different action after finishing the current one; go on + -ing means continuing the same action, which fits the context of repeatedly mentioning the same problems",
+          "'to describing' is not a grammatical construction in English",
+          "past tense form cannot follow go on as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0008",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After finishing his opening remarks, the speaker went on ___ the main results of the research project to the audience.",
+        "correct_answer": "to present",
+        "distractors": [
+          "presenting",
+          "to presenting",
+          "presented"
+        ],
+        "distractor_rationale": [
+          "go on + -ing means continuing the same action without stopping; go on + to-infinitive means moving on to a new, different action, which fits the context of finishing one part and beginning another",
+          "'to presenting' is not a grammatical construction in English",
+          "past tense form cannot follow go on as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_multiple_choice_0009",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We regret ___ you that your application has been unsuccessful on this occasion, but we encourage you to apply again next year.",
+        "correct_answer": "to inform",
+        "distractors": [
+          "informing",
+          "to informing",
+          "informed"
+        ],
+        "distractor_rationale": [
+          "regret + -ing describes feeling sorry about a past action one has already done; regret + to-infinitive is a formal expression used when delivering bad news at the moment of speaking, which fits this context",
+          "'to informing' is not a grammatical construction in English",
+          "past tense form cannot follow regret as a complement in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0000",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She stopped to talk so loudly when she noticed everyone was looking at her.",
+        "correct_answer": "stopped talking",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She stopped to talk so loudly when she noticed everyone was looking at her.",
+        "corrected_sentence": "She stopped talking so loudly when she noticed everyone was looking at her.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0001",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I remember to visit my grandmother every Sunday when I was a child.",
+        "correct_answer": "remember visiting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I remember to visit my grandmother every Sunday when I was a child.",
+        "corrected_sentence": "I remember visiting my grandmother every Sunday when I was a child.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0002",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He forgot posting the letter, so the bill arrived late and he had to pay a fine.",
+        "correct_answer": "forgot to post",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He forgot posting the letter, so the bill arrived late and he had to pay a fine.",
+        "corrected_sentence": "He forgot to post the letter, so the bill arrived late and he had to pay a fine.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0003",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When the car broke down on the motorway, Tom stopped checking the map and called a mechanic instead.",
+        "correct_answer": "stopped to check",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When the car broke down on the motorway, Tom stopped checking the map and called a mechanic instead.",
+        "corrected_sentence": "When the car broke down on the motorway, Tom stopped to check the map and called a mechanic instead.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0004",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If the heating isn't working, try to turn the thermostat off and on again to see if that fixes the problem.",
+        "correct_answer": "try turning",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If the heating isn't working, try to turn the thermostat off and on again to see if that fixes the problem.",
+        "corrected_sentence": "If the heating isn't working, try turning the thermostat off and on again to see if that fixes the problem.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0005",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After finishing the first report, she went on to explain the new project for another hour, which exhausted everyone in the meeting.",
+        "correct_answer": "went on explaining",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After finishing the first report, she went on to explain the new project for another hour, which exhausted everyone in the meeting.",
+        "corrected_sentence": "After finishing the first report, she went on explaining the new project for another hour, which exhausted everyone in the meeting.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0006",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager regrets to inform the team that the annual bonus has already been paid and cannot be changed.",
+        "correct_answer": "regrets informing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager regrets to inform the team that the annual bonus has already been paid and cannot be changed.",
+        "corrected_sentence": "The manager regrets informing the team that the annual bonus has already been paid and cannot be changed.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_advanced_error_correction_0007",
+      "skill_ids": [
+        "verb_complementation_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Taking this job means to give up the flexible schedule you currently enjoy, so think carefully before you decide.",
+        "correct_answer": "means giving up",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Taking this job means to give up the flexible schedule you currently enjoy, so think carefully before you decide.",
+        "corrected_sentence": "Taking this job means giving up the flexible schedule you currently enjoy, so think carefully before you decide.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:08:08.955399+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

@@ -1,0 +1,1865 @@
+{
+  "skill_id": "second_conditional",
+  "skill_name": "Second Conditional",
+  "exercises": [
+    {
+      "id": "ex_second_conditional_cloze_0000",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Tom ___ (have) a car, he would drive to work every day instead of taking the bus.",
+        "correct_answer": "had",
+        "distractors": [
+          "would have",
+          "has",
+          "will have"
+        ],
+        "distractor_rationale": [
+          "would is never used in the if-clause of a second conditional; this is the most common learner error",
+          "present simple has signals a real, likely condition — a first conditional — not a hypothetical one",
+          "will have signals a first conditional about a real future possibility, not an imaginary present situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0001",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If I were taller, I ___ (join) the basketball team at school.",
+        "correct_answer": "would join",
+        "distractors": [
+          "will join",
+          "joined",
+          "would have joined"
+        ],
+        "distractor_rationale": [
+          "will join is used in a first conditional for a realistic future outcome, not a hypothetical one signalled by were",
+          "joined is past simple and cannot serve as the result clause verb in a conditional structure",
+          "would have joined is the result clause of a third conditional about an unreal past situation, not an unreal present one"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0002",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (travel) around the world if she had enough money saved in her account.",
+        "correct_answer": "would travel",
+        "distractors": [
+          "will travel",
+          "travels",
+          "would have travelled"
+        ],
+        "distractor_rationale": [
+          "will travel belongs to a first conditional expressing a realistic future result, but had signals a hypothetical condition",
+          "travels is a present simple form used for habits or facts, not for a hypothetical result clause",
+          "would have travelled is the result clause of a third conditional about an unreal past event, not an unreal present situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0003",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If she ___ (be) in charge of the office, she would change the meeting schedule immediately.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "would be",
+          "is"
+        ],
+        "distractor_rationale": [
+          "was is the informal spoken form; the formal subjunctive were is required here — this tests the were/was contrast directly",
+          "would be incorrectly places would in the if-clause, which is a classic learner error in second conditionals",
+          "is signals a first conditional with a real present condition, contradicting the hypothetical meaning of would change"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0004",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We would spend more time outdoors if the weather ___ (not be) so cold and rainy every afternoon.",
+        "correct_answer": "were not",
+        "distractors": [
+          "would not be",
+          "is not",
+          "was not"
+        ],
+        "distractor_rationale": [
+          "would not be incorrectly puts would in the if-clause; would belongs only in the result clause",
+          "is not signals a first conditional about a realistic present condition, but would spend signals a hypothetical situation",
+          "was not is the informal spoken alternative; the formal subjunctive were not is the target form being tested here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0005",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If David knew the answer, he ___ (tell) us right now instead of looking it up online.",
+        "correct_answer": "would tell",
+        "distractors": [
+          "will tell",
+          "would have told",
+          "tells"
+        ],
+        "distractor_rationale": [
+          "will tell is the result clause of a first conditional about a real possibility, but knew signals an imaginary present situation",
+          "would have told is the result clause of a third conditional about an unreal past event, not an unreal present one",
+          "tells is present simple, used for habits or facts, and cannot function as the result clause of a conditional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0006",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the supermarket ___ (stock) that brand of coffee, I would buy it every week without fail.",
+        "correct_answer": "stocked",
+        "distractors": [
+          "would stock",
+          "stocks",
+          "had stocked"
+        ],
+        "distractor_rationale": [
+          "would stock incorrectly places would in the if-clause; this is the most frequent second conditional error",
+          "stocks is present simple and creates a first conditional about a real situation, not a hypothetical one",
+          "had stocked is past perfect and belongs in the if-clause of a third conditional about an unreal past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0007",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If I ___ (be) you, I would talk to the manager about the problem before it gets worse.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "would be",
+          "am"
+        ],
+        "distractor_rationale": [
+          "was is the informal spoken alternative; the fixed expression if I were you requires the formal subjunctive were",
+          "would be incorrectly introduces would into the if-clause, which violates second conditional grammar",
+          "am is present simple and turns the sentence into an impossible first conditional, since the speaker cannot literally be the listener"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0008",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna would feel much less stressed about the exam if she ___ (not have) so many other assignments due at the same time.",
+        "correct_answer": "did not have",
+        "distractors": [
+          "would not have",
+          "has not had",
+          "had not had"
+        ],
+        "distractor_rationale": [
+          "would not have incorrectly places would in the if-clause; this is the classic second conditional learner error",
+          "has not had is present perfect and cannot form the if-clause of a second conditional describing a current hypothetical situation",
+          "had not had is past perfect and belongs in the if-clause of a third conditional about an unreal past event, not an unreal present one"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0009",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the new sports centre ___ (be) closer to our neighbourhood, we would probably go there three times a week.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "would be",
+          "is"
+        ],
+        "distractor_rationale": [
+          "was is the informal spoken variant; the formal subjunctive were is the target form being tested in this written context",
+          "would be incorrectly places would in the if-clause, which is a fundamental second conditional error",
+          "is creates a first conditional about a real present condition, but would go signals that the situation is imaginary and unlikely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0011",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If I were taller, I ___ (join) the basketball team at my local sports centre.",
+        "correct_answer": "would join",
+        "distractors": [
+          "will join",
+          "joined",
+          "would have joined"
+        ],
+        "distractor_rationale": [
+          "will join belongs to the first conditional and signals a real future outcome, not a hypothetical one",
+          "joined is the past simple and cannot function as the result clause of a second conditional without would",
+          "would have joined is the result clause of a third conditional about an unreal past situation, not an unreal present one"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0012",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If she ___ (be) in charge of the project, she would organise the schedule very differently from her manager.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "would be",
+          "is"
+        ],
+        "distractor_rationale": [
+          "was is the informal spoken form but the subjunctive were is required in formal written second conditional, which this item tests",
+          "would be in the if-clause is the classic learner error of placing would in the condition rather than the result",
+          "is signals a real present condition belonging to the first conditional, not a hypothetical situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0013",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark would probably ___ (travel) abroad more often if flights were not so expensive for his family.",
+        "correct_answer": "travel",
+        "distractors": [
+          "travelled",
+          "be travelling",
+          "have travelled"
+        ],
+        "distractor_rationale": [
+          "travelled is the past simple and cannot follow would in the result clause; would requires the base infinitive",
+          "be travelling creates would be travelling, a continuous form that does not fit the habitual frequency implied by more often",
+          "have travelled creates would have travelled, the result clause of a third conditional about an unreal past event, not an unreal present one"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_cloze_0014",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Anna ___ (speak) a second language fluently, she would apply for the international sales position that opened last month.",
+        "correct_answer": "spoke",
+        "distractors": [
+          "would speak",
+          "speaks",
+          "had spoken"
+        ],
+        "distractor_rationale": [
+          "would speak in the if-clause is the most frequent learner error; would belongs only in the result clause of a second conditional",
+          "speaks is present simple and turns the sentence into a first conditional about a real, achievable condition rather than an imaginary present ability",
+          "had spoken is the past perfect used in third conditional if-clauses referring to unreal past events, not unreal present abilities"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0000",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If she ___ more money, she would buy a bigger flat.",
+        "correct_answer": "had",
+        "distractors": [
+          "would have",
+          "has",
+          "would had"
+        ],
+        "distractor_rationale": [
+          "'would have' in the if-clause is a classic learner error — 'would' never appears in the if-clause of a second conditional",
+          "'has' uses present simple, which belongs to the first conditional for realistic situations, not hypothetical ones",
+          "'would had' is grammatically impossible in any conditional structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0001",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If I knew the answer, I ___ tell you straight away.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "distractor_rationale": [
+          "'will' belongs to the first conditional for likely future situations, not hypothetical ones signalled by past simple 'knew'",
+          "'am going to' expresses a real intention about the future and cannot pair with the hypothetical past simple 'knew'",
+          "'do' is a present simple auxiliary and cannot form a result clause in any conditional structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0002",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom would cycle to work every day if the roads ___ safer.",
+        "correct_answer": "were",
+        "distractors": [
+          "would be",
+          "are",
+          "will be"
+        ],
+        "distractor_rationale": [
+          "'would be' in the if-clause is the typical error of putting 'would' in the condition rather than the result clause",
+          "'are' uses present simple, making this a first conditional about a realistic possibility rather than a hypothetical one",
+          "'will be' also belongs to first conditional structures for likely future events, not hypothetical present situations"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0003",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If I ___ you, I would apologise to her before the meeting tomorrow.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "am",
+          "would be"
+        ],
+        "distractor_rationale": [
+          "'was' is the informal/non-standard form; the formal subjunctive 'were' is required in the fixed expression 'if I were you'",
+          "'am' uses present simple, which signals a real condition and belongs to the first conditional, not a hypothetical one",
+          "'would be' places 'would' in the if-clause, which is a core structural error in second conditional formation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0004",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Anna spoke better English, she ___ apply for the international job without any hesitation.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "would have",
+          "is going to"
+        ],
+        "distractor_rationale": [
+          "'will' signals a realistic first conditional expectation, but the past simple 'spoke' marks this as a hypothetical situation",
+          "'would have' forms the result clause of a third conditional (past hypothetical), not a second conditional about the present",
+          "'is going to' expresses a real future plan and cannot follow the hypothetical past simple 'spoke'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0005",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ travel abroad more often if flights were not so expensive.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "would have",
+          "do"
+        ],
+        "distractor_rationale": [
+          "'will' belongs to first conditional structures describing realistic outcomes, but 'were' signals a hypothetical second conditional",
+          "'would have' is the result form for the third conditional about past events, not a present hypothetical",
+          "'do' is a present simple auxiliary and cannot function as a modal result in any conditional structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0006",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If the company ___ its employees better, fewer people would leave every year.",
+        "correct_answer": "paid",
+        "distractors": [
+          "would pay",
+          "pays",
+          "has paid"
+        ],
+        "distractor_rationale": [
+          "'would pay' incorrectly places 'would' in the if-clause instead of the result clause, a core second conditional error",
+          "'pays' uses present simple, turning this into a first conditional about a real possibility rather than a hypothetical complaint",
+          "'has paid' uses present perfect, which describes a completed past action and cannot set up a hypothetical present condition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0007",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If he ___ closer to the city centre, he would not need to drive to work every morning.",
+        "correct_answer": "lived",
+        "distractors": [
+          "would live",
+          "lives",
+          "had lived"
+        ],
+        "distractor_rationale": [
+          "'would live' places 'would' in the if-clause, which is the most common structural error in second conditional formation",
+          "'lives' uses present simple, making this a first conditional about a real situation rather than an imaginary present one",
+          "'had lived' forms the if-clause of a third conditional about a past event, not a hypothetical present situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0008",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If it were not raining so heavily right now, we ___ sit outside and have lunch in the garden.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "could",
+          "would have"
+        ],
+        "distractor_rationale": [
+          "'will' signals a realistic first conditional expectation, but 'were not raining' marks this clearly as a hypothetical second conditional",
+          "'could' expresses ability or possibility rather than the direct hypothetical result that 'would' provides in a standard second conditional",
+          "'would have' forms the result clause of a third conditional about a past event, not a present hypothetical situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_multiple_choice_0009",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria ___ feel much less stressed if she worked four days a week instead of five.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "would have",
+          "is going to"
+        ],
+        "distractor_rationale": [
+          "'will' belongs to the first conditional for realistic or likely outcomes, but 'worked' signals a hypothetical second conditional situation",
+          "'would have' is the result form used in third conditional sentences about unreal past events, not present hypotheticals",
+          "'is going to' expresses a real, planned future event and is incompatible with the hypothetical past simple 'worked'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "second_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0000",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If she would have more free time, she would learn to play the guitar.",
+        "correct_answer": "had",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If she would have more free time, she would learn to play the guitar.",
+        "corrected_sentence": "If she had more free time, she would learn to play the guitar.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0001",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If I was a doctor, I would work in a hospital in a small town.",
+        "correct_answer": "were",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If I was a doctor, I would work in a hospital in a small town.",
+        "corrected_sentence": "If I were a doctor, I would work in a hospital in a small town.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0002",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If Mark will win the competition, he would buy a new bicycle for his son.",
+        "correct_answer": "won",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If Mark will win the competition, he would buy a new bicycle for his son.",
+        "corrected_sentence": "If Mark won the competition, he would buy a new bicycle for his son.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0003",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They would move to a bigger apartment if they will earn a higher salary.",
+        "correct_answer": "earned",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They would move to a bigger apartment if they will earn a higher salary.",
+        "corrected_sentence": "They would move to a bigger apartment if they earned a higher salary.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0004",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If he was in charge of the project, he would organise the meetings more carefully.",
+        "correct_answer": "were",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If he was in charge of the project, he would organise the meetings more carefully.",
+        "corrected_sentence": "If he were in charge of the project, he would organise the meetings more carefully.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0005",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If Anna would speak better English, she would apply for the international position at her company.",
+        "correct_answer": "spoke",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If Anna would speak better English, she would apply for the international position at her company.",
+        "corrected_sentence": "If Anna spoke better English, she would apply for the international position at her company.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0006",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If the weather is warmer this weekend, we would have a picnic in the park with the children.",
+        "correct_answer": "were",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If the weather is warmer this weekend, we would have a picnic in the park with the children.",
+        "corrected_sentence": "If the weather were warmer this weekend, we would have a picnic in the park with the children.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_second_conditional_error_correction_0007",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "David would saved a lot of money every month if he cooked at home instead of eating out.",
+        "correct_answer": "save",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "David would saved a lot of money every month if he cooked at home instead of eating out.",
+        "corrected_sentence": "David would save a lot of money every month if he cooked at home instead of eating out.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "second_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_second_conditional_cloze_0010",
+      "skill_ids": [
+        "second_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Tom ___ (have) a car, he would drive to work every day instead of taking the bus.",
+        "correct_answer": "had",
+        "distractors": [
+          "would have",
+          "has",
+          "will have"
+        ],
+        "distractor_rationale": [
+          "would is never used in the if-clause of a second conditional; this is the most common learner error",
+          "present simple has signals a real, likely condition — the first conditional — not a hypothetical situation",
+          "will have signals a first conditional about a real future possibility, not an imaginary present scenario"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:06:14.378831+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "second_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

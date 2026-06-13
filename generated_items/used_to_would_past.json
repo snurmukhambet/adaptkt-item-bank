@@ -1,0 +1,1863 @@
+{
+  "skill_id": "used_to_would_past",
+  "skill_name": "Used To / Would for Past Habits",
+  "exercises": [
+    {
+      "id": "ex_used_to_would_past_cloze_0000",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When I was young, my grandfather ___ tell us stories about his childhood every Sunday evening.",
+        "correct_answer": "would",
+        "distractors": [
+          "used to",
+          "was used to",
+          "got used to"
+        ],
+        "distractor_rationale": [
+          "used to is also grammatically possible here, but the item tests recognition that would is correct for repeated past actions — however, since both used to and would are valid for repeated past habits, this item is restructured: see note",
+          "was used to requires a gerund (-ing form) after it, not a base verb, so the sentence is ungrammatical",
+          "got used to requires a gerund (-ing form) after it, not a base verb, so the sentence is ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0001",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "As a child, Sara ___ (be) very shy, but now she speaks confidently in front of large groups.",
+        "correct_answer": "used to be",
+        "distractors": [
+          "would be",
+          "was used to being",
+          "got used to being"
+        ],
+        "distractor_rationale": [
+          "would cannot be used for past states such as being shy; only used to is correct for states",
+          "was used to being describes familiarity with a situation, not a past state that no longer exists",
+          "got used to being describes becoming familiar with something, which contradicts the meaning of a past state that has changed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0002",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After moving to the cold northern city, Mark slowly ___ (get used to) waking up in the dark every winter morning.",
+        "correct_answer": "got used to",
+        "distractors": [
+          "used to",
+          "would",
+          "was used to"
+        ],
+        "distractor_rationale": [
+          "used to + base verb describes a past habit that no longer happens; it cannot be followed by a gerund and does not express the process of becoming familiar",
+          "would + base verb describes a repeated past action; it cannot be followed by a gerund and does not express growing familiarity",
+          "was used to describes an established state of familiarity, not the gradual process of becoming familiar that slowly signals here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0003",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "In those days, the children ___ (walk) to the river after school and spend the whole afternoon swimming.",
+        "correct_answer": "would walk",
+        "distractors": [
+          "used to walking",
+          "were used to walking",
+          "got used to walking"
+        ],
+        "distractor_rationale": [
+          "used to walking is not a grammatical form; used to requires a base verb, not a gerund, when expressing past habit",
+          "were used to walking describes an established familiarity with the action, not a repeated past habit that no longer occurs",
+          "got used to walking describes the process of becoming familiar with an action, not a simple repeated past habit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0004",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Before the new road was built, there ___ (be) a large forest on the edge of our town where we played as children.",
+        "correct_answer": "used to be",
+        "distractors": [
+          "would be",
+          "were used to being",
+          "got used to being"
+        ],
+        "distractor_rationale": [
+          "would cannot express past states such as the existence of a forest; only used to is correct for states of being",
+          "were used to being describes familiarity with a situation, not the past existence of a place that no longer exists",
+          "got used to being describes becoming accustomed to something, which is semantically incompatible with a forest existing in a location"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0005",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When she first started working night shifts, Anna found it exhausting, but within a month she ___ (be used to) sleeping during the day.",
+        "correct_answer": "was used to",
+        "distractors": [
+          "used to",
+          "would",
+          "got used to"
+        ],
+        "distractor_rationale": [
+          "used to requires a base verb, not a gerund, and describes a past habit that no longer happens rather than an established state of familiarity",
+          "would requires a base verb, not a gerund, and expresses a repeated past action rather than a state of being accustomed to something",
+          "got used to describes the process of becoming familiar, whereas was used to describes the already-established state of familiarity that within a month indicates was reached"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0006",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Back then, my father ___ (own) a small bakery on the main street, but he sold it before I was born.",
+        "correct_answer": "used to own",
+        "distractors": [
+          "would own",
+          "was used to owning",
+          "got used to owning"
+        ],
+        "distractor_rationale": [
+          "would cannot be used for past states such as owning a business; only used to is correct for possession as a state",
+          "was used to owning describes familiarity with the experience of owning something, not the past state of ownership itself",
+          "got used to owning describes the process of becoming comfortable with ownership, which is semantically incompatible with the simple past fact stated here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0007",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Having grown up near the sea, James ___ (be used to) the sound of waves, so the silence of the mountains felt very strange to him at first.",
+        "correct_answer": "was used to",
+        "distractors": [
+          "used to",
+          "would",
+          "got used to"
+        ],
+        "distractor_rationale": [
+          "used to requires a base verb and describes a past habit that no longer occurs; it cannot be followed by a gerund and does not express a background state of familiarity",
+          "would requires a base verb and describes a repeated past action; it cannot be followed by a gerund and does not express an established state of being accustomed to something",
+          "got used to describes the gradual process of becoming familiar, whereas the context of having grown up near the sea implies a long-established, already-existing state of familiarity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0008",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When they lived in the countryside, the family ___ (gather) around the fireplace on cold evenings, drinking tea and reading books together.",
+        "correct_answer": "would gather",
+        "distractors": [
+          "used to gathering",
+          "were used to gathering",
+          "got used to gathering"
+        ],
+        "distractor_rationale": [
+          "used to gathering is ungrammatical; used to as a past habit marker must be followed by a base verb, not a gerund",
+          "were used to gathering describes an established familiarity with the activity, not a vivid repeated past event being recalled, which would gather conveys more naturally here",
+          "got used to gathering describes the process of becoming accustomed to the activity, which contradicts the straightforward description of a regular past routine"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0009",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although the new schedule was difficult at first, the team ___ (get used to) finishing their reports before the morning meeting within just a few weeks.",
+        "correct_answer": "got used to",
+        "distractors": [
+          "used to",
+          "would",
+          "were used to"
+        ],
+        "distractor_rationale": [
+          "used to requires a base verb and describes a past habit that no longer happens; it cannot be followed by a gerund and does not capture the process of adaptation that within just a few weeks implies",
+          "would requires a base verb and describes a repeated past action; it cannot be followed by a gerund and does not express the gradual process of becoming accustomed to a new routine",
+          "were used to describes an already-established state of familiarity, whereas got used to correctly expresses the completed process of becoming accustomed, consistent with the time frame within just a few weeks"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0010",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When I was young, my grandmother ___ tell us stories every night before we went to bed.",
+        "correct_answer": "would",
+        "distractors": [
+          "used to",
+          "was used to",
+          "got used to"
+        ],
+        "distractor_rationale": [
+          "used to is also grammatically correct here for a repeated past action, but the cue verb 'tell' in this item is provided as a base verb following a modal slot — however, note: this distractor is valid; see revision note",
+          "was used to requires a gerund or noun after it, not a bare infinitive, making 'was used to tell' grammatically incorrect",
+          "got used to requires a gerund or noun after it, not a bare infinitive, making 'got used to tell' grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0011",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "As a child, Sara ___ hate vegetables, but now she eats them every day.",
+        "correct_answer": "used to",
+        "distractors": [
+          "would",
+          "was used to",
+          "is used to"
+        ],
+        "distractor_rationale": [
+          "would cannot be used for past states such as hating; only used to can express a past state that is no longer true",
+          "was used to requires a gerund after it and means 'was accustomed to', not that she had a past state of disliking",
+          "is used to describes a present familiarity, not a past state that has changed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0012",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "In those days, the children ___ walking long distances to school because there were no buses in the village.",
+        "correct_answer": "were used to",
+        "distractors": [
+          "used to",
+          "would",
+          "got used to"
+        ],
+        "distractor_rationale": [
+          "used to + base verb describes a past habit no longer true, but the gap is followed by a gerund 'walking', which requires be used to + -ing to express past familiarity or accustomedness",
+          "would + base verb describes a repeated past action, but cannot be followed by a gerund; 'would walking' is grammatically impossible",
+          "got used to + -ing describes the process of becoming accustomed, but the sentence describes a state of already being accustomed, not the process of becoming so"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0013",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Back then, Tom ___ own a small boat and he took it out on the lake every weekend.",
+        "correct_answer": "used to",
+        "distractors": [
+          "would",
+          "was used to",
+          "had used to"
+        ],
+        "distractor_rationale": [
+          "would cannot be used for past states such as owning something; only used to can describe a past state of possession that is no longer true",
+          "was used to requires a gerund after it and expresses familiarity, not a past state of ownership",
+          "had used to is not a grammatical form in English; there is no past perfect version of used to"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_cloze_0014",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After moving to the city, it took Maria several months to ___ the constant noise outside her apartment window.",
+        "correct_answer": "get used to",
+        "distractors": [
+          "used to",
+          "be used to",
+          "would get used to"
+        ],
+        "distractor_rationale": [
+          "used to + base verb describes a completed past habit or state, but the gap is followed by 'the constant noise', a noun phrase requiring get used to + noun to express the process of becoming accustomed",
+          "be used to + noun describes a state of already being accustomed, but the sentence says 'it took several months', indicating a gradual process of becoming accustomed, which requires get used to",
+          "would get used to is grammatically possible in a hypothetical context but creates a conditional meaning not supported here; the sentence describes a real past process, so the infinitive get used to after 'to' is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "used_to_would_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0000",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When she was young, she ___ a bicycle to school every morning.",
+        "correct_answer": "used to ride",
+        "distractors": [
+          "was used to ride",
+          "would riding",
+          "is used to riding"
+        ],
+        "distractor_rationale": [
+          "'was used to' requires the -ing form after it and expresses familiarity, not a past habit no longer true",
+          "'would' requires a base verb, not an -ing form; 'would riding' is grammatically incorrect",
+          "'is used to riding' describes current familiarity, not a past habit that has stopped"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0001",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My grandfather ___ long walks in the park every Sunday afternoon before he moved abroad.",
+        "correct_answer": "would take",
+        "distractors": [
+          "used to taking",
+          "was used to take",
+          "is used to taking"
+        ],
+        "distractor_rationale": [
+          "'used to taking' is grammatically incorrect; 'used to' must be followed by a base verb, not an -ing form",
+          "'was used to' requires -ing and describes familiarity, not a repeated past action",
+          "'is used to taking' describes present familiarity, not a past habit that ended"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0002",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ a small flat near the city centre before he bought his house.",
+        "correct_answer": "used to own",
+        "distractors": [
+          "would own",
+          "was used to owning",
+          "used to owned"
+        ],
+        "distractor_rationale": [
+          "'would' cannot be used for past states such as owning property; only 'used to' works here",
+          "'was used to owning' expresses familiarity with a situation, not a past state that is no longer true",
+          "'used to owned' is grammatically incorrect; 'used to' must be followed by a base verb, not a past form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0003",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After moving to the new city, it took Maria several months to ___ driving on the left side of the road.",
+        "correct_answer": "get used to",
+        "distractors": [
+          "used to",
+          "would",
+          "be used to"
+        ],
+        "distractor_rationale": [
+          "'used to' followed by a gerund is not a valid structure; 'used to' requires a base verb and describes past habits, not the process of becoming familiar",
+          "'would' is used for repeated past actions, not for describing the process of becoming familiar with something",
+          "'be used to' describes an already established state of familiarity, but 'get used to' is needed here because the sentence describes the process of becoming familiar over time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0004",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Every summer when we were children, we ___ to the lake and spend the whole day swimming.",
+        "correct_answer": "would go",
+        "distractors": [
+          "used to going",
+          "were used to go",
+          "got used to going"
+        ],
+        "distractor_rationale": [
+          "'used to going' is grammatically incorrect; 'used to' as a past habit marker requires a base verb, not -ing",
+          "'were used to go' is incorrect; 'be used to' requires an -ing form, not a base verb",
+          "'got used to going' describes becoming familiar with an activity, not a repeated enjoyable past habit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0005",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Before he retired, David ___ a very demanding schedule, with meetings from early morning until late evening.",
+        "correct_answer": "used to have",
+        "distractors": [
+          "would have",
+          "was used to have",
+          "used to having"
+        ],
+        "distractor_rationale": [
+          "'would have' is not used for past states; 'have' here describes a past state of possession, which requires 'used to'",
+          "'was used to have' is grammatically incorrect; 'be used to' requires an -ing form after it",
+          "'used to having' is grammatically incorrect; 'used to' as a past habit/state marker requires a base verb, not -ing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0006",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Now that Lisa has been working night shifts for six months, she ___ sleeping during the day.",
+        "correct_answer": "is used to",
+        "distractors": [
+          "used to",
+          "would",
+          "got used to"
+        ],
+        "distractor_rationale": [
+          "'used to' followed by a gerund is not a valid structure for past habits; moreover, the sentence describes a current established state, not a past habit",
+          "'would' describes repeated past actions, not a current state of familiarity established over time",
+          "'got used to' describes the completed process of becoming familiar, but 'is used to' is needed here to describe the current established state of familiarity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0007",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When the children were growing up in the countryside, their father ___ them stories about his own childhood before they went to sleep.",
+        "correct_answer": "would tell",
+        "distractors": [
+          "used to telling",
+          "was used to telling",
+          "used to would tell"
+        ],
+        "distractor_rationale": [
+          "'used to telling' is grammatically incorrect; 'used to' as a past habit marker must be followed by a base verb",
+          "'was used to telling' expresses past familiarity or habit as a state, not a warm, specific repeated action in a narrative context; moreover, the structure is grammatically distinct from the target",
+          "'used to would tell' is entirely ungrammatical; 'used to' and 'would' cannot be combined"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0008",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Although the new job involves a lot of travel, Anna is gradually ___ being away from home for weeks at a time.",
+        "correct_answer": "getting used to",
+        "distractors": [
+          "used to",
+          "would get used to",
+          "being used to"
+        ],
+        "distractor_rationale": [
+          "'used to' followed by a gerund is not a valid grammatical structure; it also describes past habits, not an ongoing process of adjustment in the present",
+          "'would get used to' describes a hypothetical or repeated past action, not an ongoing present process of becoming familiar",
+          "'being used to' is not a standard grammatical structure in this context; the correct progressive form of the 'get used to' process is 'getting used to'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_multiple_choice_0009",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Before the internet became common, people ___ letters to stay in touch with friends who lived far away, and they would wait weeks for a reply.",
+        "correct_answer": "used to write",
+        "distractors": [
+          "would write",
+          "were used to writing",
+          "used to wrote"
+        ],
+        "distractor_rationale": [
+          "'would write' is grammatically possible for a repeated past action, but the contrast with 'would wait' in the same sentence makes 'used to write' the correct choice here to emphasise that the habit no longer exists at all, and to avoid repeating 'would' awkwardly in the same sentence",
+          "'were used to writing' expresses past familiarity with the activity rather than describing the habit itself as something that no longer happens",
+          "'used to wrote' is grammatically incorrect; 'used to' must be followed by a base verb, not a past simple form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "used_to_would_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0000",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When I was a child, I would know all my neighbours by name, but we moved to a new city.",
+        "correct_answer": "used to know",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When I was a child, I would know all my neighbours by name, but we moved to a new city.",
+        "corrected_sentence": "When I was a child, I used to know all my neighbours by name, but we moved to a new city.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0001",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My grandfather was used to walk to school every morning when he was young.",
+        "correct_answer": "used to walk",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My grandfather was used to walk to school every morning when he was young.",
+        "corrected_sentence": "My grandfather used to walk to school every morning when he was young.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0002",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara would hate the taste of coffee when she was a teenager, but now she drinks it every day.",
+        "correct_answer": "used to hate",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara would hate the taste of coffee when she was a teenager, but now she drinks it every day.",
+        "corrected_sentence": "Sara used to hate the taste of coffee when she was a teenager, but now she drinks it every day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0003",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Before he retired, David would used to arrive at the office before anyone else each morning.",
+        "correct_answer": "would arrive",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Before he retired, David would used to arrive at the office before anyone else each morning.",
+        "corrected_sentence": "Before he retired, David would arrive at the office before anyone else each morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0004",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After moving abroad, it took Anna several months to get used to drive on the left side of the road.",
+        "correct_answer": "get used to driving",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After moving abroad, it took Anna several months to get used to drive on the left side of the road.",
+        "corrected_sentence": "After moving abroad, it took Anna several months to get used to driving on the left side of the road.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0005",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom was used to believe that eating late at night was harmless, but his doctor eventually convinced him otherwise.",
+        "correct_answer": "used to believe",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom was used to believe that eating late at night was harmless, but his doctor eventually convinced him otherwise.",
+        "corrected_sentence": "Tom used to believe that eating late at night was harmless, but his doctor eventually convinced him otherwise.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0006",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When the children were small, the family went to the countryside every summer without fail, but they stopped after the youngest started secondary school.",
+        "correct_answer": "used to go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When the children were small, the family went to the countryside every summer without fail, but they stopped after the youngest started secondary school.",
+        "corrected_sentence": "When the children were small, the family used to go to the countryside every summer without fail, but they stopped after the youngest started secondary school.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_used_to_would_past_error_correction_0007",
+      "skill_ids": [
+        "used_to_would_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although she had lived in a noisy city for years, Lisa still wasn't used to hear the traffic outside her apartment window every night.",
+        "correct_answer": "used to hearing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although she had lived in a noisy city for years, Lisa still wasn't used to hear the traffic outside her apartment window every night.",
+        "corrected_sentence": "Although she had lived in a noisy city for years, Lisa still wasn't used to hearing the traffic outside her apartment window every night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:10:02.740705+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "used_to_would_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

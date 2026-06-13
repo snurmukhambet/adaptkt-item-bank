@@ -1,0 +1,1863 @@
+{
+  "skill_id": "conditionals_zero_first",
+  "skill_name": "Zero & First Conditional (If + present → result)",
+  "exercises": [
+    {
+      "id": "ex_conditionals_zero_first_cloze_0000",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you ___ (mix) red and blue paint, you get purple.",
+        "correct_answer": "mix",
+        "distractors": [
+          "will mix",
+          "mixed",
+          "are mixing"
+        ],
+        "distractor_rationale": [
+          "will in the if-clause is incorrect in zero conditional — this is a universal truth, not a future event",
+          "past simple cannot express a timeless scientific fact that is always true",
+          "present continuous cannot state a general rule that applies every time without exception"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0001",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Tom forgets his umbrella tomorrow, he ___ (get) wet on the way to work.",
+        "correct_answer": "will get",
+        "distractors": [
+          "gets",
+          "got",
+          "is getting"
+        ],
+        "distractor_rationale": [
+          "present simple in the result clause turns this into a zero conditional universal truth, but 'tomorrow' marks a specific future event requiring will",
+          "past simple cannot express a future result that depends on a condition happening tomorrow",
+          "present continuous cannot express a future result clause in a first conditional — will + base verb is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0002",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Plants always die if you ___ (not water) them regularly.",
+        "correct_answer": "don't water",
+        "distractors": [
+          "won't water",
+          "didn't water",
+          "aren't watering"
+        ],
+        "distractor_rationale": [
+          "won't in the if-clause is a classic error — the if-clause of zero conditional requires present simple, not will",
+          "past simple cannot express a timeless general truth about what always happens to plants",
+          "present continuous cannot state a habitual condition that applies universally every time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0003",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the weather is good this weekend, we ___ (have) a barbecue in the garden.",
+        "correct_answer": "will have",
+        "distractors": [
+          "have",
+          "would have",
+          "are having"
+        ],
+        "distractor_rationale": [
+          "present simple in the result clause would make this a zero conditional universal truth, but the specific time marker 'this weekend' shows it is a realistic future plan requiring will",
+          "would have belongs to the second conditional for hypothetical or unlikely situations, not a realistic future possibility",
+          "present continuous alone cannot serve as the result clause of a first conditional — will + base verb is the required structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0004",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you ___ (leave) metal objects outside in the rain, they rust within a few days.",
+        "correct_answer": "leave",
+        "distractors": [
+          "will leave",
+          "left",
+          "have left"
+        ],
+        "distractor_rationale": [
+          "will in the if-clause is incorrect — this describes a universal physical process, so both clauses take present simple in the zero conditional",
+          "past simple cannot express a timeless general truth about what always happens to metal in rain",
+          "present perfect in the if-clause cannot state a repeated general condition that applies every time without exception"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0005",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Unless Sara calls me before noon, I ___ (assume) she is not coming to the meeting.",
+        "correct_answer": "will assume",
+        "distractors": [
+          "assume",
+          "assumed",
+          "would assume"
+        ],
+        "distractor_rationale": [
+          "present simple in the result clause would make this a zero conditional fact, but 'before noon' marks a specific future situation requiring will",
+          "past simple cannot express a future result that depends on whether Sara calls or not",
+          "would assume belongs to the second conditional for hypothetical situations, but this is a realistic future possibility expressed with unless"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0006",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Every time the office printer runs out of paper, the display ___ (show) a red warning light.",
+        "correct_answer": "shows",
+        "distractors": [
+          "will show",
+          "showed",
+          "is showing"
+        ],
+        "distractor_rationale": [
+          "will show is incorrect here because 'every time' introduces a zero conditional describing a consistent mechanical fact, not a specific future event",
+          "past simple cannot describe a repeated present truth that happens automatically each time the paper runs out",
+          "present continuous cannot state a universal mechanical rule — it would imply the light is showing right now, not always"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0007",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the manager ___ (approve) the budget proposal at Friday's meeting, the team will start the project next month.",
+        "correct_answer": "approves",
+        "distractors": [
+          "will approve",
+          "approved",
+          "has approved"
+        ],
+        "distractor_rationale": [
+          "will in the if-clause is the most common first conditional error — the if-clause requires present simple even though the event is in the future",
+          "past simple cannot express a future condition that will be decided at Friday's meeting",
+          "present perfect in the if-clause shifts meaning to a completed past action, contradicting 'Friday's meeting' which is still in the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0008",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you apply too much heat to glass too quickly, it ___ (crack) because the material expands unevenly.",
+        "correct_answer": "cracks",
+        "distractors": [
+          "will crack",
+          "cracked",
+          "would crack"
+        ],
+        "distractor_rationale": [
+          "will crack is incorrect because the clause 'because the material expands unevenly' explains a physical law that is always true, making this a zero conditional requiring present simple in both clauses",
+          "past simple cannot express a scientific principle that holds true universally and at all times",
+          "would crack belongs to the second conditional for hypothetical situations, but this is an established physical fact, not a hypothesis"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0009",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the technician does not fix the server issue by this evening, the entire department ___ (lose) access to its files overnight.",
+        "correct_answer": "will lose",
+        "distractors": [
+          "loses",
+          "would lose",
+          "is going to lose"
+        ],
+        "distractor_rationale": [
+          "present simple in the result clause would make this a zero conditional universal truth, but 'by this evening' and 'overnight' mark a specific realistic future scenario requiring will",
+          "would lose belongs to the second conditional for unlikely or hypothetical situations, whereas this is presented as a genuine and realistic future risk",
+          "is going to lose, while sometimes acceptable for future plans, cannot function as the result clause of a first conditional — the standard structure requires will + base verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0010",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you leave milk out of the fridge for too long, it ___ (go) bad.",
+        "correct_answer": "goes",
+        "distractors": [
+          "will go",
+          "went",
+          "is going"
+        ],
+        "distractor_rationale": [
+          "will go is incorrect for zero conditional, which describes a universal scientific fact using present simple in both clauses",
+          "went is past simple and cannot express a timeless, always-true result",
+          "is going is present continuous and cannot describe a general, repeated outcome"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0011",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Tom ___ (not study) for his exam tomorrow, he will almost certainly fail it.",
+        "correct_answer": "does not study",
+        "distractors": [
+          "will not study",
+          "did not study",
+          "is not studying"
+        ],
+        "distractor_rationale": [
+          "will not study incorrectly places will inside the if-clause, which is not permitted in first conditional",
+          "did not study is past simple and cannot refer to a realistic future condition",
+          "is not studying is present continuous and cannot anchor a general first conditional condition about a future event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0012",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the team wins their match on Saturday, the manager ___ (give) everyone the following Monday off.",
+        "correct_answer": "will give",
+        "distractors": [
+          "gives",
+          "gave",
+          "is giving"
+        ],
+        "distractor_rationale": [
+          "gives uses present simple in the result clause, which only works for zero conditional universal truths, not a specific realistic future event on Saturday",
+          "gave is past simple and cannot express a future result that depends on a future condition",
+          "is giving is present continuous and cannot function as the result clause of a first conditional about a specific future outcome"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0013",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Every time you mix red and blue paint together, you ___ (get) purple — it never changes.",
+        "correct_answer": "get",
+        "distractors": [
+          "will get",
+          "got",
+          "are getting"
+        ],
+        "distractor_rationale": [
+          "will get is incorrect because the phrase 'every time' combined with 'it never changes' signals a universal, scientific truth requiring zero conditional with present simple in both clauses",
+          "got is past simple and cannot express a timeless, repeatable outcome",
+          "are getting is present continuous and cannot describe a general, invariable result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_cloze_0014",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the landlord ___ (not repair) the heating by Friday, the tenants will contact the housing authority to make a formal complaint.",
+        "correct_answer": "does not repair",
+        "distractors": [
+          "will not repair",
+          "has not repaired",
+          "did not repair"
+        ],
+        "distractor_rationale": [
+          "will not repair incorrectly inserts will into the if-clause, which is grammatically forbidden in first conditional regardless of the future time reference",
+          "has not repaired uses present perfect, which cannot set up a future condition with a specific deadline such as 'by Friday' in a first conditional if-clause",
+          "did not repair is past simple and cannot express a condition that has not yet occurred but is expected before a future deadline"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "conditionals_zero_first_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0000",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If you mix blue and yellow paint, you ___ green.",
+        "correct_answer": "get",
+        "distractors": [
+          "will get",
+          "got",
+          "would get"
+        ],
+        "distractor_rationale": [
+          "will get is incorrect in zero conditional result clauses describing universal scientific facts; present simple is required",
+          "got is past simple and cannot describe a timeless, repeatable result",
+          "would get belongs to the second conditional for hypothetical situations, not universal truths"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0001",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Sara finishes her homework early tonight, she ___ her favourite TV show.",
+        "correct_answer": "will watch",
+        "distractors": [
+          "watches",
+          "watched",
+          "would watch"
+        ],
+        "distractor_rationale": [
+          "watches is present simple, which describes habits or zero-conditional facts, not a specific realistic future outcome",
+          "watched is past simple and cannot refer to a future result",
+          "would watch belongs to the second conditional for unreal or imaginary situations, not realistic future possibilities"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0002",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Water ___ if you cool it to zero degrees Celsius.",
+        "correct_answer": "freezes",
+        "distractors": [
+          "will freeze",
+          "froze",
+          "would freeze"
+        ],
+        "distractor_rationale": [
+          "will freeze introduces a future modal that is inappropriate for a universal scientific law described by zero conditional",
+          "froze is past simple and cannot state a timeless physical fact",
+          "would freeze signals a hypothetical second conditional, not a zero-conditional scientific truth"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0003",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If you ___ to the gym regularly, your fitness level improves over time.",
+        "correct_answer": "go",
+        "distractors": [
+          "will go",
+          "went",
+          "would go"
+        ],
+        "distractor_rationale": [
+          "will go is incorrect in the if-clause of any conditional; the if-clause always uses present simple",
+          "went is past simple and breaks the zero-conditional pattern of present + present for general truths",
+          "would go belongs in the if-clause of a second conditional for unreal situations, not a general health fact"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0004",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If the weather stays sunny this afternoon, we ___ a picnic in the park.",
+        "correct_answer": "will have",
+        "distractors": [
+          "have",
+          "had",
+          "would have"
+        ],
+        "distractor_rationale": [
+          "have is present simple, which implies a habitual or universal truth rather than a specific realistic future plan",
+          "had is past simple and cannot refer to a future event conditioned on this afternoon's weather",
+          "would have signals a second conditional for hypothetical or unreal situations, not a realistic future possibility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0005",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If you ___ too much sugar in your coffee, it tastes very sweet.",
+        "correct_answer": "put",
+        "distractors": [
+          "will put",
+          "putting",
+          "would put"
+        ],
+        "distractor_rationale": [
+          "will put is incorrect in the if-clause; the if-clause in both zero and first conditional requires present simple, never will",
+          "putting is a present participle and cannot function as the main verb in the if-clause without an auxiliary",
+          "would put belongs to the second conditional and cannot appear in the if-clause of a zero conditional describing a universal taste fact"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0006",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Mark doesn't leave the office by six o'clock this evening, he ___ the last train home.",
+        "correct_answer": "will miss",
+        "distractors": [
+          "misses",
+          "missed",
+          "would miss"
+        ],
+        "distractor_rationale": [
+          "misses is present simple, which implies a habitual or general truth rather than a specific realistic future consequence this evening",
+          "missed is past simple and cannot describe a future result that depends on tonight's actions",
+          "would miss belongs to the second conditional for imaginary scenarios, not a realistic and imminent future consequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0007",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If you leave fresh milk outside the fridge on a warm day, it ___ within a few hours.",
+        "correct_answer": "goes off",
+        "distractors": [
+          "will go off",
+          "went off",
+          "would go off"
+        ],
+        "distractor_rationale": [
+          "will go off introduces a future modal inappropriate for a zero conditional describing a universal biological fact about food spoilage",
+          "went off is past simple and cannot express a timeless, repeatable result that always happens under these conditions",
+          "would go off signals a second conditional for hypothetical situations, not a predictable scientific truth about milk"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0008",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Anna submits her job application before the deadline on Friday, the manager ___ it by the end of next week.",
+        "correct_answer": "will review",
+        "distractors": [
+          "reviews",
+          "reviewed",
+          "is reviewing"
+        ],
+        "distractor_rationale": [
+          "reviews is present simple, which cannot express a specific future result that depends on Anna's action before Friday's deadline",
+          "reviewed is past simple and is incompatible with a future consequence occurring next week",
+          "is reviewing is present continuous, which describes an action already in progress now, not a future result contingent on Friday's submission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_multiple_choice_0009",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If the team ___ to agree on a plan during tomorrow's meeting, the project deadline will almost certainly be delayed.",
+        "correct_answer": "fails",
+        "distractors": [
+          "will fail",
+          "failed",
+          "would fail"
+        ],
+        "distractor_rationale": [
+          "will fail is incorrect in the if-clause; the if-clause of a first conditional must use present simple, never will",
+          "failed is past simple and cannot appear in the if-clause of a first conditional referring to tomorrow's meeting",
+          "would fail belongs in the if-clause of a second conditional for unreal hypotheticals, not a realistic future risk about tomorrow"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "conditionals_zero_first_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0000",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If you heat ice, it melted.",
+        "correct_answer": "it melts",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If you heat ice, it melted.",
+        "corrected_sentence": "If you heat ice, it melts.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0001",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If she will pass the exam next month, she gets a place at the college.",
+        "correct_answer": "she passes",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If she will pass the exam next month, she gets a place at the college.",
+        "corrected_sentence": "If she passes the exam next month, she gets a place at the college.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0002",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If the bus is late this evening, I miss my connection at the central station.",
+        "correct_answer": "I will miss",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If the bus is late this evening, I miss my connection at the central station.",
+        "corrected_sentence": "If the bus is late this evening, I will miss my connection at the central station.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0003",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If you will leave food out overnight, bacteria grow on it very quickly.",
+        "correct_answer": "you leave",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If you will leave food out overnight, bacteria grow on it very quickly.",
+        "corrected_sentence": "If you leave food out overnight, bacteria grow on it very quickly.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0004",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When David gets a job offer from the company next week, he will need to decide quickly.",
+        "correct_answer": "If David gets",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When David gets a job offer from the company next week, he will need to decide quickly.",
+        "corrected_sentence": "If David gets a job offer from the company next week, he will need to decide quickly.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0005",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If the manager will approve the new schedule tomorrow, the whole team starts the project on Monday.",
+        "correct_answer": "the manager approves",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If the manager will approve the new schedule tomorrow, the whole team starts the project on Monday.",
+        "corrected_sentence": "If the manager approves the new schedule tomorrow, the whole team starts the project on Monday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0006",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If you mix red and blue paint together, you will get purple.",
+        "correct_answer": "you get",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If you mix red and blue paint together, you will get purple.",
+        "corrected_sentence": "If you mix red and blue paint together, you get purple.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_conditionals_zero_first_error_correction_0007",
+      "skill_ids": [
+        "conditionals_zero_first"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If Anna doesn't book the hotel room by Friday, she will found that all the good options are already taken.",
+        "correct_answer": "she will find",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If Anna doesn't book the hotel room by Friday, she will found that all the good options are already taken.",
+        "corrected_sentence": "If Anna doesn't book the hotel room by Friday, she will find that all the good options are already taken.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:16:16.761378+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "conditionals_zero_first_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

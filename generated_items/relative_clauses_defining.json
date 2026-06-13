@@ -1,0 +1,1863 @@
+{
+  "skill_id": "relative_clauses_defining",
+  "skill_name": "Defining Relative Clauses",
+  "exercises": [
+    {
+      "id": "ex_relative_clauses_defining_cloze_0000",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The man ___ fixed our washing machine charged a very fair price.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "what",
+          "whom"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not people; using it here is a classic learner error when referring to a person",
+          "what cannot introduce a defining relative clause; it is used in exclamations or noun clauses",
+          "whom is the object form of who; here the relative pronoun is the subject of 'fixed', so whom is grammatically wrong"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0001",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The café ___ we had lunch last Sunday is closing down next month.",
+        "correct_answer": "where",
+        "distractors": [
+          "which",
+          "that",
+          "when"
+        ],
+        "distractor_rationale": [
+          "which cannot follow a place noun to indicate location where an event happened without a preposition; 'the café which we had lunch' is ungrammatical without 'in'",
+          "that cannot replace where to indicate the location of an activity directly; 'the café that we had lunch' is ungrammatical without 'in'",
+          "when introduces a time clause, not a place clause; a café is a location, not a time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0002",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She works with a colleague ___ laptop is always running out of battery.",
+        "correct_answer": "whose",
+        "distractors": [
+          "who",
+          "which",
+          "that"
+        ],
+        "distractor_rationale": [
+          "who introduces a subject or object clause about a person, not a possessive relationship; 'who laptop' is ungrammatical",
+          "which is used for things and cannot express possession; 'which laptop' would need an apostrophe construction and a different clause structure",
+          "that cannot express possession; 'that laptop' does not create a grammatical possessive relative clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0003",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The documentary ___ we watched on television last night was about ocean pollution.",
+        "correct_answer": "that",
+        "distractors": [
+          "which it",
+          "what",
+          "who"
+        ],
+        "distractor_rationale": [
+          "adding 'it' after the relative pronoun creates a double-subject error; the relative pronoun already functions as the object of 'watched'",
+          "what cannot introduce a defining relative clause modifying a specific noun; it is used in nominal clauses without an antecedent",
+          "who is used for people, not for things like a documentary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0004",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor ___ treated my father after his accident has retired from the hospital.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "whose",
+          "what"
+        ],
+        "distractor_rationale": [
+          "which is for things, not people; using which for a doctor is a core learner error this item is designed to diagnose",
+          "whose signals possession; 'the doctor whose treated' is ungrammatical because no possessive relationship is expressed here",
+          "what cannot introduce a defining relative clause that modifies a noun antecedent like 'the doctor'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0005",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you remember the summer ___ we all stayed at the house by the lake?",
+        "correct_answer": "when",
+        "distractors": [
+          "where",
+          "which",
+          "that"
+        ],
+        "distractor_rationale": [
+          "where introduces a place clause; 'the summer where we stayed' is ungrammatical because summer is a time, not a location",
+          "which would require a preposition before it to be grammatical here: 'the summer in which'; without the preposition, 'the summer which we stayed' is ungrammatical",
+          "that can sometimes replace when in informal use, but in this batch it is the distractor because 'the summer that we all stayed at' requires the preposition 'in' or omission of 'at', making the bare 'that' version awkward and non-standard in this construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0006",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The report ___ the manager asked us to finish by Friday is still incomplete.",
+        "correct_answer": "that",
+        "distractors": [
+          "that it",
+          "what",
+          "which it"
+        ],
+        "distractor_rationale": [
+          "adding 'it' after 'that' creates an illegal pronoun copy; the relative pronoun 'that' already fills the object slot of 'finish'",
+          "what cannot modify a specific noun antecedent like 'the report'; it introduces free relative clauses without a preceding noun",
+          "adding 'it' after 'which' creates the same pronoun-copy error; the relative pronoun already serves as the object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0007",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The engineer ___ designs were selected for the new bridge project will lead the construction team.",
+        "correct_answer": "whose",
+        "distractors": [
+          "who",
+          "which",
+          "that"
+        ],
+        "distractor_rationale": [
+          "who introduces a subject or object relative clause about a person, but cannot link a person to their possession; 'the engineer who designs' changes the meaning entirely and makes 'designs' the verb rather than the noun",
+          "which is for things and cannot express possession of a human subject; 'the engineer which designs' is doubly wrong",
+          "that cannot express a possessive relationship; 'the engineer that designs' again reinterprets 'designs' as a verb, producing a different and contextually incorrect meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0008",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The neighbourhood ___ she grew up has changed dramatically since the new shopping centre was built.",
+        "correct_answer": "where",
+        "distractors": [
+          "which",
+          "that",
+          "in that"
+        ],
+        "distractor_rationale": [
+          "which alone is ungrammatical here because growing up requires a locative relationship; the correct prepositional form would be 'in which', not bare 'which'",
+          "that alone is ungrammatical here for the same reason; 'the neighbourhood that she grew up' is missing the preposition 'in' that the verb phrase requires",
+          "'in that' is not a standard relative pronoun construction in modern English; it sounds archaic and is not an accepted alternative to 'where' in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0009",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The only candidate ___ application impressed the interview panel was offered the position immediately.",
+        "correct_answer": "whose",
+        "distractors": [
+          "who",
+          "that",
+          "which"
+        ],
+        "distractor_rationale": [
+          "who introduces a subject or object clause and cannot link the candidate to their application in a possessive way; 'the candidate who application' is ungrammatical",
+          "that cannot express possession; 'the candidate that application impressed' is ungrammatical because 'application' is not the subject of the relative clause but a possessed noun",
+          "which is used for things and cannot express the possessive relationship between a person and their application; 'the candidate which application' is ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0010",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The man ___ fixed our washing machine charged a very reasonable price.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "what",
+          "whom"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not for people; the antecedent 'man' is a person",
+          "what cannot introduce a defining relative clause modifying a noun; it has no antecedent",
+          "whom is the object form of who, but here the relative pronoun is the subject of 'fixed', so who is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0011",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This is the café ___ we had our first team meeting last year.",
+        "correct_answer": "where",
+        "distractors": [
+          "which",
+          "that",
+          "when"
+        ],
+        "distractor_rationale": [
+          "which introduces a clause about a thing but cannot replace a locative adverbial; 'the café which we had our meeting' requires a preposition ('in which') to be grammatical",
+          "that introduces a clause about a thing but also requires a preposition here ('at that') to be grammatical; bare 'that' cannot function as a place adverbial",
+          "when introduces a time clause modifying a time noun; 'café' is a place noun, not a time noun, so when is semantically wrong"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0012",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The colleague ___ desk is next to mine always plays loud music during lunch.",
+        "correct_answer": "whose",
+        "distractors": [
+          "who",
+          "which",
+          "that"
+        ],
+        "distractor_rationale": [
+          "who is a subject or object pronoun and cannot signal possession; 'who desk' is ungrammatical",
+          "which is used for things and cannot signal possession of a person's desk; 'which desk' would require a preposition and changes the meaning entirely",
+          "that cannot express possession; 'that desk' would make 'desk' the object of a second clause, producing a grammatically broken sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0013",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The report ___ the manager sent to all staff yesterday contained some surprising figures.",
+        "correct_answer": "that",
+        "distractors": [
+          "which it",
+          "what",
+          "who"
+        ],
+        "distractor_rationale": [
+          "'which it' keeps a redundant object pronoun 'it' after the relative pronoun; in English, the object pronoun must be omitted when a relative pronoun fills that role",
+          "what cannot introduce a defining relative clause that modifies a specific noun antecedent ('the report'); what is used when there is no antecedent",
+          "who is used for people; 'the report' is a thing, so who is semantically incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_cloze_0014",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The summer ___ Sara spent three months volunteering at a community centre was the most rewarding period of her life.",
+        "correct_answer": "when",
+        "distractors": [
+          "which",
+          "that",
+          "where"
+        ],
+        "distractor_rationale": [
+          "which could modify 'summer' as a noun, but the clause that follows is a full clause with its own subject and object ('Sara spent three months'); 'which' would require a preposition ('in which') to be grammatical, whereas 'when' functions directly as a time adverbial",
+          "that could in principle modify 'summer', but the clause is already complete with subject 'Sara', verb 'spent', and object; bare 'that' would leave the time relationship unexpressed and the clause syntactically strained without a preposition",
+          "where is used for places; 'summer' is a time expression, not a location, so where is semantically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "relative_clauses_defining_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0000",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The man ___ lives next door works at the local hospital.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "what",
+          "whose"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not people — a core relative pronoun error",
+          "what cannot introduce a defining relative clause modifying a noun",
+          "whose indicates possession and requires a following noun, making the clause grammatically broken here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0001",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "This is the café ___ we had lunch on my birthday last year.",
+        "correct_answer": "where",
+        "distractors": [
+          "which",
+          "that",
+          "who"
+        ],
+        "distractor_rationale": [
+          "which requires a verb directly after it, but 'we had lunch' already has a subject and no missing object, making the clause ungrammatical with which",
+          "that requires a verb or object immediately after, producing 'the café that we had lunch' which omits the required locative meaning",
+          "who is used for people, not places"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0002",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She is the teacher ___ classes are always very interesting and enjoyable.",
+        "correct_answer": "whose",
+        "distractors": [
+          "who",
+          "which",
+          "that"
+        ],
+        "distractor_rationale": [
+          "who cannot directly precede a noun — it requires a verb next, producing an ungrammatical structure",
+          "which is used for things, not people, and cannot precede a noun to show possession",
+          "that cannot show possession and cannot directly precede a noun in this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0003",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The laptop ___ I bought last month has already stopped working properly.",
+        "correct_answer": "that",
+        "distractors": [
+          "which I bought it",
+          "what",
+          "who"
+        ],
+        "distractor_rationale": [
+          "adding 'it' after the relative pronoun repeats the object, which is a typical learner error when the relative pronoun is already filling the object role",
+          "what cannot introduce a defining relative clause that modifies a specific noun such as 'laptop'",
+          "who is used for people, not objects like a laptop"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0004",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Do you remember the summer ___ we travelled across the country together?",
+        "correct_answer": "when",
+        "distractors": [
+          "where",
+          "which",
+          "that we travelled it"
+        ],
+        "distractor_rationale": [
+          "where refers to a place, not a time period such as 'summer'",
+          "which requires the clause to have a missing object or subject, but 'we travelled across the country' is already complete",
+          "adding 'it' after the relative pronoun repeats the object, which is incorrect when the relative pronoun already fills that role"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0005",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The colleague ___ report was chosen by the manager will present it at the conference.",
+        "correct_answer": "whose",
+        "distractors": [
+          "who",
+          "which",
+          "that"
+        ],
+        "distractor_rationale": [
+          "who cannot directly precede a noun — it introduces a clause with a verb, not a possessive noun phrase",
+          "which refers to things and cannot show possession between a person and their report",
+          "that cannot indicate possession and cannot directly precede a noun in a possessive structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0006",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The film ___ won the award last night was directed by a first-time director.",
+        "correct_answer": "that",
+        "distractors": [
+          "who",
+          "what",
+          "which won it"
+        ],
+        "distractor_rationale": [
+          "who is used for people, not films",
+          "what cannot introduce a defining relative clause modifying a specific noun",
+          "adding 'it' after the relative pronoun repeats the subject, which is incorrect — the relative pronoun already serves as the subject of the clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0007",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The doctor ___ treated my father after his accident retired from the clinic last spring.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "whom",
+          "that she"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not people — a persistent learner error when the antecedent is a professional role",
+          "whom is the object form and cannot be used when the relative pronoun is the subject of the clause ('treated my father')",
+          "adding 'she' after the relative pronoun repeats the subject, which is incorrect when the relative pronoun already fills the subject role"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0008",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The neighbourhood ___ I grew up has changed completely since the new shopping centre was built.",
+        "correct_answer": "where",
+        "distractors": [
+          "which",
+          "that I grew up in it",
+          "when"
+        ],
+        "distractor_rationale": [
+          "which requires a missing subject or object in the clause, but 'I grew up' is already complete — a preposition 'in' would be needed, making it much more complex and unnatural in this context",
+          "adding 'in it' after the relative pronoun repeats the locative object, which is incorrect when the relative pronoun already covers that role",
+          "when refers to a time, not a place such as a neighbourhood"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_multiple_choice_0009",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The proposal ___ the team submitted to the board last Friday was approved without any changes.",
+        "correct_answer": "that",
+        "distractors": [
+          "which they submitted it",
+          "what",
+          "who"
+        ],
+        "distractor_rationale": [
+          "adding 'they submitted it' introduces a redundant subject and object — the relative pronoun already functions as the object of 'submitted', so no extra pronoun is needed",
+          "what cannot introduce a defining relative clause modifying a specific noun such as 'proposal'",
+          "who is used for people, not inanimate things like a proposal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "relative_clauses_defining_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0000",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The woman which works at the reception desk always greets visitors with a smile.",
+        "correct_answer": "who",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The woman which works at the reception desk always greets visitors with a smile.",
+        "corrected_sentence": "The woman who works at the reception desk always greets visitors with a smile.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0001",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The bag what she left on the bus was never returned to her.",
+        "correct_answer": "that",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The bag what she left on the bus was never returned to her.",
+        "corrected_sentence": "The bag that she left on the bus was never returned to her.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0002",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The doctor which treated my father last year has now moved to another hospital.",
+        "correct_answer": "who",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The doctor which treated my father last year has now moved to another hospital.",
+        "corrected_sentence": "The doctor who treated my father last year has now moved to another hospital.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0003",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The report that my manager asked me to write it needs to be finished by Friday.",
+        "correct_answer": "to write",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The report that my manager asked me to write it needs to be finished by Friday.",
+        "corrected_sentence": "The report that my manager asked me to write needs to be finished by Friday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0004",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Students who they miss more than three classes will not be allowed to take the final exam.",
+        "correct_answer": "who miss",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Students who they miss more than three classes will not be allowed to take the final exam.",
+        "corrected_sentence": "Students who miss more than three classes will not be allowed to take the final exam.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0005",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The neighbourhood where I grew up in has changed completely since the new shopping centre was built.",
+        "correct_answer": "where I grew up",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The neighbourhood where I grew up in has changed completely since the new shopping centre was built.",
+        "corrected_sentence": "The neighbourhood where I grew up has changed completely since the new shopping centre was built.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0006",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The colleague, whose project was selected for the award, will present her findings at next month's conference.",
+        "correct_answer": "The colleague whose project was selected for the award",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The colleague, whose project was selected for the award, will present her findings at next month's conference.",
+        "corrected_sentence": "The colleague whose project was selected for the award will present her findings at next month's conference.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_relative_clauses_defining_error_correction_0007",
+      "skill_ids": [
+        "relative_clauses_defining"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The summer when I spent three months volunteering abroad was the most rewarding experience of my life.",
+        "correct_answer": "when I spent",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The summer when I spent three months volunteering abroad was the most rewarding experience of my life.",
+        "corrected_sentence": "The summer I spent three months volunteering abroad was the most rewarding experience of my life.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:22:15.821073+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "relative_clauses_defining_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

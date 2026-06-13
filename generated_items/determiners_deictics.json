@@ -1,0 +1,1863 @@
+{
+  "skill_id": "determiners_deictics",
+  "skill_name": "Demonstratives & Deictics (This/That/Other)",
+  "exercises": [
+    {
+      "id": "ex_determiners_deictics_cloze_0000",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ is my bag — I am holding it right now.",
+        "correct_answer": "This",
+        "distractors": [
+          "That",
+          "These",
+          "Those"
+        ],
+        "distractor_rationale": [
+          "that refers to something far from the speaker, but the speaker is holding the bag right now",
+          "these is plural and cannot refer to a single bag",
+          "those is plural and refers to distant items, not a single item in the speaker's hands"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0001",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Can you see ___ bird on the roof across the street?",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "this refers to something near the speaker, but the bird is across the street, far away",
+          "these is plural and cannot refer to a single bird",
+          "those is plural and cannot refer to a single bird"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0002",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ shoes next to the door are too small for me.",
+        "correct_answer": "These",
+        "distractors": [
+          "This",
+          "That",
+          "Those"
+        ],
+        "distractor_rationale": [
+          "this is singular and cannot agree with the plural noun shoes",
+          "that is singular and refers to something far from the speaker, but the shoes are right next to the door near the speaker",
+          "those refers to plural items far from the speaker, but the shoes are right next to the door, indicating proximity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0003",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I don't want ___ jacket in the window over there — it looks too formal for me.",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "this refers to something near the speaker, but the jacket is in a window over there, indicating distance",
+          "these is plural and cannot refer to a single jacket",
+          "those is plural and cannot refer to a single jacket"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0004",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria handed me ___ documents she had in her hand, and I put them on the desk.",
+        "correct_answer": "these",
+        "distractors": [
+          "those",
+          "this",
+          "that"
+        ],
+        "distractor_rationale": [
+          "those refers to plural items far from both speaker and listener, but Maria is handing the documents directly to the speaker, making them proximate",
+          "this is singular and cannot agree with the plural noun documents",
+          "that is singular and refers to something distant, not plural items being handed over"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0005",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I prefer ___ coffee shop on the corner to the one we visited last week.",
+        "correct_answer": "this",
+        "distractors": [
+          "that",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "that implies distance from the speaker, but the contrast with 'the one we visited last week' establishes this shop as the current, nearby reference point",
+          "these is plural and cannot refer to a single coffee shop",
+          "those is plural and cannot refer to a single coffee shop"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0006",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at ___ clouds above the mountains in the distance — it might rain later.",
+        "correct_answer": "those",
+        "distractors": [
+          "these",
+          "this",
+          "that"
+        ],
+        "distractor_rationale": [
+          "these refers to plural items near the speaker, but the clouds are above distant mountains, not close by",
+          "this is singular and cannot refer to the plural noun clouds",
+          "that is singular and cannot refer to the plural noun clouds"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0007",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager explained ___ new policy to the team during the meeting, and everyone agreed it was fair.",
+        "correct_answer": "this",
+        "distractors": [
+          "that",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "that would imply the policy is distant or already past in context, but the meeting is the current situation being described, making the policy immediately present",
+          "these is plural and cannot agree with the singular noun policy",
+          "those is plural and cannot agree with the singular noun policy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0008",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James said he remembered ___ long conversations they used to have years ago when they were students.",
+        "correct_answer": "those",
+        "distractors": [
+          "these",
+          "this",
+          "that"
+        ],
+        "distractor_rationale": [
+          "these implies proximity in time or space, but the conversations happened years ago and are psychologically distant from the present moment",
+          "this is singular and cannot agree with the plural noun conversations",
+          "that is singular and cannot agree with the plural noun conversations"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0009",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I have read ___ report you emailed me an hour ago, and I have a few questions about the figures in it.",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "this would imply the report is physically near the speaker right now, but it was received by email, placing it at a conceptual distance from the speaker's immediate environment",
+          "these is plural and cannot agree with the singular noun report",
+          "those is plural and cannot agree with the singular noun report"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0010",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ books on the shelf next to you are mine.",
+        "correct_answer": "Those",
+        "distractors": [
+          "This",
+          "That",
+          "These"
+        ],
+        "distractor_rationale": [
+          "this is singular and cannot modify the plural noun 'books'",
+          "that is singular and cannot modify the plural noun 'books'",
+          "these refers to things near the speaker, but the books are next to the listener, not the speaker"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0011",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I love ___ cake you made — it tastes amazing!",
+        "correct_answer": "this",
+        "distractors": [
+          "those",
+          "these",
+          "that"
+        ],
+        "distractor_rationale": [
+          "those is plural and cannot modify the singular noun 'cake'",
+          "these is plural and cannot modify the singular noun 'cake'",
+          "that refers to something far from the speaker, but the speaker is clearly eating or holding the cake right now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0012",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Could you hand me ___ scissors that are on the table across the room, please?",
+        "correct_answer": "those",
+        "distractors": [
+          "these",
+          "this",
+          "that"
+        ],
+        "distractor_rationale": [
+          "these refers to items near the speaker, but the scissors are across the room, away from the speaker",
+          "this is singular and cannot modify the plural noun 'scissors'",
+          "that is singular and cannot modify the plural noun 'scissors'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0013",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I tried on two jackets at the shop, but ___ one I'm wearing right now fits much better than the other.",
+        "correct_answer": "this",
+        "distractors": [
+          "that",
+          "those",
+          "these"
+        ],
+        "distractor_rationale": [
+          "that refers to something away from the speaker, but the jacket is on the speaker's body right now",
+          "those is plural and cannot modify the singular noun 'one'",
+          "these is plural and cannot modify the singular noun 'one'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_cloze_0014",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When the manager showed us two office designs, we all agreed that ___ layout displayed on the far wall was too complicated to use every day.",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "those",
+          "these"
+        ],
+        "distractor_rationale": [
+          "this refers to something near the speaker, but the layout is on the far wall, away from the speaker",
+          "those is plural and cannot modify the singular noun 'layout'",
+          "these is plural and cannot modify the singular noun 'layout'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "determiners_deictics_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0000",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Can you pass me ___ cup? It's right next to you.",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "'this' signals proximity to the speaker, but the cup is next to the listener, not the speaker",
+          "'these' is plural and cannot refer to a single cup",
+          "'those' is plural and cannot refer to a single cup"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0001",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look at ___ shoes I'm wearing! Do you like them?",
+        "correct_answer": "these",
+        "distractors": [
+          "this",
+          "that",
+          "those"
+        ],
+        "distractor_rationale": [
+          "'this' is singular and cannot refer to plural shoes",
+          "'that' is singular and signals distance from the speaker, but the shoes are on the speaker's feet",
+          "'those' signals distance from the speaker, but the shoes are on the speaker's body, making them near"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0002",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I don't want ___ sandwich. Can I have a different one, please?",
+        "correct_answer": "this",
+        "distractors": [
+          "the",
+          "these",
+          "that"
+        ],
+        "distractor_rationale": [
+          "'the' is a definite article and does not indicate that the sandwich is directly in front of the speaker",
+          "'these' is plural and cannot refer to a single sandwich",
+          "'that' signals distance from the speaker, but the speaker is holding or looking at the sandwich directly"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0003",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara pointed to a building across the street and said, \"___ offices are where I work every day.\"",
+        "correct_answer": "those",
+        "distractors": [
+          "these",
+          "that",
+          "this"
+        ],
+        "distractor_rationale": [
+          "'these' is used for plural nouns near the speaker, but the offices are across the street, so they are far away",
+          "'that' is singular and cannot refer to plural offices",
+          "'this' is singular and signals proximity, but the offices are distant and plural"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0004",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I tried two jackets in the shop. I liked ___ one on the left more than the other.",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "those",
+          "these"
+        ],
+        "distractor_rationale": [
+          "'this' signals the jacket is close to the speaker, but it is on a rack at a distance being pointed at",
+          "'those' is plural and cannot refer to a single jacket",
+          "'these' is plural and signals proximity, but only one jacket is being identified"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0005",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We need to finish ___ report before the meeting starts in ten minutes.",
+        "correct_answer": "this",
+        "distractors": [
+          "the",
+          "that",
+          "these"
+        ],
+        "distractor_rationale": [
+          "'the' is a definite article that does not convey the urgency or immediacy of the current situation",
+          "'that' implies the report is distant or disconnected from the speaker, but it is the one they are currently working on",
+          "'these' is plural and cannot refer to a single report"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0006",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom showed his friend some old photos and said, \"___ pictures were taken at my grandmother's house years ago.\"",
+        "correct_answer": "these",
+        "distractors": [
+          "those",
+          "this",
+          "that"
+        ],
+        "distractor_rationale": [
+          "'those' signals the photos are far from the speaker, but Tom is holding them and showing them directly",
+          "'this' is singular and cannot refer to plural pictures",
+          "'that' is singular and signals distance, but the photos are in Tom's hands"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0007",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna looked at the hotel on the other side of the lake and said, \"___ building must have an amazing view of the mountains.\"",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "'this' signals the building is close to the speaker, but it is across the lake and far away",
+          "'these' is plural and cannot refer to a single building",
+          "'those' is plural and cannot refer to a single building"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0008",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The teacher handed out the exam papers and said, \"Please write your name at the top of ___ sheet before you begin.\"",
+        "correct_answer": "this",
+        "distractors": [
+          "that",
+          "those",
+          "the"
+        ],
+        "distractor_rationale": [
+          "'that' implies the sheet is distant from the student, but the teacher has just placed it directly in front of each student",
+          "'those' is plural and cannot refer to a single sheet",
+          "'the' is a definite article that does not convey that the sheet is the one immediately in the student's hands right now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_multiple_choice_0009",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark remembered a conversation he had had with his manager last month and thought, \"___ advice she gave me then really helped me improve my work.\"",
+        "correct_answer": "that",
+        "distractors": [
+          "this",
+          "these",
+          "those"
+        ],
+        "distractor_rationale": [
+          "'this' signals proximity in time or space, but the advice was given in the past and is being recalled from a distance in time",
+          "'these' is plural and cannot refer to a single piece of advice",
+          "'those' is plural and cannot refer to a single piece of advice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "determiners_deictics_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0000",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Look at these book on the table. It has great pictures.",
+        "correct_answer": "this book",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Look at these book on the table. It has great pictures.",
+        "corrected_sentence": "Look at this book on the table. It has great pictures.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0001",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Can you pass me that apples near you, please?",
+        "correct_answer": "those apples",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Can you pass me that apples near you, please?",
+        "corrected_sentence": "Can you pass me those apples near you, please?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0002",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I am wearing the jacket today because the weather is cold.",
+        "correct_answer": "this jacket",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I am wearing the jacket today because the weather is cold.",
+        "corrected_sentence": "I am wearing this jacket today because the weather is cold.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0003",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Those bag right here is mine — the one with the red zip.",
+        "correct_answer": "This bag",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Those bag right here is mine — the one with the red zip.",
+        "corrected_sentence": "This bag right here is mine — the one with the red zip.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0004",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Do you prefer this shoes or the black ones on the shelf over there?",
+        "correct_answer": "these shoes",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Do you prefer this shoes or the black ones on the shelf over there?",
+        "corrected_sentence": "Do you prefer these shoes or the black ones on the shelf over there?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0005",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The restaurant we visited last night was excellent, but this one across the road looks even better.",
+        "correct_answer": "that restaurant",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The restaurant we visited last night was excellent, but this one across the road looks even better.",
+        "corrected_sentence": "That restaurant we visited last night was excellent, but this one across the road looks even better.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0006",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I have already read those chapter, so you can borrow the book if you want.",
+        "correct_answer": "that chapter",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I have already read those chapter, so you can borrow the book if you want.",
+        "corrected_sentence": "I have already read that chapter, so you can borrow the book if you want.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_determiners_deictics_error_correction_0007",
+      "skill_ids": [
+        "determiners_deictics"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She said that this meeting they had two weeks ago was very productive for the whole team.",
+        "correct_answer": "that meeting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She said that this meeting they had two weeks ago was very productive for the whole team.",
+        "corrected_sentence": "She said that that meeting they had two weeks ago was very productive for the whole team.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:02:05.108791+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "determiners_deictics_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

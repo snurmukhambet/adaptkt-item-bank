@@ -1,0 +1,1863 @@
+{
+  "skill_id": "passive_continuous_perfect",
+  "skill_name": "Passive Voice (Continuous & Perfect)",
+  "exercises": [
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0000",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The classroom ___ (clean) by the staff every morning this week, so it looks spotless.",
+        "correct_answer": "has been cleaned",
+        "distractors": [
+          "has cleaned",
+          "is being cleaned",
+          "was cleaned"
+        ],
+        "distractor_rationale": [
+          "omits 'been', producing an active perfect form where a passive is required",
+          "present continuous passive describes an action happening right now, not a repeated action completed across the week",
+          "past simple marks a single completed event, not a result continuing up to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0001",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look — the road outside our building ___ (repair) right now, so we cannot drive out.",
+        "correct_answer": "is being repaired",
+        "distractors": [
+          "has been repaired",
+          "is repairing",
+          "was being repaired"
+        ],
+        "distractor_rationale": [
+          "present perfect passive signals completion, but 'right now' confirms the action is still in progress",
+          "active continuous form is wrong because the road cannot repair itself; a passive is required",
+          "past continuous passive refers to an ongoing action in the past, contradicting 'right now'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0002",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new sports centre ___ (build) for over two years, and it is finally open to the public.",
+        "correct_answer": "has been built",
+        "distractors": [
+          "has been building",
+          "was built",
+          "is being built"
+        ],
+        "distractor_rationale": [
+          "active perfect continuous cannot be used here because the centre did not build itself; the passive is required",
+          "past simple does not connect the two-year process to the present result signalled by 'finally open'",
+          "present continuous passive describes an ongoing action, but 'finally open' confirms the construction is complete"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0003",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When the inspector arrived at the factory, the machines ___ (test) by the engineers, so production had stopped.",
+        "correct_answer": "were being tested",
+        "distractors": [
+          "had been tested",
+          "were tested",
+          "have been tested"
+        ],
+        "distractor_rationale": [
+          "past perfect passive describes an action completed before a past moment, but the testing was still in progress when the inspector arrived",
+          "past simple passive marks a completed event, not an action that was ongoing at the time of arrival",
+          "present perfect passive cannot be used for a past moment-in-time context introduced by 'when the inspector arrived'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0004",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the guests sat down for dinner, the food ___ (prepare) carefully by the chef for several hours.",
+        "correct_answer": "had been prepared",
+        "distractors": [
+          "has been prepared",
+          "was being prepared",
+          "was prepared"
+        ],
+        "distractor_rationale": [
+          "present perfect passive cannot refer to a sequence of completed past events; past perfect is required for the earlier action",
+          "past continuous passive signals the preparation was still in progress when guests sat down, contradicting 'by the time' which marks completion before that moment",
+          "past simple passive does not show that the preparation was completed before the earlier past event of sitting down"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0005",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The patient's test results ___ (examine) by the doctor at the moment, so please wait in the corridor.",
+        "correct_answer": "are being examined",
+        "distractors": [
+          "have been examined",
+          "are examined",
+          "were being examined"
+        ],
+        "distractor_rationale": [
+          "present perfect passive signals a completed action, but 'at the moment' confirms the examination is currently in progress",
+          "present simple passive describes a routine or general truth, not an action happening right now as indicated by 'at the moment'",
+          "past continuous passive refers to an ongoing action in the past, contradicting the present-tense context of 'please wait'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0006",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The annual report ___ (write) by the finance team since last Monday, and it should be ready by Friday.",
+        "correct_answer": "has been written",
+        "distractors": [
+          "has been wrote",
+          "is being written",
+          "had been written"
+        ],
+        "distractor_rationale": [
+          "uses the wrong past participle 'wrote' instead of 'written', which is grammatically incorrect",
+          "present continuous passive describes an action still in progress, but 'since last Monday' with a future deadline implies the report is now complete",
+          "past perfect passive requires a reference point in the past before another past event; 'since last Monday' anchors the action to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0007",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She noticed that her laptop ___ (use) by someone else while she was away from her desk, because the screen was still warm.",
+        "correct_answer": "had been used",
+        "distractors": [
+          "was being used",
+          "has been used",
+          "had been using"
+        ],
+        "distractor_rationale": [
+          "past continuous passive would mean the use was still happening when she noticed, but 'the screen was still warm' implies it had already stopped before she returned",
+          "present perfect passive cannot be used inside a past narrative sequence introduced by 'she noticed' and 'while she was away'",
+          "active past perfect form is incorrect because the laptop did not use itself; the passive is required to show it was used by someone"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0008",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new software system ___ (install) across all departments since the beginning of the month, and most staff can now log in successfully.",
+        "correct_answer": "has been installed",
+        "distractors": [
+          "is being installed",
+          "has installed",
+          "was being installed"
+        ],
+        "distractor_rationale": [
+          "present continuous passive signals the installation is still ongoing, but 'most staff can now log in successfully' confirms the process is complete",
+          "omits 'been', producing an active present perfect where a passive is required, since the system cannot install itself",
+          "past continuous passive refers to an action in progress at a past moment, which contradicts the present-tense result described in the second clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0009",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The documents that the manager needed urgently ___ (still / process) by the legal team when the meeting started, so the decision had to be postponed.",
+        "correct_answer": "were still being processed",
+        "distractors": [
+          "had still been processed",
+          "have still been processed",
+          "were still processed"
+        ],
+        "distractor_rationale": [
+          "past perfect passive signals completion before a past moment, but 'when the meeting started' confirms the processing was still ongoing at that point, not finished",
+          "present perfect passive cannot be used for a past moment-in-time context established by 'when the meeting started'",
+          "past simple passive describes a completed action, not an action that was in progress at the time of the meeting, as required by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0010",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The broken windows in the school ___ (replace) by the maintenance team right now, so please use the side entrance.",
+        "correct_answer": "are being replaced",
+        "distractors": [
+          "are replacing",
+          "have been replaced",
+          "were being replaced"
+        ],
+        "distractor_rationale": [
+          "active voice — the windows cannot perform the replacing action themselves",
+          "present perfect passive describes a completed action, but 'right now' signals an action in progress",
+          "past continuous passive contradicts 'right now', which anchors the action in the present moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0011",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This road ___ (close) for repairs since last Monday, so drivers must take the longer route.",
+        "correct_answer": "has been closed",
+        "distractors": [
+          "has closed",
+          "is being closed",
+          "was closed"
+        ],
+        "distractor_rationale": [
+          "active perfect omits 'been', making the road the agent rather than the object of closing",
+          "present continuous passive cannot express a state that started in the past and continues to now, as 'since last Monday' requires",
+          "past simple passive describes a single completed past event and cannot span a duration up to the present marked by 'since'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0012",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When the inspector arrived at the factory, the new safety equipment ___ (install) by a team of engineers on the upper floor.",
+        "correct_answer": "was being installed",
+        "distractors": [
+          "had been installed",
+          "was installed",
+          "has been installed"
+        ],
+        "distractor_rationale": [
+          "past perfect passive describes an action completed before the inspector's arrival, but the context shows it was still in progress at that moment",
+          "past simple passive describes a completed event, not an ongoing action interrupted by the inspector's arrival",
+          "present perfect passive cannot be used for a past moment-in-time context established by 'when the inspector arrived'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0013",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the guests sat down for dinner, all the dishes ___ (prepare) carefully by the kitchen staff.",
+        "correct_answer": "had been prepared",
+        "distractors": [
+          "have been prepared",
+          "were being prepared",
+          "had prepared"
+        ],
+        "distractor_rationale": [
+          "present perfect passive cannot refer to a sequence of two completed past events; 'by the time the guests sat down' requires past perfect",
+          "past continuous passive describes an action still in progress at the past reference point, but 'by the time' signals the preparation was fully finished before the guests sat down",
+          "active past perfect omits 'been', making the kitchen staff the subject of a transitive verb without a passive construction, which contradicts the intended passive meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_cloze_0014",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The annual report ___ (review) by the finance committee for the past three weeks, and it is expected to be finalised by Friday.",
+        "correct_answer": "has been being reviewed",
+        "distractors": [
+          "has been reviewed",
+          "is being reviewed",
+          "has reviewed"
+        ],
+        "distractor_rationale": [
+          "present perfect passive without the continuous aspect describes a completed action, whereas 'for the past three weeks' combined with the expectation of future completion signals an ongoing process that began in the past and continues now",
+          "present continuous passive does not connect the action to its starting point in the past; the phrase 'for the past three weeks' requires a perfect form to anchor the duration from past to present",
+          "active present perfect omits both the passive marker 'been' and the continuous aspect, making the committee the active agent and losing the sense of ongoing passive process"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_continuous_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0000",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The kitchen ___ at the moment, so we cannot use it for cooking.",
+        "correct_answer": "is being cleaned",
+        "distractors": [
+          "is cleaning",
+          "has been cleaned",
+          "was being cleaned"
+        ],
+        "distractor_rationale": [
+          "active continuous omits the passive auxiliary 'being', incorrectly making the kitchen the agent rather than the recipient of cleaning",
+          "present perfect passive 'has been cleaned' implies the action is finished, but 'at the moment' signals an ongoing action right now",
+          "past continuous passive 'was being cleaned' shifts the action to a past moment, contradicting 'at the moment'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0001",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "All the test papers ___ by the teacher before she returned them to the students.",
+        "correct_answer": "had been marked",
+        "distractors": [
+          "have been marked",
+          "had marked",
+          "were being marked"
+        ],
+        "distractor_rationale": [
+          "present perfect passive 'have been marked' does not express the past-before-past sequence; the marking was completed before a specific past event (returning them)",
+          "past simple active 'had marked' uses the active voice and incorrectly makes the teacher the subject, but the sentence subject is 'all the test papers'",
+          "past continuous passive 'were being marked' implies the marking was still in progress when she returned them, contradicting the meaning that it was fully completed first"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0002",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new office building ___ for six months now, and it should be ready by spring.",
+        "correct_answer": "has been built",
+        "distractors": [
+          "has built",
+          "is being built",
+          "was built"
+        ],
+        "distractor_rationale": [
+          "active present perfect 'has built' uses the wrong voice; the building cannot build itself — a passive is required",
+          "present continuous passive 'is being built' does not connect to the duration expressed by 'for six months now', which requires present perfect",
+          "past simple passive 'was built' implies the construction is finished, but 'should be ready by spring' shows it is not yet complete"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0003",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When the fire alarm went off, the annual report ___ by the finance team in the conference room.",
+        "correct_answer": "was being prepared",
+        "distractors": [
+          "had been prepared",
+          "was prepared",
+          "has been prepared"
+        ],
+        "distractor_rationale": [
+          "past perfect passive 'had been prepared' implies the report was fully finished before the alarm, but the sentence describes an activity interrupted in progress",
+          "past simple passive 'was prepared' describes a completed action, not an ongoing activity that was interrupted by the alarm going off",
+          "present perfect passive 'has been prepared' is a present-connected tense and cannot describe an action in progress at a specific past moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0004",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The injured passengers ___ by paramedics when the police arrived at the scene of the accident.",
+        "correct_answer": "were being treated",
+        "distractors": [
+          "had been treated",
+          "were treated",
+          "have been treated"
+        ],
+        "distractor_rationale": [
+          "past perfect passive 'had been treated' implies treatment was already fully completed before the police arrived, but the sentence implies it was ongoing at that moment",
+          "past simple passive 'were treated' describes a completed action without emphasising the ongoing nature of the treatment at the moment the police arrived",
+          "present perfect passive 'have been treated' is anchored to the present and cannot describe an action in progress at a specific past moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0005",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The company's new policy ___ to all employees by email since the meeting last Monday.",
+        "correct_answer": "has been sent",
+        "distractors": [
+          "has sent",
+          "was being sent",
+          "had been sent"
+        ],
+        "distractor_rationale": [
+          "active present perfect 'has sent' incorrectly makes 'the policy' the agent doing the sending, which is semantically illogical",
+          "past continuous passive 'was being sent' describes an action in progress at a past moment, but 'since last Monday' anchors the action to a period continuing up to now",
+          "past perfect passive 'had been sent' requires a reference point further in the past; 'since last Monday' connects the action to the present, requiring present perfect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0006",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the time the guests arrived, all the decorations ___ and the hall looked beautiful.",
+        "correct_answer": "had been put up",
+        "distractors": [
+          "have been put up",
+          "were being put up",
+          "had put up"
+        ],
+        "distractor_rationale": [
+          "present perfect passive 'have been put up' is a present-connected tense and cannot express an action completed before a specific past event (guests arriving)",
+          "past continuous passive 'were being put up' implies the decorations were still in progress when guests arrived, contradicting 'the hall looked beautiful' which implies completion",
+          "past simple active 'had put up' incorrectly uses the active voice; the subject 'all the decorations' cannot put themselves up"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0007",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The suspect claimed that his personal belongings ___ without his permission when officers searched his room.",
+        "correct_answer": "were being examined",
+        "distractors": [
+          "had been examined",
+          "have been examined",
+          "were examined"
+        ],
+        "distractor_rationale": [
+          "past perfect passive 'had been examined' implies the examination was already fully completed before the search, but the suspect's claim is that it was happening at the time of the search",
+          "present perfect passive 'have been examined' is present-connected and cannot describe an ongoing action at a specific moment in the past narrative",
+          "past simple passive 'were examined' describes a completed, bounded action and loses the sense of an ongoing process happening at the same time as the search"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0008",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager was frustrated because the client's complaint ___ for over two weeks without any resolution.",
+        "correct_answer": "had been ignored",
+        "distractors": [
+          "has been ignored",
+          "was being ignored",
+          "had ignored"
+        ],
+        "distractor_rationale": [
+          "present perfect passive 'has been ignored' connects to the present moment, but the sentence is set entirely in the past (manager was frustrated), requiring past perfect",
+          "past continuous passive 'was being ignored' describes an action in progress at a single past moment, but 'for over two weeks' signals a completed duration before a past reference point",
+          "past simple active 'had ignored' incorrectly uses the active voice; the subject 'the client's complaint' cannot ignore itself — a passive construction is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_multiple_choice_0009",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Residents noticed that the old library ___ without any public announcement, which caused considerable anger in the community.",
+        "correct_answer": "was being demolished",
+        "distractors": [
+          "had been demolished",
+          "has been demolished",
+          "was demolished"
+        ],
+        "distractor_rationale": [
+          "past perfect passive 'had been demolished' implies the demolition was fully complete before residents noticed, but 'was being demolished' captures the ongoing action they observed in progress",
+          "present perfect passive 'has been demolished' is anchored to the present and cannot describe an action in progress at a past moment of noticing",
+          "past simple passive 'was demolished' describes the action as a completed event rather than an ongoing process that residents were witnessing as it happened"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_continuous_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0000",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The old bridge is repairing at the moment, so drivers must use the other road.",
+        "correct_answer": "is being repaired",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The old bridge is repairing at the moment, so drivers must use the other road.",
+        "corrected_sentence": "The old bridge is being repaired at the moment, so drivers must use the other road.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0001",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "All the test papers have checked by the teacher, and the results will be posted tomorrow.",
+        "correct_answer": "have been checked",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "All the test papers have checked by the teacher, and the results will be posted tomorrow.",
+        "corrected_sentence": "All the test papers have been checked by the teacher, and the results will be posted tomorrow.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0002",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When the inspector arrived at the factory, the new machines were installing in the main hall.",
+        "correct_answer": "were being installed",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When the inspector arrived at the factory, the new machines were installing in the main hall.",
+        "corrected_sentence": "When the inspector arrived at the factory, the new machines were being installed in the main hall.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0003",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The broken laptop has been send to the repair centre twice already, but the problem keeps coming back.",
+        "correct_answer": "has been sent",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The broken laptop has been send to the repair centre twice already, but the problem keeps coming back.",
+        "corrected_sentence": "The broken laptop has been sent to the repair centre twice already, but the problem keeps coming back.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0004",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The patient told the nurse that her medication had been gave to her at the wrong time that morning.",
+        "correct_answer": "had been given",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The patient told the nurse that her medication had been gave to her at the wrong time that morning.",
+        "corrected_sentence": "The patient told the nurse that her medication had been given to her at the wrong time that morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0005",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "By the time the guests arrived, the dining room had been decorate with flowers and candles for the celebration.",
+        "correct_answer": "had been decorated",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "By the time the guests arrived, the dining room had been decorate with flowers and candles for the celebration.",
+        "corrected_sentence": "By the time the guests arrived, the dining room had been decorated with flowers and candles for the celebration.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0006",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager noticed that the confidential files were being access by an unauthorised user throughout the afternoon.",
+        "correct_answer": "were being accessed",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager noticed that the confidential files were being access by an unauthorised user throughout the afternoon.",
+        "corrected_sentence": "The manager noticed that the confidential files were being accessed by an unauthorised user throughout the afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_continuous_perfect_error_correction_0007",
+      "skill_ids": [
+        "passive_continuous_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new community centre is been built on the site of the old car park, and it should open by spring.",
+        "correct_answer": "is being built",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new community centre is been built on the site of the old car park, and it should open by spring.",
+        "corrected_sentence": "The new community centre is being built on the site of the old car park, and it should open by spring.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:28:28.658262+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_continuous_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

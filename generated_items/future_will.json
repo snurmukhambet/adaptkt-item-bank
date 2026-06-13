@@ -1,0 +1,1865 @@
+{
+  "skill_id": "future_will",
+  "skill_name": "Future with Will",
+  "exercises": [
+    {
+      "id": "ex_future_will_cloze_0000",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Don't worry — I ___ (help) you carry those heavy bags to your room.",
+        "correct_answer": "will help",
+        "distractors": [
+          "am going to help",
+          "help",
+          "helped"
+        ],
+        "distractor_rationale": [
+          "going to describes a pre-planned intention; this is a spontaneous offer made at the moment of speaking",
+          "present simple cannot express a spontaneous offer about an immediate future action",
+          "past simple refers to a completed past action, not a present offer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0001",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I promise I ___ (call) you as soon as I arrive at the hotel tomorrow.",
+        "correct_answer": "will call",
+        "distractors": [
+          "am going to call",
+          "call",
+          "called"
+        ],
+        "distractor_rationale": [
+          "going to signals a pre-formed plan, but 'I promise' marks this as a promise made at the moment of speaking, which requires will",
+          "present simple cannot express a promise about a future action",
+          "past simple refers to a completed past event, not a future promise"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0002",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at those dark clouds — it ___ (rain) very soon.",
+        "correct_answer": "will rain",
+        "distractors": [
+          "rains",
+          "rained",
+          "is raining"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a prediction about an upcoming event",
+          "past simple refers to a completed past event, not a future prediction",
+          "present continuous describes an action happening right now, but the rain has not started yet"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0003",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The phone is ringing — I ___ (answer) it for you.",
+        "correct_answer": "will answer",
+        "distractors": [
+          "am going to answer",
+          "answer",
+          "am answering"
+        ],
+        "distractor_rationale": [
+          "going to expresses a pre-planned intention; answering the phone right now is a spontaneous decision, which requires will",
+          "present simple cannot express a spontaneous decision to act immediately",
+          "present continuous describes an action already in progress, but the decision to answer is being made at this moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0004",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you study hard every day, you ___ (pass) your exam next month.",
+        "correct_answer": "will pass",
+        "distractors": [
+          "pass",
+          "are going to pass",
+          "passed"
+        ],
+        "distractor_rationale": [
+          "present simple cannot be used in the result clause of a first conditional; will is required",
+          "going to is not used in the result clause of a first conditional; will is the correct form",
+          "past simple refers to a completed past event and cannot express a conditional future result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0005",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I think the new café on the main street ___ (be) very popular with students.",
+        "correct_answer": "will be",
+        "distractors": [
+          "is",
+          "was",
+          "is going to be"
+        ],
+        "distractor_rationale": [
+          "present simple states a current fact, not a prediction about the future introduced by 'I think'",
+          "past simple refers to a completed past state, not a future prediction",
+          "going to requires evidence of a current situation pointing to the future; 'I think' signals a personal opinion-based prediction, which takes will"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0006",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "He ___ (not/forget) to bring his passport to the airport tomorrow — he checked his bag twice.",
+        "correct_answer": "won't forget",
+        "distractors": [
+          "he'll not forget",
+          "doesn't forget",
+          "didn't forget"
+        ],
+        "distractor_rationale": [
+          "'he'll not' is a non-standard contraction; the correct negative contraction of will is won't",
+          "present simple cannot express a future prediction about tomorrow's event",
+          "past simple refers to a completed past action, not a future prediction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0007",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The weather forecast says it ___ (be) sunny all weekend, so let's have a picnic on Saturday.",
+        "correct_answer": "will be",
+        "distractors": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a forecast about a future period; will is needed",
+          "past simple refers to a completed past state and cannot describe next weekend's weather",
+          "present perfect describes a past action with a present result, not a future forecast"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0008",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "One day, people ___ (travel) to other planets the same way we travel to other cities today.",
+        "correct_answer": "will travel",
+        "distractors": [
+          "travel",
+          "travelled",
+          "are going to travel"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a prediction about a distant future event signalled by 'one day'",
+          "past simple refers to a completed past action and cannot describe a future prediction",
+          "going to requires present evidence of an imminent event; 'one day' signals a distant, opinion-based prediction, which takes will"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0009",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the last bus has already gone, we ___ (take) a taxi home together.",
+        "correct_answer": "will take",
+        "distractors": [
+          "take",
+          "took",
+          "are going to take"
+        ],
+        "distractor_rationale": [
+          "present simple cannot serve as the result clause in a first conditional; will is required",
+          "past simple refers to a completed past action and cannot express a conditional future result",
+          "going to is not used in the result clause of a first conditional; will is the correct form here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0010",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Don't worry — I ___ (help) you carry those heavy bags to the car.",
+        "correct_answer": "will help",
+        "distractors": [
+          "am going to help",
+          "help",
+          "helped"
+        ],
+        "distractor_rationale": [
+          "going to describes a pre-planned intention, but this is a spontaneous offer made at the moment of speaking",
+          "present simple cannot express a spontaneous future offer; it describes habits or routines",
+          "past simple describes a completed past action, not a present offer about the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0012",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I promise I ___ (not / forget) to call you tomorrow morning before I leave.",
+        "correct_answer": "won't forget",
+        "distractors": [
+          "don't forget",
+          "am not going to forget",
+          "didn't forget"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a future promise; it describes current habits or facts",
+          "going to describes a pre-planned intention, not a spontaneous promise made at the moment of speaking",
+          "past simple describes a completed past action and cannot be used for a future promise"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0013",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you leave your lunch outside in this heat, the food ___ (go) bad very quickly.",
+        "correct_answer": "will go",
+        "distractors": [
+          "goes",
+          "is going to go",
+          "went"
+        ],
+        "distractor_rationale": [
+          "present simple in the result clause omits the required will, making the conditional grammatically incomplete",
+          "going to is used for plans or intentions, not for the inevitable result stated in a first conditional clause",
+          "past simple describes a completed past event and cannot express the future result of a conditional situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_cloze_0014",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My sister thinks she ___ (not / enjoy) the new job because the hours are very long and the office is far from home.",
+        "correct_answer": "won't enjoy",
+        "distractors": [
+          "doesn't enjoy",
+          "he'll not enjoy",
+          "isn't going to enjoy"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a future prediction about how someone will feel; it describes current or habitual states",
+          "he'll not is an incorrect contraction; the standard negative short form is won't, and the subject pronoun is wrong here",
+          "going to requires evidence of a prior plan or visible sign; this is a personal prediction based on opinion, which calls for will"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0000",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Don't worry — I ___ help you with those heavy bags.",
+        "correct_answer": "will help",
+        "distractors": [
+          "am going to help",
+          "help",
+          "helped"
+        ],
+        "distractor_rationale": [
+          "going to is used for planned intentions, not spontaneous offers made in the moment",
+          "present simple cannot express a spontaneous offer about the future",
+          "past simple refers to a completed past action, not a future offer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0001",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look at those dark clouds. I think it ___ rain this afternoon.",
+        "correct_answer": "will",
+        "distractors": [
+          "rains",
+          "is going to",
+          "rained"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a future prediction in this context",
+          "is going to is a verb phrase, not a bare auxiliary — the sentence already has 'rain' after the gap, so only a bare modal fits",
+          "past simple refers to a past event, not a future prediction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0002",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I promise I ___ call you as soon as I arrive at the hotel.",
+        "correct_answer": "will call",
+        "distractors": [
+          "am calling",
+          "called",
+          "call"
+        ],
+        "distractor_rationale": [
+          "present continuous describes an action happening now or a fixed arrangement, not a promise about the future",
+          "past simple refers to a completed past action, not a future promise",
+          "present simple cannot express a future promise in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0003",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The phone is ringing. I ___ get it — don't move!",
+        "correct_answer": "'ll get",
+        "distractors": [
+          "'m going to get",
+          "get",
+          "got"
+        ],
+        "distractor_rationale": [
+          "going to signals a pre-planned intention, but answering the phone is a spontaneous decision made at the moment of speaking",
+          "present simple cannot express a spontaneous decision made at the moment of speaking",
+          "past simple refers to a completed past action, not an immediate future decision"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0004",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If the weather is nice on Saturday, we ___ have a picnic in the park.",
+        "correct_answer": "will have",
+        "distractors": [
+          "have",
+          "are having",
+          "had"
+        ],
+        "distractor_rationale": [
+          "present simple in the result clause omits the required modal will, which is a common learner error in conditional sentences",
+          "present continuous cannot express a conditional future result in the main clause of a first conditional",
+          "past simple refers to a past event and cannot be the result clause of a first conditional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0005",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria is very talented, so she ___ do very well in tomorrow's exam.",
+        "correct_answer": "will do",
+        "distractors": [
+          "does",
+          "is going to do",
+          "did"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a future prediction based on current evidence about someone's talent",
+          "going to is used when there is visible, immediate evidence or a prior plan; a general opinion about talent calls for will",
+          "past simple refers to a completed past action, not a future prediction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0006",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "He ___ be late for the meeting — he never arrives on time.",
+        "correct_answer": "will probably",
+        "distractors": [
+          "is probably",
+          "was probably",
+          "probably going to"
+        ],
+        "distractor_rationale": [
+          "present simple with 'is probably' describes a current state, not a future prediction about the meeting",
+          "past simple with 'was probably' refers to a past situation, not a future event",
+          "'probably going to' is grammatically incomplete without the auxiliary 'is' before it, making it incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0007",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom said he ___ not come to the party, but I hope he changes his mind.",
+        "correct_answer": "will",
+        "distractors": [
+          "he'll",
+          "won't",
+          "would"
+        ],
+        "distractor_rationale": [
+          "'he'll' repeats the subject 'he' already in the sentence, making it grammatically redundant and incorrect",
+          "'won't' already includes the negative meaning, but the sentence separately states 'not', making 'won't not' a double negative error",
+          "'would' shifts the sentence into a conditional or reported-speech context that contradicts the direct future meaning needed here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0008",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ you please open the window? It is very warm in here.",
+        "correct_answer": "Will",
+        "distractors": [
+          "Do",
+          "Are",
+          "Did"
+        ],
+        "distractor_rationale": [
+          "'Do' forms a present simple question and cannot make a polite future request in this context",
+          "'Are' begins a present continuous question and does not fit the request structure with a bare infinitive 'open'",
+          "'Did' forms a past simple question and cannot refer to a present or future request"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_multiple_choice_0009",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The doctor says the patient ___ need to rest for at least two weeks after the operation.",
+        "correct_answer": "will",
+        "distractors": [
+          "is going to",
+          "needs",
+          "needed"
+        ],
+        "distractor_rationale": [
+          "'is going to' is a two-word phrase that cannot precede the bare infinitive 'need' in this slot without creating a double verb error",
+          "'needs' uses present simple and cannot express a future medical prediction about the recovery period",
+          "'needed' uses past simple and refers to a past necessity, not a future requirement after the operation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_will_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0000",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Don't worry — I help you carry those heavy bags to the car.",
+        "correct_answer": "will help",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Don't worry — I help you carry those heavy bags to the car.",
+        "corrected_sentence": "Don't worry — I will help you carry those heavy bags to the car.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0001",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Look at those dark clouds. It rains this afternoon.",
+        "correct_answer": "will rain",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Look at those dark clouds. It rains this afternoon.",
+        "corrected_sentence": "Look at those dark clouds. It will rain this afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0002",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The phone is ringing — I'm going to answer it.",
+        "correct_answer": "will answer",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The phone is ringing — I'm going to answer it.",
+        "corrected_sentence": "The phone is ringing — I will answer it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0003",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I promise I am not going to tell anyone your secret, so you can trust me.",
+        "correct_answer": "will not tell",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I promise I am not going to tell anyone your secret, so you can trust me.",
+        "corrected_sentence": "I promise I will not tell anyone your secret, so you can trust me.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0004",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He'll not come to the party if he has to work late on Friday.",
+        "correct_answer": "He won't come",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He'll not come to the party if he has to work late on Friday.",
+        "corrected_sentence": "He won't come to the party if he has to work late on Friday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0005",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If the weather is nice tomorrow, we go to the beach after lunch.",
+        "correct_answer": "will go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If the weather is nice tomorrow, we go to the beach after lunch.",
+        "corrected_sentence": "If the weather is nice tomorrow, we will go to the beach after lunch.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0006",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The café is full, so we probably find a table at the restaurant next door instead.",
+        "correct_answer": "will probably find",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The café is full, so we probably find a table at the restaurant next door instead.",
+        "corrected_sentence": "The café is full, so we will probably find a table at the restaurant next door instead.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_will_error_correction_0007",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You look tired — sit down and I am going to make you a cup of tea.",
+        "correct_answer": "will make",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You look tired — sit down and I am going to make you a cup of tea.",
+        "corrected_sentence": "You look tired — sit down and I will make you a cup of tea.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_will_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_future_will_cloze_0011",
+      "skill_ids": [
+        "future_will"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at those dark clouds — it ___ (rain) very soon.",
+        "correct_answer": "will rain",
+        "distractors": [
+          "rains",
+          "rained",
+          "is rain"
+        ],
+        "distractor_rationale": [
+          "present simple cannot make a prediction about an imminent future event; it describes regular facts or habits",
+          "past simple describes a completed past event, not a future prediction",
+          "is rain is not a grammatical form; the correct continuous would be is raining, which describes the present moment, not a future prediction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:54:25.727210+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_will_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

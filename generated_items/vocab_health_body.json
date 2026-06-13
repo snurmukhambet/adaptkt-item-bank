@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_health_body",
+  "skill_name": "Health & Body",
+  "exercises": [
+    {
+      "id": "ex_vocab_health_body_cloze_0000",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She has a bad ___ and keeps sneezing all day.",
+        "correct_answer": "cold",
+        "distractors": [
+          "diet",
+          "bone",
+          "breath"
+        ],
+        "distractor_rationale": [
+          "a diet does not cause sneezing — it refers to eating habits, not an illness",
+          "a bone cannot be 'bad' in a way that causes sneezing — bones are body structures, not illnesses",
+          "breath refers to air from the lungs, not an illness that causes sneezing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0001",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom broke his ___ when he fell off his bicycle, and the doctor put it in a cast.",
+        "correct_answer": "arm",
+        "distractors": [
+          "chest",
+          "blood",
+          "brain"
+        ],
+        "distractor_rationale": [
+          "a chest cannot be put in a cast — casts are used for limbs, not the torso",
+          "blood is a liquid and cannot be broken or put in a cast",
+          "the brain is inside the skull and cannot be broken and placed in a cast"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0002",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She went to the ___ because one of her teeth was hurting badly.",
+        "correct_answer": "dentist",
+        "distractors": [
+          "diet",
+          "disease",
+          "breath"
+        ],
+        "distractor_rationale": [
+          "a diet is an eating plan, not a person you visit for tooth pain",
+          "a disease is a medical condition, not a professional you go to see",
+          "breath is air from the lungs, not a person who treats teeth"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0003",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After running up the stairs, he was out of ___ and had to stop to rest.",
+        "correct_answer": "breath",
+        "distractors": [
+          "blood",
+          "body",
+          "bone"
+        ],
+        "distractor_rationale": [
+          "'out of blood' is not a fixed expression and makes no sense after physical effort",
+          "'out of body' describes a strange sensation, not the result of running upstairs",
+          "'out of bone' is not a real expression and is meaningless in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0004",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor checked her ___ pressure and said it was a little too high.",
+        "correct_answer": "blood",
+        "distractors": [
+          "chest",
+          "bone",
+          "body"
+        ],
+        "distractor_rationale": [
+          "'chest pressure' is not the medical term for this measurement — blood pressure is the fixed collocation",
+          "'bone pressure' is not a medical measurement and makes no sense here",
+          "'body pressure' is not a recognised medical term for this type of health check"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0005",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor told him to follow a healthy ___ with less sugar and more vegetables to lose weight.",
+        "correct_answer": "diet",
+        "distractors": [
+          "breath",
+          "disease",
+          "death"
+        ],
+        "distractor_rationale": [
+          "a breath cannot be 'followed' and does not involve eating less sugar or more vegetables",
+          "a disease is an illness, not an eating plan you follow to lose weight",
+          "death cannot be followed as a plan for losing weight — it is the end of life"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0006",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She twisted her ___ while walking on the uneven path and could not put any weight on it.",
+        "correct_answer": "ankle",
+        "distractors": [
+          "chest",
+          "brain",
+          "diet"
+        ],
+        "distractor_rationale": [
+          "the chest cannot be twisted while walking on a path and cannot bear weight",
+          "the brain is inside the skull and cannot be twisted by walking on an uneven surface",
+          "a diet is an eating plan and is not a body part that can be twisted or bear weight"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0007",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Doctors have found that regular exercise helps the ___ stay sharp and reduces the risk of memory loss in older adults.",
+        "correct_answer": "brain",
+        "distractors": [
+          "ankle",
+          "chest",
+          "bone"
+        ],
+        "distractor_rationale": [
+          "an ankle controls movement of the foot and is not associated with staying sharp or memory loss",
+          "the chest contains the heart and lungs and is not linked to staying sharp or memory loss",
+          "bones provide structure to the body but are not responsible for memory or mental sharpness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0008",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Malaria is a serious ___ that is spread by mosquitoes and can be fatal if it is not treated quickly.",
+        "correct_answer": "disease",
+        "distractors": [
+          "diet",
+          "breath",
+          "death"
+        ],
+        "distractor_rationale": [
+          "a diet is an eating plan and cannot be spread by mosquitoes or be fatal",
+          "breath is air exhaled from the lungs and cannot be spread by mosquitoes",
+          "death is the result of an untreated illness, not the illness itself that mosquitoes spread"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0009",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The nurse asked him to ___ slowly and deeply so that she could listen to his lungs clearly with her stethoscope.",
+        "correct_answer": "breathe",
+        "distractors": [
+          "swallow",
+          "cough",
+          "blink"
+        ],
+        "distractor_rationale": [
+          "swallowing is a throat action and is not what a stethoscope is used to monitor for lung examination",
+          "coughing is an involuntary reflex and cannot be done 'slowly and deeply' to help listen to the lungs",
+          "blinking is a movement of the eyelids and is completely unrelated to lung examination with a stethoscope"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0010",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom went to the ___ because he had a bad toothache and needed a filling.",
+        "correct_answer": "dentist",
+        "distractors": [
+          "doctor",
+          "nurse",
+          "chemist"
+        ],
+        "distractor_rationale": [
+          "a doctor treats general medical conditions, not teeth or fillings",
+          "a nurse assists with medical care but does not perform dental fillings",
+          "a chemist sells medicine but does not treat toothaches or do fillings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0011",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She twisted her ___ when she stepped off the kerb and had to sit down immediately because she could not walk on it.",
+        "correct_answer": "ankle",
+        "distractors": [
+          "elbow",
+          "shoulder",
+          "wrist"
+        ],
+        "distractor_rationale": [
+          "an elbow is on the arm and is not involved in stepping or walking",
+          "a shoulder cannot be twisted by stepping off a kerb and does not affect walking",
+          "a wrist is on the hand and twisting it would not prevent someone from walking"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0012",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor told Maria to improve her ___ by eating more vegetables and cutting down on fatty foods every day.",
+        "correct_answer": "diet",
+        "distractors": [
+          "breath",
+          "blood",
+          "bone"
+        ],
+        "distractor_rationale": [
+          "breath cannot be improved by eating vegetables and cutting down on fatty foods in this medical context",
+          "blood is not something you improve by changing what you eat in this general sense — the collocation 'improve your blood' does not exist",
+          "bone cannot be improved as a single uncountable noun by eating more vegetables and cutting fatty foods in this standard medical instruction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0013",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James had a very bad ___ last winter and spent three days in bed with a runny nose, a sore throat, and a high temperature.",
+        "correct_answer": "cold",
+        "distractors": [
+          "disease",
+          "death",
+          "diet"
+        ],
+        "distractor_rationale": [
+          "disease refers to a serious long-term medical condition, not a short illness with a runny nose and sore throat lasting three days",
+          "death is the end of life and cannot be experienced for three days with a runny nose and sore throat",
+          "diet refers to eating habits and has no connection to a runny nose, sore throat, or high temperature"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_cloze_0014",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After running up four flights of stairs, Anna stopped at the top and tried to slow her ___ down by inhaling deeply through her nose and exhaling slowly through her mouth.",
+        "correct_answer": "breath",
+        "distractors": [
+          "chest",
+          "brain",
+          "blood"
+        ],
+        "distractor_rationale": [
+          "chest is a body part and cannot be slowed down by inhaling and exhaling — you slow your breathing, not your chest",
+          "brain is an organ and is not slowed down by inhaling and exhaling after physical exercise",
+          "blood cannot be slowed down by inhaling through the nose and exhaling through the mouth in this direct sense — the collocation 'slow your blood down' by breathing is not standard"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 33,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_health_body_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She twisted her ___ when she stepped off the pavement and fell to the ground.",
+        "correct_answer": "ankle",
+        "distractors": [
+          "elbow",
+          "shoulder",
+          "wrist"
+        ],
+        "distractor_rationale": [
+          "the elbow is part of the arm and cannot be twisted by stepping off a pavement",
+          "the shoulder is too high up on the body to be injured by stepping off a pavement",
+          "the wrist is part of the hand and arm, not the foot, so stepping off a pavement would not twist it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom had a bad ___ all week — he kept sneezing and his nose was running constantly.",
+        "correct_answer": "cold",
+        "distractors": [
+          "diet",
+          "disease",
+          "injury"
+        ],
+        "distractor_rationale": [
+          "a diet is an eating plan, not an illness with sneezing and a runny nose",
+          "a disease is a serious long-term condition, whereas sneezing and a runny nose for one week describe a common cold",
+          "an injury is physical damage from an accident, not a condition causing sneezing and a runny nose"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The doctor said the X-ray showed that the ___ in her leg was broken and she needed a cast.",
+        "correct_answer": "bone",
+        "distractors": [
+          "blood",
+          "breath",
+          "skin"
+        ],
+        "distractor_rationale": [
+          "blood cannot be seen as broken on an X-ray and does not require a cast",
+          "breath is air from the lungs and is invisible on an X-ray",
+          "skin is not visible on an X-ray and cannot be described as broken in a way that requires a cast"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The nurse pressed a cloth firmly against the cut on his arm to stop the ___ from flowing out.",
+        "correct_answer": "blood",
+        "distractors": [
+          "breath",
+          "bone",
+          "sweat"
+        ],
+        "distractor_rationale": [
+          "breath is air and does not flow from a cut on the arm",
+          "bone does not flow from a cut and cannot be stopped with a cloth",
+          "sweat does not flow from a cut and is not stopped by pressing a cloth against a wound"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria visited the ___ because one of her teeth had been hurting for several days and needed to be checked.",
+        "correct_answer": "dentist",
+        "distractors": [
+          "doctor",
+          "pharmacist",
+          "surgeon"
+        ],
+        "distractor_rationale": [
+          "a doctor treats general health problems but does not examine or treat teeth",
+          "a pharmacist sells medicines but does not examine or treat teeth",
+          "a surgeon performs operations on the body but is not the first professional you visit for a painful tooth"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After running up four flights of stairs, James was out of ___ and had to stop to rest for a moment.",
+        "correct_answer": "breath",
+        "distractors": [
+          "blood",
+          "energy",
+          "strength"
+        ],
+        "distractor_rationale": [
+          "you cannot be 'out of blood' — this is not a fixed collocation and has no meaning in this context",
+          "'out of energy' is not a standard fixed collocation in English the way 'out of breath' is, and energy does not relate specifically to the physical act of breathing after running",
+          "'out of strength' is not a fixed collocation in English and does not describe the specific breathing difficulty caused by running upstairs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The doctor advised her to improve her ___ by eating more vegetables and cutting down on fatty food.",
+        "correct_answer": "diet",
+        "distractors": [
+          "disease",
+          "treatment",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "a disease is an illness, not something you improve by choosing what to eat",
+          "a treatment is medical care given for an illness, not something improved by changing what you eat",
+          "exercise refers to physical activity, not to the food choices described in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Scientists believe that regular physical activity helps the ___ stay sharp by increasing blood flow and forming new connections between nerve cells.",
+        "correct_answer": "brain",
+        "distractors": [
+          "chest",
+          "bone",
+          "body"
+        ],
+        "distractor_rationale": [
+          "the chest is a physical cavity containing the lungs and heart and does not form connections between nerve cells or stay sharp",
+          "bone is hard tissue that does not form nerve connections or become sharp through physical activity",
+          "while the whole body benefits from exercise, only the brain forms nerve connections and stays cognitively sharp, so 'body' is too vague and contradicts the specific mechanism described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The charity works to raise awareness of a rare ___ that affects the immune system and has no known cure at present.",
+        "correct_answer": "disease",
+        "distractors": [
+          "diet",
+          "cold",
+          "injury"
+        ],
+        "distractor_rationale": [
+          "a diet is an eating pattern, not a condition that affects the immune system or requires a cure",
+          "a cold is a mild, short-term viral illness with a known recovery process, not a rare condition with no cure that affects the immune system",
+          "an injury is physical damage caused by an accident, not a condition affecting the immune system that requires a cure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The patient felt a sharp pain in her ___ and found it difficult to take deep breaths, so the doctor ordered a scan of her lungs.",
+        "correct_answer": "chest",
+        "distractors": [
+          "ankle",
+          "arm",
+          "brain"
+        ],
+        "distractor_rationale": [
+          "pain in the ankle would not cause difficulty breathing or require a lung scan",
+          "pain in the arm would not cause difficulty taking deep breaths or lead a doctor to scan the lungs",
+          "the brain does not contain the lungs, and brain pain would not cause breathing difficulty or require a lung scan"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_health_body_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_word_formation_0000",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The doctor said the cut was not ___. (DANGER)",
+        "correct_answer": "dangerous",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DANGER"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_health_body_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_word_formation_0001",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She felt very ___ after running up the stairs. (BREATH)",
+        "correct_answer": "breathless",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BREATH"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_health_body_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_word_formation_0002",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The nurse checked the patient's ___ pressure twice during the morning visit. (BLOOD)",
+        "correct_answer": "blood",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BLOOD"
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_health_body_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_word_formation_0003",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The doctor explained that a healthy ___ with plenty of vegetables can help prevent many diseases. (DIET)",
+        "correct_answer": "diet",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DIET"
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_health_body_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_health_body_word_formation_0004",
+      "skill_ids": [
+        "vocab_health_body"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the patient came as a shock to the whole family, as he had seemed to be recovering well. (DEAD)",
+        "correct_answer": "death",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DEAD"
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:18:07.610957+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_health_body_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

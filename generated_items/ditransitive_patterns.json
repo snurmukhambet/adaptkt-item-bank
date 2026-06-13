@@ -1,0 +1,1863 @@
+{
+  "skill_id": "ditransitive_patterns",
+  "skill_name": "Ditransitive & Factitive Patterns (Give sb sth / Make sb adj)",
+  "exercises": [
+    {
+      "id": "ex_ditransitive_patterns_cloze_0000",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My mother gave ___ a warm coat because the weather was very cold.",
+        "correct_answer": "me",
+        "distractors": [
+          "to me",
+          "for me",
+          "my"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object pronoun is incorrect in double-object order; 'to' is only used when the indirect object follows the direct object",
+          "'for me' uses the wrong preposition and implies benefit rather than direct transfer in this double-object structure",
+          "'my' is a possessive adjective and cannot function as an indirect object pronoun in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0001",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The teacher showed the new student ___ the classroom at the start of the day.",
+        "correct_answer": "around",
+        "distractors": [
+          "to around",
+          "for around",
+          "in around"
+        ],
+        "distractor_rationale": [
+          "'to around' incorrectly adds a preposition before 'around'; 'show someone around' is a fixed phrasal ditransitive pattern",
+          "'for around' uses the wrong preposition and creates a meaningless phrase in this context",
+          "'in around' combines two prepositions incorrectly and produces a grammatically impossible phrase here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0002",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David sent ___ a message to say he would be late for the meeting.",
+        "correct_answer": "her",
+        "distractors": [
+          "to her",
+          "for her",
+          "she"
+        ],
+        "distractor_rationale": [
+          "'to her' inserts an unnecessary preposition before the indirect object in double-object order, which is ungrammatical here",
+          "'for her' uses the wrong preposition; 'send for' means to request someone's arrival, not to transmit a message",
+          "'she' is a subject pronoun and cannot function as an indirect object in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0003",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The loud music from next door made it ___ to concentrate on her homework all evening.",
+        "correct_answer": "impossible",
+        "distractors": [
+          "impossibly",
+          "impossibility",
+          "impose"
+        ],
+        "distractor_rationale": [
+          "'impossibly' is an adverb and cannot follow 'made it' in a factitive pattern, which requires an adjective complement",
+          "'impossibility' is a noun and does not fit the factitive 'make + object + adjective' structure",
+          "'impose' is a verb and is both grammatically incorrect and semantically unrelated to the meaning required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0004",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna found the instructions for the new machine very ___ because they were written in a foreign language.",
+        "correct_answer": "confusing",
+        "distractors": [
+          "confuse",
+          "confused",
+          "confusion"
+        ],
+        "distractor_rationale": [
+          "'confuse' is a base verb and cannot serve as an adjective complement in the factitive 'find + object + adjective' pattern",
+          "'confused' describes the person experiencing confusion, not the instructions themselves, making it semantically wrong here",
+          "'confusion' is a noun and cannot fill an adjective slot in the 'find something adjective' structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0005",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please keep the kitchen ___ after you cook — other people need to use it too.",
+        "correct_answer": "clean",
+        "distractors": [
+          "cleaning",
+          "to clean",
+          "cleanly"
+        ],
+        "distractor_rationale": [
+          "'cleaning' is a present participle indicating an ongoing action, not a state; 'keep + object + adjective' requires an adjective, not a participle used as a verb form here",
+          "'to clean' is an infinitive indicating purpose, not a state complement; it changes the meaning to an instruction to perform cleaning rather than maintaining a state",
+          "'cleanly' is an adverb and cannot function as an adjective complement after the object in the 'keep + object + adjective' factitive pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0006",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark bought his younger sister ___ for her birthday, but she already had the same one.",
+        "correct_answer": "a book",
+        "distractors": [
+          "to a book",
+          "for a book",
+          "a book to her"
+        ],
+        "distractor_rationale": [
+          "'to a book' incorrectly inserts 'to' before the direct object in double-object order; 'to' is only used when the indirect object is placed after the direct object",
+          "'for a book' uses the wrong preposition and implies exchange or purpose rather than a gift transfer",
+          "'a book to her' places the direct object first and then adds the indirect object with 'to', but the indirect object 'her' has already been expressed before the gap, making this redundant and ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0007",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The company sent the new contract ___ the client by email so that she could review it before the meeting.",
+        "correct_answer": "to",
+        "distractors": [
+          "for",
+          "at",
+          "on"
+        ],
+        "distractor_rationale": [
+          "'for' indicates benefit or purpose rather than the recipient of a transfer; 'send something for someone' implies doing it on their behalf, not delivering it to them",
+          "'at' is directional in a physical sense and is not used with 'send' to indicate the recipient of a document",
+          "'on' does not collocate with 'send' to express the indirect object; it would require a different noun phrase entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0008",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The sports coach taught ___ how to improve their breathing technique during long-distance runs.",
+        "correct_answer": "them",
+        "distractors": [
+          "to them",
+          "for them",
+          "they"
+        ],
+        "distractor_rationale": [
+          "'to them' incorrectly inserts 'to' before the indirect object pronoun in double-object order; 'teach someone something' does not allow 'to' between the verb and the indirect object",
+          "'for them' uses the wrong preposition; 'teach for someone' is not a standard ditransitive pattern and changes the meaning entirely",
+          "'they' is a subject pronoun and is grammatically impossible in the indirect object position after the verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0009",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Working from home three days a week made Sara ___ about the long commute she used to do every day.",
+        "correct_answer": "happy",
+        "distractors": [
+          "happily",
+          "happiness",
+          "to be happy"
+        ],
+        "distractor_rationale": [
+          "'happily' is an adverb and cannot serve as an object complement in the factitive 'make + object + adjective' pattern",
+          "'happiness' is a noun; the factitive pattern 'make + object + adjective' requires an adjective, not a noun, as the complement",
+          "'to be happy' introduces an infinitive clause where a bare adjective complement is required; this would instead suggest a causative 'make someone do something' pattern, which changes the meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0010",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My father bought ___ a new schoolbag because my old one was broken.",
+        "correct_answer": "me",
+        "distractors": [
+          "to me",
+          "for to me",
+          "mine"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object pronoun in double-object order is grammatically incorrect; 'to me' belongs to the prepositional dative pattern 'bought a bag to me', which is also wrong since 'buy' takes 'for', not 'to'",
+          "'for to me' is a double-preposition error combining two common mistakes and is completely ungrammatical",
+          "'mine' is a possessive pronoun and cannot function as an indirect object in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0011",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The loud music at the party made everyone ___ after only one hour.",
+        "correct_answer": "tired",
+        "distractors": [
+          "tiredly",
+          "to feel tired",
+          "tiring"
+        ],
+        "distractor_rationale": [
+          "an adverb cannot follow 'make + object' in the factitive pattern; an adjective is required to describe the state of the object",
+          "'make + object + to-infinitive' is the error of confusing the factitive pattern (make sb adj) with the causative pattern (make sb do); 'to feel tired' uses a to-infinitive, which is wrong here",
+          "'tiring' is a present participle used to describe the cause, not the resulting state of the people; it would describe the music, not the people"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0012",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The teacher showed ___ the correct way to write a formal letter during class.",
+        "correct_answer": "us",
+        "distractors": [
+          "to us",
+          "for us",
+          "our"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object in double-object order is ungrammatical; 'to us' is only correct in the reversed prepositional dative 'showed the way to us', not when the indirect object comes directly after the verb",
+          "'for us' uses the wrong preposition; 'show' takes 'to' in the prepositional dative, not 'for', making 'for us' incorrect in any word order here",
+          "'our' is a possessive determiner and cannot function as an indirect object pronoun in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0013",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She found the instructions ___ to follow, so she called the customer service line for help.",
+        "correct_answer": "difficult",
+        "distractors": [
+          "difficulty",
+          "difficultly",
+          "to be difficult"
+        ],
+        "distractor_rationale": [
+          "'difficulty' is a noun and cannot complete the factitive pattern 'find + object + adjective'; a noun in this slot is ungrammatical",
+          "'difficultly' is an adverb and the factitive 'find sth adj' pattern requires an adjective, not an adverb, to describe the state of the object",
+          "'to be difficult' introduces a to-infinitive phrase that is ungrammatical in the 'find sth adj' factitive pattern; the adjective follows the object directly without any additional verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_cloze_0014",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "During the long flight, the airline provided blankets to the passengers to keep ___ warm.",
+        "correct_answer": "them",
+        "distractors": [
+          "they",
+          "their",
+          "themselves"
+        ],
+        "distractor_rationale": [
+          "'they' is a subject pronoun and cannot serve as the object in the factitive 'keep + object + adjective' pattern; an object pronoun is required",
+          "'their' is a possessive determiner and cannot function as the direct object of 'keep' in this factitive construction",
+          "'themselves' is a reflexive pronoun implying the passengers kept themselves warm through their own action, which contradicts the context where the airline is providing the warmth; the non-reflexive object pronoun is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "ditransitive_patterns_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0000",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My father ___ me a new bicycle for my birthday last year.",
+        "correct_answer": "bought",
+        "distractors": [
+          "bought to",
+          "buyed",
+          "buy"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object in double-object order is incorrect; 'to' is only used in the prepositional dative pattern with the direct object first",
+          "learners incorrectly add -ed to an irregular verb, treating 'buy' as regular",
+          "bare infinitive cannot be used as a past tense main verb in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0001",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The loud music in the café ___ the customers very uncomfortable, so many of them left early.",
+        "correct_answer": "made",
+        "distractors": [
+          "made to feel",
+          "did",
+          "caused"
+        ],
+        "distractor_rationale": [
+          "the factitive pattern 'make + object + adjective' does not require an additional infinitive phrase; adding 'to feel' creates a different and incorrect structure here",
+          "'did' cannot function as a factitive verb followed by an object and adjective in this pattern",
+          "'caused' requires a noun or infinitive complement ('caused them to feel'), not a bare adjective, so it cannot complete the factitive pattern here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0002",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She sent ___ a postcard from her holiday trip to the mountains.",
+        "correct_answer": "her parents",
+        "distractors": [
+          "to her parents",
+          "for her parents",
+          "her parents to"
+        ],
+        "distractor_rationale": [
+          "using 'to' before the indirect object is only correct in the prepositional dative pattern where the direct object comes first: 'she sent a postcard to her parents'",
+          "'for' is the wrong preposition; 'send' uses 'to' in the prepositional dative, not 'for'",
+          "placing 'to' after the indirect object creates ungrammatical word order in both the double-object and prepositional dative patterns"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0003",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The teacher showed ___ the correct way to solve the maths problem on the board.",
+        "correct_answer": "the students",
+        "distractors": [
+          "to the students",
+          "for the students",
+          "the students to"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object in double-object order is ungrammatical; 'to' belongs before the indirect object only when the direct object comes first",
+          "'for' is the wrong preposition with 'show'; the prepositional dative of 'show' uses 'to', not 'for'",
+          "placing 'to' after the indirect object produces ungrammatical word order in this ditransitive pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0004",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Drinking cold water after running in the heat kept ___ and helped her recover quickly.",
+        "correct_answer": "her hydrated",
+        "distractors": [
+          "her to hydrate",
+          "her hydrating",
+          "her hydration"
+        ],
+        "distractor_rationale": [
+          "'keep + object + to-infinitive' is not a valid factitive pattern; 'keep' takes an object followed by an adjective, not a to-infinitive",
+          "'keep + object + -ing' describes an ongoing action, not a state; 'hydrating' changes the meaning and does not function as an adjective here in this factitive pattern",
+          "'hydration' is a noun, not an adjective; the factitive pattern 'keep + object + adjective' requires an adjective, not a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0005",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark found the instructions for the new coffee machine ___ to understand without a diagram.",
+        "correct_answer": "difficult",
+        "distractors": [
+          "difficulty",
+          "difficultly",
+          "a difficulty"
+        ],
+        "distractor_rationale": [
+          "'difficulty' is a noun; the factitive pattern 'find + object + adjective' requires an adjective, not a noun",
+          "'difficultly' is not a standard English adverb; even if it were, an adverb cannot fill the adjective slot in the 'find + object + adjective' pattern",
+          "'a difficulty' is a noun phrase; the 'find + object + adjective' pattern requires a bare adjective, not a noun phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0006",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna's grandmother taught ___ an old family recipe for bread during the school holidays.",
+        "correct_answer": "her",
+        "distractors": [
+          "to her",
+          "for her",
+          "her to"
+        ],
+        "distractor_rationale": [
+          "using 'to' before the indirect object pronoun in double-object order is ungrammatical; the prepositional dative requires the direct object first: 'taught the recipe to her'",
+          "'for' is the wrong preposition with 'teach'; the prepositional dative of 'teach' uses 'to', not 'for'",
+          "placing 'to' after the indirect object pronoun creates ungrammatical word order and does not match either the double-object or prepositional dative pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0007",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager gave ___ a detailed report on the project results before the meeting started.",
+        "correct_answer": "each team member",
+        "distractors": [
+          "to each team member",
+          "for each team member",
+          "each team member to"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object in double-object order is ungrammatical; 'to' only precedes the indirect object in the prepositional dative, where the direct object comes first",
+          "'for' is the wrong preposition with 'give'; 'give' uses 'to' in the prepositional dative, not 'for'",
+          "placing 'to' after the indirect object produces ungrammatical word order that matches neither ditransitive pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0008",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Leaving the window open during the night kept the bedroom ___, which helped everyone sleep better.",
+        "correct_answer": "cool",
+        "distractors": [
+          "to cool",
+          "cooling",
+          "coolly"
+        ],
+        "distractor_rationale": [
+          "'keep + object + to-infinitive' is not a valid factitive pattern; 'keep' requires an adjective after the object to describe its resulting state",
+          "'keep + object + -ing' describes an ongoing process rather than a maintained state; 'cooling' implies the room is in the act of becoming cooler, not that it remains at a cool temperature",
+          "'coolly' is an adverb and cannot function as a subject complement or object complement in the factitive 'keep + object + adjective' pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_multiple_choice_0009",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David told ___ the same story about his trip to the coast, and they all laughed again.",
+        "correct_answer": "his colleagues",
+        "distractors": [
+          "to his colleagues",
+          "his colleagues to",
+          "for his colleagues"
+        ],
+        "distractor_rationale": [
+          "inserting 'to' before the indirect object in double-object order is ungrammatical; the prepositional dative of 'tell' requires the direct object first: 'told the story to his colleagues'",
+          "placing 'to' after the indirect object creates ungrammatical word order in both the double-object and prepositional dative patterns",
+          "'for' is the wrong preposition with 'tell'; 'tell' uses 'to' in the prepositional dative, not 'for'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "ditransitive_patterns_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0000",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My mother gave to me a warm jacket for my birthday last year.",
+        "correct_answer": "gave me",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My mother gave to me a warm jacket for my birthday last year.",
+        "corrected_sentence": "My mother gave me a warm jacket for my birthday last year.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0001",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The loud music in the café made Anna to feel very uncomfortable.",
+        "correct_answer": "made Anna feel",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The loud music in the café made Anna to feel very uncomfortable.",
+        "corrected_sentence": "The loud music in the café made Anna feel very uncomfortable.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0002",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The teacher showed the new students how to use the library, and then she gave them for a map of the building.",
+        "correct_answer": "gave them a map",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The teacher showed the new students how to use the library, and then she gave them for a map of the building.",
+        "corrected_sentence": "The teacher showed the new students how to use the library, and then she gave them a map of the building.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0003",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "David found the instructions on the box very confusingly, so he asked his colleague for help.",
+        "correct_answer": "very confusing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "David found the instructions on the box very confusingly, so he asked his colleague for help.",
+        "corrected_sentence": "David found the instructions on the box very confusing, so he asked his colleague for help.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0004",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara sent to her manager the updated report before the meeting started on Monday morning.",
+        "correct_answer": "sent her manager",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara sent to her manager the updated report before the meeting started on Monday morning.",
+        "corrected_sentence": "Sara sent her manager the updated report before the meeting started on Monday morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0005",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "It is important to keep the vegetables fresh, so she always stores them in the coldest part of the fridge.",
+        "correct_answer": "keep the vegetables fresh",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "It is important to keep the vegetables freshly, so she always stores them in the coldest part of the fridge.",
+        "corrected_sentence": "It is important to keep the vegetables fresh, so she always stores them in the coldest part of the fridge.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0006",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The travel agent showed to the couple several hotel options before they decided on the one near the beach.",
+        "correct_answer": "showed the couple",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The travel agent showed to the couple several hotel options before they decided on the one near the beach.",
+        "corrected_sentence": "The travel agent showed the couple several hotel options before they decided on the one near the beach.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_ditransitive_patterns_error_correction_0007",
+      "skill_ids": [
+        "ditransitive_patterns"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Working long hours every day made Mark exhausting, and his doctor advised him to rest more often.",
+        "correct_answer": "made Mark exhausted",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Working long hours every day made Mark exhausting, and his doctor advised him to rest more often.",
+        "corrected_sentence": "Working long hours every day made Mark exhausted, and his doctor advised him to rest more often.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:21:18.655809+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "ditransitive_patterns_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

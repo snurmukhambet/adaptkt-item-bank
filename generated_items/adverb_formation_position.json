@@ -1,0 +1,1863 @@
+{
+  "skill_id": "adverb_formation_position",
+  "skill_name": "Adverb Formation & Position",
+  "exercises": [
+    {
+      "id": "ex_adverb_formation_position_cloze_0000",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please speak ___ (quiet) — the baby is sleeping in the next room.",
+        "correct_answer": "quietly",
+        "distractors": [
+          "quiet",
+          "more quiet",
+          "quietful"
+        ],
+        "distractor_rationale": [
+          "the adjective form cannot modify the verb 'speak'; an adverb is required",
+          "the comparative adjective form cannot modify a verb; it also requires -ly to become an adverb",
+          "'quietful' is not a real word; the correct adverb is formed by adding -ly to 'quiet'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0001",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ran ___ (fast) to catch the bus, but it had already left.",
+        "correct_answer": "fast",
+        "distractors": [
+          "fastly",
+          "more fastly",
+          "faster"
+        ],
+        "distractor_rationale": [
+          "'fastly' is not a real word; 'fast' is already an adverb and needs no -ly suffix",
+          "'more fastly' is not a real word; 'fast' does not take -ly in any form",
+          "'faster' is the comparative form and does not fit here because no comparison is being made"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0002",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She sings ___ (good) and everyone in the class enjoys her performances.",
+        "correct_answer": "well",
+        "distractors": [
+          "good",
+          "goodly",
+          "nicely"
+        ],
+        "distractor_rationale": [
+          "'good' is an adjective and cannot modify the verb 'sings'; the irregular adverb 'well' is required",
+          "'goodly' is not the correct adverb form of 'good'; the irregular form is 'well'",
+          "'nicely' changes the meaning; 'well' is the standard adverb used to describe singing ability"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0003",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The students listened ___ (careful) while the teacher explained the new grammar rule.",
+        "correct_answer": "carefully",
+        "distractors": [
+          "careful",
+          "careless",
+          "carelessly"
+        ],
+        "distractor_rationale": [
+          "the adjective 'careful' cannot modify the verb 'listened'; the adverb 'carefully' is required",
+          "'careless' is an adjective with the opposite meaning and cannot modify a verb",
+          "'carelessly' means without care and contradicts the context of students paying attention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0004",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark works ___ (hard) every evening to finish his project before the deadline.",
+        "correct_answer": "hard",
+        "distractors": [
+          "hardly",
+          "hardely",
+          "very hard"
+        ],
+        "distractor_rationale": [
+          "'hardly' means almost not at all, which completely contradicts working intensively every evening",
+          "'hardely' is not a real English word; 'hard' already functions as an adverb",
+          "'very hard' adds an unnecessary intensifier that is not cued in the base word 'hard' given in parentheses"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0005",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The instructions were ___ (surprising) easy to follow, so we finished the task in ten minutes.",
+        "correct_answer": "surprisingly",
+        "distractors": [
+          "surprising",
+          "surprised",
+          "surprise"
+        ],
+        "distractor_rationale": [
+          "the adjective 'surprising' cannot modify another adjective 'easy'; an adverb is required",
+          "'surprised' is a past participle / adjective describing a person's feeling, not an adverb modifying 'easy'",
+          "'surprise' is a noun or verb and cannot function as a modifier before an adjective"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0006",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (usual) checks her emails before breakfast and then starts her work.",
+        "correct_answer": "usually",
+        "distractors": [
+          "usual",
+          "is usually",
+          "often usual"
+        ],
+        "distractor_rationale": [
+          "the adjective 'usual' cannot function as a frequency adverb before the main verb 'checks'",
+          "inserting 'is' creates a different verb structure; the sentence already has the main verb 'checks'",
+          "'often usual' combines two separate modifiers incorrectly; only the single adverb 'usually' is needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0007",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new manager explained the company's goals ___ (clear) during the meeting, so the whole team understood what was expected.",
+        "correct_answer": "clearly",
+        "distractors": [
+          "clear",
+          "in a clear way clearly",
+          "more clearly"
+        ],
+        "distractor_rationale": [
+          "the adjective 'clear' cannot modify the verb 'explained'; the adverb 'clearly' is grammatically required in this position",
+          "'in a clear way clearly' is a redundant and ungrammatical combination of two modifiers",
+          "'more clearly' is a comparative adverb implying a comparison with another occasion, which is not supported by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0008",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor ___ (strong) advised her patient to rest for at least a week and avoid any strenuous activity.",
+        "correct_answer": "strongly",
+        "distractors": [
+          "strong",
+          "with strength",
+          "strenghtly"
+        ],
+        "distractor_rationale": [
+          "the adjective 'strong' cannot modify the verb 'advised'; the adverb 'strongly' is required",
+          "'with strength' is a prepositional phrase that collocates with physical actions, not with the verb 'advise'",
+          "'strenghtly' is not a real word; the correct adverb derived from 'strong' is 'strongly'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0009",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The results of the experiment were ___ (significant) different from what the researchers had predicted at the start.",
+        "correct_answer": "significantly",
+        "distractors": [
+          "significant",
+          "significate",
+          "significance"
+        ],
+        "distractor_rationale": [
+          "the adjective 'significant' cannot modify another adjective 'different'; an adverb is required before an adjective",
+          "'significate' is not a real English word in any grammatical category",
+          "'significance' is a noun and cannot function as an adverb modifying the adjective 'different'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0010",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom runs very ___ (fast / fastly) and always wins the school race.",
+        "correct_answer": "fast",
+        "distractors": [
+          "fastly",
+          "faster",
+          "fast-ly"
+        ],
+        "distractor_rationale": [
+          "'fastly' does not exist in English; 'fast' is already the adverb form and never takes -ly",
+          "'faster' is a comparative adjective/adverb and changes the meaning to a comparison, which the sentence does not make",
+          "'fast-ly' is not a real word; hyphenated forms of this type do not exist in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0011",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria plays the piano ___ (good) for her age, so her teacher is very pleased.",
+        "correct_answer": "well",
+        "distractors": [
+          "good",
+          "goodly",
+          "nicely"
+        ],
+        "distractor_rationale": [
+          "'good' is an adjective and cannot modify the verb 'plays'; the adverb form is 'well'",
+          "'goodly' does not exist as a standard adverb in modern English and would be completely unnatural here",
+          "'nicely' means pleasantly or attractively and does not collocate with playing a musical instrument at a skill level"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0012",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The instructions on the box were ___ (clear) written, so everyone understood what to do.",
+        "correct_answer": "clearly",
+        "distractors": [
+          "clear",
+          "in a clear way",
+          "more clearly"
+        ],
+        "distractor_rationale": [
+          "'clear' is an adjective and cannot modify the past participle 'written'; the adverb 'clearly' is required",
+          "'in a clear way' is a prepositional phrase that is grammatically clumsy before a past participle and unnatural in this position",
+          "'more clearly' introduces a comparison that has no basis in the sentence, making the meaning illogical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0013",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She ___ (hard) worked all weekend to finish the project before the Monday deadline.",
+        "correct_answer": "worked hard",
+        "distractors": [
+          "hardly worked",
+          "worked hardly",
+          "hard worked"
+        ],
+        "distractor_rationale": [
+          "'hardly worked' means she did almost no work at all, which contradicts the idea of finishing the project before the deadline",
+          "'worked hardly' is grammatically incorrect; 'hardly' as a negative adverb of degree cannot follow the verb in this structure",
+          "'hard worked' places the adverb before the verb without an auxiliary, which is ungrammatical in standard English for this adverb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_cloze_0014",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager ___ (frequent) reminds the team to double-check their reports before sending them to the client.",
+        "correct_answer": "frequently",
+        "distractors": [
+          "frequent",
+          "is frequently",
+          "very frequent"
+        ],
+        "distractor_rationale": [
+          "'frequent' is an adjective and cannot modify the verb 'reminds'; the adverb 'frequently' is required in this position before the main verb",
+          "'is frequently' inserts an auxiliary that breaks the simple present tense structure, making the sentence grammatically incorrect as a standalone clause",
+          "'very frequent' uses an adjective intensified by 'very', but an adjective cannot modify a verb; the adverb form 'frequently' is needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adverb_formation_position_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0000",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom runs ___ every morning before school.",
+        "correct_answer": "fast",
+        "distractors": [
+          "fastly",
+          "faster",
+          "fastest"
+        ],
+        "distractor_rationale": [
+          "'fastly' is a common learner error — 'fast' is already an adverb and does not take -ly",
+          "'faster' is a comparative adjective/adverb and changes the meaning without any comparison present",
+          "'fastest' is a superlative and cannot be used without a comparison context here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0001",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria sings ___ in the school choir every week.",
+        "correct_answer": "well",
+        "distractors": [
+          "good",
+          "goodly",
+          "niceful"
+        ],
+        "distractor_rationale": [
+          "'good' is an adjective and cannot modify the verb 'sings' — a common error of using adjective form instead of adverb",
+          "'goodly' does not exist as a standard adverb — learners incorrectly add -ly to 'good'",
+          "'niceful' is not a real English word — learners sometimes invent forms by analogy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0002",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Please drive ___ — the roads are wet and dangerous today.",
+        "correct_answer": "carefully",
+        "distractors": [
+          "careful",
+          "more careful",
+          "care"
+        ],
+        "distractor_rationale": [
+          "'careful' is an adjective and cannot modify the verb 'drive' — learners often use the adjective form instead of the adverb",
+          "'more careful' is a comparative adjective phrase, not an adverb, and no comparison is being made",
+          "'care' is a noun or base verb and cannot function as an adverb modifying 'drive'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0003",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna ___ checks her email before starting work in the morning.",
+        "correct_answer": "always",
+        "distractors": [
+          "always checks her email before",
+          "checks always her email",
+          "her email always checks"
+        ],
+        "distractor_rationale": [
+          "this repeats part of the sentence and makes the whole prompt a run-on — not a valid single-word option",
+          "placing 'always' between the verb and its object is incorrect; frequency adverbs go before the main verb, not between verb and object",
+          "this puts the frequency adverb after the object and inverts the subject and verb — both errors at once"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0004",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children worked ___ on their art project and finished it before lunch.",
+        "correct_answer": "hard",
+        "distractors": [
+          "hardly",
+          "hardely",
+          "hardfully"
+        ],
+        "distractor_rationale": [
+          "'hardly' is a real adverb but means 'almost not at all', which contradicts the result of finishing before lunch",
+          "'hardely' is a misspelling that does not exist — learners confuse the irregular adverb 'hard' with a regular -ly form",
+          "'hardfully' is not a real English word — a learner error combining 'hard' with a suffix by false analogy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0005",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The instructions were ___ written, so everyone understood what to do.",
+        "correct_answer": "clearly",
+        "distractors": [
+          "clear",
+          "clarity",
+          "clearing"
+        ],
+        "distractor_rationale": [
+          "'clear' is an adjective and cannot modify the past participle 'written' — learners often use the adjective form instead of the adverb",
+          "'clarity' is a noun and cannot function as an adverb modifying 'written'",
+          "'clearing' is a present participle or noun and has no adverbial function in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0006",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "He ___ forgets his keys, so his wife leaves a spare set by the door.",
+        "correct_answer": "often",
+        "distractors": [
+          "forgets often his keys",
+          "often his keys forgets",
+          "his keys often forgets"
+        ],
+        "distractor_rationale": [
+          "placing 'often' between the verb and its object is incorrect; frequency adverbs must precede the main verb",
+          "this inverts the verb and object and places the adverb in the wrong position, producing an ungrammatical sentence",
+          "this inverts subject and verb and misplaces the adverb, making the sentence completely ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0007",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new assistant completed the report ___ and handed it to her manager before the deadline.",
+        "correct_answer": "efficiently",
+        "distractors": [
+          "efficient",
+          "efficiency",
+          "more efficiently than"
+        ],
+        "distractor_rationale": [
+          "'efficient' is an adjective and cannot modify the verb 'completed' — a learner error of using the adjective form instead of the adverb",
+          "'efficiency' is a noun and cannot function as an adverb modifying the verb 'completed'",
+          "'more efficiently than' is a comparative adverb phrase requiring a second term for comparison, which is not present in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0008",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The lecturer spoke ___ quickly that most students struggled to take notes during the talk.",
+        "correct_answer": "so",
+        "distractors": [
+          "such",
+          "too",
+          "very"
+        ],
+        "distractor_rationale": [
+          "'such' modifies nouns or noun phrases, not adverbs like 'quickly', so 'such quickly' is ungrammatical",
+          "'too quickly' means 'excessively fast' and does not introduce the result clause with 'that' in the same way — 'too … to' is the correct pattern, not 'too … that'",
+          "'very quickly' intensifies the adverb but cannot introduce a result clause with 'that' — only 'so' creates the 'so … that' result structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_multiple_choice_0009",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Despite the noise outside, Lisa ___ concentrated on her work and met every target that week.",
+        "correct_answer": "remarkably well",
+        "distractors": [
+          "remarkable good",
+          "remarkably good",
+          "remarkable well"
+        ],
+        "distractor_rationale": [
+          "'remarkable good' uses an adjective to modify another adjective, which is incorrect — an adverb must modify an adjective or another adverb",
+          "'remarkably good' correctly forms the adverb but 'good' is an adjective and cannot modify the verb 'concentrated' — the adverb 'well' is required",
+          "'remarkable well' uses the adjective form 'remarkable' instead of the adverb 'remarkably' to modify 'well', which is incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adverb_formation_position_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0000",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She sings beautiful in the school choir every Friday.",
+        "correct_answer": "beautifully",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She sings beautiful in the school choir every Friday.",
+        "corrected_sentence": "She sings beautifully in the school choir every Friday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0001",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He plays the guitar goodly and practises every day after school.",
+        "correct_answer": "well",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He plays the guitar goodly and practises every day after school.",
+        "corrected_sentence": "He plays the guitar well and practises every day after school.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0002",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom drives fastly on the motorway, so his passengers always feel nervous.",
+        "correct_answer": "fast",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom drives fastly on the motorway, so his passengers always feel nervous.",
+        "corrected_sentence": "Tom drives fast on the motorway, so his passengers always feel nervous.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0003",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna speaks fluently French, so she always helps visitors at the information desk.",
+        "correct_answer": "speaks French fluently",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna speaks fluently French, so she always helps visitors at the information desk.",
+        "corrected_sentence": "Anna speaks French fluently, so she always helps visitors at the information desk.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0004",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children were playing quiet in the garden while their mother was on the phone.",
+        "correct_answer": "quietly",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children were playing quiet in the garden while their mother was on the phone.",
+        "corrected_sentence": "The children were playing quietly in the garden while their mother was on the phone.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0005",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My colleague works hardly to meet every deadline, even when the projects are very difficult.",
+        "correct_answer": "hard",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My colleague works hardly to meet every deadline, even when the projects are very difficult.",
+        "corrected_sentence": "My colleague works hard to meet every deadline, even when the projects are very difficult.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0006",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new software update has made the laptop noticeable slower, which is frustrating for everyone in the office.",
+        "correct_answer": "noticeably",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new software update has made the laptop noticeable slower, which is frustrating for everyone in the office.",
+        "corrected_sentence": "The new software update has made the laptop noticeably slower, which is frustrating for everyone in the office.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adverb_formation_position_error_correction_0007",
+      "skill_ids": [
+        "adverb_formation_position"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She always carefully checks her report before she sends it to the manager, but she still occasionally makes small errors.",
+        "correct_answer": "always checks carefully",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She always carefully checks her report before she sends it to the manager, but she still occasionally makes small errors.",
+        "corrected_sentence": "She always checks her report carefully before she sends it to the manager, but she still occasionally makes small errors.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:23:28.446282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adverb_formation_position_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

@@ -1,0 +1,1866 @@
+{
+  "skill_id": "quantifiers_basic",
+  "skill_name": "Quantifiers: Basic (Some/Any/Much/Many/A lot of/Enough/How much)",
+  "exercises": [
+    {
+      "id": "ex_quantifiers_basic_cloze_0000",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Is there ___ milk in the fridge?",
+        "correct_answer": "any",
+        "distractors": [
+          "some",
+          "many",
+          "much"
+        ],
+        "distractor_rationale": [
+          "some is used in offers and positive statements, not in standard questions asking whether something exists",
+          "many is used with countable nouns; milk is uncountable",
+          "much is used in negative sentences and questions with a negative expectation, but 'any' is the standard choice for neutral yes/no questions with uncountable nouns"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0001",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There are ___ chairs in the classroom.",
+        "correct_answer": "some",
+        "distractors": [
+          "any",
+          "much",
+          "a lot"
+        ],
+        "distractor_rationale": [
+          "any is used in negatives and questions, not in affirmative statements about existence",
+          "much is used with uncountable nouns; chairs is a countable plural noun",
+          "a lot requires 'of' before a noun — 'a lot chairs' is grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0002",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We don't have ___ bread left for the sandwiches.",
+        "correct_answer": "any",
+        "distractors": [
+          "some",
+          "many",
+          "enough"
+        ],
+        "distractor_rationale": [
+          "some is used in affirmative statements and polite offers, not in negative sentences",
+          "many is used with countable nouns; bread is an uncountable noun",
+          "enough means a sufficient amount, but the sentence says 'don't have', indicating a complete absence, not an insufficient quantity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0003",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There isn't ___ sugar in this coffee — it tastes very bitter.",
+        "correct_answer": "enough",
+        "distractors": [
+          "many",
+          "any",
+          "some"
+        ],
+        "distractor_rationale": [
+          "many is used with countable nouns; sugar is uncountable",
+          "any would mean there is zero sugar, but the coffee 'tastes bitter' implies some is present but the quantity is insufficient",
+          "some is used in affirmative sentences and cannot follow 'isn't' in this context to express insufficiency"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0004",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She bought ___ of vegetables at the market this morning.",
+        "correct_answer": "a lot",
+        "distractors": [
+          "much",
+          "many",
+          "some"
+        ],
+        "distractor_rationale": [
+          "much is used with uncountable nouns in negatives and questions, not in affirmative statements with countable plural nouns",
+          "many cannot directly precede 'of vegetables' in an affirmative statement in this natural way; 'a lot of' is the correct collocation here",
+          "some cannot be followed by 'of' before a plural noun in this structure; 'some vegetables' is correct but 'some of vegetables' is not"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0005",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ time does it take to walk to the train station from here?",
+        "correct_answer": "How much",
+        "distractors": [
+          "How many",
+          "How some",
+          "How any"
+        ],
+        "distractor_rationale": [
+          "how many is used with countable nouns; time in this context is uncountable",
+          "'how some' is not a grammatical quantifier expression in English",
+          "'how any' is not a grammatical quantifier expression in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0006",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There are too ___ people in this small room — it's very uncomfortable.",
+        "correct_answer": "many",
+        "distractors": [
+          "much",
+          "some",
+          "any"
+        ],
+        "distractor_rationale": [
+          "much is used with uncountable nouns; people is a countable plural noun",
+          "some does not combine with 'too' to express excess; 'too some' is not grammatical",
+          "any does not combine with 'too' to express excess; 'too any' is not grammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0007",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor said Tom doesn't drink ___ water during the day, so he often gets headaches.",
+        "correct_answer": "enough",
+        "distractors": [
+          "many",
+          "some",
+          "a lot of"
+        ],
+        "distractor_rationale": [
+          "many is used with countable nouns; water is uncountable",
+          "some is used in affirmative sentences and cannot follow 'doesn't' to indicate an insufficient quantity",
+          "a lot of means a large quantity, which contradicts the negative result of getting headaches due to insufficient water intake"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0008",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark sent ___ emails to his colleagues before the meeting started, so everyone knew the plan.",
+        "correct_answer": "a lot of",
+        "distractors": [
+          "much",
+          "enough",
+          "any"
+        ],
+        "distractor_rationale": [
+          "much is used with uncountable nouns in negatives and questions; emails is a countable plural noun in an affirmative sentence",
+          "enough means a sufficient amount, but the sentence emphasises a large quantity that ensured everyone knew the plan, not just sufficiency",
+          "any is used in negatives and questions; this is an affirmative sentence describing a large number of emails sent"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0009",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ money did Lisa spend on her new laptop, and was it worth the price?",
+        "correct_answer": "How much",
+        "distractors": [
+          "How many",
+          "How enough",
+          "What much"
+        ],
+        "distractor_rationale": [
+          "how many is used with countable nouns; money is an uncountable noun",
+          "'how enough' is not a grammatical quantifier phrase in English",
+          "'what much' is not a grammatical quantifier phrase in English; 'how much' is the correct interrogative form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0011",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There are ___ apples on the table — please take one.",
+        "correct_answer": "some",
+        "distractors": [
+          "any",
+          "much",
+          "a lot"
+        ],
+        "distractor_rationale": [
+          "any is used in negatives and questions, not in affirmative sentences offering something",
+          "much is used with uncountable nouns; apples is a countable plural",
+          "a lot without 'of' cannot directly precede a noun; the correct phrase is 'a lot of'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0012",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We don't have ___ time before the bus leaves, so let's hurry.",
+        "correct_answer": "much",
+        "distractors": [
+          "many",
+          "some",
+          "enough"
+        ],
+        "distractor_rationale": [
+          "many is used with countable plural nouns; time is an uncountable noun here",
+          "some cannot be used in negative sentences to express a small or insufficient quantity",
+          "enough means a sufficient amount and would contradict the urgency expressed by 'let's hurry'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0013",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She bought ___ of fresh vegetables at the market this morning.",
+        "correct_answer": "a lot",
+        "distractors": [
+          "much",
+          "many",
+          "any"
+        ],
+        "distractor_rationale": [
+          "much is used in negative sentences and questions, not in affirmative statements about a large quantity",
+          "many is used directly before a countable plural noun without 'of'; the structure here requires 'a lot of'",
+          "any in an affirmative sentence signals zero quantity, which contradicts the idea of buying vegetables"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_cloze_0014",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children didn't eat ___ food at dinner, so they were still hungry at bedtime.",
+        "correct_answer": "enough",
+        "distractors": [
+          "many",
+          "some",
+          "a lot of"
+        ],
+        "distractor_rationale": [
+          "many is used with countable plural nouns; food is an uncountable noun",
+          "some cannot be used in negative sentences to express insufficiency; any would be the basic negative choice, but the result clause 'so they were still hungry' specifically requires the meaning of insufficiency that only enough provides",
+          "a lot of in a negative sentence means they ate almost nothing, but the result clause 'so they were still hungry' indicates they ate something but not a sufficient amount, making enough the only correct choice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0001",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There are ___ apples on the table — take one if you want.",
+        "correct_answer": "some",
+        "distractors": [
+          "any",
+          "much",
+          "a lot"
+        ],
+        "distractor_rationale": [
+          "any is used in negatives and questions, not in positive statements offering something",
+          "much is used with uncountable nouns, but apples are countable",
+          "a lot is missing the required preposition 'of' before a noun — the correct form is 'a lot of'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0002",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We don't have ___ bread left, so I need to buy more.",
+        "correct_answer": "any",
+        "distractors": [
+          "some",
+          "many",
+          "enough"
+        ],
+        "distractor_rationale": [
+          "some is used in positive statements, not in negative sentences with 'don't have'",
+          "many is used with countable nouns, but bread is an uncountable noun",
+          "enough means a sufficient amount, but the sentence says they need to buy more, which contradicts having enough"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0003",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There isn't ___ sugar in this coffee — can I add more?",
+        "correct_answer": "much",
+        "distractors": [
+          "many",
+          "some",
+          "a lot of"
+        ],
+        "distractor_rationale": [
+          "many is used with countable nouns, but sugar is an uncountable noun",
+          "some is used in positive statements, not in negative sentences with 'isn't'",
+          "a lot of is used in positive statements to indicate a large quantity, not in negatives with 'isn't'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0004",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "How ___ students are in your class this year?",
+        "correct_answer": "many",
+        "distractors": [
+          "much",
+          "any",
+          "some"
+        ],
+        "distractor_rationale": [
+          "much is used with uncountable nouns in questions, but students is a countable plural noun",
+          "any is used in yes/no questions, not in 'how ___' quantity questions",
+          "some is used in positive statements or offers, not in 'how ___' quantity questions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0005",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She has ___ friends in the city, so she never feels lonely.",
+        "correct_answer": "a lot of",
+        "distractors": [
+          "much",
+          "a lot",
+          "any"
+        ],
+        "distractor_rationale": [
+          "much is used with uncountable nouns, but friends is a countable plural noun",
+          "a lot must be followed by 'of' when a noun comes directly after it — 'a lot friends' is incorrect",
+          "any is used in negatives and questions, not in positive statements about having a large number"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0006",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "How ___ water do you drink every day?",
+        "correct_answer": "much",
+        "distractors": [
+          "many",
+          "any",
+          "some"
+        ],
+        "distractor_rationale": [
+          "many is used with countable nouns, but water is an uncountable noun",
+          "any is used in yes/no questions, not in 'how ___' quantity questions",
+          "some is used in positive statements or offers, not in 'how ___' quantity questions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0007",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We have ___ time before the bus leaves, so let's get a coffee quickly.",
+        "correct_answer": "enough",
+        "distractors": [
+          "many",
+          "any",
+          "much"
+        ],
+        "distractor_rationale": [
+          "many is used with countable nouns, but time is an uncountable noun",
+          "any is used in negatives and questions, and does not convey the idea of a sufficient amount needed here",
+          "much alone does not express the idea of having a sufficient amount; the context requires 'enough' to justify the action that follows"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0008",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark didn't buy ___ vegetables at the market because the prices were very high.",
+        "correct_answer": "many",
+        "distractors": [
+          "much",
+          "some",
+          "enough"
+        ],
+        "distractor_rationale": [
+          "much is used with uncountable nouns, but vegetables is a countable plural noun",
+          "some is used in positive statements, not in negative sentences with 'didn't buy'",
+          "enough means a sufficient amount was bought, which contradicts the reason given — that prices were too high"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0009",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There is ___ traffic on this road every morning, so Anna always leaves home early.",
+        "correct_answer": "a lot of",
+        "distractors": [
+          "many",
+          "much",
+          "a lot"
+        ],
+        "distractor_rationale": [
+          "many is used with countable nouns, but traffic is an uncountable noun",
+          "much is used in negative statements and questions, not in positive statements describing a large amount",
+          "a lot must be followed by 'of' when directly before a noun — 'a lot traffic' is grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0000",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "There isn't some milk in the fridge.",
+        "correct_answer": "any",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "There isn't some milk in the fridge.",
+        "corrected_sentence": "There isn't any milk in the fridge.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0001",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We don't have some chairs in the kitchen.",
+        "correct_answer": "any",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We don't have some chairs in the kitchen.",
+        "corrected_sentence": "We don't have any chairs in the kitchen.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0002",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She bought much oranges at the market this morning.",
+        "correct_answer": "many",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She bought much oranges at the market this morning.",
+        "corrected_sentence": "She bought many oranges at the market this morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0003",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom drinks many water every day because he exercises a lot.",
+        "correct_answer": "much",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom drinks many water every day because he exercises a lot.",
+        "corrected_sentence": "Tom drinks much water every day because he exercises a lot.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0004",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "There are a lot books on the shelf in the living room.",
+        "correct_answer": "a lot of",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "There are a lot books on the shelf in the living room.",
+        "corrected_sentence": "There are a lot of books on the shelf in the living room.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0005",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Is there some sugar left in the bowl, or do I need to buy more?",
+        "correct_answer": "any",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Is there some sugar left in the bowl, or do I need to buy more?",
+        "corrected_sentence": "Is there any sugar left in the bowl, or do I need to buy more?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0006",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We don't have enough time to finish the work, but we have a lot money.",
+        "correct_answer": "a lot of money",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We don't have enough time to finish the work, but we have a lot money.",
+        "corrected_sentence": "We don't have enough time to finish the work, but we have a lot of money.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_basic_error_correction_0007",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "How many rice do you want with your meal — a small portion or a large one?",
+        "correct_answer": "much",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "How many rice do you want with your meal — a small portion or a large one?",
+        "corrected_sentence": "How much rice do you want with your meal — a small portion or a large one?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_quantifiers_basic_cloze_0010",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Is there ___ milk in the fridge?",
+        "correct_answer": "any",
+        "distractors": [
+          "some",
+          "many",
+          "much"
+        ],
+        "distractor_rationale": [
+          "some is used in affirmative sentences and offers, not in neutral yes/no questions about availability",
+          "many is used with countable plural nouns; milk is uncountable",
+          "much is used in negative sentences and questions with a negative expectation, but in a simple open question about availability, any is the standard choice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    },
+    {
+      "id": "ex_quantifiers_basic_multiple_choice_0000",
+      "skill_ids": [
+        "quantifiers_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Is there ___ milk in the fridge?",
+        "correct_answer": "any",
+        "distractors": [
+          "some",
+          "many",
+          "much"
+        ],
+        "distractor_rationale": [
+          "some is used in positive statements and offers, not in neutral yes/no questions about availability",
+          "many is used with countable nouns, not uncountable nouns like milk",
+          "much is used in negative statements and formal questions, not in simple yes/no questions at this level"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:52:41.065757+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 31,
+    "filter_rejected": 2
+  }
+}

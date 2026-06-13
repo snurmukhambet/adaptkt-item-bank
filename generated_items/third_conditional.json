@@ -1,0 +1,1863 @@
+{
+  "skill_id": "third_conditional",
+  "skill_name": "Third Conditional",
+  "exercises": [
+    {
+      "id": "ex_third_conditional_cloze_0000",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Tom ___ (study) harder for his exam last month, he would have passed without any problems.",
+        "correct_answer": "had studied",
+        "distractors": [
+          "would have studied",
+          "studied",
+          "has studied"
+        ],
+        "distractor_rationale": [
+          "would have in the if-clause is a classic learner error; the if-clause requires past perfect, not would have",
+          "simple past in the if-clause is incorrect for third conditional; past perfect is required to refer to an unreal past situation",
+          "present perfect cannot be used to describe a completed past event set in last month"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0001",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If she had set her alarm clock last night, she ___ (miss, negative) her morning flight to the conference.",
+        "correct_answer": "would not have missed",
+        "distractors": [
+          "would not miss",
+          "had not missed",
+          "did not miss"
+        ],
+        "distractor_rationale": [
+          "would not miss is second conditional form and refers to an unreal present situation, not an unreal past event",
+          "had not missed places the result clause in past perfect, which is only used in the if-clause of a third conditional",
+          "did not miss uses simple past, which describes a real past event rather than a hypothetical past result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0002",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (arrive) at the restaurant on time last Saturday if the bus had not been delayed by the roadworks.",
+        "correct_answer": "would have arrived",
+        "distractors": [
+          "would of arrived",
+          "had arrived",
+          "would arrive"
+        ],
+        "distractor_rationale": [
+          "would of is a spelling error based on the spoken contraction would've; of is never used as an auxiliary verb",
+          "had arrived places the result in past perfect, which belongs in the if-clause, not the result clause",
+          "would arrive is second conditional form and refers to an unreal present, not an unreal past situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0003",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the weather ___ (be) better during our camping trip last summer, we would have enjoyed it much more.",
+        "correct_answer": "had been",
+        "distractors": [
+          "would have been",
+          "was",
+          "were"
+        ],
+        "distractor_rationale": [
+          "would have been in the if-clause is a common learner error; the if-clause requires past perfect, not would have",
+          "was uses simple past, which is used in second conditional for unreal present situations, not third conditional for unreal past",
+          "were is the subjunctive form used in second conditional if-clauses, not in third conditional which requires past perfect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0004",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark would have got the job last spring if he ___ (prepare) better for the interview and brought more examples of his work.",
+        "correct_answer": "had prepared",
+        "distractors": [
+          "would have prepared",
+          "prepared",
+          "has prepared"
+        ],
+        "distractor_rationale": [
+          "would have prepared in the if-clause is a frequent learner error; only the result clause takes would have, not the if-clause",
+          "prepared uses simple past, which applies to second conditional for unreal present, not to third conditional for unreal past",
+          "has prepared uses present perfect, which cannot refer to a specific completed past event in last spring"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0005",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Anna had taken the doctor's advice seriously two years ago, she ___ (recover) from her illness much faster.",
+        "correct_answer": "would have recovered",
+        "distractors": [
+          "would of recovered",
+          "would recover",
+          "had recovered"
+        ],
+        "distractor_rationale": [
+          "would of recovered is a spelling error; of cannot function as an auxiliary verb in place of have",
+          "would recover is the second conditional result form for unreal present situations, not for unreal past events",
+          "had recovered is past perfect, which belongs in the if-clause of a third conditional, not in the result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0006",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If the team ___ (follow) the coach's plan during the match last weekend, they would have won the championship.",
+        "correct_answer": "had followed",
+        "distractors": [
+          "would have followed",
+          "followed",
+          "were following"
+        ],
+        "distractor_rationale": [
+          "would have followed in the if-clause is a typical learner error; the if-clause of a third conditional requires past perfect, not would have",
+          "followed is simple past, which is used in second conditional if-clauses for unreal present, not for unreal past events",
+          "were following is past continuous, which describes an ongoing action in the past and cannot form the hypothetical past condition required here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0007",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David ___ (not, spend) so much money on that old car last year if he had known it would break down after just two weeks.",
+        "correct_answer": "would not have spent",
+        "distractors": [
+          "would not spend",
+          "had not spent",
+          "did not spend"
+        ],
+        "distractor_rationale": [
+          "would not spend is second conditional form and refers to a hypothetical present situation, not a hypothetical past result",
+          "had not spent is past perfect, which is the form used in the if-clause, not in the result clause of a third conditional",
+          "did not spend uses simple past, which describes a real past action rather than a hypothetical past result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0008",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Lisa ___ (tell) her manager about the problem earlier in the project, the whole team would have avoided those costly delays.",
+        "correct_answer": "had told",
+        "distractors": [
+          "would have told",
+          "told",
+          "has told"
+        ],
+        "distractor_rationale": [
+          "would have told in the if-clause is a common learner error; the if-clause requires past perfect had told, not would have",
+          "told is simple past, which forms the if-clause of a second conditional referring to an unreal present, not a third conditional for unreal past",
+          "has told is present perfect and cannot be used to refer to a specific hypothetical past event within a completed project"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0009",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (enjoy) the school trip to the science museum last Friday much more if the guide had explained things in a simpler way.",
+        "correct_answer": "would have enjoyed",
+        "distractors": [
+          "would of enjoyed",
+          "would enjoy",
+          "had enjoyed"
+        ],
+        "distractor_rationale": [
+          "would of enjoyed is a spelling error caused by mishearing the contraction would've; of is not an auxiliary verb",
+          "would enjoy is the result clause form for a second conditional referring to an unreal present situation, not an unreal past event",
+          "had enjoyed is past perfect, which is the form used in the if-clause of a third conditional, not in the result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0010",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Tom had studied harder for the exam, he ___ (pass) it and started his new job on time.",
+        "correct_answer": "would have passed",
+        "distractors": [
+          "would have pass",
+          "would of passed",
+          "had passed"
+        ],
+        "distractor_rationale": [
+          "the past participle 'passed' is required after 'would have'; omitting it produces an ungrammatical form",
+          "'would of' is a spelling error based on mishearing the contracted form 'would've'; 'of' is never an auxiliary verb",
+          "'had passed' is the past perfect form used in the if-clause condition, not in the result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0011",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If she ___ (leave) home ten minutes earlier, she would have caught the last bus to the station.",
+        "correct_answer": "had left",
+        "distractors": [
+          "would have left",
+          "left",
+          "has left"
+        ],
+        "distractor_rationale": [
+          "using 'would have' in the if-clause is the most common third conditional error; 'would have' belongs in the result clause, not the condition",
+          "simple past 'left' is used in second conditional if-clauses for unreal present situations, not in third conditional if-clauses referring to the past",
+          "present perfect 'has left' cannot introduce a hypothetical past condition; past perfect is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0012",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We would have arrived at the hotel before dark if the driver ___ (take) the correct road at the junction.",
+        "correct_answer": "had taken",
+        "distractors": [
+          "would have taken",
+          "took",
+          "has taken"
+        ],
+        "distractor_rationale": [
+          "'would have taken' incorrectly places the modal result structure inside the if-clause, a typical learner error in third conditional",
+          "'took' is simple past, appropriate for second conditional unreal present situations but not for a completed past hypothetical",
+          "'has taken' is present perfect and cannot express a hypothetical condition set entirely in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0013",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Mark had told his manager about the problem sooner, the team ___ (not lose) so many important clients last month.",
+        "correct_answer": "would not have lost",
+        "distractors": [
+          "would not have lose",
+          "would of not lost",
+          "had not lost"
+        ],
+        "distractor_rationale": [
+          "the past participle 'lost' is required after 'would not have'; using the base form 'lose' is ungrammatical",
+          "'would of' is a non-standard misspelling of the contracted 'would've'; 'of' cannot function as an auxiliary",
+          "'had not lost' is a past perfect negative, which belongs in the if-clause condition, not in the result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_cloze_0014",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If Anna had saved more money during the year, she ___ (be able to) go on the trip to the coast with her colleagues.",
+        "correct_answer": "would have been able to",
+        "distractors": [
+          "would be able to",
+          "would of been able to",
+          "had been able to"
+        ],
+        "distractor_rationale": [
+          "'would be able to' is the result clause form for second conditional referring to an unreal present situation, not for a completed past hypothetical requiring 'would have been able to'",
+          "'would of been able to' contains the non-standard 'of' instead of the auxiliary 'have', making it grammatically incorrect",
+          "'had been able to' is a past perfect form that belongs in an if-clause condition, not in the result clause of a third conditional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "third_conditional_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0000",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Tom ___ his alarm, he would have arrived at the meeting on time.",
+        "correct_answer": "had set",
+        "distractors": [
+          "would have set",
+          "set",
+          "has set"
+        ],
+        "distractor_rationale": [
+          "using 'would have' in the if-clause is a common error; the if-clause requires past perfect, not the result form",
+          "simple past 'set' is used in second conditional for unreal present situations, not for unreal past events",
+          "present perfect 'has set' cannot be used in the if-clause of a third conditional referring to a completed past situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0001",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Maria had studied harder for the exam, she ___ a much better grade.",
+        "correct_answer": "would have received",
+        "distractors": [
+          "would of received",
+          "would receive",
+          "had received"
+        ],
+        "distractor_rationale": [
+          "'would of' is a spelling error based on the contracted spoken form 'would've'; 'of' is never an auxiliary verb",
+          "'would receive' is the result clause form for second conditional referring to an unreal present situation, not an unreal past",
+          "'had received' is the past perfect form used in the if-clause, not in the result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0002",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ the last bus if we had not stopped to buy snacks at the shop.",
+        "correct_answer": "would have caught",
+        "distractors": [
+          "would of caught",
+          "would catch",
+          "had caught"
+        ],
+        "distractor_rationale": [
+          "'would of caught' is a spelling mistake; 'of' cannot function as an auxiliary verb in English",
+          "'would catch' belongs to the second conditional result clause for hypothetical present or future situations, not past",
+          "'had caught' is a past perfect form appropriate for the if-clause, not the result clause of a third conditional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0003",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If the weather ___ so cold last weekend, we would have gone to the beach.",
+        "correct_answer": "had not been",
+        "distractors": [
+          "would not have been",
+          "was not",
+          "has not been"
+        ],
+        "distractor_rationale": [
+          "'would not have been' incorrectly places the result clause form inside the if-clause; the if-clause requires past perfect",
+          "'was not' is simple past, which belongs to the second conditional if-clause for unreal present situations",
+          "'has not been' is present perfect and cannot refer to a completed past situation in a third conditional if-clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0004",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna would have felt less nervous at the presentation if her manager ___ her more support beforehand.",
+        "correct_answer": "had given",
+        "distractors": [
+          "would have given",
+          "gave",
+          "has given"
+        ],
+        "distractor_rationale": [
+          "'would have given' incorrectly uses the result clause structure inside the if-clause; the if-clause must use past perfect",
+          "'gave' is simple past, which is used in second conditional if-clauses for unreal present or future situations, not past",
+          "'has given' is present perfect and cannot anchor a completed past hypothetical situation in a third conditional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0005",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If James had taken the doctor's advice six months ago, he ___ so tired all the time now.",
+        "correct_answer": "would not feel",
+        "distractors": [
+          "would not have felt",
+          "had not felt",
+          "did not feel"
+        ],
+        "distractor_rationale": [
+          "'would not have felt' is the standard third conditional result form, but the time marker 'now' signals a mixed conditional where the result refers to the present, requiring 'would not feel'",
+          "'had not felt' is past perfect and belongs in an if-clause, not in the result clause",
+          "'did not feel' is simple past and cannot express a hypothetical present result connected to a past condition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0006",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project ___ on schedule if the team had communicated better during the first week.",
+        "correct_answer": "would have finished",
+        "distractors": [
+          "would of finished",
+          "would finish",
+          "had finished"
+        ],
+        "distractor_rationale": [
+          "'would of finished' is a spelling error produced by mishearing the contraction 'would've'; 'of' is not an auxiliary",
+          "'would finish' is the second conditional result form for unreal present or future situations, not for an unreal past event",
+          "'had finished' is past perfect, which is required in the if-clause of a third conditional, not in the result clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0007",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If Lisa ___ the job offer last spring, she would have moved to a different city by now.",
+        "correct_answer": "had accepted",
+        "distractors": [
+          "would have accepted",
+          "accepted",
+          "has accepted"
+        ],
+        "distractor_rationale": [
+          "'would have accepted' wrongly places the result clause auxiliary in the if-clause; the if-clause requires past perfect",
+          "'accepted' is simple past, which is used in second conditional if-clauses for unreal present scenarios, not for a past hypothetical",
+          "'has accepted' is present perfect and cannot express a hypothetical completed past action in a third conditional if-clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0008",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If they had booked the hotel earlier, they ___ so much money on last-minute prices.",
+        "correct_answer": "would not have spent",
+        "distractors": [
+          "would not of spent",
+          "would not spend",
+          "had not spent"
+        ],
+        "distractor_rationale": [
+          "'would not of spent' is a spelling error; 'of' cannot serve as an auxiliary verb in place of 'have'",
+          "'would not spend' is the second conditional result form for hypothetical present or future situations, not for a completed past event",
+          "'had not spent' is past perfect, which belongs in the if-clause, not in the result clause of a third conditional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_multiple_choice_0009",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If David had saved more money during his last job, he ___ able to buy his own flat today.",
+        "correct_answer": "would be",
+        "distractors": [
+          "would have been",
+          "had been",
+          "was"
+        ],
+        "distractor_rationale": [
+          "'would have been' is the standard third conditional result form, but 'today' signals a mixed conditional where the result refers to the present moment, so 'would be' is required",
+          "'had been' is past perfect, which is used in the if-clause of a third conditional, not in the result clause",
+          "'was' is simple past and cannot express a hypothetical present result linked to an unreal past condition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "third_conditional_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0000",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If she had studied harder, she would of passed the final exam last month.",
+        "correct_answer": "would have passed",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If she had studied harder, she would of passed the final exam last month.",
+        "corrected_sentence": "If she had studied harder, she would have passed the final exam last month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0001",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If Tom didn't miss the bus that morning, he would have arrived at the meeting on time.",
+        "correct_answer": "hadn't missed",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If Tom didn't miss the bus that morning, he would have arrived at the meeting on time.",
+        "corrected_sentence": "If Tom hadn't missed the bus that morning, he would have arrived at the meeting on time.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0002",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If they would have left the house earlier, they wouldn't have missed the flight to Madrid.",
+        "correct_answer": "had left",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If they would have left the house earlier, they wouldn't have missed the flight to Madrid.",
+        "corrected_sentence": "If they had left the house earlier, they wouldn't have missed the flight to Madrid.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0003",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria would have got the job if she prepared better for the interview last Tuesday.",
+        "correct_answer": "had prepared",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria would have got the job if she prepared better for the interview last Tuesday.",
+        "corrected_sentence": "Maria would have got the job if she had prepared better for the interview last Tuesday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0004",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If James had remembered to save his document, he wouldn't lose all his work when the computer crashed.",
+        "correct_answer": "wouldn't have lost",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If James had remembered to save his document, he wouldn't lose all his work when the computer crashed.",
+        "corrected_sentence": "If James had remembered to save his document, he wouldn't have lost all his work when the computer crashed.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0005",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If Anna would have told her manager about the problem sooner, the team could have fixed it before the deadline.",
+        "correct_answer": "had told",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If Anna would have told her manager about the problem sooner, the team could have fixed it before the deadline.",
+        "corrected_sentence": "If Anna had told her manager about the problem sooner, the team could have fixed it before the deadline.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0006",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If we had booked the hotel room in advance, we wouldn't have to sleep on the sofa at David's flat that night.",
+        "correct_answer": "wouldn't have had to sleep",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If we had booked the hotel room in advance, we wouldn't have to sleep on the sofa at David's flat that night.",
+        "corrected_sentence": "If we had booked the hotel room in advance, we wouldn't have had to sleep on the sofa at David's flat that night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_third_conditional_error_correction_0007",
+      "skill_ids": [
+        "third_conditional"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If the doctor had given him the correct medicine, he would be fully recovered by now instead of still feeling ill.",
+        "correct_answer": "would have been fully recovered",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If the doctor had given him the correct medicine, he would be fully recovered by now instead of still feeling ill.",
+        "corrected_sentence": "If the doctor had given him the correct medicine, he would have been fully recovered by now instead of still feeling ill.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:47:59.414740+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "third_conditional_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

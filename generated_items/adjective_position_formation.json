@@ -1,0 +1,1865 @@
+{
+  "skill_id": "adjective_position_formation",
+  "skill_name": "Adjective Position & Formation",
+  "exercises": [
+    {
+      "id": "ex_adjective_position_formation_cloze_0000",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The soup tastes ___ — I think the cook added too much salt.",
+        "correct_answer": "terrible",
+        "distractors": [
+          "terribly",
+          "terriblely",
+          "terribles"
+        ],
+        "distractor_rationale": [
+          "after the linking verb 'tastes', an adjective is required, not an adverb",
+          "'terriblely' is not a real word; the adverb form 'terribly' is also wrong here as a linking verb requires an adjective",
+          "adjectives do not take a plural ending in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0001",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She bought a ___ red bag at the market yesterday.",
+        "correct_answer": "small",
+        "distractors": [
+          "red small",
+          "smallly",
+          "smally"
+        ],
+        "distractor_rationale": [
+          "size adjectives must come before colour adjectives, so 'red small' reverses the correct order",
+          "'smallly' is not a real word; an adjective, not an adverb, is needed before a noun",
+          "'smally' is not a real word in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0002",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children felt very ___ after playing outside all afternoon.",
+        "correct_answer": "tired",
+        "distractors": [
+          "tiring",
+          "tire",
+          "tiredly"
+        ],
+        "distractor_rationale": [
+          "'tiring' describes what causes tiredness in others, not the state of the subject feeling it",
+          "'tire' is a verb or noun, not an adjective, and cannot follow 'felt' as a complement",
+          "after the linking verb 'felt', an adjective is needed, not an adverb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0003",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The teacher showed us a ___ Italian painting that was made over three hundred years ago.",
+        "correct_answer": "beautiful old",
+        "distractors": [
+          "old beautiful",
+          "beautifully old",
+          "old beauty"
+        ],
+        "distractor_rationale": [
+          "opinion adjectives ('beautiful') must come before age adjectives ('old'), so 'old beautiful' is the wrong order",
+          "'beautifully' is an adverb and cannot modify the noun 'painting' directly before it",
+          "'beauty' is a noun, not an adjective, and cannot be placed in an adjective position before a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0004",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The documentary about ocean pollution was really ___ — I couldn't stop thinking about it afterwards.",
+        "correct_answer": "disturbing",
+        "distractors": [
+          "disturbed",
+          "disturb",
+          "disturbingly"
+        ],
+        "distractor_rationale": [
+          "'disturbed' describes the emotional state of a person who is affected, not the quality of a thing that causes that feeling in others",
+          "'disturb' is a base verb form and cannot function as a subject complement after the linking verb 'was'",
+          "after the linking verb 'was', an adjective is required as the complement, not an adverb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0005",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark found a ___ wooden chair in his grandmother's attic and decided to restore it.",
+        "correct_answer": "large old",
+        "distractors": [
+          "old large",
+          "largely old",
+          "large older"
+        ],
+        "distractor_rationale": [
+          "size adjectives ('large') must precede age adjectives ('old') in standard adjective order, so 'old large' is incorrect",
+          "'largely' is an adverb meaning 'mostly' and cannot modify 'old' to describe a chair before a noun",
+          "'older' is a comparative form implying comparison with something else, which the sentence does not support"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0006",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The instructions for the new machine were so ___ that nobody in the office could understand them.",
+        "correct_answer": "confusing",
+        "distractors": [
+          "confused",
+          "confusingly",
+          "confuse"
+        ],
+        "distractor_rationale": [
+          "'confused' describes the state of a person who cannot understand something, not the quality of instructions that cause that state",
+          "after the linking verb 'were', an adjective complement is needed, not an adverb",
+          "'confuse' is a base verb form and cannot serve as a predicate adjective after 'were'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0007",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She wore a ___ green silk dress to the ceremony, which everyone admired.",
+        "correct_answer": "beautiful long",
+        "distractors": [
+          "long beautiful",
+          "beautifully long",
+          "beautiful longer"
+        ],
+        "distractor_rationale": [
+          "opinion adjectives ('beautiful') must come before size/shape adjectives ('long'), so 'long beautiful' reverses the correct order",
+          "'beautifully' is an adverb and cannot directly precede another adjective to modify a noun in this attributive position",
+          "'longer' is a comparative form implying a comparison with another dress, which the sentence does not indicate"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0008",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager's decision to cut the team's budget was seen as completely ___ by everyone who worked there.",
+        "correct_answer": "thoughtless",
+        "distractors": [
+          "thoughtlessly",
+          "unthoughtful",
+          "thoughtlessful"
+        ],
+        "distractor_rationale": [
+          "after the linking verb 'was seen as', an adjective is required as the complement, not an adverb",
+          "'unthoughtful' is not the standard English formation; the correct negative suffix for 'thought' as a base is '-less', giving 'thoughtless'",
+          "'thoughtlessful' is not a real English word; the suffixes '-less' and '-ful' cannot both be added to the same base"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0009",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The journalist wrote about a ___ young French scientist who had just made an important discovery.",
+        "correct_answer": "brilliant",
+        "distractors": [
+          "brilliantly",
+          "brilliance",
+          "brilliantful"
+        ],
+        "distractor_rationale": [
+          "an adverb cannot occupy the attributive adjective position directly before a noun phrase; an adjective is required",
+          "'brilliance' is a noun and cannot function as an attributive modifier before another adjective and noun in this position",
+          "'brilliantful' is not a real English word; the correct adjective form is 'brilliant', which already carries a positive meaning without any suffix"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0010",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The soup tastes ___ — can I have another bowl?",
+        "correct_answer": "delicious",
+        "distractors": [
+          "deliciously",
+          "more delicious",
+          "deliciously good"
+        ],
+        "distractor_rationale": [
+          "an adverb cannot follow the linking verb 'tastes' when describing the subject; an adjective is required",
+          "the comparative form 'more delicious' is not supported by any comparison in the sentence",
+          "a two-word adverb phrase cannot follow a linking verb in place of a predicate adjective"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0011",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She put on a ___ red dress for the party.",
+        "correct_answer": "long",
+        "distractors": [
+          "red long",
+          "redly long",
+          "longing"
+        ],
+        "distractor_rationale": [
+          "colour adjectives must come after size adjectives, so 'red long' violates the correct order (size before colour)",
+          "'redly' is not a real English word and cannot function as an adjective modifier",
+          "'longing' is a participial adjective meaning 'yearning' and does not describe the physical length of a dress"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0012",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The documentary about ocean pollution was really ___ (interest), and I couldn't stop watching it.",
+        "correct_answer": "interesting",
+        "distractors": [
+          "interested",
+          "interest",
+          "interestful"
+        ],
+        "distractor_rationale": [
+          "'interested' describes the feeling of the viewer, not the quality of the documentary itself, making it semantically wrong here",
+          "the base noun/verb form 'interest' cannot function as a predicate adjective after the linking verb 'was'",
+          "'interestful' is not a real English word; the correct suffix for this meaning is -ing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0013",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "They stayed in a small ___ stone cottage near the lake during their holiday.",
+        "correct_answer": "old",
+        "distractors": [
+          "stone old",
+          "oldly",
+          "oldest"
+        ],
+        "distractor_rationale": [
+          "'stone old' reverses the required order; age adjectives must come before material adjectives (small–old–stone)",
+          "'oldly' is not a real English word; adjectives, not adverbs, are used before nouns",
+          "the superlative 'oldest' requires a comparison group or the definite article 'the', neither of which is present here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_cloze_0014",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After working twelve hours without a break, Mark felt completely ___ (exhaust) and went straight to bed.",
+        "correct_answer": "exhausted",
+        "distractors": [
+          "exhausting",
+          "exhaustive",
+          "exhaust"
+        ],
+        "distractor_rationale": [
+          "'exhausting' describes what causes tiredness in others, not the state of the person who feels it; Mark is the one experiencing the feeling, so the -ed form is required",
+          "'exhaustive' means 'thorough and complete' (as in 'an exhaustive search') and does not describe a person's physical state of tiredness",
+          "the bare verb form 'exhaust' cannot function as a predicate adjective after the linking verb 'felt'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "adjective_position_formation_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0000",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She has a ___ cat that sleeps on the sofa all day.",
+        "correct_answer": "small black",
+        "distractors": [
+          "black small",
+          "blackly small",
+          "small blackly"
+        ],
+        "distractor_rationale": [
+          "colour before size violates the standard size-colour order in English adjective sequences",
+          "blackly is an adverb, not an adjective, and cannot modify a noun",
+          "small blackly places an adverb after a size adjective, which is grammatically impossible before a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0002",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom bought a ___ jacket at the market last weekend.",
+        "correct_answer": "new leather",
+        "distractors": [
+          "leather new",
+          "newly leather",
+          "new leatherly"
+        ],
+        "distractor_rationale": [
+          "material adjectives must follow age adjectives in English; placing 'leather' before 'new' reverses the correct order",
+          "newly is an adverb and cannot precede a material noun modifier before a head noun",
+          "leatherly is not a standard English adjective form and cannot modify a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0003",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After the long journey, the children felt completely ___ and fell asleep immediately.",
+        "correct_answer": "exhausted",
+        "distractors": [
+          "exhausting",
+          "exhaust",
+          "exhaustedly"
+        ],
+        "distractor_rationale": [
+          "exhausting describes something that causes tiredness in others, not the state of the subject who is tired",
+          "exhaust is a base verb form and cannot function as a subject complement after the linking verb 'felt'",
+          "exhaustedly is a non-standard adverb form that cannot follow a linking verb as a subject complement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0004",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "They stayed in a ___ hotel near the beach during their holiday.",
+        "correct_answer": "beautiful small old",
+        "distractors": [
+          "old small beautiful",
+          "small beautiful old",
+          "beautiful old small"
+        ],
+        "distractor_rationale": [
+          "placing age before size before opinion reverses the standard opinion-size-age sequence",
+          "placing size before opinion breaks the rule that opinion adjectives come first in a sequence",
+          "placing age before size violates the size-before-age rule within the standard adjective order"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0005",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The documentary about ocean pollution was really ___, and many viewers changed their habits afterwards.",
+        "correct_answer": "shocking",
+        "distractors": [
+          "shocked",
+          "shockingly",
+          "shockful"
+        ],
+        "distractor_rationale": [
+          "shocked describes the reaction of a person who experiences shock, not the quality of something that causes shock",
+          "shockingly is an adverb and cannot follow the linking verb 'was' as a subject complement",
+          "shockful is not a real English word; the correct suffix to form this meaning is -ing, not -ful"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0006",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She looks very ___ in her new dress — everyone at the party noticed her.",
+        "correct_answer": "elegant",
+        "distractors": [
+          "elegantly",
+          "elegance",
+          "more elegantly"
+        ],
+        "distractor_rationale": [
+          "elegantly is an adverb; after the linking verb 'looks', an adjective is required to describe the subject",
+          "elegance is a noun and cannot function as a subject complement after a linking verb",
+          "more elegantly is a comparative adverb phrase; an adjective, not an adverb, is needed after the linking verb 'looks'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0007",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager gave a ___ speech that motivated everyone in the department to work harder.",
+        "correct_answer": "powerful motivational",
+        "distractors": [
+          "motivational powerful",
+          "powerfully motivational",
+          "powerful motivatingly"
+        ],
+        "distractor_rationale": [
+          "placing a classifying adjective like 'motivational' before an opinion adjective like 'powerful' violates the opinion-before-classifier rule",
+          "powerfully is an adverb and cannot precede another adjective in a pre-nominal adjective sequence",
+          "motivatingly is a non-standard adverb form and cannot occupy an adjective position before a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0008",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The ___ singer performed at the festival last summer and received a standing ovation from the crowd.",
+        "correct_answer": "well-known",
+        "distractors": [
+          "well known",
+          "knowing well",
+          "wellknown"
+        ],
+        "distractor_rationale": [
+          "when a compound adjective is placed directly before a noun, a hyphen is required between its parts; 'well known' without a hyphen is incorrect in this attributive position",
+          "knowing well reverses the word order of the compound and changes the meaning entirely",
+          "wellknown written as a single word without a hyphen is not the accepted spelling of this compound adjective in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0009",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna found the instructions for the new software completely ___, so she called the helpline for support.",
+        "correct_answer": "confusing",
+        "distractors": [
+          "confused",
+          "confusingly",
+          "confusional"
+        ],
+        "distractor_rationale": [
+          "confused describes the state of a person who experiences confusion, not the quality of the instructions that cause confusion",
+          "confusingly is an adverb and cannot follow the linking verb 'found' as a subject complement describing the instructions",
+          "confusional is a technical or medical register term that is not appropriate here and does not follow standard adjective-formation rules for this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0000",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She has a red big bag that she takes to school every day.",
+        "correct_answer": "big red bag",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She has a red big bag that she takes to school every day.",
+        "corrected_sentence": "She has a big red bag that she takes to school every day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0001",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The soup tastes wonderfully, so everyone at the table asked for more.",
+        "correct_answer": "wonderful",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The soup tastes wonderfully, so everyone at the table asked for more.",
+        "corrected_sentence": "The soup tastes wonderful, so everyone at the table asked for more.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0002",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The film was so boring that half the audience fell asleep before the end.",
+        "correct_answer": "boring",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The film was so bored that half the audience fell asleep before the end.",
+        "corrected_sentence": "The film was so boring that half the audience fell asleep before the end.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0003",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He bought a wooden small table for the corner of his living room.",
+        "correct_answer": "small wooden table",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He bought a wooden small table for the corner of his living room.",
+        "corrected_sentence": "He bought a small wooden table for the corner of his living room.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0004",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After the long walk in the rain, Maria felt very tiredly and went straight to bed.",
+        "correct_answer": "tired",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After the long walk in the rain, Maria felt very tiredly and went straight to bed.",
+        "corrected_sentence": "After the long walk in the rain, Maria felt very tired and went straight to bed.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0005",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The well known singer performed to a large crowd at the outdoor festival last summer.",
+        "correct_answer": "well-known",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The well known singer performed to a large crowd at the outdoor festival last summer.",
+        "corrected_sentence": "The well-known singer performed to a large crowd at the outdoor festival last summer.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0006",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They moved into a new beautiful Italian-style apartment on the fifth floor of the building.",
+        "correct_answer": "beautiful new Italian-style apartment",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They moved into a new beautiful Italian-style apartment on the fifth floor of the building.",
+        "corrected_sentence": "They moved into a beautiful new Italian-style apartment on the fifth floor of the building.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_adjective_position_formation_error_correction_0007",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The instructions for the new device were so confused that most customers called the helpline for support.",
+        "correct_answer": "confusing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The instructions for the new device were so confused that most customers called the helpline for support.",
+        "corrected_sentence": "The instructions for the new device were so confusing that most customers called the helpline for support.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "adjective_position_formation_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_adjective_position_formation_multiple_choice_0001",
+      "skill_ids": [
+        "adjective_position_formation"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The soup tastes ___ — I think the cook added too much salt.",
+        "correct_answer": "awful",
+        "distractors": [
+          "awfully",
+          "more awful",
+          "awfulness"
+        ],
+        "distractor_rationale": [
+          "awfully is an adverb and cannot follow the linking verb 'tastes' as a subject complement describing the soup",
+          "more awful is a comparative form, but no comparison is being made in this sentence",
+          "awfulness is a noun, not an adjective, and cannot serve as a subject complement after a linking verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:29:16.053533+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "adjective_position_formation_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

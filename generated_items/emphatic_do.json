@@ -1,0 +1,1863 @@
+{
+  "skill_id": "emphatic_do",
+  "skill_name": "Emphatic Do (I DO like it / She DID tell you)",
+  "exercises": [
+    {
+      "id": "ex_emphatic_do_cloze_0000",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom says I never help him, but I ___ help him every weekend.",
+        "correct_answer": "do",
+        "distractors": [
+          "am",
+          "did",
+          "does"
+        ],
+        "distractor_rationale": [
+          "'am' cannot be used as an emphatic auxiliary before a base verb; 'I am help' is ungrammatical",
+          "'did' signals past tense, but 'every weekend' marks a present habitual situation",
+          "'does' is third-person singular; the subject is 'I', which requires 'do'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0001",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My parents think I don't eat vegetables, but I ___ eat them every day.",
+        "correct_answer": "do",
+        "distractors": [
+          "does",
+          "am",
+          "doing"
+        ],
+        "distractor_rationale": [
+          "'does' requires a third-person singular subject; 'I' takes 'do'",
+          "'am' cannot precede a bare infinitive to express emphatic meaning; 'I am eat' is ungrammatical",
+          "'doing' is a present participle and cannot function as an emphatic auxiliary before a base verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0002",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She claims her brother never listens, but he ___ listen when it matters.",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "did",
+          "is"
+        ],
+        "distractor_rationale": [
+          "'do' is used for I/you/we/they; the subject 'he' requires 'does' in the present",
+          "'did' shifts the meaning to past, but 'when it matters' is a present-tense condition",
+          "'is' cannot serve as an emphatic auxiliary before a bare infinitive; 'he is listen' is ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0003",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I know you think I forgot your birthday, but I ___ remember — I just couldn't find the right gift in time.",
+        "correct_answer": "did",
+        "distractors": [
+          "do",
+          "was",
+          "have"
+        ],
+        "distractor_rationale": [
+          "'do' is the present emphatic form; the context is clearly past ('forgot', 'couldn't find')",
+          "'was' cannot precede a bare infinitive as an emphatic auxiliary; 'I was remember' is ungrammatical",
+          "'have' introduces the present perfect aspect, but the sentence describes a completed past event with no present relevance marker"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0004",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna insisted she had never told me about the meeting, but she ___ tell me — I wrote it in my diary that same evening.",
+        "correct_answer": "did",
+        "distractors": [
+          "does",
+          "had",
+          "was"
+        ],
+        "distractor_rationale": [
+          "'does' is present tense; the event of telling happened in the past, as confirmed by 'that same evening'",
+          "'had' would create 'had tell', which is not a valid verb form; the past perfect of 'tell' is 'had told', not the emphatic structure needed here",
+          "'was' cannot precede a bare infinitive emphatically; 'she was tell' is ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0005",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My manager doubts that Lisa works hard, but she ___ put in long hours every single week.",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "did",
+          "has"
+        ],
+        "distractor_rationale": [
+          "'do' is for I/you/we/they; 'she' is third-person singular and requires 'does'",
+          "'did' is past tense, but 'every single week' signals a present habitual fact",
+          "'has' would begin a present perfect construction ('has put'), which changes the meaning to a completed action rather than an ongoing habit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0006",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You might think we don't care about the environment, but we ___ try to recycle everything we can at home.",
+        "correct_answer": "do",
+        "distractors": [
+          "are",
+          "did",
+          "does"
+        ],
+        "distractor_rationale": [
+          "'are' cannot function as an emphatic auxiliary before a base verb; 'we are try' is ungrammatical",
+          "'did' refers to a past action, but the sentence describes a present ongoing habit ('at home')",
+          "'does' is third-person singular; 'we' requires 'do'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0007",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although Mark rarely shows it, he ___ appreciate everything his colleagues do for him during busy periods.",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "is",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'do' is the first/second person or plural form; 'he' is third-person singular and requires 'does'",
+          "'is' cannot precede a bare infinitive as an emphatic auxiliary; 'he is appreciate' is ungrammatical",
+          "'did' shifts the statement to past tense, contradicting 'during busy periods', which describes a recurrent present situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0008",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Even though the critics argued that the director had ignored the original story, she ___ follow the plot very closely in the final version.",
+        "correct_answer": "did",
+        "distractors": [
+          "does",
+          "had",
+          "was doing"
+        ],
+        "distractor_rationale": [
+          "'does' is a present-tense emphatic auxiliary, but the entire context is past ('argued', 'had ignored', 'final version' of a completed project)",
+          "'had' would produce 'had follow', which is not a valid verb form; emphatic past requires 'did' plus the base verb",
+          "'was doing' is past continuous, which describes an action in progress; it cannot function as an emphatic auxiliary before a bare verb and changes the aspect entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0009",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Some of my friends think I don't take my studies seriously, but I ___ spend at least three hours reviewing my notes after every lecture.",
+        "correct_answer": "do",
+        "distractors": [
+          "did",
+          "am doing",
+          "does"
+        ],
+        "distractor_rationale": [
+          "'did' is past tense; 'after every lecture' signals a present repeated action, so the emphatic present 'do' is required",
+          "'am doing' is present continuous and cannot serve as an emphatic auxiliary before a bare infinitive; 'I am doing spend' is ungrammatical",
+          "'does' is third-person singular; the subject is 'I', which requires 'do'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0010",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I know you think I forgot your birthday, but I ___ buy you a present — it's in my bag right now.",
+        "correct_answer": "did buy",
+        "distractors": [
+          "bought",
+          "do buying",
+          "was buying"
+        ],
+        "distractor_rationale": [
+          "plain past simple 'bought' lacks the emphatic force needed to contradict the accusation of forgetting",
+          "'do buying' incorrectly combines emphatic do with the -ing form; emphatic do must be followed by the base verb",
+          "'was buying' describes an ongoing past action, not a completed emphatic fact that counters the denial"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0011",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My brother thinks I never clean the kitchen, but I ___ wash the dishes every evening after dinner.",
+        "correct_answer": "do wash",
+        "distractors": [
+          "wash",
+          "do washing",
+          "am washing"
+        ],
+        "distractor_rationale": [
+          "plain 'wash' without emphatic do fails to contradict the claim that the speaker never cleans",
+          "'do washing' incorrectly uses the -ing form after emphatic do; the base verb is required",
+          "'am washing' expresses a current action in progress, not a habitual emphatic truth that refutes the accusation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0012",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara seems to think I don't enjoy her cooking, but I ___ appreciate all the effort she puts into every meal.",
+        "correct_answer": "do appreciate",
+        "distractors": [
+          "appreciate",
+          "do am appreciating",
+          "did appreciate"
+        ],
+        "distractor_rationale": [
+          "plain 'appreciate' without emphatic do does not provide the contrastive stress needed to directly counter Sara's belief",
+          "'do am appreciating' incorrectly stacks emphatic do onto the auxiliary 'am'; emphatic do replaces other auxiliaries, it cannot precede 'be'",
+          "'did appreciate' shifts the meaning to a completed past action, contradicting the present-tense context of an ongoing relationship"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0013",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager doubted that Tom had warned the team, but he ___ send a clear message to everyone on Monday morning.",
+        "correct_answer": "did send",
+        "distractors": [
+          "sent",
+          "does send",
+          "had sent"
+        ],
+        "distractor_rationale": [
+          "plain past simple 'sent' without emphatic do cannot carry the contrastive stress that refutes the manager's doubt",
+          "'does send' uses the third-person present emphatic form, but the context is clearly past — Monday morning has already passed",
+          "'had sent' is past perfect and implies an earlier action in a sequence; the sentence requires emphatic past simple to stress that the action definitely occurred"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_cloze_0014",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although Anna rarely talks about her problems, she ___ trust her closest friend with things she would never tell anyone else.",
+        "correct_answer": "does trust",
+        "distractors": [
+          "trusts",
+          "did trust",
+          "does trusts"
+        ],
+        "distractor_rationale": [
+          "plain 'trusts' without emphatic do fails to create the contrast with 'rarely talks about her problems' that the sentence sets up",
+          "'did trust' shifts the meaning to a completed past action, but the sentence describes a present habitual truth about Anna's current relationship",
+          "'does trusts' incorrectly adds the third-person -s inflection to the base verb after emphatic does; the base form must remain uninflected"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "emphatic_do_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0000",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I know you think I forgot your birthday, but I ___ remember it — I just didn't call.",
+        "correct_answer": "did",
+        "distractors": [
+          "do",
+          "was",
+          "have"
+        ],
+        "distractor_rationale": [
+          "do is present emphatic, but the context refers to a past event (birthday), so did is required",
+          "was is a form of be and cannot be used as emphatic do with a base verb",
+          "have creates a present perfect structure, which does not match the past-tense contrast here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0001",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She never listens to me, but I ___ tell her the meeting was cancelled yesterday.",
+        "correct_answer": "did",
+        "distractors": [
+          "does",
+          "was",
+          "had"
+        ],
+        "distractor_rationale": [
+          "does is present emphatic and cannot refer to a past action like 'yesterday'",
+          "was is a be-auxiliary and cannot carry emphatic stress for a main verb",
+          "had creates a past perfect auxiliary, which changes the meaning and does not serve emphatic function here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0002",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My brother thinks I never help at home, but I ___ clean the kitchen every morning.",
+        "correct_answer": "do",
+        "distractors": [
+          "did",
+          "am",
+          "have"
+        ],
+        "distractor_rationale": [
+          "did is past emphatic, but the habitual present action 'every morning' requires present emphatic do",
+          "am is a be-auxiliary and cannot be used as emphatic do with a base verb like 'clean'",
+          "have creates a present perfect reading, which contradicts the habitual 'every morning' context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0003",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom says I never pay attention in class, but I ___ listen carefully — I just take notes differently from him.",
+        "correct_answer": "do",
+        "distractors": [
+          "did",
+          "doing",
+          "am doing"
+        ],
+        "distractor_rationale": [
+          "did is past emphatic and cannot contrast with a general present habit described in the current context",
+          "doing is a participle and cannot function as an emphatic auxiliary on its own",
+          "am doing is present continuous and cannot serve as emphatic do with a base verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0004",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna claims I didn't send her the report last Friday, but I ___ send it — I have the confirmation email.",
+        "correct_answer": "did",
+        "distractors": [
+          "do",
+          "had",
+          "was"
+        ],
+        "distractor_rationale": [
+          "do is present emphatic and cannot refer to a completed past action like 'last Friday'",
+          "had creates a past perfect auxiliary, which changes the tense and does not serve as emphatic stress here",
+          "was is a be-auxiliary and cannot combine with a base verb to express emphatic past action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0005",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark doesn't think his daughter enjoys reading, but she ___ love books — she just prefers to read alone.",
+        "correct_answer": "does",
+        "distractors": [
+          "did",
+          "is",
+          "do"
+        ],
+        "distractor_rationale": [
+          "did is past emphatic and cannot describe a present general truth about the daughter's habits",
+          "is is a be-auxiliary and cannot be used as emphatic do with the base verb 'love'",
+          "do is first/second person or plural emphatic and does not agree with the third-person singular subject 'she'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0006",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My manager said I hadn't submitted the form, but I ___ submit it on time — I even got a receipt.",
+        "correct_answer": "did",
+        "distractors": [
+          "does",
+          "have",
+          "do"
+        ],
+        "distractor_rationale": [
+          "does is third-person singular present emphatic and cannot refer to a past completed action",
+          "have introduces a present perfect auxiliary, which conflicts with the past-tense context of the denial",
+          "do is present emphatic and cannot refer to a past action already completed before the manager's comment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0007",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Even though Lisa rarely shows it, she ___ care deeply about the people she works with every day.",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "is caring",
+          "did"
+        ],
+        "distractor_rationale": [
+          "do is first/second person or plural emphatic and does not agree with the third-person singular subject 'she'",
+          "is caring is present continuous and cannot function as emphatic do; it also cannot take a base verb after it",
+          "did is past emphatic and conflicts with the present habitual meaning of 'every day'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0008",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Although I understand your concerns about the cost, I ___ believe this plan will save the team a lot of time in the long run.",
+        "correct_answer": "do",
+        "distractors": [
+          "did",
+          "am",
+          "does"
+        ],
+        "distractor_rationale": [
+          "did is past emphatic and cannot express a present belief held at the moment of speaking",
+          "am is a be-auxiliary and cannot be used as emphatic do before the base verb 'believe'",
+          "does is third-person singular emphatic and does not agree with the first-person subject 'I'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_multiple_choice_0009",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The customers complained that the staff had ignored their feedback, but the team ___ act on several of the suggestions made at last month's meeting.",
+        "correct_answer": "did",
+        "distractors": [
+          "does",
+          "do",
+          "had"
+        ],
+        "distractor_rationale": [
+          "does is third-person singular present emphatic and cannot refer to a completed past action at 'last month's meeting'",
+          "do is present emphatic and does not match the past-tense context established by 'last month's meeting'",
+          "had creates a past perfect auxiliary meaning, which changes the grammatical structure and removes the emphatic contrast"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "emphatic_do_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0000",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I know you think I forgot your birthday, but I remember it every year.",
+        "correct_answer": "I do remember it every year",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I know you think I forgot your birthday, but I remember it every year.",
+        "corrected_sentence": "I know you think I forgot your birthday, but I do remember it every year.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0001",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She said I never clean the kitchen, but I do am cleaning it every morning before work.",
+        "correct_answer": "I do clean it",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She said I never clean the kitchen, but I do am cleaning it every morning before work.",
+        "corrected_sentence": "She said I never clean the kitchen, but I do clean it every morning before work.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0002",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My parents thought I didn't study hard enough, but I did studied for three hours every night.",
+        "correct_answer": "I did study",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My parents thought I didn't study hard enough, but I did studied for three hours every night.",
+        "corrected_sentence": "My parents thought I didn't study hard enough, but I did study for three hours every night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0003",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom doesn't believe that Sara called him, but she does calling him twice this afternoon.",
+        "correct_answer": "she did call him",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom doesn't believe that Sara called him, but she does calling him twice this afternoon.",
+        "corrected_sentence": "Tom doesn't believe that Sara called him, but she did call him twice this afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0004",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager assumed that David didn't submit his report on time, but he submitted it before the deadline.",
+        "correct_answer": "he did submit it",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager assumed that David didn't submit his report on time, but he submitted it before the deadline.",
+        "corrected_sentence": "The manager assumed that David didn't submit his report on time, but he did submit it before the deadline.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0005",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Even though Anna rarely talks about her feelings, she does cares deeply about the people around her.",
+        "correct_answer": "she does care",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Even though Anna rarely talks about her feelings, she does cares deeply about the people around her.",
+        "corrected_sentence": "Even though Anna rarely talks about her feelings, she does care deeply about the people around her.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0006",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although Mark seemed uninterested during the meeting, he does paid close attention to every point that was raised.",
+        "correct_answer": "he did pay",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although Mark seemed uninterested during the meeting, he does paid close attention to every point that was raised.",
+        "corrected_sentence": "Although Mark seemed uninterested during the meeting, he did pay close attention to every point that was raised.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_emphatic_do_error_correction_0007",
+      "skill_ids": [
+        "emphatic_do"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Lisa's colleagues assumed she didn't enjoy working late, but she does enjoys the quiet atmosphere after everyone else has left.",
+        "correct_answer": "she does enjoy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Lisa's colleagues assumed she didn't enjoy working late, but she does enjoys the quiet atmosphere after everyone else has left.",
+        "corrected_sentence": "Lisa's colleagues assumed she didn't enjoy working late, but she does enjoy the quiet atmosphere after everyone else has left.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:47:47.667471+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "emphatic_do_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

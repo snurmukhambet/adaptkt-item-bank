@@ -1,0 +1,5 @@
+# pydantic must stay on the 1.x line: the schemas use the v1 API
+# (validator, root_validator, BaseModel.dict()).
+anthropic==0.87.0
+pydantic==1.10.26
+tqdm==4.67.1

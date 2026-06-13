@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_education",
+  "skill_name": "Education & Learning",
+  "exercises": [
+    {
+      "id": "ex_vocab_education_cloze_0000",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The students sat down quietly when the teacher walked into the ___.",
+        "correct_answer": "classroom",
+        "distractors": [
+          "campus",
+          "college",
+          "degree"
+        ],
+        "distractor_rationale": [
+          "campus refers to the whole school grounds, not a single room where a teacher walks in to start a lesson",
+          "college is a type of institution, not a room that a teacher walks into for a lesson",
+          "degree is a qualification awarded after study, not a physical space"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0001",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria opened her book and started reading the first ___ of the story.",
+        "correct_answer": "chapter",
+        "distractors": [
+          "essay",
+          "exam",
+          "certificate"
+        ],
+        "distractor_rationale": [
+          "essay is a piece of writing a student produces, not a division of a book",
+          "exam is a test, not a section of a book",
+          "certificate is an official document awarded for completing something, not a part of a book"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0002",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom studied hard all week and felt ready for the maths ___ on Friday morning.",
+        "correct_answer": "exam",
+        "distractors": [
+          "essay",
+          "chapter",
+          "course"
+        ],
+        "distractor_rationale": [
+          "essay is a written piece of work, not a formal test taken on a specific day",
+          "chapter is a section of a book, not a test",
+          "course is a programme of study lasting weeks or months, not a single event on Friday"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0003",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After passing all her exams, Sara received a ___ showing she had completed the cooking programme.",
+        "correct_answer": "certificate",
+        "distractors": [
+          "degree",
+          "assignment",
+          "campus"
+        ],
+        "distractor_rationale": [
+          "degree is awarded after a multi-year university programme, not a short cooking programme",
+          "assignment is a task given to a student during a course, not a document received after completing one",
+          "campus is a physical location, not a document awarded for completing a programme"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0004",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher gave the class a written ___ to complete at home and hand in by Thursday.",
+        "correct_answer": "assignment",
+        "distractors": [
+          "exam",
+          "certificate",
+          "degree"
+        ],
+        "distractor_rationale": [
+          "exam is taken in a controlled setting at school, not given to complete at home and hand in",
+          "certificate is an official document awarded after completing a course, not a task set by a teacher",
+          "degree is a university qualification, not a piece of homework"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0005",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James signed up for an online ___ in photography that lasts eight weeks and includes video lessons.",
+        "correct_answer": "course",
+        "distractors": [
+          "exam",
+          "essay",
+          "classroom"
+        ],
+        "distractor_rationale": [
+          "exam is a single test, not an eight-week programme with video lessons",
+          "essay is a written piece of work, not a structured programme of study",
+          "classroom is a physical room, not something you sign up for online"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0006",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The university ___ has a large library, a sports centre, and several cafes for students.",
+        "correct_answer": "campus",
+        "distractors": [
+          "classroom",
+          "course",
+          "chapter"
+        ],
+        "distractor_rationale": [
+          "classroom is a single room, not a large area containing a library, sports centre, and cafes",
+          "course is a programme of study, not a physical location with buildings and facilities",
+          "chapter is a section of a book, not a place with buildings and facilities"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0007",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After three years of lectures, exams, and research projects, David finally earned his ___ in biology from the university.",
+        "correct_answer": "degree",
+        "distractors": [
+          "certificate",
+          "assignment",
+          "course"
+        ],
+        "distractor_rationale": [
+          "certificate is awarded for shorter programmes, not a three-year university research-based programme",
+          "assignment is a single task set during a course, not the qualification awarded at the end of it",
+          "course is the programme of study itself, not the qualification you earn by completing it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0008",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna wrote a five-hundred-word ___ arguing that schools should give students less homework each night.",
+        "correct_answer": "essay",
+        "distractors": [
+          "exam",
+          "chapter",
+          "assignment"
+        ],
+        "distractor_rationale": [
+          "exam is a test you sit and answer questions in, not a piece of writing you compose with an argument",
+          "chapter is a section of an existing book, not an original piece of writing produced by a student",
+          "assignment is the general task set by a teacher; essay is the specific written form described by five hundred words and an argument, making assignment too vague and incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0009",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The report showed that children whose parents had received a good ___ were more likely to do well in school themselves.",
+        "correct_answer": "education",
+        "distractors": [
+          "course",
+          "campus",
+          "certificate"
+        ],
+        "distractor_rationale": [
+          "course refers to a specific programme of study, not the broad lifelong process of learning described in the report",
+          "campus is a physical location, not something parents receive that influences their children's success",
+          "certificate is a specific document for completing one programme, not the broad concept of learning and schooling referred to in the report"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0010",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher wrote the new words on the board at the front of the ___.",
+        "correct_answer": "classroom",
+        "distractors": [
+          "campus",
+          "degree",
+          "course"
+        ],
+        "distractor_rationale": [
+          "a campus is the whole area of a school or college, not a single room with a board at the front",
+          "a degree is a qualification awarded after study, not a physical room where a teacher writes on a board",
+          "a course is a programme of study, not a room with a board where a teacher writes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0011",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria studied hard all week and passed her maths ___ with a very high score.",
+        "correct_answer": "exam",
+        "distractors": [
+          "essay",
+          "chapter",
+          "certificate"
+        ],
+        "distractor_rationale": [
+          "an essay is a piece of writing you submit, not something you sit and receive a score for on a single occasion",
+          "a chapter is a section of a book, not something you pass with a score",
+          "a certificate is the document you receive after completing a course, not the test itself that you sit and score"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0012",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The students had to hand in their history ___ by Friday, so they spent three evenings writing and researching.",
+        "correct_answer": "essay",
+        "distractors": [
+          "exam",
+          "certificate",
+          "campus"
+        ],
+        "distractor_rationale": [
+          "an exam is sat in a room under timed conditions, not handed in after several evenings of writing and researching at home",
+          "a certificate is an official document awarded on completion of a course, not a piece of work that students write and hand in",
+          "a campus is the physical area of a school or college, not a piece of written work that can be handed in"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0013",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After finishing her three-year programme at university, Anna received her ___ in business at a formal ceremony.",
+        "correct_answer": "degree",
+        "distractors": [
+          "assignment",
+          "course",
+          "class"
+        ],
+        "distractor_rationale": [
+          "an assignment is a piece of work set by a teacher, not a qualification received at a formal ceremony after three years",
+          "a course is the programme of study itself, not the qualification awarded at the end of it at a ceremony",
+          "a class is a single lesson or group of students, not a qualification presented at a formal ceremony"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_cloze_0014",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The professor asked each ___ to submit a written application and attend an interview before being accepted onto the doctoral programme.",
+        "correct_answer": "candidate",
+        "distractors": [
+          "student",
+          "college",
+          "assignment"
+        ],
+        "distractor_rationale": [
+          "a student is already enrolled and studying, whereas someone who must apply and be accepted through an interview process is a candidate who has not yet been admitted",
+          "a college is an institution, not a person who submits an application and attends an interview",
+          "an assignment is a piece of work, not a person who can submit an application or attend an interview"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_education_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The students sat at their desks in the ___ and listened to the teacher.",
+        "correct_answer": "classroom",
+        "distractors": [
+          "campus",
+          "library",
+          "office"
+        ],
+        "distractor_rationale": [
+          "campus refers to the whole school grounds, not the room where students sit at desks and listen to a teacher",
+          "a library is a place to read and borrow books, not where students sit at desks and listen to a teacher",
+          "an office is a workplace for staff, not a room with student desks and a teacher"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom opened his book to ___ five and began reading about animals.",
+        "correct_answer": "chapter",
+        "distractors": [
+          "lesson",
+          "course",
+          "essay"
+        ],
+        "distractor_rationale": [
+          "a lesson is a period of teaching, not a numbered section inside a book",
+          "a course is a series of lessons or a programme of study, not a section inside a book",
+          "an essay is a piece of writing produced by a student, not a numbered section inside a book"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria studied hard all week because she had a maths ___ on Friday morning.",
+        "correct_answer": "exam",
+        "distractors": [
+          "degree",
+          "certificate",
+          "assignment"
+        ],
+        "distractor_rationale": [
+          "a degree is a qualification awarded after completing a university programme, not a test taken on a specific morning",
+          "a certificate is a document showing a qualification, not a test taken on a specific morning",
+          "an assignment is written work given by a teacher to complete at home, not a formal test taken in class on a set day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After finishing the cooking ___, Anna received a document showing she had passed all the required tests.",
+        "correct_answer": "certificate",
+        "distractors": [
+          "degree",
+          "assignment",
+          "class"
+        ],
+        "distractor_rationale": [
+          "a degree is awarded specifically by a university after several years of study, not after a short cooking programme",
+          "an assignment is a piece of work set by a teacher, not a document received after passing tests",
+          "a class is a session of teaching, not a document received after completing a programme"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The teacher asked the students to hand in their ___ on the causes of pollution by Thursday.",
+        "correct_answer": "essay",
+        "distractors": [
+          "exam",
+          "chapter",
+          "campus"
+        ],
+        "distractor_rationale": [
+          "an exam is a formal test taken in a room under timed conditions, not a piece of writing handed in by a deadline",
+          "a chapter is a section of a book, not a piece of student writing that is handed in",
+          "a campus is the physical grounds of a school or university, not a piece of student writing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "David signed up for an online ___ in web design that lasts twelve weeks and includes weekly video lectures.",
+        "correct_answer": "course",
+        "distractors": [
+          "degree",
+          "classroom",
+          "essay"
+        ],
+        "distractor_rationale": [
+          "a degree requires years of full university study and cannot be described as a twelve-week online programme",
+          "a classroom is a physical room for teaching, not a programme of study that someone signs up for",
+          "an essay is a written assignment, not a programme of study that includes video lectures"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The professor told the ___ to submit their research reports before the end of the semester.",
+        "correct_answer": "candidates",
+        "distractors": [
+          "teachers",
+          "campuses",
+          "chapters"
+        ],
+        "distractor_rationale": [
+          "teachers are the ones who give instructions, not the ones told to submit reports to a professor",
+          "campuses are physical locations and cannot be told to submit reports",
+          "chapters are sections of a book and cannot be told to submit reports"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara moved into student accommodation on ___ during her first week at the university so she could walk to lectures easily.",
+        "correct_answer": "campus",
+        "distractors": [
+          "college",
+          "class",
+          "course"
+        ],
+        "distractor_rationale": [
+          "college refers to an institution, not a physical location where accommodation is situated and from which lectures can be walked to",
+          "class refers to a session of teaching, not a location where accommodation is situated",
+          "course refers to a programme of study, not a physical location where student accommodation is found"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After three years of study and a final dissertation, James was awarded a ___ in business management by the university.",
+        "correct_answer": "degree",
+        "distractors": [
+          "certificate",
+          "assignment",
+          "chapter"
+        ],
+        "distractor_rationale": [
+          "a certificate is awarded after shorter programmes and is not specifically granted by a university following three years of study and a dissertation",
+          "an assignment is a task set during a course, not a qualification awarded at the end of three years",
+          "a chapter is a section of a book, not a qualification awarded by a university"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The government launched a programme to ___ children in rural areas where there were no schools or trained teachers.",
+        "correct_answer": "educate",
+        "distractors": [
+          "examine",
+          "assign",
+          "graduate"
+        ],
+        "distractor_rationale": [
+          "examine means to test someone's knowledge formally, which does not address the absence of schools or teachers",
+          "assign means to give someone a task or role, not to provide schooling to children who lack access to it",
+          "graduate means to complete a course of study successfully, not to provide teaching to children who have no schools"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_education_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_word_formation_0000",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "My sister wants to be a ___. She loves working with children. (TEACH)",
+        "correct_answer": "teacher",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "TEACH"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_education_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_word_formation_0001",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ started at nine o'clock, so the students sat down quickly. (CLASS)",
+        "correct_answer": "classroom",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLASS"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_education_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_word_formation_0002",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The school gave each student a ___ to show they had completed the course successfully. (CERTIFY)",
+        "correct_answer": "certificate",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CERTIFY"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_education_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_word_formation_0003",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The professor said that all ___ work, including essays and projects, must be submitted by Friday. (ASSIGN)",
+        "correct_answer": "assignment",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ASSIGN"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_education_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_education_word_formation_0004",
+      "skill_ids": [
+        "vocab_education"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The results showed that students who attended every lecture performed better on ___ tasks than those who studied alone. (ACADEMY)",
+        "correct_answer": "academic",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ACADEMY"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:07:18.479552+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_education_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

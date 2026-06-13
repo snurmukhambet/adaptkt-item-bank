@@ -1,0 +1,1863 @@
+{
+  "skill_id": "word_formation_nouns_verbs",
+  "skill_name": "Word Formation (Nouns & Verbs)",
+  "exercises": [
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0000",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The ___ (happy) on the children's faces when they saw the snow was lovely to see.",
+        "correct_answer": "happiness",
+        "distractors": [
+          "happy",
+          "happily",
+          "happyness"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot function as the subject noun of a sentence",
+          "an adverb cannot fill a noun position as the subject of a clause",
+          "incorrect spelling — the correct suffix is -ness, not -yness, and the y changes to i"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0001",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark works as a ___ (teach) at a primary school in his hometown.",
+        "correct_answer": "teacher",
+        "distractors": [
+          "teach",
+          "teaching",
+          "teachor"
+        ],
+        "distractor_rationale": [
+          "a bare verb cannot be used as a noun referring to a person's job title",
+          "the gerund form refers to the activity, not to the person who does it",
+          "incorrect spelling — the agent suffix for this verb is -er, not -or"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0002",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After years of hard work, the ___ (improve) in her test scores was clear to everyone.",
+        "correct_answer": "improvement",
+        "distractors": [
+          "improve",
+          "improveness",
+          "improving"
+        ],
+        "distractor_rationale": [
+          "a verb cannot function as the subject noun of a sentence",
+          "incorrect suffix — the standard noun form of 'improve' uses -ment, not -ness",
+          "a present participle cannot serve as the head noun of a noun phrase in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0003",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager asked the team to ___ (simple) the instructions so that new staff could follow them easily.",
+        "correct_answer": "simplify",
+        "distractors": [
+          "simple",
+          "simpleness",
+          "simplification"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot follow 'to' as the infinitive verb in this structure",
+          "a noun cannot follow 'to' as the infinitive verb required by 'asked the team to ___'",
+          "a noun cannot follow 'to' as the infinitive verb; the verb form with -ify is needed here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0004",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor said that the patient's ___ (able) to walk again would depend on how well the treatment worked.",
+        "correct_answer": "ability",
+        "distractors": [
+          "able",
+          "ableness",
+          "ableity"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot serve as the possessive noun head in this noun phrase",
+          "incorrect suffix — the standard noun derived from 'able' is 'ability', not 'ableness'",
+          "incorrect spelling — the correct derived noun form is 'ability', formed by replacing -le with -ility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0005",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The government's ___ (decide) to build a new hospital was welcomed by local residents.",
+        "correct_answer": "decision",
+        "distractors": [
+          "decide",
+          "decidement",
+          "decisive"
+        ],
+        "distractor_rationale": [
+          "a verb cannot follow a possessive noun phrase as the head of a noun phrase",
+          "incorrect suffix — the standard noun form of 'decide' is 'decision', not 'decidement'",
+          "an adjective cannot serve as the noun head of a possessive noun phrase in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0006",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara hoped to ___ (modern) her kitchen by replacing the old cupboards with new ones.",
+        "correct_answer": "modernise",
+        "distractors": [
+          "modern",
+          "modernity",
+          "modernisation"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot follow 'to' as the infinitive verb required by 'hoped to ___'",
+          "a noun cannot follow 'to' as the infinitive verb in this structure",
+          "a noun cannot follow 'to' as the infinitive verb; the -ise verb form is required here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0007",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The ___ (dark) of the sky just before the storm made everyone feel a little nervous.",
+        "correct_answer": "darkness",
+        "distractors": [
+          "dark",
+          "darken",
+          "darkity"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot function as the subject noun of a sentence with a possessive-of phrase",
+          "a verb cannot serve as the subject noun of this sentence; 'darken' is the verb form meaning to become dark",
+          "not a real English word — the correct noun suffix for this adjective is -ness, not -ity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0008",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new software will ___ (digital) all the paper records so they can be stored and searched online.",
+        "correct_answer": "digitalise",
+        "distractors": [
+          "digital",
+          "digitality",
+          "digitalisation"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot follow 'will' as the bare infinitive verb required in this structure",
+          "a noun cannot follow 'will' as the bare infinitive verb in this future structure",
+          "a noun cannot follow 'will' as the bare infinitive; the -ise verb form is required after a modal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0009",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The ___ (discuss) about working hours lasted over two hours before the team finally reached an agreement.",
+        "correct_answer": "discussion",
+        "distractors": [
+          "discuss",
+          "discussment",
+          "discussing"
+        ],
+        "distractor_rationale": [
+          "a verb cannot function as the subject noun of a sentence with a prepositional phrase modifier",
+          "incorrect suffix — the standard noun form of 'discuss' is 'discussion', not 'discussment'",
+          "a present participle cannot serve as the subject noun of a main clause in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0010",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The ___ (happy) on the children's faces when they saw the snow was wonderful to see.",
+        "correct_answer": "happiness",
+        "distractors": [
+          "happy",
+          "happily",
+          "happyness"
+        ],
+        "distractor_rationale": [
+          "an adjective cannot function as the subject noun of the sentence",
+          "an adverb cannot occupy a noun position as subject of the clause",
+          "this is a common spelling error; the correct suffix is -ness, not -yness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0011",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The team made a big ___ (improve) to their performance after they started training every morning.",
+        "correct_answer": "improvement",
+        "distractors": [
+          "improve",
+          "improveness",
+          "improvation"
+        ],
+        "distractor_rationale": [
+          "the base verb cannot follow the article 'a' and act as a noun object",
+          "improve does not take the -ness suffix; the correct noun form uses -ment",
+          "improve does not take the -ation suffix; this is a false analogy with words like 'information'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0012",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The museum hired a new ___ (art) to design the posters for its summer exhibition.",
+        "correct_answer": "artist",
+        "distractors": [
+          "art",
+          "artor",
+          "artment"
+        ],
+        "distractor_rationale": [
+          "the base noun 'art' refers to the subject area, not to a person who practises it; an agent noun is required",
+          "the agent suffix for this word is -ist, not -or; 'artor' is not a real English word",
+          "the suffix -ment forms abstract nouns from verbs, not agent nouns from other nouns"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0013",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager asked the team to ___ (simple) the report so that all staff could understand it easily.",
+        "correct_answer": "simplify",
+        "distractors": [
+          "simple",
+          "simplize",
+          "simpleness"
+        ],
+        "distractor_rationale": [
+          "the adjective 'simple' cannot follow 'to' as an infinitive verb; a verb form is required",
+          "the correct verb-forming suffix for this adjective is -ify, not -ize; 'simplize' does not exist",
+          "adding -ness forms an abstract noun, not a verb, and a noun cannot follow the infinitive marker 'to' here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_cloze_0014",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor explained that regular exercise can ___ (strength) the muscles around the knee and reduce pain over time.",
+        "correct_answer": "strengthen",
+        "distractors": [
+          "strength",
+          "strengthy",
+          "strengthize"
+        ],
+        "distractor_rationale": [
+          "the noun 'strength' cannot follow a modal verb like 'can' in place of a verb; a verb form is required",
+          "'strengthy' is not a real English word; the correct verb is formed with the suffix -en, not -y",
+          "the verb-forming suffix for this noun is -en, not -ize; 'strengthize' does not exist in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "word_formation_nouns_verbs_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0000",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The teacher's ___ of the new students was warm and friendly.",
+        "correct_answer": "welcome",
+        "distractors": [
+          "welcoming",
+          "welcomed",
+          "welcomement"
+        ],
+        "distractor_rationale": [
+          "welcoming is an adjective/gerund, not a noun suitable for subject position here",
+          "welcomed is a past tense verb form, not a noun",
+          "welcomement is a non-existent form; learners incorrectly apply -ment to this verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0001",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The ___ of the old bridge took almost two years to complete.",
+        "correct_answer": "construction",
+        "distractors": [
+          "construct",
+          "constructing",
+          "constructment"
+        ],
+        "distractor_rationale": [
+          "construct is a base verb and cannot function as a noun subject without an article and noun form",
+          "constructing is a gerund/present participle and changes the intended nominal meaning",
+          "constructment is a non-existent word; learners wrongly apply -ment instead of -tion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0002",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria showed great ___ when she helped the injured man on the street.",
+        "correct_answer": "kindness",
+        "distractors": [
+          "kind",
+          "kindly",
+          "kindity"
+        ],
+        "distractor_rationale": [
+          "kind is an adjective and cannot fill a noun object position after 'great'",
+          "kindly is an adverb and cannot follow 'great' as a noun",
+          "kindity is a non-existent form; learners incorrectly apply -ity to this adjective instead of -ness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0003",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The science ___ explained the results of his experiment to a group of students at the university.",
+        "correct_answer": "researcher",
+        "distractors": [
+          "research",
+          "researching",
+          "researchist"
+        ],
+        "distractor_rationale": [
+          "research is a noun/verb base form and does not refer to a person who performs the action",
+          "researching is a present participle and cannot function as an agent noun",
+          "researchist is a non-existent word; learners incorrectly apply -ist instead of -er for this agent noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0004",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The local government made a ___ to improve public transport in the city centre.",
+        "correct_answer": "decision",
+        "distractors": [
+          "decide",
+          "decisive",
+          "decidement"
+        ],
+        "distractor_rationale": [
+          "decide is a base verb and cannot function as the object noun of 'made'",
+          "decisive is an adjective and does not fit the noun object slot after 'made a'",
+          "decidement is a non-existent form; learners wrongly apply -ment rather than -sion to this verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0005",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After months of hard work, the team finally saw a clear ___ in the quality of their products.",
+        "correct_answer": "improvement",
+        "distractors": [
+          "improve",
+          "improveness",
+          "improving"
+        ],
+        "distractor_rationale": [
+          "improve is a base verb and cannot function as a noun after 'a clear'",
+          "improveness is a non-existent word; learners wrongly apply -ness instead of -ment to this verb",
+          "improving is a gerund/present participle and does not collocate naturally with 'a clear' in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0006",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The government needs to ___ its energy policy if it wants to reduce pollution over the next decade.",
+        "correct_answer": "modernize",
+        "distractors": [
+          "modern",
+          "modernity",
+          "modernization"
+        ],
+        "distractor_rationale": [
+          "modern is an adjective and cannot fill a verb slot after 'needs to'",
+          "modernity is a noun and cannot function as a verb in this infinitive position",
+          "modernization is a noun and cannot follow 'needs to' as a verb infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0007",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The ___ of the new hospital director brought significant changes to how staff were managed.",
+        "correct_answer": "appointment",
+        "distractors": [
+          "appoint",
+          "appointness",
+          "appointing"
+        ],
+        "distractor_rationale": [
+          "appoint is a base verb and cannot serve as the subject noun of the sentence",
+          "appointness is a non-existent form; learners incorrectly apply -ness instead of -ment to this verb",
+          "appointing is a gerund that would require a possessive determiner and changes the register awkwardly in this formal context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0008",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The piano ___ at the concert hall has been teaching young musicians for over thirty years.",
+        "correct_answer": "instructor",
+        "distractors": [
+          "instruct",
+          "instruction",
+          "instructist"
+        ],
+        "distractor_rationale": [
+          "instruct is a base verb and cannot refer to a person in subject position",
+          "instruction is a noun meaning the act or content of teaching, not the person who teaches",
+          "instructist is a non-existent word; learners incorrectly apply -ist instead of -or for this agent noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_multiple_choice_0009",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new manager tried to ___ the filing system so that all staff could find documents more easily.",
+        "correct_answer": "simplify",
+        "distractors": [
+          "simple",
+          "simpleness",
+          "simplification"
+        ],
+        "distractor_rationale": [
+          "simple is an adjective and cannot fill the verb slot after 'tried to'",
+          "simpleness is a noun and cannot function as a verb infinitive after 'tried to'",
+          "simplification is a noun and cannot follow 'tried to' as a verb infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "word_formation_nouns_verbs_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0000",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The improve in her test scores made her teacher very happy.",
+        "correct_answer": "improvement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The improve in her test scores made her teacher very happy.",
+        "corrected_sentence": "The improvement in her test scores made her teacher very happy.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0001",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "There was a lot of excitment in the classroom when the teacher announced the trip.",
+        "correct_answer": "excitement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "There was a lot of excitment in the classroom when the teacher announced the trip.",
+        "corrected_sentence": "There was a lot of excitement in the classroom when the teacher announced the trip.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0002",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The decide to cancel the meeting was made by the manager early that morning.",
+        "correct_answer": "decision",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The decide to cancel the meeting was made by the manager early that morning.",
+        "corrected_sentence": "The decision to cancel the meeting was made by the manager early that morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0003",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She has a natural happyness that makes everyone around her feel comfortable.",
+        "correct_answer": "happiness",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She has a natural happyness that makes everyone around her feel comfortable.",
+        "corrected_sentence": "She has a natural happiness that makes everyone around her feel comfortable.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0004",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The economy gave a long speech about the causes of rising prices at the conference.",
+        "correct_answer": "economist",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The economy gave a long speech about the causes of rising prices at the conference.",
+        "corrected_sentence": "The economist gave a long speech about the causes of rising prices at the conference.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0005",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "His able to solve complex problems quickly made him the most valuable member of the team.",
+        "correct_answer": "ability",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "His able to solve complex problems quickly made him the most valuable member of the team.",
+        "corrected_sentence": "His ability to solve complex problems quickly made him the most valuable member of the team.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0006",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After years of hard work, the young science finally published her research in an international journal.",
+        "correct_answer": "scientist",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After years of hard work, the young science finally published her research in an international journal.",
+        "corrected_sentence": "After years of hard work, the young scientist finally published her research in an international journal.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_word_formation_nouns_verbs_error_correction_0007",
+      "skill_ids": [
+        "word_formation_nouns_verbs"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The improveness of public transport in the city has made it much easier for people to get to work.",
+        "correct_answer": "improvement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The improveness of public transport in the city has made it much easier for people to get to work.",
+        "corrected_sentence": "The improvement of public transport in the city has made it much easier for people to get to work.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:54:00.098427+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "word_formation_nouns_verbs_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

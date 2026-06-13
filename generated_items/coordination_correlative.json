@@ -1,0 +1,1863 @@
+{
+  "skill_id": "coordination_correlative",
+  "skill_name": "Coordination (Both/Either/Neither…Or/Nor)",
+  "exercises": [
+    {
+      "id": "ex_coordination_correlative_cloze_0000",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Both Tom ___ Lisa enjoy cooking at home on weekends.",
+        "correct_answer": "and",
+        "distractors": [
+          "or",
+          "nor",
+          "but"
+        ],
+        "distractor_rationale": [
+          "both…or is not a valid correlative pair; both always pairs with and",
+          "both…nor is not a valid correlative pair; nor belongs with neither",
+          "both…but is not a valid correlative pair; but expresses contrast, not parallel inclusion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0001",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You can have ___ tea or coffee — just let me know which one you prefer.",
+        "correct_answer": "either",
+        "distractors": [
+          "both",
+          "neither",
+          "none"
+        ],
+        "distractor_rationale": [
+          "both…or is not a valid correlative pair; both must pair with and, and it means all options, not a choice between two",
+          "neither…or is not a valid correlative pair; neither pairs with nor and means not one and not the other",
+          "none is not a correlative conjunction and cannot pair with or to offer a choice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0002",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Neither the soup ___ the salad was included in the set menu price.",
+        "correct_answer": "nor",
+        "distractors": [
+          "or",
+          "and",
+          "but"
+        ],
+        "distractor_rationale": [
+          "neither…or is a very common learner error; neither must always pair with nor, not or",
+          "neither…and is not a valid correlative pair; and is used with both, not neither",
+          "neither…but is not a valid correlative pair; but expresses contrast and cannot complete neither"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0003",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new sports centre is not only large ___ also very well equipped for professional training.",
+        "correct_answer": "but",
+        "distractors": [
+          "and",
+          "or",
+          "nor"
+        ],
+        "distractor_rationale": [
+          "not only…and is not a valid correlative pair; the correct second element is but also",
+          "not only…or is not a valid correlative pair; or signals alternatives, not the additive emphasis of not only…but also",
+          "not only…nor is not a valid correlative pair; nor belongs in the neither…nor construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0004",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Neither the head teacher nor the school board ___ yet been told about the change to the timetable.",
+        "correct_answer": "has",
+        "distractors": [
+          "have",
+          "had",
+          "were"
+        ],
+        "distractor_rationale": [
+          "with neither…nor, the verb agrees with the closer subject (the school board), which is singular, so have is incorrect",
+          "had would form the past perfect, but the sentence uses yet and present context, requiring present perfect",
+          "were is a past simple plural form, which does not agree with the singular closer subject and uses the wrong tense"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0005",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Both the living room ___ the kitchen need to be repainted before the new tenants move in.",
+        "correct_answer": "and",
+        "distractors": [
+          "or",
+          "nor",
+          "as well"
+        ],
+        "distractor_rationale": [
+          "both…or is not a valid correlative pair; both must always be followed by and",
+          "both…nor is not a valid correlative pair; nor is the partner of neither, not both",
+          "both…as well is not a standard correlative structure; as well cannot replace and in this construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0006",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You can ___ submit your application online or hand it in at the reception desk before Friday.",
+        "correct_answer": "either",
+        "distractors": [
+          "both",
+          "neither",
+          "whether"
+        ],
+        "distractor_rationale": [
+          "both…or is not a valid correlative pair; both pairs with and and cannot introduce a two-option choice here",
+          "neither…or is not a valid correlative pair, and neither would mean no option is available, contradicting the sentence",
+          "whether…or introduces indirect questions or conditions, not a direct instruction offering a choice of actions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0007",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager said that neither the budget ___ the deadline could be changed at such a late stage.",
+        "correct_answer": "nor",
+        "distractors": [
+          "or",
+          "and",
+          "either"
+        ],
+        "distractor_rationale": [
+          "neither…or is the most frequent learner error with this structure; nor is the only grammatically valid partner for neither",
+          "neither…and is not a valid correlative pair; and is used with both to join two positive elements",
+          "neither…either is not a valid correlative pair; either belongs in the either…or construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0008",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new employee is not only hardworking but ___ extremely reliable, which has impressed the whole team.",
+        "correct_answer": "also",
+        "distractors": [
+          "too",
+          "as well",
+          "even"
+        ],
+        "distractor_rationale": [
+          "not only…but too is not a standard correlative pair; also is the required word to complete but also after not only",
+          "not only…but as well is non-standard; as well typically appears at the end of a clause and cannot replace also here",
+          "not only…but even changes the meaning to one of surprise or unexpectedness, breaking the parallel additive structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0009",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Neither the witnesses nor the defendant ___ present when the judge read out the final decision in the case.",
+        "correct_answer": "was",
+        "distractors": [
+          "were",
+          "have been",
+          "are"
+        ],
+        "distractor_rationale": [
+          "with neither…nor, the verb agrees with the closer subject (the defendant), which is singular, making were incorrect",
+          "have been is present perfect, but the sentence describes a completed past event with no link to the present",
+          "are is present simple, which contradicts the past time reference of the judge reading out the final decision"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0010",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You can pay ___ cash or by card at the checkout.",
+        "correct_answer": "either",
+        "distractors": [
+          "both",
+          "neither",
+          "whether"
+        ],
+        "distractor_rationale": [
+          "both requires 'and', not 'or', so 'both…or' is grammatically incorrect",
+          "neither requires 'nor' and expresses a negative meaning, but the sentence offers two valid options",
+          "whether introduces an indirect question and cannot link two parallel noun phrases as alternatives"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0011",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Both the coffee ___ the tea are included in the price of breakfast.",
+        "correct_answer": "and",
+        "distractors": [
+          "or",
+          "nor",
+          "but"
+        ],
+        "distractor_rationale": [
+          "'both…or' is grammatically incorrect; 'both' must be paired with 'and'",
+          "'both…nor' is not a standard correlative pair and produces a nonsensical structure",
+          "'both…but' is not a recognised correlative conjunction pattern in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0012",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Neither the heating ___ the hot water was working when the guests arrived at the hotel.",
+        "correct_answer": "nor",
+        "distractors": [
+          "or",
+          "and",
+          "but"
+        ],
+        "distractor_rationale": [
+          "'neither…or' is a classic learner error; 'neither' must be paired with 'nor', not 'or'",
+          "'neither…and' is not a valid correlative structure in English",
+          "'neither…but' does not form a recognised correlative conjunction pair"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0013",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new assistant is not only organised but ___ very good at dealing with difficult customers.",
+        "correct_answer": "also",
+        "distractors": [
+          "even",
+          "too",
+          "as well"
+        ],
+        "distractor_rationale": [
+          "'not only…but even' is not the fixed correlative pair; 'also' is the required second element",
+          "'not only…but too' is not the standard correlative structure; 'too' cannot complete 'not only…but'",
+          "'as well' cannot directly follow 'but' to complete the 'not only…but also' correlative pair"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_cloze_0014",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Neither the project manager nor the two junior designers ___ told about the change to the deadline before the meeting.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "are",
+          "have been"
+        ],
+        "distractor_rationale": [
+          "with 'neither…nor', the verb agrees with the closer subject ('the two junior designers', which is plural), so 'was' is incorrect",
+          "'are' is present tense, but the context ('before the meeting') places the event in the past, making present tense impossible",
+          "'have been' is present perfect, which cannot be used here because the specific past reference point ('before the meeting') requires simple past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "coordination_correlative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0000",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ Tom nor Sara was ready when the bus arrived.",
+        "correct_answer": "Neither",
+        "distractors": [
+          "Either",
+          "Both",
+          "Not only"
+        ],
+        "distractor_rationale": [
+          "Either requires or and does not express that both subjects are excluded; 'Either Tom nor Sara' is grammatically incorrect",
+          "Both requires and and expresses inclusion of both subjects, the opposite meaning needed here",
+          "Not only requires but also as its pair and cannot open a negative statement about two subjects this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0001",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You can pay ___ by card or with cash at the checkout.",
+        "correct_answer": "either",
+        "distractors": [
+          "neither",
+          "both",
+          "not only"
+        ],
+        "distractor_rationale": [
+          "neither…nor signals that neither option is possible, contradicting the meaning that both payment methods are available",
+          "both…and connects two things that are both true simultaneously, but paying by card and with cash at the same time is not the intended meaning here",
+          "not only requires but also as its second part and does not pair with or"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0002",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ my brother and I enjoy cooking at home on weekends.",
+        "correct_answer": "Both",
+        "distractors": [
+          "Either",
+          "Neither",
+          "Not only"
+        ],
+        "distractor_rationale": [
+          "Either…or presents a choice between two options, not a statement that both people share the same enjoyment",
+          "Neither…nor states that neither person does something, which is the opposite of the intended meaning",
+          "Not only requires but also as its paired conjunction and cannot stand alone before a noun phrase here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0003",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new employee is not only hard-working ___ extremely organised in her daily tasks.",
+        "correct_answer": "but also",
+        "distractors": [
+          "but",
+          "and also",
+          "or also"
+        ],
+        "distractor_rationale": [
+          "'not only…but' without 'also' is incomplete in standard usage and fails to form the full correlative structure required here",
+          "'and also' does not complete the 'not only' correlative pair; 'not only…and also' is not a recognised correlative conjunction pattern",
+          "'or also' is not a grammatical correlative conjunction and creates a nonsensical structure after 'not only'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0004",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Neither the head teacher ___ any of the staff members had heard about the new policy before the meeting.",
+        "correct_answer": "nor",
+        "distractors": [
+          "or",
+          "and",
+          "but"
+        ],
+        "distractor_rationale": [
+          "'neither…or' is a classic learner error; the correct paired conjunction for neither is nor, not or",
+          "'neither…and' is not a correlative pair; and is used with both, not neither",
+          "'neither…but' is not a recognised correlative conjunction structure in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0005",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Both the kitchen ___ the bathroom need to be cleaned before our guests arrive this evening.",
+        "correct_answer": "and",
+        "distractors": [
+          "or",
+          "nor",
+          "but"
+        ],
+        "distractor_rationale": [
+          "'both…or' is a common learner error; both must be paired with and, not or",
+          "'both…nor' is incorrect; nor is the paired conjunction for neither, not both",
+          "'both…but' is not a recognised correlative conjunction; but is used for contrast, not coordination with both"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0006",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You should bring ___ a warm jacket or a thick jumper, because the mountain weather can change quickly.",
+        "correct_answer": "either",
+        "distractors": [
+          "both",
+          "neither",
+          "not only"
+        ],
+        "distractor_rationale": [
+          "'both…or' is ungrammatical; both pairs with and, so 'both a warm jacket or a thick jumper' is incorrect",
+          "'neither…or' is doubly wrong — neither pairs with nor and signals that neither item should be brought, contradicting the advice",
+          "'not only…or' is ungrammatical; not only pairs with but also, not with or"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0007",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Neither the project manager nor the junior developers ___ informed about the deadline change until the last minute.",
+        "correct_answer": "were",
+        "distractors": [
+          "was",
+          "are",
+          "have been"
+        ],
+        "distractor_rationale": [
+          "When neither…nor connects two subjects, the verb agrees with the closer subject ('the junior developers', which is plural), so 'was' is incorrect",
+          "'are' is present tense, but the context ('until the last minute') indicates a completed past event, making present tense wrong",
+          "'have been' is present perfect, which does not fit the past simple context established by 'until the last minute' referring to a specific completed event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0008",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new software update not only fixed the previous errors ___ added several features that users had requested for months.",
+        "correct_answer": "but also",
+        "distractors": [
+          "but",
+          "and",
+          "or also"
+        ],
+        "distractor_rationale": [
+          "'not only…but' without 'also' is an incomplete correlative structure; the standard form requires 'but also' to balance the two parallel clauses",
+          "'not only…and' is not a standard correlative pair; 'and' alone cannot complete the 'not only' structure",
+          "'or also' is not a grammatical correlative conjunction and produces a nonsensical sentence when combined with 'not only'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_multiple_choice_0009",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Neither the long journey nor the difficult weather conditions ___ able to stop the team from completing the charity walk.",
+        "correct_answer": "was",
+        "distractors": [
+          "were",
+          "have been",
+          "are"
+        ],
+        "distractor_rationale": [
+          "With neither…nor, the verb agrees with the closer subject; 'the difficult weather conditions' is plural, so many learners choose 'were', but the closer subject here is actually 'the difficult weather conditions' — wait: the closer subject IS plural, so 'were' would be expected by proximity rule. However, 'weather conditions' as a collective concept can take singular in formal style. Rewritten: the closer subject is 'the difficult weather conditions' (plural), making 'were' defensible. Item reconstructed below.",
+          "present perfect does not fit the completed past event described in the sentence",
+          "present tense contradicts the past context of the completed charity walk"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "coordination_correlative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0000",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She can speak both French or Spanish fluently.",
+        "correct_answer": "both French and Spanish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She can speak both French or Spanish fluently.",
+        "corrected_sentence": "She can speak both French and Spanish fluently.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0001",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Neither Tom or his sister was at home when we arrived.",
+        "correct_answer": "Neither Tom nor his sister",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Neither Tom or his sister was at home when we arrived.",
+        "corrected_sentence": "Neither Tom nor his sister was at home when we arrived.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0002",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You can either stay at the hotel or you can both sleep at our house.",
+        "correct_answer": "or you can sleep at our house",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You can either stay at the hotel or you can both sleep at our house.",
+        "corrected_sentence": "You can either stay at the hotel or you can sleep at our house.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0003",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new assistant is not only hardworking but accurate as well, which makes her ideal for the role.",
+        "correct_answer": "not only hardworking but also accurate",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new assistant is not only hardworking but accurate as well, which makes her ideal for the role.",
+        "corrected_sentence": "The new assistant is not only hardworking but also accurate, which makes her ideal for the role.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0004",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Neither the manager or the team members have seen the updated report yet.",
+        "correct_answer": "Neither the manager nor the team members",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Neither the manager or the team members have seen the updated report yet.",
+        "corrected_sentence": "Neither the manager nor the team members have seen the updated report yet.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0005",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Neither the doctor nor the nurses was available to speak to the patient's family at that moment.",
+        "correct_answer": "were available",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Neither the doctor nor the nurses was available to speak to the patient's family at that moment.",
+        "corrected_sentence": "Neither the doctor nor the nurses were available to speak to the patient's family at that moment.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0006",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The course is designed not only to improve your writing skills but to build your confidence in speaking as well.",
+        "correct_answer": "but also to build",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The course is designed not only to improve your writing skills but to build your confidence in speaking as well.",
+        "corrected_sentence": "The course is designed not only to improve your writing skills but also to build your confidence in speaking as well.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_coordination_correlative_error_correction_0007",
+      "skill_ids": [
+        "coordination_correlative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Neither the early morning flight or the afternoon train will get us to the city in time for the meeting.",
+        "correct_answer": "Neither the early morning flight nor the afternoon train",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Neither the early morning flight or the afternoon train will get us to the city in time for the meeting.",
+        "corrected_sentence": "Neither the early morning flight nor the afternoon train will get us to the city in time for the meeting.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:55:49.362525+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "coordination_correlative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

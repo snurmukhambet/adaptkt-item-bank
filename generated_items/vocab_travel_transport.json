@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_travel_transport",
+  "skill_name": "Travel & Transport",
+  "exercises": [
+    {
+      "id": "ex_vocab_travel_transport_cloze_0000",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria locked her ___ to the metal post outside the supermarket before going inside to shop.",
+        "correct_answer": "bicycle",
+        "distractors": [
+          "boat",
+          "bus",
+          "car"
+        ],
+        "distractor_rationale": [
+          "a boat cannot be locked to a post outside a supermarket — it travels on water",
+          "a bus is a large public vehicle that a passenger rides, not locks to a post",
+          "a car is parked in a car park, not locked to a metal post outside a shop entrance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0001",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ stopped at every street corner along the route so passengers could get on and off.",
+        "correct_answer": "bus",
+        "distractors": [
+          "boat",
+          "bicycle",
+          "car"
+        ],
+        "distractor_rationale": [
+          "a boat travels on water and does not stop at street corners",
+          "a bicycle carries only one rider and does not have passengers who get on and off at stops",
+          "a car is a private vehicle and does not follow a fixed route with street-corner stops for passengers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0002",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The family loaded their bags into the ___ and drove to the beach early in the morning.",
+        "correct_answer": "car",
+        "distractors": [
+          "boat",
+          "bus",
+          "bike"
+        ],
+        "distractor_rationale": [
+          "you load bags into a boat and sail, not drive — and the sentence says 'drove'",
+          "a bus is a public vehicle with a driver — a family does not load bags into a bus and then drive it themselves",
+          "a bike cannot carry a family's bags and cannot be driven — it is ridden"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0003",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom checked the board at the ___ to find out which gate his flight was leaving from.",
+        "correct_answer": "airport",
+        "distractors": [
+          "station",
+          "harbour",
+          "campsite"
+        ],
+        "distractor_rationale": [
+          "a station is for trains or buses — it has platforms, not gates for flights",
+          "a harbour is where boats dock — it does not have departure gates for flights",
+          "a campsite is an outdoor area for tents — it has no departure board or flight gates"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0004",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ time shown on the ticket was 09:45, so Anna arrived at the platform twenty minutes early.",
+        "correct_answer": "departure",
+        "distractors": [
+          "destination",
+          "direction",
+          "driver"
+        ],
+        "distractor_rationale": [
+          "a destination is a place you travel to, not a time printed on a ticket",
+          "a direction is a way or route, not a scheduled time on a ticket",
+          "a driver is a person who operates a vehicle, not a time shown on a ticket"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0005",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The tour group travelled from the city to the coast on a comfortable ___ that had air conditioning and reclining seats.",
+        "correct_answer": "coach",
+        "distractors": [
+          "bicycle",
+          "boat",
+          "car"
+        ],
+        "distractor_rationale": [
+          "a bicycle cannot carry a tour group and has no air conditioning or reclining seats",
+          "a boat travels on water, not from a city to the coast by road",
+          "a car is a small private vehicle that cannot carry a tour group"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0006",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ sailed slowly across the lake, carrying ten passengers who enjoyed the views from the water.",
+        "correct_answer": "boat",
+        "distractors": [
+          "bus",
+          "coach",
+          "car"
+        ],
+        "distractor_rationale": [
+          "a bus travels on roads, not across a lake — it cannot sail",
+          "a coach travels on roads, not on water — it cannot carry passengers across a lake",
+          "a car travels on roads, not across a lake — it cannot sail"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0007",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After a long flight, Lisa was relieved to finally reach her ___ and check into the hotel she had booked months earlier.",
+        "correct_answer": "destination",
+        "distractors": [
+          "departure",
+          "direction",
+          "airline"
+        ],
+        "distractor_rationale": [
+          "a departure is the act of leaving a place — it is the start of a journey, not the end point where you arrive and check in",
+          "a direction is a route or way to go — you do not reach a direction and check into a hotel",
+          "an airline is a company that operates flights — you do not reach an airline and check into a hotel"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0008",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ announced that the flight would be delayed by two hours due to bad weather at the connecting airport.",
+        "correct_answer": "airline",
+        "distractors": [
+          "driver",
+          "campsite",
+          "harbour"
+        ],
+        "distractor_rationale": [
+          "a driver operates a road vehicle and does not make announcements about flight delays at connecting airports",
+          "a campsite is an outdoor area for tents — it does not announce flight delays",
+          "a harbour is a place for boats — it does not operate flights or announce flight delays"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0009",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James and his friends decided to go ___ in the mountains for a week, sleeping in tents and cooking meals over an open fire each evening.",
+        "correct_answer": "camping",
+        "distractors": [
+          "driving",
+          "sailing",
+          "cycling"
+        ],
+        "distractor_rationale": [
+          "driving means travelling by car — it does not involve sleeping in tents and cooking over an open fire in the mountains",
+          "sailing means travelling on water — the mountains are not a location for sailing",
+          "cycling means riding a bicycle — it does not specifically involve sleeping in tents and cooking over a fire as the primary activity described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0010",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria locked her ___ to the fence outside the school before going inside for her lesson.",
+        "correct_answer": "bicycle",
+        "distractors": [
+          "boat",
+          "bus",
+          "coach"
+        ],
+        "distractor_rationale": [
+          "a boat cannot be locked to a fence outside a school — it travels on water",
+          "a bus is a large public vehicle that cannot be locked to a fence by an individual",
+          "a coach is a large road vehicle for groups and cannot be locked to a fence by one person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0011",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ announced that the plane would land thirty minutes late because of bad weather over the mountains.",
+        "correct_answer": "airline",
+        "distractors": [
+          "driver",
+          "camp",
+          "bicycle"
+        ],
+        "distractor_rationale": [
+          "a driver operates road vehicles and does not make announcements about planes landing",
+          "a camp is a place where people stay outdoors and cannot make announcements about planes",
+          "a bicycle is a vehicle, not an organisation that can make announcements about flights"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0012",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom checked the screen at the ___ to find out which gate his flight was leaving from.",
+        "correct_answer": "airport",
+        "distractors": [
+          "destination",
+          "camp",
+          "boat"
+        ],
+        "distractor_rationale": [
+          "a destination is the place you are travelling to, not a building where you check departure gates",
+          "a camp is an outdoor area for sleeping in tents and does not have departure gate screens",
+          "a boat is a water vehicle and does not have departure gate screens for flights"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0013",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ time shown on the ticket was 09:15, so Anna made sure she arrived at the station at least twenty minutes early.",
+        "correct_answer": "departure",
+        "distractors": [
+          "destination",
+          "direction",
+          "driver"
+        ],
+        "distractor_rationale": [
+          "a destination is a place, not a time shown on a ticket, so it cannot fill a time-reference slot",
+          "a direction refers to which way to go, not a scheduled time printed on a ticket",
+          "a driver is a person, not a time, and cannot be described as being shown on a ticket in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_cloze_0014",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After three hours on the road, the ___ pulled into a service area so that the forty passengers on board could stretch their legs and buy refreshments.",
+        "correct_answer": "coach",
+        "distractors": [
+          "car",
+          "bike",
+          "boat"
+        ],
+        "distractor_rationale": [
+          "a car carries a maximum of a few passengers, not forty, making it contradictory to the number stated",
+          "a bike carries only one or two people and cannot transport forty passengers",
+          "a boat travels on water, not on a road, and does not pull into a service area"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_travel_transport_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "We waited at the ___ for the number 12 to arrive and take us into town.",
+        "correct_answer": "bus stop",
+        "distractors": [
+          "car park",
+          "airport",
+          "platform"
+        ],
+        "distractor_rationale": [
+          "a car park is where you leave a vehicle, not where you wait for public transport",
+          "an airport is for planes, not local buses into town",
+          "a platform is for trains, not buses"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom rode his ___ to school every morning because it was only five minutes away.",
+        "correct_answer": "bicycle",
+        "distractors": [
+          "boat",
+          "coach",
+          "car"
+        ],
+        "distractor_rationale": [
+          "a boat travels on water, not a road to school",
+          "a coach is a large vehicle driven by a professional driver, not ridden by a schoolchild alone",
+          "a car is driven, not ridden, and the sentence uses 'rode'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ___ carried over two hundred passengers across the lake to the other side.",
+        "correct_answer": "boat",
+        "distractors": [
+          "bus",
+          "bicycle",
+          "car"
+        ],
+        "distractor_rationale": [
+          "a bus travels on roads, not across a lake",
+          "a bicycle cannot carry passengers across a lake",
+          "a car travels on roads and cannot cross a lake"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Please check the ___ board in the terminal to find out which gate your flight leaves from.",
+        "correct_answer": "departure",
+        "distractors": [
+          "arrival",
+          "direction",
+          "destination"
+        ],
+        "distractor_rationale": [
+          "an arrival board shows incoming flights, not outgoing gates",
+          "direction refers to which way to go, not a board showing flight information",
+          "destination is where you are going, not a type of information board in a terminal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The tour group travelled from the city to the coast on a ___, which had comfortable seats and air conditioning.",
+        "correct_answer": "coach",
+        "distractors": [
+          "bicycle",
+          "boat",
+          "taxi"
+        ],
+        "distractor_rationale": [
+          "a bicycle has no seats for a tour group and no air conditioning",
+          "a boat travels on water, not from a city to the coast by road",
+          "a taxi is a small vehicle for one or a few people, not a tour group"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After a long flight, Maria finally landed at the ___ and collected her suitcase from the baggage belt.",
+        "correct_answer": "airport",
+        "distractors": [
+          "harbour",
+          "bus station",
+          "car park"
+        ],
+        "distractor_rationale": [
+          "a harbour is where ships dock, not where planes land",
+          "a bus station is for buses, not flights, and has no baggage belts",
+          "a car park is where vehicles are left, not where planes land and passengers collect luggage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The family decided to ___ in the mountains for a week, sleeping in tents and cooking over an open fire.",
+        "correct_answer": "camp",
+        "distractors": [
+          "drive",
+          "board",
+          "dock"
+        ],
+        "distractor_rationale": [
+          "drive means to operate a vehicle, not to sleep in tents and cook outdoors",
+          "board means to get onto a vehicle, not to stay somewhere in tents",
+          "dock means to bring a boat to shore, which contradicts the mountain setting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The travel agent confirmed that our final ___ was a small coastal town, and we would stop in two cities on the way.",
+        "correct_answer": "destination",
+        "distractors": [
+          "departure",
+          "direction",
+          "airline"
+        ],
+        "distractor_rationale": [
+          "departure refers to the act of leaving a place, not the place you are going to",
+          "direction refers to which way you travel, not the specific place you are heading to",
+          "an airline is a company that operates flights, not a place you travel to"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna booked her tickets through a budget ___ that offered direct flights to her city for less than fifty euros.",
+        "correct_answer": "airline",
+        "distractors": [
+          "coach",
+          "ferry",
+          "carrier"
+        ],
+        "distractor_rationale": [
+          "a coach is a road vehicle and does not operate flights",
+          "a ferry is a boat service and cannot offer direct flights",
+          "carrier is too general and not the fixed collocation used with 'budget' in the context of booking flight tickets; 'budget airline' is the established term"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The children enjoyed their first ___ holiday, waking up each morning surrounded by nature and cooking breakfast outside their tent.",
+        "correct_answer": "camping",
+        "distractors": [
+          "cruise",
+          "driving",
+          "airline"
+        ],
+        "distractor_rationale": [
+          "a cruise holiday is spent on a ship, not waking up in a tent surrounded by nature",
+          "a driving holiday centres on travelling by car, not sleeping in tents and cooking outside",
+          "an airline holiday refers to travel by plane, not staying in tents in nature"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_travel_transport_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_word_formation_0000",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "My dad is a bus ___. He works every day. (DRIVE)",
+        "correct_answer": "driver",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DRIVE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_travel_transport_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_word_formation_0001",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "We stayed at a ___ site near the lake last summer. (CAMP)",
+        "correct_answer": "camping",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CAMP"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_travel_transport_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_word_formation_0002",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ lounge at the airport was very busy because three flights were leaving at the same time. (DEPART)",
+        "correct_answer": "departure",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DEPART"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_travel_transport_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_word_formation_0003",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The travel agent asked us for our final ___ so she could book the correct train tickets. (DESTINE)",
+        "correct_answer": "destination",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DESTINE"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_travel_transport_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_travel_transport_word_formation_0004",
+      "skill_ids": [
+        "vocab_travel_transport"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The map on the screen gave clear ___ instructions, so we found the coach station without any difficulty. (DIRECT)",
+        "correct_answer": "directional",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DIRECT"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:05:36.384673+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_travel_transport_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

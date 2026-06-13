@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_family_relationships",
+  "skill_name": "Family & Relationships",
+  "exercises": [
+    {
+      "id": "ex_vocab_family_relationships_cloze_0000",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "My ___ is only six months old and sleeps most of the day.",
+        "correct_answer": "baby",
+        "distractors": [
+          "cousin",
+          "bride",
+          "adult"
+        ],
+        "distractor_rationale": [
+          "a cousin is a relative of any age, not specifically someone who is six months old and sleeps most of the day",
+          "a bride is a woman on her wedding day, not an infant",
+          "an adult is a fully grown person, not a six-month-old"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0001",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom's ___ is his mother's sister, and she visits us every summer.",
+        "correct_answer": "aunt",
+        "distractors": [
+          "daughter",
+          "cousin",
+          "bride"
+        ],
+        "distractor_rationale": [
+          "a daughter is a female child of a parent, not a mother's sister",
+          "a cousin is the child of a parent's sibling, not the sibling herself",
+          "a bride is a woman getting married, not a family relation defined by being a mother's sister"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0002",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara called her ___ to ask for advice because he is her mother's brother.",
+        "correct_answer": "uncle",
+        "distractors": [
+          "dad",
+          "cousin",
+          "brother"
+        ],
+        "distractor_rationale": [
+          "a dad is a father, not a mother's brother",
+          "a cousin is the child of a parent's sibling, not the sibling himself",
+          "a brother is a sibling of the same parents, not a mother's brother"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0003",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After the ceremony, the ___ walked down the aisle in her white dress while everyone watched.",
+        "correct_answer": "bride",
+        "distractors": [
+          "aunt",
+          "daughter",
+          "cousin"
+        ],
+        "distractor_rationale": [
+          "an aunt is a parent's sister and does not walk down the aisle in a white dress at a ceremony",
+          "a daughter is a female child and is not specifically the person in a white dress walking down the aisle at a wedding ceremony",
+          "a cousin is a relative who may attend a wedding but does not walk down the aisle in a white dress as the central figure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0004",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna and her ___ have been together for two years and recently started living in the same flat.",
+        "correct_answer": "boyfriend",
+        "distractors": [
+          "brother",
+          "cousin",
+          "dad"
+        ],
+        "distractor_rationale": [
+          "a brother is a sibling and would not be described as someone Anna has been 'together with' romantically for two years",
+          "a cousin is a family relative, not a romantic partner someone lives with after two years together",
+          "a dad is a father, not a romantic partner someone moves in with after dating"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0005",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The young ___ shared a bedroom with his older sister and they often argued over the light at night.",
+        "correct_answer": "boy",
+        "distractors": [
+          "adult",
+          "couple",
+          "bride"
+        ],
+        "distractor_rationale": [
+          "an adult is a fully grown person who would not typically share a childhood bedroom with a sister in this context",
+          "a couple refers to two people in a relationship, not a single young male child",
+          "a bride is a woman on her wedding day, not a young male child sharing a bedroom"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0006",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The elderly ___ held hands as they walked slowly through the park together every morning.",
+        "correct_answer": "couple",
+        "distractors": [
+          "family",
+          "child",
+          "cousin"
+        ],
+        "distractor_rationale": [
+          "a family refers to a group of related people, not specifically two people holding hands as romantic partners",
+          "a child is a young person and cannot be described as elderly",
+          "a cousin is a single relative, not two people described together holding hands as a unit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0007",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After the ___, both parents agreed to share responsibility for their children and meet every week.",
+        "correct_answer": "divorce",
+        "distractors": [
+          "engagement",
+          "wedding",
+          "reunion"
+        ],
+        "distractor_rationale": [
+          "an engagement is the period before marriage and does not result in two parents needing to share child responsibility after a separation",
+          "a wedding is a marriage ceremony, which joins two people together rather than separating them into shared custody arrangements",
+          "a reunion is when people come back together after being apart, the opposite of a separation requiring custody arrangements"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0008",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Mark and Lisa announced they were ___ at dinner last night and showed everyone the ring she was wearing.",
+        "correct_answer": "engaged",
+        "distractors": [
+          "divorced",
+          "related",
+          "adopted"
+        ],
+        "distractor_rationale": [
+          "divorced means a marriage has legally ended, which contradicts the celebratory announcement and the ring being shown",
+          "related means connected by family ties, not a status announced at dinner with a ring as evidence",
+          "adopted refers to a legal process of becoming someone's child, not a romantic commitment announced with a ring"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0009",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "As the only ___ in the room, David was asked to supervise the younger children during the school trip.",
+        "correct_answer": "adult",
+        "distractors": [
+          "cousin",
+          "boy",
+          "baby"
+        ],
+        "distractor_rationale": [
+          "a cousin is a family relative and would not be specifically identified as the responsible supervisor in contrast to younger children",
+          "a boy is a young male child and cannot supervise other children as a responsible authority figure",
+          "a baby is an infant who cannot supervise anyone or take on any responsibility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0010",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "My ___ is only six months old, so she sleeps a lot during the day.",
+        "correct_answer": "baby",
+        "distractors": [
+          "cousin",
+          "aunt",
+          "bride"
+        ],
+        "distractor_rationale": [
+          "a cousin is a relative of any age, not specifically an infant who sleeps all day",
+          "an aunt is a parent's sister, not a six-month-old child",
+          "a bride is a woman on her wedding day, not a six-month-old infant"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0011",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom's ___ is his father's sister, and she visits the family every summer.",
+        "correct_answer": "aunt",
+        "distractors": [
+          "daughter",
+          "bride",
+          "cousin"
+        ],
+        "distractor_rationale": [
+          "a daughter is a parent's female child, not a father's sister",
+          "a bride is a woman getting married, not a family relative defined by a sibling relationship",
+          "a cousin is the child of a parent's sibling, not the sibling herself"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0012",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ wore a long white dress and carried flowers as she walked down the aisle at the church.",
+        "correct_answer": "bride",
+        "distractors": [
+          "daughter",
+          "cousin",
+          "aunt"
+        ],
+        "distractor_rationale": [
+          "a daughter is defined by her relationship to a parent, not by wearing a wedding dress and walking down an aisle",
+          "a cousin is a family relative, not a role specifically associated with a wedding ceremony and white dress",
+          "an aunt is a parent's sister, not a person whose role involves walking down a church aisle in a white dress"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0013",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After their ___, Maria and her husband sold their shared apartment and each moved to a different city.",
+        "correct_answer": "divorce",
+        "distractors": [
+          "engagement",
+          "couple",
+          "baby"
+        ],
+        "distractor_rationale": [
+          "an engagement is when two people decide to get married, which would not cause them to separate and sell their shared home",
+          "couple is a noun referring to two people together, not an event that results in selling a shared home and moving apart",
+          "a baby is a newborn child, not an event that causes two people to sell their apartment and live in separate cities"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_cloze_0014",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara and James announced they were ___ at dinner last night, and Sara showed everyone the ring James had given her.",
+        "correct_answer": "engaged",
+        "distractors": [
+          "divorced",
+          "adult",
+          "coupled"
+        ],
+        "distractor_rationale": [
+          "divorced means a marriage has legally ended, which contradicts showing a new ring as a symbol of a future commitment",
+          "adult describes a person who is fully grown, not a relationship status announced at dinner with a ring",
+          "coupled is not a standard English adjective used to describe a relationship status announcement, and showing a ring specifically signals an engagement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_family_relationships_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "My mother's sister is my ___.",
+        "correct_answer": "aunt",
+        "distractors": [
+          "cousin",
+          "niece",
+          "bride"
+        ],
+        "distractor_rationale": [
+          "a cousin is the child of a parent's sibling, not the sibling herself",
+          "a niece is the daughter of one's sibling, not the sibling of a parent",
+          "a bride is a woman getting married, not a family relationship term"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom and Sara have a new ___ — she was born just three days ago.",
+        "correct_answer": "baby",
+        "distractors": [
+          "boy",
+          "adult",
+          "couple"
+        ],
+        "distractor_rationale": [
+          "boy refers to a male child, but the sentence says 'she', contradicting 'boy'",
+          "an adult is a fully grown person, not someone born three days ago",
+          "a couple refers to two people in a relationship, not a newborn child"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna has one ___ — his name is James and he is two years older than her.",
+        "correct_answer": "brother",
+        "distractors": [
+          "cousin",
+          "dad",
+          "boyfriend"
+        ],
+        "distractor_rationale": [
+          "a cousin is not a direct sibling, and the sentence implies a sibling relationship with 'older than her'",
+          "dad refers to a father, not a sibling who is two years older",
+          "a boyfriend is a romantic partner, not a family sibling"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria and her ___ have been together for two years and they share a flat in the city centre.",
+        "correct_answer": "boyfriend",
+        "distractors": [
+          "cousin",
+          "brother",
+          "dad"
+        ],
+        "distractor_rationale": [
+          "sharing a flat as a romantic couple does not describe a cousin relationship",
+          "a brother is a sibling, not a romantic partner one shares a flat with as a couple",
+          "a dad is a father figure, not a romantic partner"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Every ___ in the class brought a drawing they had made at home to show the teacher.",
+        "correct_answer": "child",
+        "distractors": [
+          "adult",
+          "couple",
+          "bride"
+        ],
+        "distractor_rationale": [
+          "adults do not typically bring drawings to show a teacher in a school class context",
+          "a couple refers to two people in a relationship, not individuals in a school class",
+          "a bride is a woman getting married, not a student in a class"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ___ wore a long white dress and walked slowly into the ceremony hall.",
+        "correct_answer": "bride",
+        "distractors": [
+          "aunt",
+          "daughter",
+          "cousin"
+        ],
+        "distractor_rationale": [
+          "an aunt is a family member but does not specifically wear a white dress for a ceremony",
+          "a daughter is a family role that does not specifically involve a white dress at a ceremony",
+          "a cousin is a family member but the white dress and ceremony hall specifically describe a bride"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "David's parents got ___ when he was ten, and after that he lived with his mother.",
+        "correct_answer": "divorced",
+        "distractors": [
+          "engaged",
+          "married",
+          "separated"
+        ],
+        "distractor_rationale": [
+          "getting engaged means planning to marry, which contradicts living apart after the event",
+          "getting married means starting a life together, not splitting up and living separately",
+          "separated is close in meaning but 'divorced' is the correct legal term and the only one from the target vocabulary list that fits the formal ending of a marriage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Lisa and Mark announced last night that they are ___ and plan to get married next summer.",
+        "correct_answer": "engaged",
+        "distractors": [
+          "divorced",
+          "married",
+          "related"
+        ],
+        "distractor_rationale": [
+          "divorced means the marriage has ended, which contradicts planning to get married",
+          "if they were already married, they would not be planning to get married next summer",
+          "being related describes a family connection by blood, not a formal commitment to marry"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "My uncle's son, who grew up in another city, is my ___, and we only see each other at family gatherings.",
+        "correct_answer": "cousin",
+        "distractors": [
+          "nephew",
+          "brother",
+          "aunt"
+        ],
+        "distractor_rationale": [
+          "a nephew is the son of one's sibling, not the son of one's uncle",
+          "a brother is a direct sibling who shares the same parents, not the son of an uncle",
+          "an aunt is a female relative, not a male cousin described as 'son' and 'he'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James is proud that his ___ just graduated from university with top marks, as she is the first in the family to do so.",
+        "correct_answer": "daughter",
+        "distractors": [
+          "aunt",
+          "bride",
+          "cousin"
+        ],
+        "distractor_rationale": [
+          "an aunt is a parent's sister, not someone whose graduation would make a parent proud in this direct way",
+          "a bride is a woman getting married, not someone graduating from university",
+          "a cousin is a more distant relative, and the phrase 'first in the family' combined with parental pride strongly implies a direct parent-child relationship"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_family_relationships_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_word_formation_0000",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "My little sister is only three years old, so she is still a ___. (BABY)",
+        "correct_answer": "baby",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BABY"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_family_relationships_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_word_formation_0001",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "He is only twelve, so he is still a ___. (CHILD)",
+        "correct_answer": "child",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CHILD"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_family_relationships_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_word_formation_0002",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom and Anna have been together for two years, and everyone says they make a lovely ___. (COUPLE)",
+        "correct_answer": "couple",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COUPLE"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_family_relationships_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_word_formation_0003",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "After many years of problems in their marriage, Maria's parents decided to get a ___. (DIVORCE)",
+        "correct_answer": "divorce",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DIVORCE"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_family_relationships_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_family_relationships_word_formation_0004",
+      "skill_ids": [
+        "vocab_family_relationships"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "By the time you turn eighteen, you are considered an ___ and can make your own decisions. (ADULT)",
+        "correct_answer": "adult",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ADULT"
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:55:04.071029+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_family_relationships_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

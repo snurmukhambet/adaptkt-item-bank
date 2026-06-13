@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_city_places",
+  "skill_name": "City & Places",
+  "exercises": [
+    {
+      "id": "ex_vocab_city_places_cloze_0000",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "We crossed the ___ to get to the other side of the river.",
+        "correct_answer": "bridge",
+        "distractors": [
+          "bank",
+          "corner",
+          "castle"
+        ],
+        "distractor_rationale": [
+          "a bank is beside a river, not something you cross to get over it",
+          "a corner is where two roads meet, not a structure over a river",
+          "a castle is a large historic building, not a crossing over water"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0001",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Paris is the ___ of France and its most famous city.",
+        "correct_answer": "capital",
+        "distractors": [
+          "centre",
+          "community",
+          "countryside"
+        ],
+        "distractor_rationale": [
+          "centre means the middle of a place, not the official seat of government of a country",
+          "community refers to a group of people living together, not the official governmental city of a country",
+          "countryside refers to rural land outside cities, not the main governmental city of a country"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0002",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The old ___ on the hill was built in the twelfth century to protect the town from attacks.",
+        "correct_answer": "castle",
+        "distractors": [
+          "cafe",
+          "cottage",
+          "church"
+        ],
+        "distractor_rationale": [
+          "a cafe is a small place to eat and drink, not a defensive military structure built to protect a town",
+          "a cottage is a small house, not a fortified structure designed to defend against attacks",
+          "a church is a place of worship, not a military building constructed to protect a town from attacks"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0003",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After the long hike, we stopped at a small ___ and ordered hot drinks and sandwiches.",
+        "correct_answer": "cafe",
+        "distractors": [
+          "bank",
+          "castle",
+          "bridge"
+        ],
+        "distractor_rationale": [
+          "a bank is a financial institution where you manage money, not a place where you order food and drinks",
+          "a castle is a historic fortified building, not a place where hikers can order food and drinks",
+          "a bridge is a structure for crossing water or roads, not a place where you sit and order refreshments"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0004",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "They left the noisy ___ behind and moved to a quiet village in the ___ where they could enjoy fresh air and open fields.",
+        "correct_answer": "countryside",
+        "distractors": [
+          "capital",
+          "centre",
+          "community"
+        ],
+        "distractor_rationale": [
+          "a capital is the main governmental city of a country, not a rural area with fields and fresh air",
+          "a centre is the middle of a town or city, not a rural area with open fields",
+          "a community is a group of people, not a physical rural landscape with fields and fresh air"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0005",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The supermarket is just around the ___ from our house, so we walk there every morning.",
+        "correct_answer": "corner",
+        "distractors": [
+          "bridge",
+          "area",
+          "building"
+        ],
+        "distractor_rationale": [
+          "a bridge is a structure over water or a road, not a location marker used with 'just around' to indicate short walking distance",
+          "while 'area' can describe a zone, the fixed phrase 'around the corner' meaning very nearby only works with 'corner'",
+          "a building is a physical structure, not a directional landmark used in the phrase 'just around the ___'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0006",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The tall glass ___ in the city centre has thirty floors and houses several large companies.",
+        "correct_answer": "building",
+        "distractors": [
+          "cottage",
+          "church",
+          "cafe"
+        ],
+        "distractor_rationale": [
+          "a cottage is a small rural house, not a tall glass structure with thirty floors housing companies",
+          "a church is a place of worship, not a tall glass commercial structure with thirty floors",
+          "a cafe is a small place for food and drinks, not a thirty-floor glass structure housing large companies"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0007",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The local ___ organised a clean-up event where residents planted trees and painted the fences along the main street.",
+        "correct_answer": "community",
+        "distractors": [
+          "city",
+          "capital",
+          "countryside"
+        ],
+        "distractor_rationale": [
+          "a city is a large urban area, not an organised group that plans and carries out local resident events",
+          "a capital is the main governmental city of a country, not a group that organises neighbourhood activities",
+          "countryside refers to rural land, not an organised group of residents who plan and carry out local events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0008",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She grew up in a small ___ in the mountains, far from any town, with only a garden and a stream nearby.",
+        "correct_answer": "cottage",
+        "distractors": [
+          "castle",
+          "church",
+          "centre"
+        ],
+        "distractor_rationale": [
+          "a castle is a large fortified historic structure, not a small rural home where an ordinary person grows up",
+          "a church is a place of worship, not a small private residence where someone grows up with a garden",
+          "a centre is the middle of a town or a public facility, not a small isolated private home in the mountains"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0009",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The shopping ___ in the north of the city has a wide range of restaurants, cinemas, and clothing stores all under one roof.",
+        "correct_answer": "centre",
+        "distractors": [
+          "bank",
+          "area",
+          "corner"
+        ],
+        "distractor_rationale": [
+          "a bank is a financial institution, not a large facility containing restaurants, cinemas, and clothing stores under one roof",
+          "an area is a general zone, not a specific named facility that contains restaurants, cinemas, and shops under a single roof",
+          "a corner is a point where two roads meet, not a large enclosed facility housing multiple shops and entertainment venues"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0010",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "We drove over the ___ to get to the other side of the river.",
+        "correct_answer": "bridge",
+        "distractors": [
+          "bank",
+          "corner",
+          "cottage"
+        ],
+        "distractor_rationale": [
+          "a bank is beside a river, not a structure you drive over to cross it",
+          "a corner is where two roads meet, not a crossing over water",
+          "a cottage is a small house, not a structure built over a river"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0011",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The old ___ in the middle of town has a tall bell tower that you can hear every hour.",
+        "correct_answer": "church",
+        "distractors": [
+          "cafe",
+          "castle",
+          "bank"
+        ],
+        "distractor_rationale": [
+          "a cafe is a place to eat and drink, not a building with a bell tower",
+          "a castle is a large defensive fortress, not typically described as being in the middle of an ordinary town with a bell tower",
+          "a bank is a financial building and does not have a bell tower"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0012",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After living in a busy ___ for ten years, Maria decided to move somewhere quieter with open fields and fresh air.",
+        "correct_answer": "city",
+        "distractors": [
+          "cottage",
+          "countryside",
+          "community"
+        ],
+        "distractor_rationale": [
+          "a cottage is a small rural house, which is already quiet — she would not move away from it to find somewhere quieter",
+          "the countryside already has open fields and fresh air, so she would not leave it to find those things",
+          "a community is a group of people, not a place someone lives in for ten years and then leaves for open fields"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0013",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Paris is the ___ of France and is home to millions of people and many famous landmarks.",
+        "correct_answer": "capital",
+        "distractors": [
+          "centre",
+          "area",
+          "country"
+        ],
+        "distractor_rationale": [
+          "centre describes the middle part of a place, not the official seat of government of a nation",
+          "area is a vague geographical term and cannot describe the official status of a city as the seat of government",
+          "country refers to a nation, not to a city within that nation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_cloze_0014",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The tourists climbed to the top of the ancient ___ on the hill to look at the thick stone walls and the old towers that once protected the town from attack.",
+        "correct_answer": "castle",
+        "distractors": [
+          "building",
+          "church",
+          "cottage"
+        ],
+        "distractor_rationale": [
+          "a building is too general and does not specifically have thick stone walls and towers designed to protect a town from attack",
+          "a church has religious functions and does not have defensive towers built to protect a town from attack",
+          "a cottage is a small private house and cannot have thick defensive walls and towers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 30,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_city_places_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ___ is very tall and has fifty floors of offices inside.",
+        "correct_answer": "building",
+        "distractors": [
+          "bridge",
+          "cottage",
+          "castle"
+        ],
+        "distractor_rationale": [
+          "a bridge spans water or roads and does not contain floors of offices",
+          "a cottage is a small rural house, not a tall structure with fifty floors",
+          "a castle is a historical fortress, not a modern office structure with fifty floors"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "We walked across the ___ to get to the other side of the river.",
+        "correct_answer": "bridge",
+        "distractors": [
+          "corner",
+          "centre",
+          "bank"
+        ],
+        "distractor_rationale": [
+          "a corner is where two roads meet, not a structure crossing a river",
+          "a centre is a middle point or facility, not a structure you walk across over water",
+          "a bank is the edge of a river or a financial building, but you do not walk across a bank to cross a river"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria sat down at a small table in the ___ and ordered a coffee and a sandwich.",
+        "correct_answer": "cafe",
+        "distractors": [
+          "church",
+          "castle",
+          "bank"
+        ],
+        "distractor_rationale": [
+          "a church is a place of worship where people do not order coffee and sandwiches",
+          "a castle is a historical fortress, not a place where you sit and order food",
+          "a bank is a financial institution, not a place where you order coffee and sandwiches"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom grew up in a small ___ in the mountains, far from any big town or city.",
+        "correct_answer": "cottage",
+        "distractors": [
+          "capital",
+          "centre",
+          "castle"
+        ],
+        "distractor_rationale": [
+          "a capital is the main city of a country, not a small home in the mountains",
+          "a centre is a facility or the middle of a place, not a small home where someone grows up",
+          "a castle is a large historical fortress, not a small private home in the mountains"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Paris is the ___ of France and is home to millions of people from all over the world.",
+        "correct_answer": "capital",
+        "distractors": [
+          "countryside",
+          "community",
+          "centre"
+        ],
+        "distractor_rationale": [
+          "the countryside refers to rural land outside cities, not the official main city of a country",
+          "a community is a group of people, not the official main city of a country",
+          "a centre is a middle point or facility, not the official governmental and cultural main city of a country"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After living in the city for ten years, Anna moved to the ___ because she wanted fresh air and open fields.",
+        "correct_answer": "countryside",
+        "distractors": [
+          "corner",
+          "centre",
+          "community"
+        ],
+        "distractor_rationale": [
+          "a corner is where two streets meet, not an area of open fields and fresh air outside the city",
+          "a centre is a facility or a middle point of a city, not an open rural area with fields",
+          "a community is a group of people sharing a place, not a physical landscape of open fields and fresh air"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The old ___ at the top of the hill was built in the twelfth century to protect the town from attack.",
+        "correct_answer": "castle",
+        "distractors": [
+          "cafe",
+          "cottage",
+          "church"
+        ],
+        "distractor_rationale": [
+          "a cafe is a small place to eat and drink, not a defensive structure built to protect a town from attack",
+          "a cottage is a small private home, not a large defensive structure built in the twelfth century",
+          "a church is a place of worship, not a defensive military structure built to protect a town from attack"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The local ___ centre organises events every week so that neighbours can meet and support each other.",
+        "correct_answer": "community",
+        "distractors": [
+          "city",
+          "country",
+          "capital"
+        ],
+        "distractor_rationale": [
+          "a city centre is a geographical location, not an organisation that arranges neighbourhood events",
+          "a country centre is not a recognised collocation for a place that organises local neighbourhood events",
+          "a capital centre is not a recognised collocation for a local neighbourhood support organisation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The shopping ___ in the city is very busy on Saturdays, with hundreds of people walking around the main streets.",
+        "correct_answer": "centre",
+        "distractors": [
+          "corner",
+          "area",
+          "bank"
+        ],
+        "distractor_rationale": [
+          "a shopping corner is not a standard collocation for a large busy retail district in a city",
+          "while 'area' can describe a zone, 'shopping area' does not collocate with 'hundreds of people walking around the main streets' as naturally as 'centre', and crucially 'shopping centre' is the fixed collocation for a large organised retail hub",
+          "a shopping bank is not a recognised collocation and makes no sense in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The residential ___ near the park has quiet streets, good schools, and many young families living there.",
+        "correct_answer": "area",
+        "distractors": [
+          "bridge",
+          "bank",
+          "corner"
+        ],
+        "distractor_rationale": [
+          "a residential bridge is not a recognised collocation and a bridge is a structure, not a zone where families live",
+          "a residential bank is not a recognised collocation; a bank is a financial institution or a riverside edge, not a neighbourhood zone",
+          "a residential corner describes only a single junction point, not a whole neighbourhood with schools and families"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_city_places_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_word_formation_0000",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The old ___ in the town square is very beautiful. (BUILD)",
+        "correct_answer": "building",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BUILD"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_city_places_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_word_formation_0001",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "We live in a small ___ village far from the nearest city. (COUNTRY)",
+        "correct_answer": "countryside",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COUNTRY"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_city_places_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_word_formation_0002",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The new shopping ___ opened last month and it has over fifty shops inside. (CENTRE)",
+        "correct_answer": "central",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CENTRE"
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_city_places_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_word_formation_0003",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The local ___ group organised a clean-up event in the park last weekend to help everyone. (COMMUNITY)",
+        "correct_answer": "community",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COMMUNITY"
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_city_places_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_city_places_word_formation_0004",
+      "skill_ids": [
+        "vocab_city_places"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ area of the city attracts thousands of tourists every year because of its historic churches and castles. (CAPITAL)",
+        "correct_answer": "capital",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CAPITAL"
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:02:04.130359+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_city_places_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

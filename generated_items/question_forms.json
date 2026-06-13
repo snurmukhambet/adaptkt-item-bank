@@ -1,0 +1,1863 @@
+{
+  "skill_id": "question_forms",
+  "skill_name": "Question Forms (Wh-/Tag/Negative)",
+  "exercises": [
+    {
+      "id": "ex_question_forms_cloze_0000",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ your brother work in a hospital?",
+        "correct_answer": "Does",
+        "distractors": [
+          "Is",
+          "Do",
+          "Has"
+        ],
+        "distractor_rationale": [
+          "'Is' forms a question with 'be', but 'work' is a main verb requiring 'do/does'",
+          "'Do' is used with I/you/we/they, not with 'your brother' (third person singular)",
+          "'Has' forms a present perfect question, but the sentence describes a current routine fact"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0001",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ she at home when you called her last night?",
+        "correct_answer": "Was",
+        "distractors": [
+          "Did",
+          "Is",
+          "Were"
+        ],
+        "distractor_rationale": [
+          "'Did' requires a main verb infinitive after it, but 'at home' is a prepositional phrase with no main verb",
+          "'Is' is present tense and cannot refer to a completed past event",
+          "'Were' is used with plural subjects or 'you', not with 'she' (third person singular)"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0002",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Where ___ you buy those shoes? They look great!",
+        "correct_answer": "did",
+        "distractors": [
+          "do",
+          "were",
+          "have"
+        ],
+        "distractor_rationale": [
+          "'do' is present tense and cannot refer to a completed past purchase already made",
+          "'were' forms a past question with 'be', but 'buy' is a main verb requiring 'did'",
+          "'have' would form a present perfect question, but the context ('those shoes' already purchased) points to a specific completed past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0003",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How long ___ it take you to walk to the station every morning?",
+        "correct_answer": "does",
+        "distractors": [
+          "did",
+          "is",
+          "do"
+        ],
+        "distractor_rationale": [
+          "'did' is past tense and contradicts 'every morning', which signals a current routine",
+          "'is' forms a question with 'be', but 'take' is a main verb requiring 'do/does'",
+          "'do' is used with I/you/we/they, but 'it' (third person singular) requires 'does'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0004",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The meeting starts at nine o'clock, ___?",
+        "correct_answer": "doesn't it",
+        "distractors": [
+          "isn't it",
+          "does it",
+          "don't it"
+        ],
+        "distractor_rationale": [
+          "'isn't it' is a tag for sentences with 'be' as the main verb, but 'starts' is a main verb requiring 'do/does'",
+          "'does it' is a positive tag after a positive statement, which is incorrect — the tag must be negative",
+          "'don't it' uses the wrong auxiliary form; 'it' (third person singular) requires 'doesn't', not 'don't'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0005",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Who ___ the broken window in the classroom this morning?",
+        "correct_answer": "broke",
+        "distractors": [
+          "did break",
+          "does break",
+          "breaking"
+        ],
+        "distractor_rationale": [
+          "'did break' is used when 'who' is the object of the question, but here 'who' is the subject, so no auxiliary is needed",
+          "'does break' is present tense and contradicts 'this morning', which refers to a completed past event",
+          "'breaking' is a participle and cannot function as the finite verb in a main clause without an auxiliary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0006",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You haven't sent the report to the manager yet, ___ you?",
+        "correct_answer": "have",
+        "distractors": [
+          "haven't",
+          "didn't",
+          "don't"
+        ],
+        "distractor_rationale": [
+          "'haven't' would create a negative tag after a negative statement, which is grammatically incorrect — the tag must be positive",
+          "'didn't' uses the wrong tense; the main clause uses present perfect ('haven't sent'), so the tag must also use present perfect auxiliary 'have'",
+          "'don't' uses the wrong auxiliary; the main clause uses present perfect, not simple present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0007",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the children been told about the change to tomorrow's school schedule yet?",
+        "correct_answer": "Have",
+        "distractors": [
+          "Did",
+          "Were",
+          "Are"
+        ],
+        "distractor_rationale": [
+          "'Did' requires a bare infinitive after it, but 'been told' is a past participle passive construction requiring 'have'",
+          "'Were' forms a past simple passive question ('were told'), but the time marker 'yet' signals present perfect",
+          "'Are' forms a present continuous or simple passive question ('are told'), which cannot combine with 'been' in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0008",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the technician fix the problem before the office opened on Monday?",
+        "correct_answer": "Had",
+        "distractors": [
+          "Did",
+          "Was",
+          "Has"
+        ],
+        "distractor_rationale": [
+          "'Did' forms a past simple question, but the phrase 'before the office opened' establishes a sequence of two past events, requiring past perfect for the earlier action",
+          "'Was' forms a past continuous or passive question and cannot combine with the bare infinitive 'fix' in this structure",
+          "'Has' forms a present perfect question, which cannot refer to a completed sequence of events both in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0009",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara has been working here for three years, ___ she?",
+        "correct_answer": "hasn't",
+        "distractors": [
+          "has",
+          "isn't",
+          "doesn't"
+        ],
+        "distractor_rationale": [
+          "'has' would create a positive tag after a positive statement, which is grammatically incorrect — the tag must be negative",
+          "'isn't' uses the wrong auxiliary; the main clause uses present perfect continuous ('has been working'), so the tag must use 'has/hasn't'",
+          "'doesn't' uses the wrong auxiliary; the main clause uses present perfect continuous, not simple present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0010",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ your brother work at the supermarket on weekends?",
+        "correct_answer": "Does",
+        "distractors": [
+          "Is",
+          "Do",
+          "Has"
+        ],
+        "distractor_rationale": [
+          "'Is' forms a be-question, but 'work' is a main verb requiring do-support, not be",
+          "'Do' is the plural auxiliary and cannot be used with the third-person singular subject 'your brother'",
+          "'Has' forms a perfect question, but the sentence describes a habitual present routine, not a completed action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0011",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Where ___ Maria buy her new shoes last Saturday?",
+        "correct_answer": "did",
+        "distractors": [
+          "does",
+          "was",
+          "has"
+        ],
+        "distractor_rationale": [
+          "'does' is a present-tense auxiliary and cannot be used with the past time marker 'last Saturday'",
+          "'was' forms a be-question, but 'buy' is a main verb that requires do-support in past questions",
+          "'has' forms a present perfect question, which is incompatible with the specific past time marker 'last Saturday'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0012",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom finished all his homework before dinner, ___ he?",
+        "correct_answer": "didn't",
+        "distractors": [
+          "did",
+          "wasn't",
+          "hasn't"
+        ],
+        "distractor_rationale": [
+          "'did' would create a same-polarity tag, but a positive statement requires a negative tag to seek confirmation",
+          "'wasn't' uses the wrong auxiliary — the main clause uses 'finished', which requires 'did/didn't', not 'was/wasn't'",
+          "'hasn't' uses the present perfect auxiliary, but the main clause is in the past simple, so the tag must match with 'did/didn't'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0013",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How long ___ Anna been waiting at the bus stop when it finally arrived?",
+        "correct_answer": "had",
+        "distractors": [
+          "has",
+          "was",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'has' forms a present perfect question, but 'when it finally arrived' anchors the situation in the past, requiring past perfect",
+          "'was' would begin a past continuous question, which cannot collocate with 'been waiting' in this structure — 'was been' is ungrammatical",
+          "'did' requires a base-form verb immediately after, but 'been waiting' is a past participle plus gerund, not a base form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_cloze_0014",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new café on the high street ___ open yet, is it? I heard the owners are still waiting for their licence.",
+        "correct_answer": "isn't",
+        "distractors": [
+          "is",
+          "doesn't",
+          "wasn't"
+        ],
+        "distractor_rationale": [
+          "'is' would create a positive tag after a negative statement, but the main clause here is negative ('isn't open'), so the tag must be positive — 'is it' is already provided, making the main clause blank require the negative form 'isn't'",
+          "'doesn't' uses do-support, but 'open' here is a subject complement used with the verb 'be', not a main verb requiring do-support",
+          "'wasn't' is past tense, but the context ('are still waiting') confirms the situation is present, requiring present tense 'isn't'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "question_forms_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0000",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Where ___ your brother work every day?",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "is",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'do' is used with I/you/we/they, not with third-person singular 'your brother'",
+          "'is' uses the verb 'be' as auxiliary, but 'work' is a main verb requiring do/does",
+          "'did' signals past tense, but 'every day' indicates a present habitual situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0001",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria is tired today, ___ she?",
+        "correct_answer": "isn't",
+        "distractors": [
+          "is",
+          "doesn't",
+          "wasn't"
+        ],
+        "distractor_rationale": [
+          "a positive statement requires a negative tag, so 'is' produces an incorrect positive tag",
+          "'doesn't' uses the auxiliary 'do', but the main verb is 'be', so the tag must also use 'be'",
+          "'wasn't' uses past tense, but the statement verb 'is' is present tense, so the tag must match"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0002",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ Tom arrive at the station yesterday morning?",
+        "correct_answer": "Did",
+        "distractors": [
+          "Does",
+          "Was",
+          "Do"
+        ],
+        "distractor_rationale": [
+          "'Does' is present tense, but 'yesterday morning' requires past tense auxiliary 'did'",
+          "'Was' is used with the verb 'be' or continuous forms, not with the base verb 'arrive'",
+          "'Do' is present tense and used with I/you/we/they, not for past yes/no questions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0003",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "How long ___ Anna been studying at this school?",
+        "correct_answer": "has",
+        "distractors": [
+          "does",
+          "is",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'does' forms a present simple question, but 'been studying' requires the present perfect auxiliary 'has'",
+          "'is' forms a present continuous question, which cannot combine with 'been studying' in a present perfect structure",
+          "'did' forms a past simple question and cannot be used with 'been studying' in a present perfect context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0004",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You haven't met our new manager yet, ___ you?",
+        "correct_answer": "have",
+        "distractors": [
+          "haven't",
+          "don't",
+          "had"
+        ],
+        "distractor_rationale": [
+          "'haven't' produces a negative tag after a negative statement, which is incorrect — a negative statement requires a positive tag",
+          "'don't' uses the auxiliary 'do', but the statement uses 'have' as auxiliary, so the tag must also use 'have'",
+          "'had' uses past perfect tense, but the statement verb 'haven't met' is present perfect, so the tag must match"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0005",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "What time ___ the last bus leave the city centre on Sundays?",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "did",
+          "is"
+        ],
+        "distractor_rationale": [
+          "'do' is used with I/you/we/they, but 'the last bus' is third-person singular and requires 'does'",
+          "'did' signals past tense, but the question asks about a regular Sunday schedule, which is present habitual",
+          "'is' uses the verb 'be' as auxiliary, but 'leave' is a main verb requiring the auxiliary 'do/does'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0006",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ doesn't James want to join the team for the project?",
+        "correct_answer": "Why",
+        "distractors": [
+          "What",
+          "Where",
+          "How"
+        ],
+        "distractor_rationale": [
+          "'What' asks about a thing or action, but the sentence asks for a reason, which requires 'Why'",
+          "'Where' asks about a place, but the sentence is asking for a reason, which requires 'Why'",
+          "'How' asks about manner or method, but the sentence is asking for a reason, which requires 'Why'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0007",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new café on the corner opens at eight, ___ it?",
+        "correct_answer": "doesn't",
+        "distractors": [
+          "does",
+          "isn't",
+          "don't"
+        ],
+        "distractor_rationale": [
+          "'does' produces a positive tag after a positive statement, which violates the rule that positive statements require negative tags",
+          "'isn't' uses the verb 'be', but the statement uses 'opens', a main verb requiring the auxiliary 'do/does' in the tag",
+          "'don't' uses the plural/first-person form of 'do', but 'the café' is third-person singular, requiring 'doesn't'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0008",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ it take you to walk from your flat to the nearest supermarket?",
+        "correct_answer": "How long does",
+        "distractors": [
+          "How long do",
+          "How much does",
+          "How long is"
+        ],
+        "distractor_rationale": [
+          "'How long do' uses the plural/first-person auxiliary, but 'it' is third-person singular and requires 'does'",
+          "'How much does' asks about quantity or price, not duration of time, which requires 'How long'",
+          "'How long is' uses 'be' as auxiliary, but 'take' is a main verb that requires the auxiliary 'does' in this question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_multiple_choice_0009",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ they told you about the change to the meeting schedule before you arrived at the office?",
+        "correct_answer": "Hadn't",
+        "distractors": [
+          "Didn't",
+          "Haven't",
+          "Weren't"
+        ],
+        "distractor_rationale": [
+          "'Didn't' forms a negative past simple question, but 'told' here follows 'before you arrived', indicating an action completed before another past event, which requires past perfect 'hadn't'",
+          "'Haven't' forms a negative present perfect question, but the event is clearly set in the past relative to another past action ('before you arrived'), requiring past perfect 'hadn't'",
+          "'Weren't' uses the verb 'be', but 'told' here is the main verb requiring the past perfect auxiliary 'had', not 'be'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "question_forms_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0000",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Where you live now?",
+        "correct_answer": "Where do you live",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Where you live now?",
+        "corrected_sentence": "Where do you live now?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 4,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0001",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Does your brother be at home in the evenings?",
+        "correct_answer": "Is your brother",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Does your brother be at home in the evenings?",
+        "corrected_sentence": "Is your brother at home in the evenings?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0002",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "What time the train leaves tomorrow morning?",
+        "correct_answer": "does the train leave",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "What time the train leaves tomorrow morning?",
+        "corrected_sentence": "What time does the train leave tomorrow morning?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0003",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Where did she goes after the meeting yesterday afternoon?",
+        "correct_answer": "go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Where did she goes after the meeting yesterday afternoon?",
+        "corrected_sentence": "Where did she go after the meeting yesterday afternoon?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0004",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She finished all her homework before dinner, didn't she?",
+        "correct_answer": "didn't she",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She finished all her homework before dinner, did she?",
+        "corrected_sentence": "She finished all her homework before dinner, didn't she?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0005",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "How long does it takes to drive from the city centre to the airport?",
+        "correct_answer": "take",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "How long does it takes to drive from the city centre to the airport?",
+        "corrected_sentence": "How long does it take to drive from the city centre to the airport?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0006",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They haven't received the delivery yet, have they?",
+        "correct_answer": "have they",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They haven't received the delivery yet, haven't they?",
+        "corrected_sentence": "They haven't received the delivery yet, have they?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_question_forms_error_correction_0007",
+      "skill_ids": [
+        "question_forms"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Didn't the manager told the team about the schedule change before the weekend?",
+        "correct_answer": "tell",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Didn't the manager told the team about the schedule change before the weekend?",
+        "corrected_sentence": "Didn't the manager tell the team about the schedule change before the weekend?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:07:30.788738+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "question_forms_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

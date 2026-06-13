@@ -1,0 +1,1863 @@
+{
+  "skill_id": "comparatives",
+  "skill_name": "Comparatives",
+  "exercises": [
+    {
+      "id": "ex_comparatives_cloze_0000",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My bag is ___ than yours — it has three heavy books inside.",
+        "correct_answer": "heavier",
+        "distractors": [
+          "more heavy",
+          "more heavier",
+          "heaviest"
+        ],
+        "distractor_rationale": [
+          "one-syllable adjectives form the comparative with -er, not 'more'",
+          "double comparative is always wrong — never use 'more' with an -er form",
+          "superlative 'heaviest' compares more than two items; here only two bags are compared"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0001",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom's handwriting is ___ than his sister's — you can read every letter clearly.",
+        "correct_answer": "neater",
+        "distractors": [
+          "more neat",
+          "more neater",
+          "the neatest"
+        ],
+        "distractor_rationale": [
+          "one-syllable adjectives take -er for the comparative, not 'more'",
+          "double comparative combining 'more' and '-er' is always incorrect",
+          "superlative form is used for three or more items, not a two-way comparison"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0002",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The weather today is ___ than it was yesterday, so we decided to go for a walk.",
+        "correct_answer": "better",
+        "distractors": [
+          "more good",
+          "gooder",
+          "best"
+        ],
+        "distractor_rationale": [
+          "'good' has an irregular comparative form; 'more good' is a common but incorrect construction",
+          "'gooder' is not a real English word; 'good' does not take the -er suffix",
+          "'best' is the superlative of 'good' and cannot be used in a two-item comparison with 'than'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0003",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new apartment is ___ expensive ___ the old one, but it is much closer to the office.",
+        "correct_answer": "less expensive than",
+        "distractors": [
+          "less expensive that",
+          "fewer expensive than",
+          "not as expensive that"
+        ],
+        "distractor_rationale": [
+          "'that' cannot follow a comparative adjective; the correct conjunction is 'than'",
+          "'fewer' is used with countable nouns, not adjectives like 'expensive'",
+          "'not as expensive that' is grammatically incorrect; the correct structure is 'not as … as'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0004",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara speaks English ___ fluently ___ her brother, even though he studied abroad for a year.",
+        "correct_answer": "as fluently as",
+        "distractors": [
+          "more fluently that",
+          "as fluently that",
+          "most fluently as"
+        ],
+        "distractor_rationale": [
+          "'more fluently that' uses the wrong conjunction 'that' instead of 'than' after a comparative",
+          "'as fluently that' uses the wrong conjunction; the as…as structure requires 'as' on both sides",
+          "'most fluently' is a superlative adverb and cannot be used in an equality comparison with 'as'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0005",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The second test was ___ than the first one, so many students felt relieved when they saw their results.",
+        "correct_answer": "easier",
+        "distractors": [
+          "more easy",
+          "more easier",
+          "easiest"
+        ],
+        "distractor_rationale": [
+          "two-syllable adjectives ending in -y drop the -y and add -er, not 'more'",
+          "double comparative mixing 'more' and '-er' is always ungrammatical",
+          "superlative 'easiest' cannot be used with 'than' in a two-item comparison"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0006",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The traffic on the main road was ___ than usual this morning, so James arrived at the meeting late.",
+        "correct_answer": "worse",
+        "distractors": [
+          "more bad",
+          "more worse",
+          "worst"
+        ],
+        "distractor_rationale": [
+          "'bad' has an irregular comparative; 'more bad' is a frequent learner error but is always incorrect",
+          "double comparative 'more worse' combines 'more' with the already comparative form 'worse', which is ungrammatical",
+          "'worst' is the superlative of 'bad' and requires no 'than' in a two-item comparison"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0007",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ carefully you read the instructions before assembling the furniture, ___ mistakes you will make.",
+        "correct_answer": "The more carefully … the fewer",
+        "distractors": [
+          "More carefully … fewer",
+          "The more carefully … the less",
+          "The most carefully … the fewest"
+        ],
+        "distractor_rationale": [
+          "the double comparative structure requires 'the' before each comparative element; omitting 'the' breaks the construction",
+          "'the less' is used with uncountable nouns or adjectives, but 'mistakes' is a countable noun requiring 'fewer'",
+          "superlative forms 'most' and 'fewest' cannot be used in the the more…the more double comparative structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0008",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ time you spend practising the piano each day, ___ progress you will notice at your weekly lesson.",
+        "correct_answer": "The more … the more",
+        "distractors": [
+          "More … more",
+          "The most … the most",
+          "The more … the much more"
+        ],
+        "distractor_rationale": [
+          "the double comparative structure requires the definite article 'the' before each comparative; omitting it produces an ungrammatical result",
+          "superlative forms cannot be used in the double comparative the more…the more structure",
+          "'the much more' is ungrammatical; 'much' can modify a comparative but cannot combine with 'the more' in this fixed structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0009",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new software updates the database ___ quickly ___ the old system did, which saves the team a lot of time every day.",
+        "correct_answer": "twice as quickly as",
+        "distractors": [
+          "twice more quickly than",
+          "twice as quickly that",
+          "two times more quickly as"
+        ],
+        "distractor_rationale": [
+          "multiplier comparisons use 'as…as', not 'more…than'; 'twice more quickly than' is a common but incorrect blend of two different structures",
+          "'that' cannot replace the second 'as' in an as…as equality structure; the conjunction is always 'as'",
+          "'two times more quickly as' incorrectly mixes the multiplier 'more…than' pattern with the 'as' conjunction, producing an ungrammatical hybrid"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0010",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My bag is ___ than yours — I can barely lift it!",
+        "correct_answer": "heavier",
+        "distractors": [
+          "more heavy",
+          "more heavier",
+          "heaviest"
+        ],
+        "distractor_rationale": [
+          "one-syllable adjectives ending in a consonant take -er, not 'more'; 'more heavy' is a double-marking error",
+          "'more heavier' is a double comparative error combining both -er and more simultaneously",
+          "'heaviest' is the superlative used for three or more items, not a comparison between two things"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0011",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The soup today tastes ___ than the soup we had last week.",
+        "correct_answer": "better",
+        "distractors": [
+          "more good",
+          "gooder",
+          "best"
+        ],
+        "distractor_rationale": [
+          "'more good' uses the wrong irregular comparative; 'good' has the irregular form 'better'",
+          "'gooder' is a non-existent form; 'good' does not take the regular -er ending",
+          "'best' is the superlative of 'good' and is used when comparing three or more items, not two"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0012",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new office building is ___ modern ___ the old one near the train station.",
+        "correct_answer": "more / than",
+        "distractors": [
+          "more / that",
+          "most / than",
+          "as / than"
+        ],
+        "distractor_rationale": [
+          "'that' is a conjunction used in relative clauses and reported speech, not after comparatives; the correct word is 'than'",
+          "'most' forms the superlative and requires 'the most … of all', not a two-item comparison with 'than'",
+          "'as … than' is a mixed construction; the correct paired structure is either 'as … as' for equality or 'more … than' for superiority"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0013",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James finished the report ___ quickly as his colleague, so they both left the office at the same time.",
+        "correct_answer": "as",
+        "distractors": [
+          "more",
+          "than",
+          "less"
+        ],
+        "distractor_rationale": [
+          "'more quickly' requires 'than' to complete the comparison and signals superiority, but the second clause confirms equal speed, making superiority impossible",
+          "'than' must follow a comparative form such as 'more quickly'; it cannot directly follow 'quickly' alone to express equality",
+          "'less quickly … as' is not a grammatical construction; 'less' requires 'than', and the equal-time result in the second clause contradicts inferiority"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_cloze_0014",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ more time you spend practising your pronunciation every day, ___ more confident you will feel when speaking to native speakers.",
+        "correct_answer": "The / the",
+        "distractors": [
+          "A / a",
+          "More / more",
+          "The / a"
+        ],
+        "distractor_rationale": [
+          "'A … a' does not form the double comparative structure; the fixed pattern requires the definite article 'the' before each comparative clause",
+          "'More … more' without 'the' breaks the grammatical pattern; the double comparative in English requires 'the more … the more', not bare 'more … more'",
+          "'The … a' uses an inconsistent article pairing; both clauses in the double comparative must begin with 'the' to form a parallel, grammatically correct structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "comparatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0000",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My bag is ___ than yours.",
+        "correct_answer": "heavier",
+        "distractors": [
+          "more heavy",
+          "heaviest",
+          "more heavier"
+        ],
+        "distractor_rationale": [
+          "one-syllable and two-syllable adjectives ending in -y take -er, not 'more'",
+          "'heaviest' is the superlative form, used for three or more items, not for comparing two",
+          "double comparative combining 'more' and '-er' is a common learner error — only one form is correct"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0001",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom runs ___ than his brother does.",
+        "correct_answer": "faster",
+        "distractors": [
+          "more fast",
+          "fastest",
+          "more faster"
+        ],
+        "distractor_rationale": [
+          "'fast' is a one-syllable adverb that takes -er, not 'more'",
+          "'fastest' is the superlative, used when comparing three or more, not two people",
+          "double comparative 'more faster' combines both forms incorrectly — only one is used"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0002",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "This coffee is ___ than the one I had this morning.",
+        "correct_answer": "better",
+        "distractors": [
+          "more good",
+          "gooder",
+          "best"
+        ],
+        "distractor_rationale": [
+          "'more good' is a common error — 'good' has the irregular comparative form 'better'",
+          "'gooder' applies a regular -er ending to an irregular adjective, which is incorrect",
+          "'best' is the superlative of 'good' and cannot be used when comparing just two things"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0003",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new apartment is more expensive ___ the old one, but it has a much bigger kitchen.",
+        "correct_answer": "than",
+        "distractors": [
+          "that",
+          "as",
+          "from"
+        ],
+        "distractor_rationale": [
+          "'that' is a very common learner error — the correct conjunction after a comparative is 'than', not 'that'",
+          "'as' is used in 'as…as' equality structures, not after a comparative adjective",
+          "'from' is used in 'different from', not after comparative adjectives"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0004",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna speaks English ___ as her classmate, so they were placed in the same group.",
+        "correct_answer": "as fluently",
+        "distractors": [
+          "more fluently",
+          "fluently than",
+          "the most fluently"
+        ],
+        "distractor_rationale": [
+          "'more fluently' signals a difference in ability, but the sentence says they were placed in the same group, indicating equal ability",
+          "'fluently than' is the structure for inequality comparatives, which contradicts the equal placement context",
+          "'the most fluently' is a superlative adverb form used for three or more, not for expressing equality between two"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0005",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The second film in the series was ___ than the first one — I nearly fell asleep.",
+        "correct_answer": "less exciting",
+        "distractors": [
+          "more boring than",
+          "the least exciting",
+          "fewer exciting"
+        ],
+        "distractor_rationale": [
+          "'more boring than' includes an extra 'than' making the sentence grammatically incorrect in this position",
+          "'the least exciting' is a superlative used for three or more items, not a comparison of two films",
+          "'fewer' is used with countable nouns, not with adjectives; 'less' is the correct comparative form here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0006",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The weather today is ___ than it was yesterday, so we decided to go for a walk in the park.",
+        "correct_answer": "warmer",
+        "distractors": [
+          "more warm",
+          "most warm",
+          "more warmer"
+        ],
+        "distractor_rationale": [
+          "'more warm' incorrectly uses 'more' with a short one-syllable adjective that takes -er",
+          "'most warm' is a superlative form used for three or more comparisons, not two days",
+          "'more warmer' is a double comparative error combining both 'more' and '-er' on the same adjective"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0007",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ you practise speaking a foreign language, ___ you become at using it naturally.",
+        "correct_answer": "The more…the better",
+        "distractors": [
+          "More…more",
+          "The most…the best",
+          "As more…as better"
+        ],
+        "distractor_rationale": [
+          "'More…more' omits the required definite article 'the' before each comparative in the double comparative structure",
+          "'The most…the best' incorrectly uses superlative forms in the double comparative structure, which requires comparative forms",
+          "'As more…as better' confuses the 'as…as' equality structure with the double comparative and combines them incorrectly"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0008",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David said the second route through the mountains was ___ than the first, so we chose it to save time.",
+        "correct_answer": "less dangerous",
+        "distractors": [
+          "more safe",
+          "lesser dangerous",
+          "fewer dangerous"
+        ],
+        "distractor_rationale": [
+          "'more safe' is not wrong in isolation, but the sentence context — saving time by choosing the quicker route — implies the speaker is framing it as reducing danger, and 'more safe' would require 'safer'; more critically, 'more safe' is unnatural compared to 'safer' or 'less dangerous' in standard usage here",
+          "'lesser dangerous' misuses 'lesser', which is a fixed adjective meaning 'of smaller importance' and cannot be used as a comparative adverb modifying another adjective",
+          "'fewer dangerous' incorrectly uses 'fewer', which modifies countable nouns, not adjectives"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_multiple_choice_0009",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ the team trained together, ___ their performance became during the final weeks of the season.",
+        "correct_answer": "The more…the more consistent",
+        "distractors": [
+          "The more…the most consistent",
+          "More…more consistent",
+          "The more…as consistent"
+        ],
+        "distractor_rationale": [
+          "'the most consistent' uses a superlative in the second clause, but double comparatives require comparative forms in both clauses",
+          "omitting 'the' before both comparatives breaks the fixed 'the more…the more' double comparative structure",
+          "'as consistent' belongs to the 'as…as' equality structure and cannot replace the second comparative in a double comparative pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "comparatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0000",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My bag is more heavy that your bag.",
+        "correct_answer": "than",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My bag is more heavy that your bag.",
+        "corrected_sentence": "My bag is more heavy than your bag.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0001",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "This coffee is more good than the one I had yesterday.",
+        "correct_answer": "better",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "This coffee is more good than the one I had yesterday.",
+        "corrected_sentence": "This coffee is better than the one I had yesterday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0002",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new sports centre is more bigger than the old one in the town centre.",
+        "correct_answer": "bigger",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new sports centre is more bigger than the old one in the town centre.",
+        "corrected_sentence": "The new sports centre is bigger than the old one in the town centre.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0003",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara's results in the maths test were more bad than her results last term.",
+        "correct_answer": "worse",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara's results in the maths test were more bad than her results last term.",
+        "corrected_sentence": "Sara's results in the maths test were worse than her results last term.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0004",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The journey by train is not as quickly as the journey by plane, but it is much cheaper.",
+        "correct_answer": "quick",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The journey by train is not as quickly as the journey by plane, but it is much cheaper.",
+        "corrected_sentence": "The journey by train is not as quick as the journey by plane, but it is much cheaper.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0005",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Between the two apartments, the one near the park is the most affordable.",
+        "correct_answer": "more affordable",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Between the two apartments, the one near the park is the most affordable.",
+        "corrected_sentence": "Between the two apartments, the one near the park is more affordable.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0006",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The more faster you drive on wet roads, the more dangerous your journey becomes.",
+        "correct_answer": "faster",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The more faster you drive on wet roads, the more dangerous your journey becomes.",
+        "corrected_sentence": "The faster you drive on wet roads, the more dangerous your journey becomes.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_comparatives_error_correction_0007",
+      "skill_ids": [
+        "comparatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The more time David spent practising the piano, the more better his performances became at the school concerts.",
+        "correct_answer": "the better",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The more time David spent practising the piano, the more better his performances became at the school concerts.",
+        "corrected_sentence": "The more time David spent practising the piano, the better his performances became at the school concerts.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:37:29.318552+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "comparatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

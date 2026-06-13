@@ -1,0 +1,1863 @@
+{
+  "skill_id": "past_simple",
+  "skill_name": "Past Simple",
+  "exercises": [
+    {
+      "id": "ex_past_simple_cloze_0000",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (eat) a big sandwich for lunch yesterday.",
+        "correct_answer": "ate",
+        "distractors": [
+          "eats",
+          "eaten",
+          "eatted"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action in the past with 'yesterday'",
+          "past participle alone cannot form a simple past statement without an auxiliary",
+          "invented regular form; 'eat' is irregular and its past simple is 'ate', not 'eatted'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0001",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (walk) to school last Monday.",
+        "correct_answer": "walked",
+        "distractors": [
+          "walks",
+          "walking",
+          "walk"
+        ],
+        "distractor_rationale": [
+          "present simple cannot refer to a completed action with 'last Monday'",
+          "present participle alone cannot form a past tense statement",
+          "base form cannot be used as a past simple without an auxiliary verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0002",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (buy) a new bag at the market last weekend.",
+        "correct_answer": "bought",
+        "distractors": [
+          "buyed",
+          "buys",
+          "is buying"
+        ],
+        "distractor_rationale": [
+          "incorrect regular form; 'buy' is irregular and its past simple is 'bought', not 'buyed'",
+          "present simple cannot describe a completed action with 'last weekend'",
+          "present continuous cannot describe a completed single action in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0003",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James ___ (not / go) to the party last night because he felt very tired.",
+        "correct_answer": "didn't go",
+        "distractors": [
+          "didn't went",
+          "doesn't go",
+          "not went"
+        ],
+        "distractor_rationale": [
+          "double past marking is incorrect; after 'didn't' the verb must stay in the base form",
+          "present tense auxiliary 'doesn't' cannot describe a past event with 'last night'",
+          "negation without an auxiliary verb is not grammatically possible in English past simple"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0004",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara ___ (finish) all her homework two hours ago and then watched TV.",
+        "correct_answer": "finished",
+        "distractors": [
+          "finish",
+          "finishes",
+          "has finished"
+        ],
+        "distractor_rationale": [
+          "base form cannot be used as a past simple; a regular verb needs the -ed ending",
+          "present simple cannot describe a completed action with 'two hours ago'",
+          "present perfect cannot be used with the specific past time marker 'two hours ago'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0005",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ David (call) his mother last night after he got home from work?",
+        "correct_answer": "Did David call",
+        "distractors": [
+          "Called David",
+          "Does David call",
+          "Was David call"
+        ],
+        "distractor_rationale": [
+          "inverting the main verb without 'did' is not grammatically correct in past simple questions",
+          "present tense auxiliary 'does' cannot form a past simple question with 'last night'",
+          "'was' is used for past continuous questions, not past simple questions with action verbs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0006",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (see) a really good film at the cinema last Saturday.",
+        "correct_answer": "saw",
+        "distractors": [
+          "seed",
+          "seen",
+          "see"
+        ],
+        "distractor_rationale": [
+          "invented regular form; 'see' is irregular and its past simple is 'saw', not 'seed'",
+          "past participle alone cannot form a past simple statement without an auxiliary",
+          "base form cannot be used as a past simple for an irregular verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0007",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa ___ (not / clean) her room yesterday, so her mother was very unhappy.",
+        "correct_answer": "didn't clean",
+        "distractors": [
+          "didn't cleaned",
+          "not cleaned",
+          "doesn't clean"
+        ],
+        "distractor_rationale": [
+          "double past marking is incorrect; after 'didn't' the verb must remain in the base form",
+          "negation without the auxiliary 'did' is not grammatically possible in English past simple",
+          "present tense auxiliary 'doesn't' cannot describe a past situation with 'yesterday'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0008",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark ___ (think) the test was easy, so he handed in his paper after only ten minutes.",
+        "correct_answer": "thought",
+        "distractors": [
+          "thinked",
+          "thinks",
+          "is thinking"
+        ],
+        "distractor_rationale": [
+          "incorrect regular form; 'think' is irregular and its past simple is 'thought', not 'thinked'",
+          "present simple cannot describe a completed mental state during a past event",
+          "present continuous cannot describe a completed thought at a specific past moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0009",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (play) outside for an hour, but then it started to rain heavily.",
+        "correct_answer": "played",
+        "distractors": [
+          "play",
+          "were playing",
+          "have played"
+        ],
+        "distractor_rationale": [
+          "base form cannot be used as a past simple; a regular verb needs the -ed ending",
+          "past continuous describes an action that was interrupted, but the sentence presents two completed sequential events, not an interruption",
+          "present perfect cannot be used with a specific completed past time frame indicated by the sequence of events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0010",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (walk) to school yesterday because the bus was late.",
+        "correct_answer": "walked",
+        "distractors": [
+          "walks",
+          "walk",
+          "walking"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action that happened yesterday",
+          "bare infinitive without auxiliary is not a valid finite verb form here",
+          "present participle alone cannot function as a main verb in a past statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0011",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (not / have) any food at home last night, so we ordered a pizza.",
+        "correct_answer": "didn't have",
+        "distractors": [
+          "don't have",
+          "didn't had",
+          "not had"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a completed past state from last night",
+          "double past marking is incorrect — 'didn't' already marks the past; the main verb must stay in its base form",
+          "negation without an auxiliary is not grammatically possible in standard English past simple"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0012",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (buy) a new jacket at the market last Saturday.",
+        "correct_answer": "bought",
+        "distractors": [
+          "buyed",
+          "buys",
+          "has bought"
+        ],
+        "distractor_rationale": [
+          "buy is an irregular verb — adding -ed is a common learner error that produces a non-existent form",
+          "present simple cannot describe a single completed purchase that happened last Saturday",
+          "present perfect cannot be used with the specific past time marker 'last Saturday'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0013",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark ___ (think) the exam was easy, so he finished it thirty minutes early.",
+        "correct_answer": "thought",
+        "distractors": [
+          "thinked",
+          "thinks",
+          "was thinking"
+        ],
+        "distractor_rationale": [
+          "think is an irregular verb — adding -ed produces a non-existent form that learners commonly over-apply",
+          "present simple cannot describe a completed mental state during a past event",
+          "past continuous implies an ongoing interrupted action, but the sentence describes a completed assessment followed by a finished result, not an interruption"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_cloze_0014",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa ___ (not / go) to the party last weekend because she felt very tired.",
+        "correct_answer": "didn't go",
+        "distractors": [
+          "didn't went",
+          "doesn't go",
+          "not went"
+        ],
+        "distractor_rationale": [
+          "double past marking is incorrect — 'didn't' already carries the past tense; the main verb must remain in its base form, not the irregular past form",
+          "present simple cannot express a completed decision that took place last weekend",
+          "negation without the auxiliary 'did' is not grammatically acceptable in English past simple negative constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_simple_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0000",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ his lunch at noon yesterday.",
+        "correct_answer": "ate",
+        "distractors": [
+          "eats",
+          "eat",
+          "eated"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action at a specific past time (noon yesterday)",
+          "bare infinitive is used in questions and negatives with did, not in affirmative past statements",
+          "eated is a common learner error applying regular -ed to an irregular verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0001",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She ___ to school by bus last Monday.",
+        "correct_answer": "went",
+        "distractors": [
+          "goes",
+          "goed",
+          "go"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action on a specific past day (last Monday)",
+          "goed is a very common learner error applying regular -ed to the irregular verb go",
+          "bare infinitive is used with did in questions and negatives, not in affirmative past statements"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0002",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ a new TV at the shop last Saturday.",
+        "correct_answer": "bought",
+        "distractors": [
+          "buy",
+          "buyed",
+          "buys"
+        ],
+        "distractor_rationale": [
+          "bare infinitive cannot be used in an affirmative past simple statement without an auxiliary",
+          "buyed is a common learner error applying regular -ed to the irregular verb buy",
+          "present simple third-person singular cannot describe a completed past action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0003",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children ___ in the park for two hours yesterday afternoon.",
+        "correct_answer": "played",
+        "distractors": [
+          "play",
+          "plays",
+          "are playing"
+        ],
+        "distractor_rationale": [
+          "bare infinitive cannot be used in an affirmative past simple statement",
+          "present simple third-person plural cannot describe a completed past action",
+          "present continuous cannot describe a completed action at a specific past time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0004",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna ___ her keys on the table when she came home last night.",
+        "correct_answer": "put",
+        "distractors": [
+          "puts",
+          "putted",
+          "putting"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed action at a specific past time",
+          "putted is a learner error applying regular -ed to the irregular verb put, which has the same base and past form",
+          "present participle cannot be used alone as the main verb in a past simple statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0005",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark ___ finish his project on time because the computer stopped working.",
+        "correct_answer": "didn't",
+        "distractors": [
+          "doesn't",
+          "didn't finished",
+          "not"
+        ],
+        "distractor_rationale": [
+          "doesn't is present simple negation and cannot describe a past event",
+          "didn't finished is a double past marking error — the auxiliary did already marks past tense, so the main verb must be bare infinitive",
+          "not alone cannot form a grammatical negative without an auxiliary verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0006",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ Lisa call you last night, or did she send a message?",
+        "correct_answer": "Did",
+        "distractors": [
+          "Does",
+          "Was",
+          "Is"
+        ],
+        "distractor_rationale": [
+          "does is used to form present simple questions, not past simple questions",
+          "was forms past continuous or past be-questions, not past simple questions with action verbs",
+          "is forms present simple be-questions, not past simple questions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0007",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James ___ his bag and left the room quickly.",
+        "correct_answer": "took",
+        "distractors": [
+          "takes",
+          "taked",
+          "taking"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe a completed past action in a narrative sequence",
+          "taked is a common learner error applying regular -ed to the irregular verb take",
+          "present participle cannot function as the main verb in a past simple affirmative sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0008",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My parents ___ a letter to their friend in another city two days ago.",
+        "correct_answer": "wrote",
+        "distractors": [
+          "write",
+          "writed",
+          "writes"
+        ],
+        "distractor_rationale": [
+          "bare infinitive cannot be used in an affirmative past simple statement without an auxiliary",
+          "writed is a learner error applying regular -ed to the irregular verb write",
+          "present simple third-person plural form cannot describe a completed past action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_multiple_choice_0009",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara ___ go to the market this morning because it was closed.",
+        "correct_answer": "didn't",
+        "distractors": [
+          "doesn't",
+          "didn't went",
+          "not"
+        ],
+        "distractor_rationale": [
+          "doesn't is present simple negation and cannot describe a past event",
+          "didn't went is a double past marking error — the auxiliary did already marks past tense, so go must remain in its base form",
+          "not alone cannot form a grammatical negative without an auxiliary verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_simple_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0000",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She go to the market yesterday morning.",
+        "correct_answer": "went",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She go to the market yesterday morning.",
+        "corrected_sentence": "She went to the market yesterday morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0001",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom buyed a new bag last week.",
+        "correct_answer": "bought",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom buyed a new bag last week.",
+        "corrected_sentence": "Tom bought a new bag last week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0002",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We didn't went to school on Saturday.",
+        "correct_answer": "go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We didn't went to school on Saturday.",
+        "corrected_sentence": "We didn't go to school on Saturday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0003",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Did you enjoyed the film last night?",
+        "correct_answer": "enjoy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Did you enjoyed the film last night?",
+        "corrected_sentence": "Did you enjoy the film last night?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0004",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My brother goed to bed very late on Friday.",
+        "correct_answer": "went",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My brother goed to bed very late on Friday.",
+        "corrected_sentence": "My brother went to bed very late on Friday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0005",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna didn't finished her homework before dinner yesterday.",
+        "correct_answer": "finish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna didn't finished her homework before dinner yesterday.",
+        "corrected_sentence": "Anna didn't finish her homework before dinner yesterday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0006",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They catched the bus just in time this morning.",
+        "correct_answer": "caught",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They catched the bus just in time this morning.",
+        "corrected_sentence": "They caught the bus just in time this morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_simple_error_correction_0007",
+      "skill_ids": [
+        "past_simple"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James not call his parents after he arrived at the hotel.",
+        "correct_answer": "didn't call",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James not call his parents after he arrived at the hotel.",
+        "corrected_sentence": "James didn't call his parents after he arrived at the hotel.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:46:52.718962+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_simple_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

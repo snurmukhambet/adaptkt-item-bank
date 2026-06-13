@@ -1,0 +1,1866 @@
+{
+  "skill_id": "modals_permission_requests",
+  "skill_name": "Modals: Permission & Requests",
+  "exercises": [
+    {
+      "id": "ex_modals_permission_requests_cloze_0000",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ I use your pen, please?",
+        "correct_answer": "Can",
+        "distractors": [
+          "Would",
+          "Do",
+          "Am"
+        ],
+        "distractor_rationale": [
+          "would is used for requests directed at others, not for seeking permission for oneself",
+          "do forms yes/no questions about habits or actions, not permission",
+          "am forms continuous or identity questions, not permission requests"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 6,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0001",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ you pass me the salt, please?",
+        "correct_answer": "Could",
+        "distractors": [
+          "Would you can",
+          "Might",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "two modals together are never grammatically possible in English",
+          "might expresses possibility, not a polite request directed at someone",
+          "should expresses advice or obligation, not a request for someone to do something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0002",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Can I ___ your dictionary for a moment?",
+        "correct_answer": "borrow",
+        "distractors": [
+          "to borrow",
+          "borrowing",
+          "borrowed"
+        ],
+        "distractor_rationale": [
+          "the infinitive with 'to' cannot follow a modal verb; the bare infinitive is required",
+          "the -ing form cannot follow a modal verb directly",
+          "the past form cannot follow a modal verb; the bare infinitive is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0003",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Could you ___ the door on your way out? It's very cold in here.",
+        "correct_answer": "close",
+        "distractors": [
+          "to close",
+          "closing",
+          "closed"
+        ],
+        "distractor_rationale": [
+          "the infinitive with 'to' is grammatically impossible after a modal verb",
+          "the -ing participle cannot follow a modal verb in a request structure",
+          "the past participle cannot follow a modal verb in a direct request"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0004",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The student raised her hand and asked, '___ I leave the classroom early today, please?'",
+        "correct_answer": "May",
+        "distractors": [
+          "Would",
+          "Will",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "would is used in requests asking others to act, not in formal permission-seeking by the speaker",
+          "will expresses future intention or a request for a favour, not formal permission from an authority",
+          "should expresses obligation or advice, not a request for permission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0005",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ you turn down the music a little? I'm trying to concentrate on my work.",
+        "correct_answer": "Would",
+        "distractors": [
+          "May",
+          "Shall",
+          "Must"
+        ],
+        "distractor_rationale": [
+          "may is used when the speaker seeks permission for themselves, not when asking another person to do something",
+          "shall is used for offers or suggestions, not for asking another person to change their behaviour",
+          "must expresses strong obligation, which is too forceful and not a polite request"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0006",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Excuse me, ___ I sit here? All the other seats in the café are taken.",
+        "correct_answer": "could",
+        "distractors": [
+          "would",
+          "should",
+          "might could"
+        ],
+        "distractor_rationale": [
+          "would is directed at the listener asking them to act; here the speaker is seeking permission for their own action",
+          "should expresses duty or advice, not a polite request for permission to sit",
+          "two modals together are never grammatically possible in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0007",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I was wondering if you ___ possibly send me the report before the meeting starts tomorrow morning.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "would can",
+          "might to"
+        ],
+        "distractor_rationale": [
+          "can is informal and direct; the phrase 'I was wondering if' signals a formal, tentative register that requires could",
+          "two modals together are never grammatically possible in English",
+          "might cannot be followed by 'to' plus infinitive; only the bare infinitive follows a modal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0008",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "During the formal interview, she politely asked whether she ___ take notes throughout the session.",
+        "correct_answer": "might",
+        "distractors": [
+          "can",
+          "would",
+          "could to"
+        ],
+        "distractor_rationale": [
+          "can is too informal for a reported formal permission request in an interview context",
+          "would is used to ask others to perform an action, not to seek permission for oneself in reported speech",
+          "could to is ungrammatical; no modal verb can be followed by 'to' before the bare infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0009",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I know you are very busy, but ___ you possibly look over my application letter before I send it to the company?",
+        "correct_answer": "could",
+        "distractors": [
+          "may",
+          "shall",
+          "could would"
+        ],
+        "distractor_rationale": [
+          "may is used by the speaker to seek permission for their own action, not to ask another person to perform a task",
+          "shall is used for offers or first-person suggestions, not for politely asking a second person to do something",
+          "two modals together are never grammatically possible in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0012",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Excuse me, ___ I leave the meeting a few minutes early today? I have a doctor's appointment.",
+        "correct_answer": "may",
+        "distractors": [
+          "would",
+          "could to",
+          "must"
+        ],
+        "distractor_rationale": [
+          "would is used to make requests of others, not to ask permission for one's own action in a formal context",
+          "modal verbs are never followed by to before the bare infinitive, making this grammatically impossible",
+          "must expresses strong obligation or necessity, not a polite request for permission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0013",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ you please turn down the music? The baby is trying to sleep in the next room.",
+        "correct_answer": "Could",
+        "distractors": [
+          "May",
+          "Could would",
+          "Shall"
+        ],
+        "distractor_rationale": [
+          "may + you is not a standard structure for making requests of another person; may I is used for seeking permission for oneself",
+          "two modals together are never grammatical in English",
+          "shall + you is not a standard request structure; shall is used with I or we for offers and suggestions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0014",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I was wondering if you ___ send me the updated report before the end of the working day, as I need to review it before tomorrow's meeting.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "may",
+          "would can"
+        ],
+        "distractor_rationale": [
+          "can is grammatically possible but signals an informal, direct request; in this formal written context introduced by 'I was wondering if', could is required for appropriate politeness",
+          "may + you is used for permission questions, not for making requests of another person, and is not idiomatic here",
+          "two modals together are never grammatical in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0000",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ I use your pen, please? Mine has stopped working.",
+        "correct_answer": "Can",
+        "distractors": [
+          "Could would",
+          "Must",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "two modals together are never grammatically possible in English",
+          "must expresses obligation, not a request for permission",
+          "should expresses advice, not a request for permission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0001",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ you pass me the salt, please? It's right next to you.",
+        "correct_answer": "Can",
+        "distractors": [
+          "Could to",
+          "Might",
+          "Would to"
+        ],
+        "distractor_rationale": [
+          "modal verbs are never followed by 'to' before the base verb",
+          "might expresses possibility, not a direct everyday request",
+          "modal verbs are never followed by 'to' before the base verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0002",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ I sit here? All the other seats in the café are taken.",
+        "correct_answer": "Can",
+        "distractors": [
+          "Must",
+          "Will",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "must expresses obligation or necessity, not seeking informal permission",
+          "will expresses future intention or a direct command, not a polite permission request",
+          "should expresses advice or recommendation, not a request for permission"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0003",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ you please turn down the music? I'm trying to study for my exam.",
+        "correct_answer": "Could",
+        "distractors": [
+          "Could would",
+          "Might",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "two modals together are never grammatically possible in English",
+          "might expresses possibility, not a polite request directed at someone",
+          "should expresses advice, not a polite request for an action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0004",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ I leave the office a little early today? I have a doctor's appointment at four o'clock.",
+        "correct_answer": "Could",
+        "distractors": [
+          "Could to leave",
+          "Must",
+          "Would"
+        ],
+        "distractor_rationale": [
+          "modal verbs are never followed by 'to' before the base verb, making this ungrammatical",
+          "must expresses obligation or necessity, not a polite request for permission from a superior",
+          "would is used in requests directed at others ('Would you…?'), not for seeking permission for oneself"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0005",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ you lend me your umbrella? It has started raining and I forgot mine at home.",
+        "correct_answer": "Could",
+        "distractors": [
+          "Can to",
+          "Might you",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "modal verbs are never followed by 'to' before the base verb",
+          "might is not used in the structure 'Might you…?' to make everyday requests; this is unnatural",
+          "should expresses advice or obligation, not a polite request directed at another person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0006",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom asked the librarian, '___ I take this book home for the weekend?'",
+        "correct_answer": "May",
+        "distractors": [
+          "Must",
+          "Would",
+          "Might can"
+        ],
+        "distractor_rationale": [
+          "must expresses obligation or necessity, not a polite formal request for permission",
+          "would is used to make requests of others ('Would you…?'), not to seek permission for oneself",
+          "two modals together are never grammatically possible in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0007",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The student approached the professor and asked, '___ you explain that last point again? I didn't quite follow it.'",
+        "correct_answer": "Could",
+        "distractors": [
+          "Could to explain",
+          "Might",
+          "Can would"
+        ],
+        "distractor_rationale": [
+          "modal verbs are never followed by 'to' before the base verb, making this ungrammatical",
+          "might expresses possibility or weak suggestion and is not used in standard polite requests",
+          "two modals together are never grammatically possible in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0008",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna called the hotel reception and asked, '___ you arrange a taxi to the airport for six o'clock tomorrow morning?'",
+        "correct_answer": "Would",
+        "distractors": [
+          "Would to arrange",
+          "Might",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "modal verbs are never followed by 'to' before the base verb, making this ungrammatical",
+          "might expresses possibility and is not used to make a polite service request",
+          "should expresses advice or obligation and is not used to make a polite request of another person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_multiple_choice_0009",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "During the formal meeting, Sara raised her hand and said, '___ I add something to what my colleague has just said?'",
+        "correct_answer": "May",
+        "distractors": [
+          "Can",
+          "Would",
+          "Must"
+        ],
+        "distractor_rationale": [
+          "can is the informal equivalent for permission; in a formal meeting context, may is the appropriate choice",
+          "would is used to make requests of others ('Would you…?'), not to seek permission for oneself in a formal setting",
+          "must expresses obligation or necessity, not a polite request for permission to speak"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_permission_requests_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0000",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Can I to use your pen, please?",
+        "correct_answer": "Can I use",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Can I to use your pen, please?",
+        "corrected_sentence": "Can I use your pen, please?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0001",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Could you to pass the salt, please?",
+        "correct_answer": "Could you pass",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Could you to pass the salt, please?",
+        "corrected_sentence": "Could you pass the salt, please?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0002",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Could would you help me carry these bags to my room?",
+        "correct_answer": "Could you",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Could would you help me carry these bags to my room?",
+        "corrected_sentence": "Could you help me carry these bags to my room?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0003",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Can I to leave the office a little early today because I have a doctor's appointment?",
+        "correct_answer": "Can I leave",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Can I to leave the office a little early today because I have a doctor's appointment?",
+        "corrected_sentence": "Can I leave the office a little early today because I have a doctor's appointment?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0004",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Might can you show me how to get to the nearest bus stop from here?",
+        "correct_answer": "Could you",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Might can you show me how to get to the nearest bus stop from here?",
+        "corrected_sentence": "Could you show me how to get to the nearest bus stop from here?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0005",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Can I borrow your laptop for a moment? I need to quickly check an important email.",
+        "correct_answer": "Could I borrow",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Can I borrow your laptop for a moment? I need to quickly check an important email.",
+        "corrected_sentence": "Could I borrow your laptop for a moment? I need to quickly check an important email.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0006",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Would you mind to explain the last part of the report again, as I did not quite follow it?",
+        "correct_answer": "explaining",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Would you mind to explain the last part of the report again, as I did not quite follow it?",
+        "corrected_sentence": "Would you mind explaining the last part of the report again, as I did not quite follow it?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_permission_requests_error_correction_0007",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "May I to ask whether it would be possible to reschedule our meeting to Thursday afternoon?",
+        "correct_answer": "May I ask",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "May I to ask whether it would be possible to reschedule our meeting to Thursday afternoon?",
+        "corrected_sentence": "May I ask whether it would be possible to reschedule our meeting to Thursday afternoon?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_permission_requests_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_modals_permission_requests_cloze_0010",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ I use your pen, please?",
+        "correct_answer": "Can",
+        "distractors": [
+          "Would",
+          "Do",
+          "Am"
+        ],
+        "distractor_rationale": [
+          "would is used to make requests of others, not to seek permission for oneself",
+          "do forms questions with main verbs, not permission requests with a bare infinitive",
+          "am forms continuous or passive structures, not modal permission questions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    },
+    {
+      "id": "ex_modals_permission_requests_cloze_0011",
+      "skill_ids": [
+        "modals_permission_requests"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ you pass me the salt, please?",
+        "correct_answer": "Could",
+        "distractors": [
+          "Would you can",
+          "Might",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "two modals together are never grammatical in English",
+          "might expresses possibility about events, not polite requests directed at another person",
+          "should expresses advice or obligation, not a request for someone to do something for you"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:13:24.414950+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_permission_requests_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 31,
+    "filter_rejected": 2
+  }
+}

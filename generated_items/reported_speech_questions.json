@@ -1,0 +1,1863 @@
+{
+  "skill_id": "reported_speech_questions",
+  "skill_name": "Reported Speech: Questions & Requests",
+  "exercises": [
+    {
+      "id": "ex_reported_speech_questions_cloze_0000",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The teacher asked the students ___ they had finished the exercise.",
+        "correct_answer": "if",
+        "distractors": [
+          "that",
+          "what",
+          "which"
+        ],
+        "distractor_rationale": [
+          "'that' is used to introduce reported statements, not yes/no questions",
+          "'what' introduces a wh-question requiring a content answer, but the original question was a yes/no question",
+          "'which' is a wh-word asking for a choice, not suitable for introducing a yes/no reported question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0001",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark asked his colleague where ___ the meeting room was.",
+        "correct_answer": "the meeting room was",
+        "distractors": [
+          "was the meeting room",
+          "is the meeting room",
+          "the meeting room is"
+        ],
+        "distractor_rationale": [
+          "inverting subject and verb copies direct question word order, which is not used in reported questions",
+          "present tense 'is' fails to apply the required tense back-shift from present to past",
+          "present tense 'is' without back-shift is wrong; the reported clause requires past tense after a past reporting verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0002",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara asked her brother whether ___ the last piece of cake.",
+        "correct_answer": "he had eaten",
+        "distractors": [
+          "had he eaten",
+          "he ate",
+          "did he eat"
+        ],
+        "distractor_rationale": [
+          "inverting subject and auxiliary copies direct question word order, which is forbidden in reported questions",
+          "simple past 'ate' does not apply the required back-shift from past simple to past perfect",
+          "using auxiliary 'did' in the reported clause is a direct-question pattern and is not used in reported speech"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0003",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor asked the patient how long ___ the pain in his back.",
+        "correct_answer": "he had had",
+        "distractors": [
+          "had he had",
+          "he has had",
+          "did he have"
+        ],
+        "distractor_rationale": [
+          "inverting subject and auxiliary reproduces direct question word order, which is incorrect in reported questions",
+          "present perfect 'has had' does not apply the required back-shift to past perfect after a past reporting verb",
+          "using auxiliary 'did' in the reported clause is a direct-question error not permitted in reported speech"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0004",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna asked her flatmate ___ she could borrow the car the following morning.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'that' introduces reported statements, not yes/no questions, making the sentence grammatically incorrect here",
+          "'what' introduces a wh-question requiring a content answer, but the original was a yes/no question about permission",
+          "'how' asks about manner or degree and cannot introduce a yes/no reported question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0005",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The interviewer asked the candidate why ___ applied for the position in the first place.",
+        "correct_answer": "she had",
+        "distractors": [
+          "had she",
+          "she has",
+          "did she"
+        ],
+        "distractor_rationale": [
+          "inverting subject and auxiliary 'had she' reproduces direct question word order, which is not used in reported questions",
+          "present perfect auxiliary 'has' fails to apply the required back-shift to past perfect after a past reporting verb",
+          "using auxiliary 'did' in the reported clause is a direct-question pattern that is not permitted in reported speech"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0006",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James asked the receptionist what time ___ the next available appointment.",
+        "correct_answer": "there was",
+        "distractors": [
+          "was there",
+          "there is",
+          "is there"
+        ],
+        "distractor_rationale": [
+          "inverting subject and verb 'was there' copies direct question word order, which is incorrect in reported questions",
+          "'there is' uses present tense and fails to apply the required back-shift to past after a past reporting verb",
+          "inverting with present tense 'is there' both reproduces direct question word order and fails to back-shift the tense"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0007",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The customs officer asked the traveller if ___ anything to declare before entering the country.",
+        "correct_answer": "she had",
+        "distractors": [
+          "had she",
+          "she has",
+          "does she have"
+        ],
+        "distractor_rationale": [
+          "inverting subject and auxiliary 'had she' reproduces direct question word order, which is not used in reported questions",
+          "present perfect 'has' fails to back-shift to past perfect as required after a past reporting verb in a past context",
+          "using auxiliary 'does' in the reported clause is a direct-question pattern and also fails to back-shift the tense"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0008",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager asked the team ___ they had encountered any technical problems during the testing phase the day before.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "if that",
+          "what"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a reported statement, not a yes/no question, making the sentence grammatically incorrect in this context",
+          "'if that' is not a grammatical conjunction; only 'if' or 'whether' alone can introduce a reported yes/no question",
+          "'what' introduces a wh-question requiring a content answer, but the original question was a yes/no question about problems"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0009",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The journalist asked the spokesperson whose decision ___ to cancel the event at such short notice.",
+        "correct_answer": "it had been",
+        "distractors": [
+          "had it been",
+          "it was",
+          "was it"
+        ],
+        "distractor_rationale": [
+          "inverting subject and auxiliary 'had it been' reproduces direct question word order, which is not used in reported questions",
+          "simple past 'it was' does not apply the required back-shift from past simple to past perfect after a past reporting verb",
+          "inverting with 'was it' reproduces direct question word order and also fails to back-shift to past perfect as required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0010",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The teacher asked the students ___ they had finished their homework before the class started.",
+        "correct_answer": "if",
+        "distractors": [
+          "that",
+          "what",
+          "which"
+        ],
+        "distractor_rationale": [
+          "that cannot introduce a reported yes/no question — it introduces a reported statement",
+          "what introduces a wh-question requiring a specific answer, but the original question was yes/no",
+          "which introduces a choice question and is grammatically wrong in this reported yes/no context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0011",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria asked Tom where ___ the day before, because she had not seen him at the office.",
+        "correct_answer": "he had been",
+        "distractors": [
+          "had he been",
+          "was he",
+          "he was being"
+        ],
+        "distractor_rationale": [
+          "inverted word order belongs to direct questions, not reported questions — reported questions use subject-verb order",
+          "was he keeps direct question inversion and fails to back-shift the tense from the original present to past perfect",
+          "past continuous he was being is semantically wrong here — 'be' in a location context does not take continuous aspect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0012",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor asked Sara how long ___ the pain in her shoulder before she came to the clinic.",
+        "correct_answer": "she had had",
+        "distractors": [
+          "had she had",
+          "she has had",
+          "did she have"
+        ],
+        "distractor_rationale": [
+          "inverted word order had she had is the direct question form and is not used in reported questions",
+          "she has had uses present perfect, which cannot be used in a reported question that requires tense back-shift into the past",
+          "did she have retains the auxiliary from the direct question — auxiliaries are dropped in reported questions and the verb is back-shifted instead"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0013",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James asked his colleague whether ___ the report to the manager yet, as the deadline was approaching.",
+        "correct_answer": "she had sent",
+        "distractors": [
+          "had she sent",
+          "she sent",
+          "she has sent"
+        ],
+        "distractor_rationale": [
+          "inverted word order had she sent is a direct question structure and is not permitted in reported questions after whether",
+          "she sent uses simple past without back-shift, but the original question used present perfect 'have you sent', which must back-shift to past perfect",
+          "she has sent fails to apply tense back-shift — present perfect must become past perfect in reported speech after a past reporting verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_cloze_0014",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The interviewer asked the candidate why ___ the previous company after working there for only six months, and whether ___ a similar role since then.",
+        "correct_answer": "she had left / she had held",
+        "distractors": [
+          "had she left / had she held",
+          "she left / she has held",
+          "did she leave / has she held"
+        ],
+        "distractor_rationale": [
+          "inverted word order in both clauses reflects direct question structure, which is not used in reported questions — subject must precede verb throughout",
+          "she left fails to back-shift the simple past to past perfect for the wh-clause, and she has held fails to back-shift present perfect to past perfect for the whether-clause",
+          "did she leave retains the direct question auxiliary instead of back-shifting the main verb, and has she held keeps present perfect without back-shift and uses direct question inversion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 27,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_questions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0000",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The teacher asked Maria ___ she had finished her homework.",
+        "correct_answer": "if",
+        "distractors": [
+          "that",
+          "what",
+          "which"
+        ],
+        "distractor_rationale": [
+          "'that' is used for reported statements, not yes/no questions — learners confuse this with indirect speech for statements",
+          "'what' introduces a wh-question reporting a specific thing, but the original question had no wh-word — it was a yes/no question",
+          "'which' introduces a wh-question about a choice, not a yes/no question — learners confuse question-word types"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0001",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James asked his friend whether ___ coming to the party on Friday.",
+        "correct_answer": "he was",
+        "distractors": [
+          "was he",
+          "he is",
+          "is he"
+        ],
+        "distractor_rationale": [
+          "inverted word order 'was he' keeps the direct question structure — learners incorrectly maintain auxiliary inversion in reported questions",
+          "'he is' fails to apply tense back-shift from present to past — learners forget to shift the tense in reported speech",
+          "inverted present tense 'is he' makes two errors simultaneously: no back-shift and auxiliary inversion retained"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0002",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara asked the shop assistant where ___ the fitting rooms.",
+        "correct_answer": "the fitting rooms were",
+        "distractors": [
+          "were the fitting rooms",
+          "the fitting rooms are",
+          "are the fitting rooms"
+        ],
+        "distractor_rationale": [
+          "'were the fitting rooms' keeps inverted question word order — learners incorrectly maintain direct question structure in reported speech",
+          "'the fitting rooms are' uses correct word order but fails to back-shift 'are' to 'were' — learners forget tense back-shift",
+          "'are the fitting rooms' makes two errors: no back-shift and auxiliary inversion retained from the direct question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0003",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The doctor asked Tom ___ he had been feeling tired for a long time.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "if that",
+          "what"
+        ],
+        "distractor_rationale": [
+          "'that' introduces reported statements, not yes/no questions — learners confuse reported statement structure with reported question structure",
+          "'if that' is a non-standard double connector that does not exist in standard English grammar — learners sometimes add extra words",
+          "'what' introduces a wh-question requiring a specific piece of information, but the original question was a yes/no question about duration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0004",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna asked her manager what time ___ to arrive for the interview the next morning.",
+        "correct_answer": "she needed",
+        "distractors": [
+          "did she need",
+          "she needs",
+          "does she need"
+        ],
+        "distractor_rationale": [
+          "'did she need' incorrectly uses the auxiliary 'did' and retains inverted word order — learners transfer direct question formation into reported speech",
+          "'she needs' uses correct word order but fails to back-shift the present tense to past — learners forget that tense must shift in reported speech",
+          "'does she need' makes two errors: no back-shift and the auxiliary 'does' is retained with inversion, as in a direct question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0005",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The receptionist asked the guests ___ they would like a room with a view of the garden.",
+        "correct_answer": "if",
+        "distractors": [
+          "that",
+          "whether or not that",
+          "what"
+        ],
+        "distractor_rationale": [
+          "'that' is the connector for reported statements, not yes/no questions — learners confuse it with the reported question structure",
+          "'whether or not that' is ungrammatical — 'or not' can follow 'whether' directly or appear at the end, but 'that' cannot be added after it",
+          "'what' introduces a wh-question expecting specific information, but the original question offered a yes/no choice about the room type"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0006",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David asked his colleague why ___ the report before the deadline the previous day.",
+        "correct_answer": "she hadn't submitted",
+        "distractors": [
+          "hadn't she submitted",
+          "she didn't submit",
+          "didn't she submit"
+        ],
+        "distractor_rationale": [
+          "'hadn't she submitted' retains inverted auxiliary word order from the direct question — learners incorrectly keep inversion in reported speech",
+          "'she didn't submit' uses correct word order but fails to back-shift past simple to past perfect — learners don't apply the required tense shift",
+          "'didn't she submit' makes two errors: no back-shift to past perfect and auxiliary inversion is retained as in a direct question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0007",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The interviewer asked Lisa how long ___ working in the field of environmental science.",
+        "correct_answer": "she had been",
+        "distractors": [
+          "had she been",
+          "she has been",
+          "has she been"
+        ],
+        "distractor_rationale": [
+          "'had she been' retains inverted auxiliary word order from the direct question — learners incorrectly apply direct question structure to reported speech",
+          "'she has been' uses correct word order but fails to back-shift present perfect continuous to past perfect continuous — learners omit tense back-shift",
+          "'has she been' makes two errors: no back-shift from present perfect to past perfect and auxiliary inversion is retained as in a direct question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0008",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The customs officer asked the traveller ___ she had anything to declare before entering the country.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "if whether",
+          "what"
+        ],
+        "distractor_rationale": [
+          "'that' introduces reported statements, not yes/no questions — learners confuse the connector used for statements with the one required for yes/no questions",
+          "'if whether' is ungrammatical — 'if' and 'whether' are both connectors for yes/no reported questions and cannot be combined",
+          "'what' introduces a wh-question expecting specific information, but the original question was a yes/no question about declaring goods"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_multiple_choice_0009",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project leader asked the team members who ___ responsible for checking the final figures in the report.",
+        "correct_answer": "had been",
+        "distractors": [
+          "had been who",
+          "was",
+          "were being"
+        ],
+        "distractor_rationale": [
+          "'had been who' places the wh-word after the verb, creating incoherent word order — learners sometimes misplace the question word when forming reported questions",
+          "'was' fails to back-shift past simple to past perfect — learners do not apply tense back-shift when the reporting verb is in the past",
+          "'were being' uses past continuous passive, which changes the meaning and aspect — learners confuse simple past perfect with a continuous passive form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_questions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0000",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The teacher asked Maria where did she live.",
+        "correct_answer": "where she lived",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The teacher asked Maria where did she live.",
+        "corrected_sentence": "The teacher asked Maria where she lived.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0001",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom asked that the shop was open on Sundays.",
+        "correct_answer": "if the shop was open",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom asked that the shop was open on Sundays.",
+        "corrected_sentence": "Tom asked if the shop was open on Sundays.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0002",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She asked her colleague what time does the meeting start.",
+        "correct_answer": "what time the meeting started",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She asked her colleague what time does the meeting start.",
+        "corrected_sentence": "She asked her colleague what time the meeting started.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0003",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James asked his friend whether he will come to the party that evening.",
+        "correct_answer": "whether he would come",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James asked his friend whether he will come to the party that evening.",
+        "corrected_sentence": "James asked his friend whether he would come to the party that evening.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0004",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The doctor asked the patient how long was he feeling tired.",
+        "correct_answer": "how long he had been feeling tired",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The doctor asked the patient how long was he feeling tired.",
+        "corrected_sentence": "The doctor asked the patient how long he had been feeling tired.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0005",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager asked the new employee if she can start work the following Monday.",
+        "correct_answer": "if she could start",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager asked the new employee if she can start work the following Monday.",
+        "corrected_sentence": "The manager asked the new employee if she could start work the following Monday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0006",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna wanted to know why did her order arrive two days late.",
+        "correct_answer": "why her order had arrived",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna wanted to know why did her order arrive two days late.",
+        "corrected_sentence": "Anna wanted to know why her order had arrived two days late.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_questions_error_correction_0007",
+      "skill_ids": [
+        "reported_speech_questions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The receptionist asked the guest that he had made a reservation in advance.",
+        "correct_answer": "whether he had made",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The receptionist asked the guest that he had made a reservation in advance.",
+        "corrected_sentence": "The receptionist asked the guest whether he had made a reservation in advance.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:26:32.382539+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_questions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

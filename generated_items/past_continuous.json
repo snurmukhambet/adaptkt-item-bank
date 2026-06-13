@@ -1,0 +1,1863 @@
+{
+  "skill_id": "past_continuous",
+  "skill_name": "Past Continuous",
+  "exercises": [
+    {
+      "id": "ex_past_continuous_cloze_0000",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (sleep) when his alarm went off at seven o'clock.",
+        "correct_answer": "was sleeping",
+        "distractors": [
+          "slept",
+          "was sleep",
+          "is sleeping"
+        ],
+        "distractor_rationale": [
+          "past simple describes a completed action, but sleeping was the ongoing background activity interrupted by the alarm",
+          "was + base form is grammatically incorrect; the continuous requires was + verb-ing",
+          "present continuous cannot be used for a past moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0001",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (play) in the garden all morning while their mother worked inside.",
+        "correct_answer": "were playing",
+        "distractors": [
+          "played",
+          "were play",
+          "are playing"
+        ],
+        "distractor_rationale": [
+          "past simple cannot describe a continuous background activity paired with 'all morning while'",
+          "were + base form is grammatically incorrect; the continuous requires were + verb-ing",
+          "present continuous cannot refer to a past time frame"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0002",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria dropped her bag when she ___ (run) to catch the bus.",
+        "correct_answer": "was running",
+        "distractors": [
+          "ran",
+          "runs",
+          "was run"
+        ],
+        "distractor_rationale": [
+          "past simple 'ran' would make two equal completed actions, but running was the ongoing background to the sudden drop",
+          "present simple cannot refer to a past event",
+          "was run is a passive construction and is grammatically incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0003",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (have) dinner at the kitchen table when the electricity suddenly went out.",
+        "correct_answer": "were having",
+        "distractors": [
+          "had",
+          "have had",
+          "were had"
+        ],
+        "distractor_rationale": [
+          "past simple 'had' describes a completed event, but the dinner was an ongoing activity interrupted by the power cut",
+          "present perfect cannot be used for a past moment interrupted by another past event",
+          "were had is a passive construction and is grammatically incorrect in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0004",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James was reading the report when his manager ___ (walk) into the office and asked him a question.",
+        "correct_answer": "walked",
+        "distractors": [
+          "was walking",
+          "walks",
+          "had walked"
+        ],
+        "distractor_rationale": [
+          "past continuous is for the background action; the manager's entry is the sudden interrupting event, which takes past simple",
+          "present simple cannot refer to a completed past action",
+          "past perfect implies the walking was completed before another past event, but it is the interrupting action here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0005",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "At nine o'clock last night, Lisa ___ (study) for her exam while her flatmate watched television.",
+        "correct_answer": "was studying",
+        "distractors": [
+          "studied",
+          "has studied",
+          "was study"
+        ],
+        "distractor_rationale": [
+          "past simple cannot describe an activity in progress at a specific past moment indicated by 'at nine o'clock last night'",
+          "present perfect cannot refer to an activity in progress at a specific past clock time",
+          "was + base form is grammatically incorrect; the continuous form requires was + verb-ing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0006",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "While Anna ___ (wait) for her friend outside the café, it started to rain heavily.",
+        "correct_answer": "was waiting",
+        "distractors": [
+          "waited",
+          "waits",
+          "has been waiting"
+        ],
+        "distractor_rationale": [
+          "past simple 'waited' describes a completed action, not an ongoing background state interrupted by the rain",
+          "present simple cannot be used to describe a past situation",
+          "present perfect continuous cannot refer to a past moment before another past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0007",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The engineer noticed the fault while she ___ (check) the equipment on the factory floor that afternoon.",
+        "correct_answer": "was checking",
+        "distractors": [
+          "checked",
+          "had been checking",
+          "was checked"
+        ],
+        "distractor_rationale": [
+          "past simple 'checked' implies a completed sequence rather than an ongoing activity during which the noticing occurred",
+          "past perfect continuous emphasises duration before a past reference point, which is not the meaning here; the checking was simply in progress when the fault was noticed",
+          "was checked is a passive construction and changes the meaning entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0008",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David heard a loud noise outside, so he looked out of the window; two workers ___ (repair) the road directly in front of his building.",
+        "correct_answer": "were repairing",
+        "distractors": [
+          "repaired",
+          "had repaired",
+          "were repaired"
+        ],
+        "distractor_rationale": [
+          "past simple 'repaired' describes a completed event, but the repair work was an ongoing background scene David observed at that moment",
+          "past perfect 'had repaired' implies the work was already finished before David looked, which contradicts the scene he was observing",
+          "were repaired is a passive construction implying the road was the object, not the workers performing the action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0009",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara realised she had left her keys at home only after she ___ (arrive) at the office and tried to open her desk drawer.",
+        "correct_answer": "arrived",
+        "distractors": [
+          "was arriving",
+          "had been arriving",
+          "has arrived"
+        ],
+        "distractor_rationale": [
+          "past continuous 'was arriving' implies arrival was an extended background process, but arriving at the office is a single completed point-in-time event in this sequence",
+          "past perfect continuous 'had been arriving' is grammatically awkward and semantically impossible; arrival is a momentary event, not a duration",
+          "present perfect 'has arrived' cannot be used in a completed past sequence anchored to a past time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0010",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (sleep) when his alarm went off at seven o'clock this morning.",
+        "correct_answer": "was sleeping",
+        "distractors": [
+          "slept",
+          "was sleep",
+          "is sleeping"
+        ],
+        "distractor_rationale": [
+          "past simple describes a completed action, not a background action in progress at the moment the alarm went off",
+          "was + base form is a common formation error; the correct structure requires was + verb-ing",
+          "present continuous cannot be used for a past moment; the whole scene is set in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0011",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (play) in the garden all afternoon while their parents prepared dinner inside.",
+        "correct_answer": "were playing",
+        "distractors": [
+          "played",
+          "were play",
+          "are playing"
+        ],
+        "distractor_rationale": [
+          "past simple signals a completed event, but 'all afternoon' marks a continuous background activity running alongside the parents' actions",
+          "were + base form is a formation error; the past continuous requires were + verb-ing",
+          "present continuous cannot refer to a past time frame; the sentence is clearly set in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0012",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (walk) to the bus stop when she suddenly noticed her bag was missing.",
+        "correct_answer": "was walking",
+        "distractors": [
+          "walked",
+          "had walked",
+          "has been walking"
+        ],
+        "distractor_rationale": [
+          "past simple describes a completed action; here the walking was an ongoing background activity interrupted by the sudden noticing",
+          "past perfect describes an action completed before another past event, but the walking was still in progress when the noticing occurred",
+          "present perfect continuous cannot be used for a completed past sequence entirely set in past time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0013",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "While Lisa was checking her emails at the office, her colleague ___ (print) the reports for the afternoon meeting.",
+        "correct_answer": "was printing",
+        "distractors": [
+          "printed",
+          "were printing",
+          "had printed"
+        ],
+        "distractor_rationale": [
+          "past simple signals a completed action, but the printing was a simultaneous background activity running alongside Lisa's checking, as shown by 'while'",
+          "the subject 'her colleague' is singular, so 'were' is incorrect; was printing is required",
+          "past perfect indicates an action completed before another past action, but both activities were happening at the same time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_cloze_0014",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "At exactly nine o'clock last night, James and Sara ___ (discuss) the project results when the power cut out and the lights went off.",
+        "correct_answer": "were discussing",
+        "distractors": [
+          "discussed",
+          "had been discussing",
+          "were discussed"
+        ],
+        "distractor_rationale": [
+          "past simple describes a completed sequence of events, but the discussion was an ongoing activity in progress at the specific moment the power cut out",
+          "past perfect continuous emphasises duration before a past event and would imply the discussion had already ended when the power cut out, contradicting the interruption structure",
+          "were discussed is passive voice and changes the meaning entirely, making James and Sara the recipients of discussion rather than the people doing it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0000",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children ___ in the garden when it started to rain.",
+        "correct_answer": "were playing",
+        "distractors": [
+          "played",
+          "were play",
+          "are playing"
+        ],
+        "distractor_rationale": [
+          "past simple describes a completed action, not an ongoing background activity interrupted by 'it started to rain'",
+          "was/were + base form is a common learner error; the correct form requires the -ing participle: were playing",
+          "present continuous cannot describe a past background scene; the context is clearly in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0001",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ a shower when his phone rang loudly.",
+        "correct_answer": "was having",
+        "distractors": [
+          "had",
+          "was have",
+          "has had"
+        ],
+        "distractor_rationale": [
+          "past simple 'had' describes a completed event, not an action in progress at the moment the phone rang",
+          "'was have' incorrectly uses the base form after 'was'; the -ing form 'having' is required for past continuous",
+          "present perfect 'has had' cannot locate an action at a specific past moment; it also uses the wrong tense entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0002",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "At eight o'clock last night, Maria ___ dinner with her family.",
+        "correct_answer": "was eating",
+        "distractors": [
+          "ate",
+          "is eating",
+          "was ate"
+        ],
+        "distractor_rationale": [
+          "past simple 'ate' describes a completed action, but the time marker 'at eight o'clock last night' signals an action in progress at that specific moment",
+          "present continuous 'is eating' cannot describe a past moment; the time marker 'last night' demands a past tense",
+          "'was ate' incorrectly combines the past continuous auxiliary 'was' with the past simple form; the -ing participle 'eating' is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0003",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She ___ a letter to her friend when the electricity suddenly went off.",
+        "correct_answer": "was writing",
+        "distractors": [
+          "wrote",
+          "has been writing",
+          "is writing"
+        ],
+        "distractor_rationale": [
+          "past simple 'wrote' describes a completed action; the context requires an ongoing activity that was interrupted by the sudden power cut",
+          "past perfect continuous 'has been writing' is incorrect here because it requires 'had been writing'; it also shifts focus to duration before a past event rather than the moment of interruption",
+          "present continuous 'is writing' cannot describe a past scene; the time frame is clearly past as shown by 'went off'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0004",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James was watching a film when his neighbour ___ the door loudly.",
+        "correct_answer": "knocked",
+        "distractors": [
+          "was knocking",
+          "has knocked",
+          "knocks"
+        ],
+        "distractor_rationale": [
+          "'was knocking' incorrectly puts the interrupting action in the continuous form; the sudden, completed interruption ('knocked') must use the past simple",
+          "present perfect 'has knocked' cannot describe a specific completed past event that interrupted another action; it also conflicts with the past tense of the main clause",
+          "present simple 'knocks' cannot describe a past event; the sentence is entirely set in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0005",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When we arrived at the café, Anna and David ___ at a table near the window.",
+        "correct_answer": "were sitting",
+        "distractors": [
+          "sat",
+          "were sit",
+          "had sat"
+        ],
+        "distractor_rationale": [
+          "past simple 'sat' implies they sat down at that moment of arrival, but the context describes a background scene already in progress when we arrived",
+          "'were sit' incorrectly uses the base form after 'were'; past continuous requires the -ing participle: were sitting",
+          "past perfect 'had sat' describes an action completed before another past action; here the activity (sitting) was still ongoing at the moment of arrival, so past continuous is needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0006",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager ___ on the phone when the fire alarm went off in the building.",
+        "correct_answer": "was talking",
+        "distractors": [
+          "talked",
+          "was talked",
+          "has been talking"
+        ],
+        "distractor_rationale": [
+          "past simple 'talked' describes a completed action, but the context requires an ongoing activity that was interrupted by the fire alarm",
+          "'was talked' confuses past continuous with passive voice; the subject (the manager) is the agent performing the action, not receiving it",
+          "'has been talking' is present perfect continuous and cannot locate an action at a specific past moment; the past simple 'went off' anchors the scene in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0007",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "While Lisa ___ the report for tomorrow's meeting, her colleague sent her several urgent emails.",
+        "correct_answer": "was preparing",
+        "distractors": [
+          "prepared",
+          "had been preparing",
+          "was prepared"
+        ],
+        "distractor_rationale": [
+          "past simple 'prepared' would describe a completed action, but 'while' signals that this was an ongoing background activity during which the emails arrived",
+          "'had been preparing' (past perfect continuous) emphasises duration completed before another past event; here the focus is on the ongoing activity at the moment of interruption, not duration before it",
+          "'was prepared' is a passive construction implying someone else prepared Lisa, which is semantically wrong in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0008",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The guests were chatting quietly and ___ their drinks when the host suddenly announced the winner.",
+        "correct_answer": "enjoying",
+        "distractors": [
+          "enjoyed",
+          "were enjoying",
+          "had enjoyed"
+        ],
+        "distractor_rationale": [
+          "past simple 'enjoyed' breaks the parallel structure; the sentence already has 'were' governing both verbs ('were chatting and ___ their drinks'), so the second verb needs only the -ing form to complete the compound past continuous",
+          "'were enjoying' is grammatically possible in isolation but creates awkward repetition of the auxiliary 'were' in a coordinated structure where the auxiliary is already shared; the -ing participle alone is the correct parallel form here",
+          "past perfect 'had enjoyed' shifts the time frame to before the chatting and cannot be coordinated with 'were chatting' to describe simultaneous background actions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_multiple_choice_0009",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the time Mark reached the station, the last train ___ and the platform was completely empty.",
+        "correct_answer": "had left",
+        "distractors": [
+          "was leaving",
+          "left",
+          "has left"
+        ],
+        "distractor_rationale": [
+          "'was leaving' (past continuous) describes an action in progress at a past moment, but the context shows the train's departure was fully completed before Mark arrived; past perfect is required to express this prior completion",
+          "past simple 'left' does not clearly signal that the departure happened before Mark's arrival; the sequence of events requires past perfect to show one past action was completed before another",
+          "present perfect 'has left' cannot be used in a past narrative context; the time frame is anchored in the past by 'reached', requiring past perfect 'had left'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0000",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children played in the garden when it started to rain.",
+        "correct_answer": "were playing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children played in the garden when it started to rain.",
+        "corrected_sentence": "The children were playing in the garden when it started to rain.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0001",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She was read a book on the sofa when her phone rang.",
+        "correct_answer": "was reading",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She was read a book on the sofa when her phone rang.",
+        "corrected_sentence": "She was reading a book on the sofa when her phone rang.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0002",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom was cooking dinner when his sister was arrived home from school.",
+        "correct_answer": "arrived",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom was cooking dinner when his sister was arrived home from school.",
+        "corrected_sentence": "Tom was cooking dinner when his sister arrived home from school.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0003",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I was cooking and eating lunch before I went back to the office.",
+        "correct_answer": "cooked and ate",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I was cooking and eating lunch before I went back to the office.",
+        "corrected_sentence": "I cooked and ate lunch before I went back to the office.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0004",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Mark listened to music in his room when his mother called him for dinner.",
+        "correct_answer": "was listening",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Mark listened to music in his room when his mother called him for dinner.",
+        "corrected_sentence": "Mark was listening to music in his room when his mother called him for dinner.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0005",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When the fire alarm went off, most of the students sat quietly at their desks.",
+        "correct_answer": "were sitting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When the fire alarm went off, most of the students sat quietly at their desks.",
+        "corrected_sentence": "When the fire alarm went off, most of the students were sitting quietly at their desks.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0006",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna was walking to the bus stop when she was realising she had left her bag at home.",
+        "correct_answer": "realised",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna was walking to the bus stop when she was realising she had left her bag at home.",
+        "corrected_sentence": "Anna was walking to the bus stop when she realised she had left her bag at home.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_continuous_error_correction_0007",
+      "skill_ids": [
+        "past_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager was presenting the results to the team when the projector was suddenly stopping.",
+        "correct_answer": "suddenly stopped",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager was presenting the results to the team when the projector was suddenly stopping.",
+        "corrected_sentence": "The manager was presenting the results to the team when the projector suddenly stopped.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:49:48.341642+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

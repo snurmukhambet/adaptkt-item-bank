@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_physical_actions",
+  "skill_name": "Physical Actions & Handling",
+  "exercises": [
+    {
+      "id": "ex_vocab_physical_actions_cloze_0000",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She ___ the heavy shopping bags from the car to the kitchen door.",
+        "correct_answer": "carried",
+        "distractors": [
+          "dragged",
+          "dropped",
+          "delivered"
+        ],
+        "distractor_rationale": [
+          "dragged means pulling something along the ground, but bags are carried by hand from a car",
+          "dropped means letting something fall accidentally, which is the opposite of the action described",
+          "delivered means bringing goods professionally to an address, not moving your own bags at home"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0001",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom ___ the window because it was very cold and windy outside.",
+        "correct_answer": "closed",
+        "distractors": [
+          "broke",
+          "filled",
+          "cut"
+        ],
+        "distractor_rationale": [
+          "broke means to damage something so it no longer works, not to shut it against the cold",
+          "filled means to put something into a container until it is full, which cannot apply to a window",
+          "cut means to divide something with a sharp tool, which makes no sense with a window in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0002",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The child ___ the ball with both hands before it hit the ground.",
+        "correct_answer": "caught",
+        "distractors": [
+          "dropped",
+          "burned",
+          "dragged"
+        ],
+        "distractor_rationale": [
+          "dropped means letting something fall, which is the opposite of stopping it before it hits the ground",
+          "burned means to damage something with heat or fire, which is impossible with a thrown ball",
+          "dragged means pulling something along a surface, not stopping an object in mid-air"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0003",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "He used a sharp knife to ___ the rope into two equal pieces for the tent.",
+        "correct_answer": "cut",
+        "distractors": [
+          "break",
+          "bend",
+          "dig"
+        ],
+        "distractor_rationale": [
+          "break means to split something by force without a tool, and you cannot break a rope into equal measured pieces with a knife",
+          "bend means to curve something without separating it, so it would not produce two pieces",
+          "dig means to move earth or soil, which cannot be done to a rope with a knife"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0004",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria ___ the seat belt tightly before the driver started the car.",
+        "correct_answer": "fastened",
+        "distractors": [
+          "filled",
+          "dragged",
+          "caught"
+        ],
+        "distractor_rationale": [
+          "filled means to put liquid or objects into a container, which cannot be done to a seat belt",
+          "dragged means pulling something heavy along a surface, not securing a safety strap",
+          "caught means to grab a moving object, but a seat belt is stationary and must be clicked into place"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0005",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The gardener used a spade to ___ a deep hole for the new tree in the backyard.",
+        "correct_answer": "dig",
+        "distractors": [
+          "cut",
+          "drag",
+          "break"
+        ],
+        "distractor_rationale": [
+          "cut means to divide something with a blade, not to make a hole in the ground with a spade",
+          "drag means to pull something along a surface, not to move earth downward to create a hole",
+          "break means to damage something by force, not to systematically remove soil with a spade"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0006",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She ___ the heavy sofa across the floor to move it closer to the window.",
+        "correct_answer": "dragged",
+        "distractors": [
+          "carried",
+          "delivered",
+          "caught"
+        ],
+        "distractor_rationale": [
+          "carried means lifting something off the ground and transporting it, but a heavy sofa is moved by pulling it along the floor, not lifting it",
+          "delivered means professionally bringing goods to a location, not moving furniture inside your own home",
+          "caught means grabbing a moving object, but a sofa is stationary and is pulled, not grabbed mid-air"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0007",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The courier had to ___ thirty packages to different offices in the building before noon.",
+        "correct_answer": "deliver",
+        "distractors": [
+          "carry",
+          "drop",
+          "bring"
+        ],
+        "distractor_rationale": [
+          "carry means to transport something physically but does not include the professional act of handing items to specific recipients at specific addresses",
+          "drop means to let something fall accidentally, which is the opposite of the intended action",
+          "bring means to take something to a place but lacks the formal professional sense of a courier completing a scheduled delivery to multiple recipients"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0008",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "He had to ___ the metal pipe slightly so that it would fit around the corner of the wall.",
+        "correct_answer": "bend",
+        "distractors": [
+          "break",
+          "cut",
+          "dig"
+        ],
+        "distractor_rationale": [
+          "break means to split or damage the pipe completely, but the sentence says it needed to fit around a corner, requiring only a curve",
+          "cut means to divide the pipe into separate pieces with a blade, which would not help it go around a corner",
+          "dig means to move earth or soil, which is completely unrelated to shaping a metal pipe"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0009",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna ___ the jug with cold water from the tap before placing it on the table for her guests.",
+        "correct_answer": "filled",
+        "distractors": [
+          "carried",
+          "closed",
+          "fastened"
+        ],
+        "distractor_rationale": [
+          "carried means to transport the jug from one place to another, but the sentence specifies adding cold water from the tap, which is filling",
+          "closed means to shut something such as a door or container, but a jug is made ready by adding liquid, not by shutting it",
+          "fastened means to secure something with a clip or button, which cannot be done to a jug with water from a tap"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0010",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Please ___ the door when you leave the room so the noise does not disturb the others.",
+        "correct_answer": "close",
+        "distractors": [
+          "cut",
+          "drop",
+          "burn"
+        ],
+        "distractor_rationale": [
+          "cut means to use a blade to divide something — you cannot cut a door to stop noise",
+          "drop means to let something fall — a door is not dropped to shut it",
+          "burn means to set something on fire — this is nonsensical for a door in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0011",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom had to ___ his heavy suitcase up the stairs because the lift was broken.",
+        "correct_answer": "carry",
+        "distractors": [
+          "blow",
+          "dig",
+          "fill"
+        ],
+        "distractor_rationale": [
+          "blow means to push air with your mouth or wind — you cannot blow a suitcase up stairs",
+          "dig means to move earth or soil with a tool — this makes no sense with a suitcase on stairs",
+          "fill means to put something inside a container — a suitcase is already packed and is being moved, not filled"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0012",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The delivery worker had to ___ the large box across the floor because it was too heavy to lift.",
+        "correct_answer": "drag",
+        "distractors": [
+          "catch",
+          "fasten",
+          "bend"
+        ],
+        "distractor_rationale": [
+          "catch means to grab something moving through the air — a heavy box on the floor is not thrown or flying",
+          "fasten means to attach or secure something — it does not describe moving a box across a floor",
+          "bend means to curve something or your body — you cannot bend a box across the floor to move it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0013",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The gardener used a spade to ___ a hole in the garden and then planted the small tree inside it.",
+        "correct_answer": "dig",
+        "distractors": [
+          "deliver",
+          "drop",
+          "break"
+        ],
+        "distractor_rationale": [
+          "deliver means to bring goods to a place — a gardener with a spade is not delivering anything",
+          "drop means to let something fall accidentally — you cannot drop a hole into the ground",
+          "break means to damage something so it comes apart — a spade is used to move earth, not to break a hole open"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_cloze_0014",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Before getting on the motorbike, Anna always checks that her helmet strap is properly ___ed so that it stays secure during the ride.",
+        "correct_answer": "fasten",
+        "distractors": [
+          "fill",
+          "carry",
+          "bring"
+        ],
+        "distractor_rationale": [
+          "fill means to put liquid or objects inside a container — a helmet strap cannot be filled to make it secure",
+          "carry means to hold and move something from one place to another — a strap is not carried; it is secured around the chin",
+          "bring means to take something to a place — a strap cannot be brought to make it stay in place on your head"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_physical_actions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Please ___ the door when you leave — it is very cold outside.",
+        "correct_answer": "close",
+        "distractors": [
+          "cut",
+          "drop",
+          "dig"
+        ],
+        "distractor_rationale": [
+          "cut means to divide with a sharp tool, which cannot be done to a door to stop cold air",
+          "drop means to let something fall, which does not apply to operating a door",
+          "dig means to move earth with a tool, which is unrelated to a door"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom dropped the glass and it fell to the floor and started to ___.",
+        "correct_answer": "break",
+        "distractors": [
+          "burn",
+          "bend",
+          "blow"
+        ],
+        "distractor_rationale": [
+          "burn requires heat or fire, which is not present when a glass falls to the floor",
+          "bend means to curve, but glass does not bend when it hits a hard floor — it shatters",
+          "blow means to push air through something, which cannot describe what a falling glass does"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She used a knife to ___ the bread into six equal slices for the sandwiches.",
+        "correct_answer": "cut",
+        "distractors": [
+          "drag",
+          "drop",
+          "carry"
+        ],
+        "distractor_rationale": [
+          "drag means to pull something along a surface, which cannot divide bread into slices",
+          "drop means to let something fall, which cannot produce equal slices of bread",
+          "carry means to transport something from one place to another, not to divide it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The shopping bags were so heavy that Mark had to ___ them along the floor to the kitchen.",
+        "correct_answer": "drag",
+        "distractors": [
+          "catch",
+          "fill",
+          "blow"
+        ],
+        "distractor_rationale": [
+          "catch means to grab something moving through the air, not to pull something heavy along a floor",
+          "fill means to put something into a container until it is full, not to move a bag across a floor",
+          "blow means to push with air, which is not how a person moves heavy bags along a floor"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna remembered to ___ her seat belt before the car started moving on the motorway.",
+        "correct_answer": "fasten",
+        "distractors": [
+          "carry",
+          "dig",
+          "drop"
+        ],
+        "distractor_rationale": [
+          "carry means to hold and transport something, which cannot describe securing a seat belt",
+          "dig means to move earth with a tool, which has no connection to a seat belt",
+          "drop means to let something fall, which is the opposite of securing a seat belt"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The goalkeeper managed to ___ the ball just before it crossed the goal line.",
+        "correct_answer": "catch",
+        "distractors": [
+          "bend",
+          "fill",
+          "deliver"
+        ],
+        "distractor_rationale": [
+          "bend means to curve something, which is not what a goalkeeper does to stop a ball crossing a line",
+          "fill means to put something into a container until full, which makes no sense with a ball and goal line",
+          "deliver means to bring something to a destination, which is not the action of stopping a ball"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The worker used a shovel to ___ a deep hole in the garden before planting the new tree.",
+        "correct_answer": "dig",
+        "distractors": [
+          "burn",
+          "carry",
+          "break"
+        ],
+        "distractor_rationale": [
+          "burn requires heat or fire and cannot describe making a hole with a shovel",
+          "carry means to transport something from one place to another, not to make a hole in the ground",
+          "break means to damage something into pieces, but a shovel used to make a hole in soil is digging, not breaking"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The courier arrived at the office to ___ a large package of documents that needed to be signed immediately.",
+        "correct_answer": "deliver",
+        "distractors": [
+          "carry",
+          "drop",
+          "bring"
+        ],
+        "distractor_rationale": [
+          "carry describes the act of transporting something but does not imply the formal handover to a recipient that a courier performs",
+          "drop means to let something fall accidentally, which contradicts the professional act of a courier completing a job",
+          "bring means to take something to a place but implies the speaker's location as the destination, whereas a courier delivers to a third party's address"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Lisa carefully ___ the jug with cold water and placed it on the table so the guests could help themselves.",
+        "correct_answer": "filled",
+        "distractors": [
+          "bent",
+          "dragged",
+          "fastened"
+        ],
+        "distractor_rationale": [
+          "bent means to curve something, which cannot describe putting water into a jug",
+          "dragged means to pull something along a surface, which does not describe putting liquid into a container",
+          "fastened means to secure or close something firmly, which does not describe adding water to a jug"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The chef accidentally left the cloth too close to the gas flame and it began to ___ within seconds.",
+        "correct_answer": "burn",
+        "distractors": [
+          "bend",
+          "break",
+          "blow"
+        ],
+        "distractor_rationale": [
+          "bend means to curve under pressure, which does not describe what happens to cloth exposed to a gas flame",
+          "break means to separate into pieces under force, which is not the result of cloth being near a flame",
+          "blow means to push air, which describes an action a person takes, not what happens to cloth near a flame"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_physical_actions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_word_formation_0000",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Be careful not to ___ the glass when you wash it. (BREAK)",
+        "correct_answer": "break",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BREAK"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_physical_actions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_word_formation_0001",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the heavy boxes took all morning because there were so many of them. (CARRY)",
+        "correct_answer": "carrying",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CARRY"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_physical_actions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_word_formation_0002",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The package arrived with a small ___ in the corner, so the shop gave us a refund. (BREAK)",
+        "correct_answer": "breakage",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BREAK"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_physical_actions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_word_formation_0003",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The courier made three ___ to our street before noon, so we signed for all the parcels at once. (DELIVER)",
+        "correct_answer": "deliveries",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DELIVER"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_physical_actions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_physical_actions_word_formation_0004",
+      "skill_ids": [
+        "vocab_physical_actions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The safety officer checked that all the ___ on the workers' protective vests were secure before they entered the site. (FASTEN)",
+        "correct_answer": "fastenings",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "FASTEN"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:14:27.864793+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_physical_actions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

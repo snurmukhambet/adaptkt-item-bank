@@ -1,0 +1,1715 @@
+{
+  "skill_id": "vocab_weather",
+  "skill_name": "Weather & Climate",
+  "exercises": [
+    {
+      "id": "ex_vocab_weather_cloze_0000",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The roads were covered in ___, so the cars moved very slowly.",
+        "correct_answer": "ice",
+        "distractors": [
+          "rain",
+          "cloud",
+          "heat"
+        ],
+        "distractor_rationale": [
+          "rain falls on roads but does not cover them in a solid layer that makes cars move slowly",
+          "cloud is in the sky, not on roads",
+          "heat does not cover roads and does not cause slow movement in this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0001",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "It was very ___ outside, so Maria put on her coat and gloves before leaving.",
+        "correct_answer": "cold",
+        "distractors": [
+          "hot",
+          "dry",
+          "mild"
+        ],
+        "distractor_rationale": [
+          "hot weather would make someone remove layers, not add a coat and gloves",
+          "dry weather describes lack of rain and gives no reason to wear a coat and gloves",
+          "mild weather is pleasantly warm and would not require a coat and gloves"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0002",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Children ran outside to play when they saw the first ___ falling from the sky.",
+        "correct_answer": "snow",
+        "distractors": [
+          "flood",
+          "heat",
+          "season"
+        ],
+        "distractor_rationale": [
+          "flood is water on the ground, not something that falls from the sky that children excitedly play in",
+          "heat does not fall from the sky",
+          "season is a period of the year, not something that falls from the sky"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0003",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The weather was so ___ that the lake near the village completely turned to solid ice overnight.",
+        "correct_answer": "cold",
+        "distractors": [
+          "dry",
+          "mild",
+          "hot"
+        ],
+        "distractor_rationale": [
+          "dry weather removes moisture but cannot cause a lake to turn to solid ice",
+          "mild weather is too warm to freeze a lake",
+          "hot weather would prevent freezing, not cause it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0004",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After three weeks without any ___, the garden soil cracked and the plants began to die.",
+        "correct_answer": "rain",
+        "distractors": [
+          "snow",
+          "cloud",
+          "flood"
+        ],
+        "distractor_rationale": [
+          "snow is not what plants normally rely on in a garden context, and three weeks without snow would not cause soil to crack and plants to die",
+          "cloud is not water that reaches the soil and keeps plants alive",
+          "flood brings too much water, so three weeks without flood would not kill plants"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0005",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The temperature in the city reached 38 ___ Celsius yesterday, the highest recorded this year.",
+        "correct_answer": "degrees",
+        "distractors": [
+          "seasons",
+          "floods",
+          "clouds"
+        ],
+        "distractor_rationale": [
+          "seasons cannot follow a number to measure temperature",
+          "floods cannot follow a number to measure temperature",
+          "clouds cannot follow a number to measure temperature"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0006",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The river burst its banks after days of heavy ___, and water entered many homes in the area.",
+        "correct_answer": "rain",
+        "distractors": [
+          "heat",
+          "ice",
+          "snow"
+        ],
+        "distractor_rationale": [
+          "heat does not cause a river to burst its banks and send water into homes",
+          "ice forming does not make a river burst its banks and flood homes in the same way",
+          "snow alone does not cause immediate flooding described here — only rain falling directly causes rivers to overflow quickly"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0007",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The coastal town was badly damaged when a powerful ___ brought winds of over 200 kilometres per hour and destroyed several buildings.",
+        "correct_answer": "hurricane",
+        "distractors": [
+          "flood",
+          "season",
+          "freeze"
+        ],
+        "distractor_rationale": [
+          "a flood involves water rising, not winds of 200 km/h that destroy buildings",
+          "a season is a period of the year, not a single weather event with extreme winds",
+          "a freeze refers to very cold temperatures, not high-speed winds that destroy buildings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0008",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The winter was unusually ___, with temperatures staying above ten degrees the whole time and no frost at all.",
+        "correct_answer": "mild",
+        "distractors": [
+          "frozen",
+          "hot",
+          "dry"
+        ],
+        "distractor_rationale": [
+          "frozen describes a state of ice, which contradicts the description of temperatures above ten degrees with no frost",
+          "hot contradicts a winter context where temperatures above ten degrees are described as surprisingly warm — hot would imply much higher temperatures",
+          "dry describes a lack of rainfall, not the temperature level described by 'above ten degrees and no frost'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0009",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Farmers in the region lost most of their crops because the unusually long ___ summer left the soil too hard to grow vegetables.",
+        "correct_answer": "dry",
+        "distractors": [
+          "mild",
+          "frozen",
+          "cloudy"
+        ],
+        "distractor_rationale": [
+          "mild summer would have pleasant temperatures and would not make soil too hard to grow vegetables",
+          "frozen contradicts 'summer' and describes ice conditions, not hard dry soil",
+          "cloudy describes sky cover, not a lack of water in the soil that makes it too hard for crops"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0011",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "It was very ___ outside, so Maria put on her thickest coat before leaving the house.",
+        "correct_answer": "cold",
+        "distractors": [
+          "dry",
+          "mild",
+          "hot"
+        ],
+        "distractor_rationale": [
+          "dry describes a lack of moisture, not temperature — it does not explain why someone needs a thick coat",
+          "mild means pleasantly warm, which contradicts the need for a thick coat",
+          "hot means high temperature — wearing a thick coat in hot weather is contradictory"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0012",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After three weeks without any ___, the garden soil was hard and the plants were dying from lack of water.",
+        "correct_answer": "rain",
+        "distractors": [
+          "snow",
+          "flood",
+          "heat"
+        ],
+        "distractor_rationale": [
+          "snow would provide moisture and would not leave soil hard and dry in the way described; the plants dying from lack of water contradicts the presence of snow",
+          "a flood brings too much water — plants dying from lack of water directly contradicts a flood scenario",
+          "heat is not a source of water; the sentence says the plants needed water, not that they needed less heat, so heat cannot fill the gap logically"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0013",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The weather in spring here is usually ___, with temperatures around 15 degrees and very little wind.",
+        "correct_answer": "mild",
+        "distractors": [
+          "frozen",
+          "hot",
+          "dry"
+        ],
+        "distractor_rationale": [
+          "frozen describes a temperature at or below 0 degrees, which directly contradicts the stated 15 degrees",
+          "hot implies high temperatures well above 15 degrees and contradicts the description of a moderate, comfortable spring day",
+          "dry refers only to the absence of rain, not to temperature — it cannot describe a 15-degree, low-wind day on its own, and the sentence focuses on temperature character, not moisture"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_cloze_0014",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The heavy ___ caused the river to overflow its banks, and several streets in the town centre were completely underwater for two days.",
+        "correct_answer": "flood",
+        "distractors": [
+          "snow",
+          "drought",
+          "freeze"
+        ],
+        "distractor_rationale": [
+          "snow does not cause a river to overflow and streets to go underwater in the way described; melting snow could contribute over time, but 'heavy snow' directly contradicts streets being underwater immediately",
+          "drought means a long period without water — it is the opposite of a river overflowing and streets flooding",
+          "freeze means water turning to ice — frozen streets are not described as 'completely underwater', which directly contradicts the liquid water scenario"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "It is very ___ today, so I need to wear a warm coat outside.",
+        "correct_answer": "cold",
+        "distractors": [
+          "dry",
+          "mild",
+          "foggy"
+        ],
+        "distractor_rationale": [
+          "dry describes a lack of moisture, not low temperature, so it does not explain needing a warm coat",
+          "mild means pleasantly warm, which contradicts needing a warm coat",
+          "foggy describes reduced visibility from mist, not low temperature requiring a coat"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "There is a lot of ___ on the road this morning, so the cars are moving very slowly.",
+        "correct_answer": "ice",
+        "distractors": [
+          "heat",
+          "rain",
+          "cloud"
+        ],
+        "distractor_rationale": [
+          "heat on a road makes driving uncomfortable but does not cause cars to move very slowly for safety reasons",
+          "rain can slow traffic slightly, but the sentence implies a dangerous frozen surface, not wet roads",
+          "cloud is in the sky and does not appear on roads to affect driving speed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The children ran outside to play in the ___ and build a snowman in the garden.",
+        "correct_answer": "snow",
+        "distractors": [
+          "rain",
+          "wind",
+          "fog"
+        ],
+        "distractor_rationale": [
+          "rain cannot be used to build a snowman because it is liquid, not solid",
+          "wind cannot be used to build a snowman because it has no physical form to shape",
+          "fog cannot be used to build a snowman because it is water vapour suspended in air, not a solid material"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After three weeks without any rain, the farmers were worried about their ___ fields and dying crops.",
+        "correct_answer": "dry",
+        "distractors": [
+          "frozen",
+          "flooded",
+          "mild"
+        ],
+        "distractor_rationale": [
+          "frozen fields result from very low temperatures, which contradicts the context of no rain and dying crops from lack of water",
+          "flooded fields have too much water, which directly contradicts three weeks without rain",
+          "mild describes pleasant temperature and has no connection to the absence of rain damaging crops"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The weather in spring here is usually ___, with temperatures around 15 degrees and gentle breezes.",
+        "correct_answer": "mild",
+        "distractors": [
+          "freezing",
+          "humid",
+          "stormy"
+        ],
+        "distractor_rationale": [
+          "freezing means extremely cold, which contradicts the pleasant 15-degree temperature described",
+          "humid means hot and damp, which does not match 15-degree temperatures with gentle breezes",
+          "stormy means violent weather with strong winds and rain, which contradicts gentle breezes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Heavy ___ fell for six hours and the river broke its banks, forcing families to leave their homes.",
+        "correct_answer": "rain",
+        "distractors": [
+          "heat",
+          "frost",
+          "cloud"
+        ],
+        "distractor_rationale": [
+          "heat cannot fall and does not cause rivers to break their banks and flood homes",
+          "frost does not fall heavily or cause rivers to overflow in the way described",
+          "cloud cannot fall and does not directly cause rivers to break their banks"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "In summer, the ___ from the sun makes it very difficult to work outside in the middle of the day.",
+        "correct_answer": "heat",
+        "distractors": [
+          "snow",
+          "frost",
+          "flood"
+        ],
+        "distractor_rationale": [
+          "snow comes from cold winter conditions and cannot come from the sun in summer",
+          "frost forms in cold temperatures and cannot come from the sun in summer",
+          "flood is caused by excess water, not by the sun, and does not make outdoor work difficult in summer heat"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The river ___ every spring when the heavy rains fill it beyond its normal level and water spreads across the surrounding land.",
+        "correct_answer": "floods",
+        "distractors": [
+          "freezes",
+          "dries",
+          "heats"
+        ],
+        "distractor_rationale": [
+          "freezes means the river turns to ice, which requires cold temperatures and contradicts the heavy rain context",
+          "dries means the river loses water, which is the opposite of what happens when heavy rains fill it beyond its level",
+          "heats means the river becomes warmer, which does not cause water to spread across surrounding land"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The weather forecast warned that temperatures would ___ overnight, turning the wet roads into dangerous sheets of ice by morning.",
+        "correct_answer": "freeze",
+        "distractors": [
+          "flood",
+          "dry",
+          "heat"
+        ],
+        "distractor_rationale": [
+          "flood means fill with water, which cannot turn wet roads into sheets of ice",
+          "dry means remove moisture, which would make roads safer, not create ice",
+          "heat means become warmer, which is the opposite of what is needed to create sheets of ice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The coastal town was almost completely destroyed when a powerful ___ made landfall, bringing winds of over 200 kilometres per hour and enormous waves.",
+        "correct_answer": "hurricane",
+        "distractors": [
+          "drought",
+          "frost",
+          "season"
+        ],
+        "distractor_rationale": [
+          "drought is a long period without rain and does not produce winds or enormous waves that destroy a coastal town",
+          "frost is a thin layer of ice that forms in cold weather and cannot produce winds of 200 kilometres per hour",
+          "season is a period of the year such as summer or winter and is not a weather event that makes landfall"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_weather_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_word_formation_0000",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "It was a very ___ morning, so we stayed inside. (CLOUD)",
+        "correct_answer": "cloudy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLOUD"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_weather_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_word_formation_0001",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The roads were dangerous because of the ___ on the ground. (ICE)",
+        "correct_answer": "ice",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ICE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_weather_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_word_formation_0002",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The farmers were worried because there had been no ___ for three weeks. (RAIN)",
+        "correct_answer": "rainfall",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "RAIN"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_weather_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_word_formation_0003",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "After the heavy rain, the ___ of the river destroyed several houses near the bank. (FLOOD)",
+        "correct_answer": "flooding",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "FLOOD"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_weather_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_weather_word_formation_0004",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Scientists say that ___ temperatures in many regions are rising faster than at any time in recorded history. (SEASON)",
+        "correct_answer": "seasonal",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "SEASON"
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_weather_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_vocab_weather_cloze_0010",
+      "skill_ids": [
+        "vocab_weather"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The roads were covered in ___, so the cars moved very slowly.",
+        "correct_answer": "ice",
+        "distractors": [
+          "rain",
+          "heat",
+          "cloud"
+        ],
+        "distractor_rationale": [
+          "rain falls as liquid water and does not cover roads in a way that slows cars by making them slippery in the same fixed sense; the sentence implies a frozen, slippery surface",
+          "heat on roads does not cause slow movement — it contradicts the danger described",
+          "cloud exists in the sky, not on roads, so it cannot cover a road surface"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:00:15.686045+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_weather_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 29,
+    "filter_rejected": 1
+  }
+}

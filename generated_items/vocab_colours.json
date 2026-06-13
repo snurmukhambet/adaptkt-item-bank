@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_colours",
+  "skill_name": "Colours",
+  "exercises": [
+    {
+      "id": "ex_vocab_colours_cloze_0000",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The sun is ___ and it shines in the sky every day.",
+        "correct_answer": "yellow",
+        "distractors": [
+          "purple",
+          "black",
+          "grey"
+        ],
+        "distractor_rationale": [
+          "the sun is never purple — this would be nonsensical and contradicts common knowledge",
+          "black describes darkness or night, which is the opposite of a shining sun",
+          "a grey sun would mean cloudy or storm conditions, contradicting 'shines every day'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0001",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She drinks a glass of ___ milk every morning before school.",
+        "correct_answer": "white",
+        "distractors": [
+          "green",
+          "orange",
+          "pink"
+        ],
+        "distractor_rationale": [
+          "milk is not green — green milk does not exist and would be inedible",
+          "orange milk does not exist; orange juice is orange, not milk",
+          "pink milk does not exist as a natural drink — this contradicts the word 'milk'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0002",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The night sky is ___ and you can see the stars clearly.",
+        "correct_answer": "black",
+        "distractors": [
+          "white",
+          "yellow",
+          "blue"
+        ],
+        "distractor_rationale": [
+          "a white night sky would mean daytime or heavy snow clouds, contradicting 'see the stars'",
+          "a yellow sky occurs at sunrise or sunset, not at night when stars are visible",
+          "a blue sky is a daytime sky, which contradicts 'the night sky' stated in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0003",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom picked a ___ apple from the tree and ate it for a snack.",
+        "correct_answer": "red",
+        "distractors": [
+          "grey",
+          "purple",
+          "white"
+        ],
+        "distractor_rationale": [
+          "grey apples do not exist — this creates a nonsensical description of a real fruit",
+          "purple apples do not exist as a common fruit variety, making this nonsensical",
+          "white apples do not exist as a recognised fruit colour — apples are red, green, or yellow"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0004",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The leaves on the trees turn ___ and fall to the ground every autumn.",
+        "correct_answer": "brown",
+        "distractors": [
+          "blue",
+          "pink",
+          "white"
+        ],
+        "distractor_rationale": [
+          "leaves do not turn blue in autumn — this contradicts the natural process described",
+          "leaves do not turn pink when they fall in autumn — this is not a natural autumn colour",
+          "white leaves in autumn would suggest snow or frost on them, not the turning process described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0005",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria wore a ___ dress to the party because it matched the colour of the sea.",
+        "correct_answer": "blue",
+        "distractors": [
+          "orange",
+          "yellow",
+          "black"
+        ],
+        "distractor_rationale": [
+          "orange does not match the colour of the sea — this contradicts the clue 'matched the colour of the sea'",
+          "yellow does not match the colour of the sea — this contradicts the stated reason for her choice",
+          "black does not match the colour of the sea — seawater is blue, not black"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0006",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She peeled an ___ fruit for breakfast and enjoyed its sweet, tangy juice.",
+        "correct_answer": "orange",
+        "distractors": [
+          "green",
+          "grey",
+          "pink"
+        ],
+        "distractor_rationale": [
+          "a green fruit with sweet tangy juice is a lime, which is not typically peeled and drunk as juice at breakfast in the same way — and 'green' does not collocate with 'orange fruit'",
+          "grey fruit does not exist — this creates a nonsensical description",
+          "pink fruit does not match a fruit known for being peeled and having sweet tangy juice in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0007",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor said the patient looked very ___ in the face, so she needed more time outdoors in the sun.",
+        "correct_answer": "pale",
+        "distractors": [
+          "bright",
+          "dark",
+          "orange"
+        ],
+        "distractor_rationale": [
+          "bright is not used to describe a person's unhealthy skin tone — it does not collocate with a face that needs sunlight",
+          "dark skin tone would not be a medical concern requiring more time in the sun — this contradicts the doctor's advice",
+          "an orange face would not prompt a doctor to recommend more sunlight — orange is not a colour associated with paleness or illness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0008",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James has ___ hair, so people often think he is from a northern European country.",
+        "correct_answer": "blonde",
+        "distractors": [
+          "grey",
+          "dark",
+          "red"
+        ],
+        "distractor_rationale": [
+          "grey hair is associated with older people, not with a nationality stereotype about northern Europeans",
+          "dark hair is more commonly associated with southern European or other regions, which contradicts the northern European association in the sentence",
+          "red hair is associated with Celtic regions such as Ireland or Scotland, not specifically northern Europe as a whole"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0009",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The old man's hair turned completely ___ after he retired, and it was now the same colour as snow.",
+        "correct_answer": "grey",
+        "distractors": [
+          "blonde",
+          "brown",
+          "red"
+        ],
+        "distractor_rationale": [
+          "blonde hair does not match the colour of snow — snow is white or grey, not blonde",
+          "brown hair does not match the colour of snow — this contradicts the comparison to snow given in the sentence",
+          "red hair does not match the colour of snow — snow is not red, so this contradicts the stated comparison"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0010",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The sun is ___ and very bright in the sky today.",
+        "correct_answer": "yellow",
+        "distractors": [
+          "blue",
+          "green",
+          "pink"
+        ],
+        "distractor_rationale": [
+          "blue describes the sky, not the sun itself, which is universally known to appear yellow",
+          "green is the colour of grass and plants, not the sun",
+          "pink is associated with sunsets or flowers, not the sun shining brightly in the daytime sky"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0011",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She poured milk into her coffee and it turned from ___ to light brown.",
+        "correct_answer": "black",
+        "distractors": [
+          "white",
+          "red",
+          "orange"
+        ],
+        "distractor_rationale": [
+          "white is the colour of the milk being added, not the coffee before milk is poured in",
+          "red coffee does not exist as a standard drink; adding milk to red liquid would not produce light brown",
+          "orange coffee is not a recognised drink; adding milk to orange liquid would not produce light brown"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0012",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The traffic light changed to ___, so all the cars stopped immediately.",
+        "correct_answer": "red",
+        "distractors": [
+          "green",
+          "yellow",
+          "purple"
+        ],
+        "distractor_rationale": [
+          "green means go at a traffic light, so cars would move forward, not stop",
+          "yellow means slow down or prepare to stop, not stop immediately",
+          "purple is not a traffic light colour and would make the sentence nonsensical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0013",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom has ___ hair, just like his father — they both look very similar.",
+        "correct_answer": "blonde",
+        "distractors": [
+          "orange",
+          "grey",
+          "green"
+        ],
+        "distractor_rationale": [
+          "orange is not a natural human hair colour and would make the description unrealistic",
+          "grey hair is associated with older people, which contradicts the comparison to a father who looks similar to a young Tom",
+          "green is not a natural human hair colour and would make the sentence nonsensical in a realistic context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_cloze_0014",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The sky outside became very ___ and cloudy just before the heavy rain started to fall.",
+        "correct_answer": "grey",
+        "distractors": [
+          "bright",
+          "pink",
+          "white"
+        ],
+        "distractor_rationale": [
+          "bright skies are associated with sunny weather, which directly contradicts the heavy rain that follows",
+          "pink skies occur at sunrise or sunset in clear conditions, not before heavy rain",
+          "white skies suggest light cloud or fog, not the dark overcast conditions that immediately precede heavy rain"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_colours_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Snow is ___ .",
+        "correct_answer": "white",
+        "distractors": [
+          "black",
+          "red",
+          "green"
+        ],
+        "distractor_rationale": [
+          "black is the opposite of white and contradicts the known colour of snow",
+          "red contradicts the universally known appearance of snow",
+          "green contradicts the universally known appearance of snow"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 3,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Bananas are ___ .",
+        "correct_answer": "yellow",
+        "distractors": [
+          "blue",
+          "purple",
+          "grey"
+        ],
+        "distractor_rationale": [
+          "blue contradicts the universally known colour of ripe bananas",
+          "purple contradicts the universally known colour of ripe bananas",
+          "grey contradicts the universally known colour of ripe bananas"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 3,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The sky is ___ on a sunny day.",
+        "correct_answer": "blue",
+        "distractors": [
+          "orange",
+          "pink",
+          "brown"
+        ],
+        "distractor_rationale": [
+          "orange describes the sky at sunset, not on a clear sunny day",
+          "pink describes the sky at dawn or dusk, not on a clear sunny day",
+          "brown contradicts the known appearance of a clear daytime sky"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria has ___ hair — it is very light, almost the colour of the sun.",
+        "correct_answer": "blonde",
+        "distractors": [
+          "dark",
+          "black",
+          "grey"
+        ],
+        "distractor_rationale": [
+          "dark describes hair that is not light, contradicting 'very light' in the sentence",
+          "black is the darkest hair colour, directly contradicting 'very light'",
+          "grey describes the colour of older or mixed hair, not hair described as 'almost the colour of the sun'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom picked a ___ apple from the tree — it was not ripe yet and still very sour.",
+        "correct_answer": "green",
+        "distractors": [
+          "red",
+          "yellow",
+          "white"
+        ],
+        "distractor_rationale": [
+          "red apples are typically ripe and sweet, contradicting 'not ripe yet and still very sour'",
+          "yellow apples are generally ripe, contradicting 'not ripe yet and still very sour'",
+          "white is not a natural colour for apples on a tree"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The room was very ___ because all the curtains were closed and no light came in.",
+        "correct_answer": "dark",
+        "distractors": [
+          "bright",
+          "white",
+          "orange"
+        ],
+        "distractor_rationale": [
+          "bright means full of light, which directly contradicts 'curtains closed and no light came in'",
+          "white describes a colour, not the absence of light in a room",
+          "orange describes a colour, not the absence of light in a room"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She painted the walls of her bedroom ___ because she wanted the room to feel warm and energetic.",
+        "correct_answer": "orange",
+        "distractors": [
+          "grey",
+          "brown",
+          "black"
+        ],
+        "distractor_rationale": [
+          "grey is typically associated with a cool, neutral, or calm feeling, not warmth and energy",
+          "brown is associated with a dull or earthy feeling, not typically described as energetic",
+          "black is associated with darkness and heaviness, not a warm and energetic room feeling"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The nurse wore a ___ uniform, which is the traditional colour for hospital staff in many places.",
+        "correct_answer": "white",
+        "distractors": [
+          "purple",
+          "yellow",
+          "pink"
+        ],
+        "distractor_rationale": [
+          "purple is not a traditional or widely recognised colour for hospital uniforms",
+          "yellow is not a traditional or widely recognised colour for hospital uniforms",
+          "pink is not the traditional colour for hospital uniforms, though it may be used in some specific wards"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The old man had ___ hair and a long ___ beard, which made him look very wise.",
+        "correct_answer": "grey",
+        "distractors": [
+          "blonde",
+          "red",
+          "bright"
+        ],
+        "distractor_rationale": [
+          "blonde hair is associated with young or light-coloured hair, not typically with an old man looking wise",
+          "red hair is a specific natural colour not associated with ageing or wisdom in this context",
+          "bright is an adjective describing intensity of light or colour, not a specific hair colour"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna wore a ___ dress to the party because she wanted to look elegant, and the colour matched her black shoes perfectly.",
+        "correct_answer": "red",
+        "distractors": [
+          "brown",
+          "grey",
+          "dark"
+        ],
+        "distractor_rationale": [
+          "brown does not typically collocate with 'elegant' party wear and does not create a strong visual contrast with black shoes",
+          "grey is a neutral colour not strongly associated with elegant party dresses in this context",
+          "dark is an adjective describing the depth of a colour, not a specific colour that can match black shoes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_colours_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_word_formation_0000",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The sky is very ___ today. (BLUE)",
+        "correct_answer": "blue",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BLUE"
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_colours_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_word_formation_0001",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She has ___ hair, like the colour of the sun. (YELLOW)",
+        "correct_answer": "yellow",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "YELLOW"
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_colours_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_word_formation_0002",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The room looked ___ because there was very little light coming in. (DARK)",
+        "correct_answer": "dark",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DARK"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_colours_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_word_formation_0003",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The walls of the old building had turned ___ after many years without paint. (GREY)",
+        "correct_answer": "grey",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "GREY"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_colours_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_colours_word_formation_0004",
+      "skill_ids": [
+        "vocab_colours"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The leaves on the trees become ___ and orange every autumn before they fall. (RED)",
+        "correct_answer": "red",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "RED"
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:50:00.452426+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_colours_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

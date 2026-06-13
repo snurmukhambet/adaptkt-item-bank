@@ -1,0 +1,1863 @@
+{
+  "skill_id": "modals_suggestions",
+  "skill_name": "Modals: Suggestions & Offers",
+  "exercises": [
+    {
+      "id": "ex_modals_suggestions_cloze_0000",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ I carry those heavy bags for you?",
+        "correct_answer": "Shall",
+        "distractors": [
+          "Should",
+          "Would",
+          "Must"
+        ],
+        "distractor_rationale": [
+          "should is used for advice or suggestions, not first-person offers to do something for someone",
+          "would requires a following 'you like' structure to form an offer; alone before 'I carry' it is ungrammatical",
+          "must expresses obligation or necessity, not an offer of help"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0001",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How about ___ a pizza tonight instead of cooking?",
+        "correct_answer": "ordering",
+        "distractors": [
+          "order",
+          "to order",
+          "ordered"
+        ],
+        "distractor_rationale": [
+          "bare infinitive cannot follow 'how about'; the -ing form is required",
+          "to-infinitive cannot follow 'how about'; only the -ing form is grammatically correct here",
+          "past tense form cannot follow 'how about'; the -ing form is required for suggestions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0002",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ sit down and talk about the problem together.",
+        "correct_answer": "Let's",
+        "distractors": [
+          "Shall",
+          "Why don't",
+          "How about"
+        ],
+        "distractor_rationale": [
+          "shall requires a subject pronoun and a question mark to form a suggestion: 'Shall we sit down?'; it cannot begin this declarative structure",
+          "why don't requires a subject pronoun to complete the phrase: 'Why don't we sit down?'; it cannot stand alone before the bare infinitive here",
+          "how about requires an -ing form, not a bare infinitive: 'How about sitting down?'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0003",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You look really tired — you ___ go to bed earlier tonight.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "must implies a strong rule or necessity imposed on the person, which is too forceful for a friendly personal suggestion about sleep",
+          "shall is used for first-person offers and suggestions (shall I/we), not for second-person advice",
+          "would does not function as a modal of suggestion in this structure; it requires a conditional clause to make sense"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0004",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Why don't we ___ the museum on Saturday morning when it opens?",
+        "correct_answer": "visit",
+        "distractors": [
+          "to visit",
+          "visiting",
+          "visited"
+        ],
+        "distractor_rationale": [
+          "adding 'to' after 'why don't we' is a common learner error; the bare infinitive is required",
+          "the -ing form cannot follow 'why don't we'; only the bare infinitive is correct in this structure",
+          "past tense form cannot follow 'why don't we'; the bare infinitive is required for suggestions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0005",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Would you ___ a cup of tea while you wait for the doctor?",
+        "correct_answer": "like",
+        "distractors": [
+          "want",
+          "prefer",
+          "love"
+        ],
+        "distractor_rationale": [
+          "'would want' is grammatically awkward and not used as a standard polite offer formula in English",
+          "'would prefer' changes the meaning to expressing a preference between options already mentioned, not making an open offer",
+          "'would love' expresses the speaker's own strong desire, not an offer directed at the listener"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0006",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How about ___ the meeting to next week so everyone can prepare properly?",
+        "correct_answer": "moving",
+        "distractors": [
+          "move",
+          "to move",
+          "moved"
+        ],
+        "distractor_rationale": [
+          "bare infinitive cannot follow 'how about'; the -ing gerund form is grammatically required",
+          "to-infinitive cannot follow 'how about'; only the -ing gerund is correct in this suggestion structure",
+          "past tense form cannot follow 'how about'; the -ing gerund is required for suggestions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0007",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The traffic is very bad at this time of day, so we ___ take the train instead of driving.",
+        "correct_answer": "could",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "must expresses strong obligation or necessity, which is too forceful for a gentle suggestion about travel options",
+          "shall is restricted to first-person offers and questions (shall I/we), and cannot be used mid-sentence as a suggestion modal with 'we' in a declarative clause",
+          "would requires a conditional context or a following 'like' to function correctly; alone here it does not express a suggestion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0008",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ we book the restaurant now, before all the tables are taken for the weekend?",
+        "correct_answer": "Shall",
+        "distractors": [
+          "Should",
+          "Would",
+          "Must"
+        ],
+        "distractor_rationale": [
+          "should in a question with 'we' asks for advice or an opinion rather than making a direct first-person suggestion or offer to act together, which 'shall we' specifically conveys",
+          "would with 'we' in a question requires 'like' to form a polite offer; 'would we book' is not a natural suggestion structure",
+          "must in a question with 'we' expresses obligation or a rhetorical question, not a collaborative suggestion to act together"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0009",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you are not happy with the service, you ___ speak to the manager and explain the situation calmly.",
+        "correct_answer": "could",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "must implies a strong obligation or rule, making the sentence sound like a demand rather than a helpful suggestion to consider",
+          "shall is used for first-person offers and proposals (shall I/we), not for second-person suggestions in a conditional clause",
+          "would requires a conditional main clause structure (e.g. 'I would speak') and cannot stand alone as a suggestion modal addressed to 'you' in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0010",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ I carry those heavy bags to the car for you?",
+        "correct_answer": "Shall",
+        "distractors": [
+          "Must",
+          "Would",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "must expresses obligation, not an offer from the speaker to help",
+          "would requires a following 'you like' structure to form an offer; alone before 'I carry' it is grammatically incorrect",
+          "should expresses advice or recommendation, not a first-person offer to do something for someone"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0011",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How about ___ a walk in the park after lunch?",
+        "correct_answer": "taking",
+        "distractors": [
+          "take",
+          "to take",
+          "we take"
+        ],
+        "distractor_rationale": [
+          "the base infinitive cannot follow 'how about'; the gerund (-ing form) is required",
+          "the to-infinitive cannot follow 'how about'; this is a very common learner error with this suggestion structure",
+          "a subject + base verb cannot follow 'how about'; the structure requires a gerund directly after 'how about'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0012",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "You look really tired — you ___ go to bed earlier tonight instead of watching TV.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "must expresses strong obligation or necessity, which is too forceful for a friendly personal suggestion about someone's bedtime",
+          "shall is used for first-person offers or suggestions (shall I/we), not for giving advice to a second person",
+          "would expresses a hypothetical or conditional meaning and cannot stand alone here to make a suggestion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0013",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Why don't we ___ the meeting to Friday so everyone can attend?",
+        "correct_answer": "move",
+        "distractors": [
+          "to move",
+          "moving",
+          "moved"
+        ],
+        "distractor_rationale": [
+          "adding 'to' after 'why don't we' is a very common learner error; the base infinitive without 'to' is required",
+          "the gerund form cannot follow 'why don't we'; only the base infinitive is grammatically correct here",
+          "the past tense form is grammatically impossible after 'why don't we', which requires the base infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_cloze_0014",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The restaurant on the corner is fully booked, so we ___ try the new Italian place on Market Street instead.",
+        "correct_answer": "could",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "must expresses strong obligation or logical necessity, which is too forceful and inappropriate for an alternative suggestion when a restaurant is fully booked",
+          "shall is only grammatically standard with first-person subjects in question form (shall I/we?) to make offers or suggestions; it cannot be used in a positive statement to make a suggestion",
+          "would requires a conditional clause or an infinitive complement like 'would like to'; it cannot stand alone before a base verb to express a suggestion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_suggestions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0000",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ we sit near the window? The view is really nice.",
+        "correct_answer": "Shall",
+        "distractors": [
+          "Must",
+          "Would",
+          "Should"
+        ],
+        "distractor_rationale": [
+          "Must expresses obligation or necessity, not a suggestion or offer to a group",
+          "Would requires a following infinitive phrase like 'would you like' and does not form a first-person plural suggestion",
+          "Should we sit is grammatically possible but implies advice rather than a joint suggestion; the natural first-person plural invitation here is Shall we"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0001",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ I carry those heavy bags for you? They look very heavy.",
+        "correct_answer": "Shall",
+        "distractors": [
+          "Must",
+          "Should",
+          "Would"
+        ],
+        "distractor_rationale": [
+          "Must expresses obligation or strong necessity, not a polite offer to help someone",
+          "Should I carry implies asking for advice about what to do, not making an offer to help",
+          "Would I carry is not a standard offer structure; the correct offer form is Shall I"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0002",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Let's ___ a different restaurant tonight — this one is always full.",
+        "correct_answer": "try",
+        "distractors": [
+          "to try",
+          "trying",
+          "tried"
+        ],
+        "distractor_rationale": [
+          "Let's to try is incorrect because Let's is followed by a bare infinitive, not a to-infinitive",
+          "Let's trying is incorrect because Let's requires a bare infinitive, not a gerund",
+          "Let's tried is incorrect because Let's requires a bare infinitive, not a past tense form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0003",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "How about ___ the early train tomorrow so we arrive before the meeting starts?",
+        "correct_answer": "taking",
+        "distractors": [
+          "take",
+          "to take",
+          "took"
+        ],
+        "distractor_rationale": [
+          "How about take is incorrect because How about must be followed by a gerund (-ing form), not a bare infinitive",
+          "How about to take is incorrect because How about requires a gerund, not a to-infinitive",
+          "How about took is incorrect because How about requires a gerund, not a past tense verb form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0004",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Why don't we ___ a picnic in the park this weekend if the weather stays warm?",
+        "correct_answer": "have",
+        "distractors": [
+          "to have",
+          "having",
+          "had"
+        ],
+        "distractor_rationale": [
+          "Why don't we to have is incorrect because Why don't we is followed by a bare infinitive, not a to-infinitive",
+          "Why don't we having is incorrect because Why don't we requires a bare infinitive, not a gerund",
+          "Why don't we had is incorrect because Why don't we requires a bare infinitive, not a past tense form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0005",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You ___ call the doctor today — you have had that cough for over a week now.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "Must expresses strong obligation or a rule; here the speaker is giving friendly advice, not issuing a command or stating a rule",
+          "Shall you call is not a standard suggestion form; Shall is used with I or we for offers and suggestions, not with you",
+          "Would expresses hypothetical or conditional meaning and does not function as a suggestion in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0006",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ you like me to book a table at the Italian place for Saturday evening?",
+        "correct_answer": "Would",
+        "distractors": [
+          "Shall",
+          "Should",
+          "Must"
+        ],
+        "distractor_rationale": [
+          "Shall you like is not a standard offer form in English; Would you like is the fixed polite offer structure",
+          "Should you like is an archaic conditional structure, not a natural modern offer in everyday spoken English",
+          "Must you like is grammatically incorrect and does not express an offer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0007",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We could ___ the presentation again before the client arrives, just to make sure everything is clear.",
+        "correct_answer": "go through",
+        "distractors": [
+          "to go through",
+          "going through",
+          "went through"
+        ],
+        "distractor_rationale": [
+          "Could to go through is incorrect because could is a modal verb and must be followed by a bare infinitive, not a to-infinitive",
+          "Could going through is incorrect because modals require a bare infinitive, not a gerund",
+          "Could went through is incorrect because modals must be followed by a bare infinitive, not a past tense form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0008",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "How about ___ the team leader before we make a final decision about the project deadline?",
+        "correct_answer": "asking",
+        "distractors": [
+          "ask",
+          "to ask",
+          "we ask"
+        ],
+        "distractor_rationale": [
+          "How about ask is incorrect because How about must be followed by a gerund (-ing form), not a bare infinitive",
+          "How about to ask is incorrect because How about requires a gerund, not a to-infinitive",
+          "How about we ask is a different and less standard structure; in formal test contexts, How about + gerund is the target form being tested here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_multiple_choice_0009",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If you are feeling tired after the long journey, you ___ rest for a while before we go out for dinner.",
+        "correct_answer": "could",
+        "distractors": [
+          "must",
+          "shall",
+          "would"
+        ],
+        "distractor_rationale": [
+          "Must implies strong obligation or necessity, which is too forceful for a gentle suggestion given to someone who is tired",
+          "Shall you rest is not a standard suggestion form; Shall is used with I or we, not with you in suggestion structures",
+          "Would rest does not function as a suggestion in this structure; it expresses a hypothetical or conditional action, not a recommendation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_suggestions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0000",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Let's to go to the park this afternoon.",
+        "correct_answer": "go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Let's to go to the park this afternoon.",
+        "corrected_sentence": "Let's go to the park this afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0001",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 34,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "How about go for a walk after dinner?",
+        "correct_answer": "going",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "How about go for a walk after dinner?",
+        "corrected_sentence": "How about going for a walk after dinner?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 34,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0002",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You should to call the doctor if you still feel sick tomorrow.",
+        "correct_answer": "call",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You should to call the doctor if you still feel sick tomorrow.",
+        "corrected_sentence": "You should call the doctor if you still feel sick tomorrow.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0003",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Shall he carry your bags to the car for you?",
+        "correct_answer": "Shall I",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Shall he carry your bags to the car for you?",
+        "corrected_sentence": "Shall I carry your bags to the car for you?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0004",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We must try the new restaurant on the high street — I heard the food is great.",
+        "correct_answer": "should",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We must try the new restaurant on the high street — I heard the food is great.",
+        "corrected_sentence": "We should try the new restaurant on the high street — I heard the food is great.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0005",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "How about to watch a film at home tonight instead of going out?",
+        "correct_answer": "watching",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "How about to watch a film at home tonight instead of going out?",
+        "corrected_sentence": "How about watching a film at home tonight instead of going out?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0006",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Why don't we to book the tickets online so we don't have to queue at the entrance?",
+        "correct_answer": "book",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Why don't we to book the tickets online so we don't have to queue at the entrance?",
+        "corrected_sentence": "Why don't we book the tickets online so we don't have to queue at the entrance?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_suggestions_error_correction_0007",
+      "skill_ids": [
+        "modals_suggestions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "You could to ask your manager for a day off if you need more time to finish the report.",
+        "correct_answer": "ask",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "You could to ask your manager for a day off if you need more time to finish the report.",
+        "corrected_sentence": "You could ask your manager for a day off if you need more time to finish the report.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:17:20.451568+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_suggestions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

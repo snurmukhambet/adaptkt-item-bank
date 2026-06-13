@@ -1,0 +1,1865 @@
+{
+  "skill_id": "connectors_result_cause",
+  "skill_name": "Result & Cause Connectors",
+  "exercises": [
+    {
+      "id": "ex_connectors_result_cause_cloze_0000",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom was very tired, ___ he went to bed early last night.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "due to",
+          "since"
+        ],
+        "distractor_rationale": [
+          "because introduces a cause clause, but here the tired feeling is the cause and going to bed is the result — the connector must introduce the result",
+          "due to must be followed by a noun phrase, not a full clause",
+          "since here would introduce a cause, not a result, reversing the logical direction of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0001",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria missed the bus ___ she woke up late this morning.",
+        "correct_answer": "because",
+        "distractors": [
+          "so",
+          "therefore",
+          "as a result"
+        ],
+        "distractor_rationale": [
+          "so introduces a result clause, but waking up late is the cause of missing the bus, not the result",
+          "therefore introduces a result and cannot be placed mid-sentence between two clauses in this way",
+          "as a result introduces a result and requires a new sentence or semicolon boundary, not a mid-sentence connector"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0002",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The match was cancelled ___ the heavy snow on the field.",
+        "correct_answer": "due to",
+        "distractors": [
+          "because",
+          "so",
+          "therefore"
+        ],
+        "distractor_rationale": [
+          "because must be followed by a full subject-verb clause, not a noun phrase like 'the heavy snow on the field'",
+          "so introduces a result clause and cannot be followed by a noun phrase explaining a cause",
+          "therefore introduces a result in a new clause and cannot be followed by a noun phrase explaining a cause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0003",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new road is very busy; ___, the local council has decided to build a second bridge nearby.",
+        "correct_answer": "consequently",
+        "distractors": [
+          "because",
+          "owing to",
+          "since"
+        ],
+        "distractor_rationale": [
+          "because introduces a cause clause and cannot follow a semicolon to introduce a result in this discourse structure",
+          "owing to must be followed by a noun phrase, not a full clause, and signals cause rather than result",
+          "since here would introduce a cause, not a result, and cannot follow a semicolon to present a logical consequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0004",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the café was fully booked, Anna and her friend decided to eat at the restaurant across the street instead.",
+        "correct_answer": "Since",
+        "distractors": [
+          "Therefore",
+          "As a result",
+          "Due to"
+        ],
+        "distractor_rationale": [
+          "therefore introduces a result and cannot open a sentence to explain why the following action was taken",
+          "as a result introduces a result clause and cannot begin a sentence that explains the reason for the action in the main clause",
+          "due to must be followed by a noun phrase, not a full subject-verb clause like 'the café was fully booked'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0005",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The factory reduced its energy use by thirty per cent last year. ___, its electricity bills fell significantly.",
+        "correct_answer": "As a result",
+        "distractors": [
+          "Because",
+          "Owing to",
+          "As"
+        ],
+        "distractor_rationale": [
+          "because introduces a cause clause and cannot begin a sentence that presents the logical consequence of the previous sentence",
+          "owing to must be followed by a noun phrase and signals cause, not result, making it logically backwards here",
+          "as used as a cause connector must introduce a clause giving the reason for something, not the consequence of a preceding statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0006",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James could not attend the meeting ___ a sudden problem with his flight connection.",
+        "correct_answer": "owing to",
+        "distractors": [
+          "because",
+          "so",
+          "consequently"
+        ],
+        "distractor_rationale": [
+          "because must be followed by a full subject-verb clause, not a noun phrase like 'a sudden problem with his flight connection'",
+          "so introduces a result clause and cannot be followed by a noun phrase that explains a cause",
+          "consequently introduces a result and cannot be followed by a noun phrase explaining why something happened"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0007",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The building project was delayed by several months ___ unexpected problems with the underground water pipes were discovered during construction.",
+        "correct_answer": "because",
+        "distractors": [
+          "due to",
+          "owing to",
+          "therefore"
+        ],
+        "distractor_rationale": [
+          "due to must be followed by a noun phrase, not a full subject-verb clause beginning with 'unexpected problems … were discovered'",
+          "owing to must be followed by a noun phrase, not a full subject-verb clause, and so cannot precede this complete clause",
+          "therefore introduces a result and cannot introduce the reason why the building project was delayed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0008",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Several key members of staff resigned last month; ___, the department head had to restructure the entire team before the project deadline.",
+        "correct_answer": "therefore",
+        "distractors": [
+          "because",
+          "as",
+          "because of"
+        ],
+        "distractor_rationale": [
+          "because introduces a cause clause and cannot follow a semicolon to present the logical consequence of the preceding statement",
+          "as used as a cause connector introduces the reason for something and cannot follow a semicolon to present a result",
+          "because of must be followed by a noun phrase, not a full subject-verb clause, and signals cause rather than result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0009",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the sudden rise in the cost of raw materials, the company was forced to increase its prices for the first time in five years.",
+        "correct_answer": "Because of",
+        "distractors": [
+          "Because",
+          "Consequently",
+          "So"
+        ],
+        "distractor_rationale": [
+          "because must be followed by a full subject-verb clause, not a noun phrase like 'the sudden rise in the cost of raw materials'",
+          "consequently introduces a result and cannot begin a sentence to explain the reason why the company increased its prices",
+          "so introduces a result clause in a compound sentence and cannot open a sentence followed by a noun phrase that gives a cause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0010",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom missed the bus, ___ he was late for work.",
+        "correct_answer": "so",
+        "distractors": [
+          "because",
+          "due to",
+          "since"
+        ],
+        "distractor_rationale": [
+          "because introduces a cause clause, but the second clause here states the result of missing the bus, not the reason for it",
+          "due to must be followed by a noun phrase, not a full clause with subject and verb",
+          "since here would introduce the cause, but the second clause is the result, not the reason why he missed the bus"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0011",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The match was cancelled ___ the storm that hit the town overnight.",
+        "correct_answer": "due to",
+        "distractors": [
+          "because",
+          "so",
+          "therefore"
+        ],
+        "distractor_rationale": [
+          "because must be followed by a full clause with a subject and verb, not a noun phrase like 'the storm that hit the town overnight'",
+          "so introduces a result clause and must be followed by a subject and verb, not a noun phrase",
+          "therefore introduces a result clause at the start of a new sentence or after a semicolon, and cannot be followed by a noun phrase expressing cause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0012",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The hotel was fully booked for the weekend; ___, we had to find another place to stay.",
+        "correct_answer": "consequently",
+        "distractors": [
+          "because",
+          "owing to",
+          "although"
+        ],
+        "distractor_rationale": [
+          "because introduces a cause and must connect to a following clause explaining a reason, but the second clause here is the result, not the reason for the hotel being full",
+          "owing to must be followed by a noun phrase, not a full clause, and it introduces cause rather than result",
+          "although introduces a contrast or concession, which contradicts the logical result relationship between the two clauses here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0013",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The road was closed for three days ___ the flooding had damaged several sections of the surface.",
+        "correct_answer": "because",
+        "distractors": [
+          "due to",
+          "as a result",
+          "therefore"
+        ],
+        "distractor_rationale": [
+          "due to must be followed by a noun phrase, not a full clause with a subject and verb such as 'the flooding had damaged several sections'",
+          "as a result introduces a result clause, but the second clause here explains the reason for the road closure, making it a cause, not a result",
+          "therefore introduces a result at the start of a new independent clause after a semicolon or full stop, and cannot be placed mid-sentence before a cause clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_cloze_0014",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ several members of the team were absent with illness, the project deadline was extended by one week.",
+        "correct_answer": "Since",
+        "distractors": [
+          "Due to",
+          "As a result",
+          "So"
+        ],
+        "distractor_rationale": [
+          "due to must be followed by a noun phrase, not a full clause with a subject and verb such as 'several members of the team were absent with illness'",
+          "as a result introduces a consequence and must follow the cause that has already been stated; it cannot open a sentence that presents the cause first",
+          "so connects two clauses within a single sentence as a coordinating conjunction and cannot open a sentence or introduce a subordinate cause clause before the main clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_result_cause_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0000",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The shop was closed, ___ we had to go home without the groceries.",
+        "correct_answer": "so",
+        "distractors": [
+          "due to",
+          "because",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'due to' must be followed by a noun phrase, not a clause, so it cannot connect two full clauses here",
+          "'because' introduces a cause clause, but the second clause here is the result, not the cause",
+          "'since' here would make the second clause a cause, but 'we had to go home without the groceries' is the result, not a reason"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0002",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The flight was delayed ___ the bad weather conditions at the airport.",
+        "correct_answer": "due to",
+        "distractors": [
+          "because",
+          "so",
+          "therefore"
+        ],
+        "distractor_rationale": [
+          "'because' must be followed by a full clause with a subject and verb, not a noun phrase like 'the bad weather conditions'",
+          "'so' introduces a result clause and cannot precede a noun phrase explaining a cause",
+          "'therefore' introduces a result and cannot introduce a noun phrase giving a reason"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0003",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom had studied very hard for the exam; ___, he felt confident when he walked into the hall.",
+        "correct_answer": "therefore",
+        "distractors": [
+          "because",
+          "owing to",
+          "so"
+        ],
+        "distractor_rationale": [
+          "'because' introduces a subordinate cause clause and cannot follow a semicolon to begin an independent result clause",
+          "'owing to' must be followed by a noun phrase, not a clause, and signals cause rather than result",
+          "'so' is a coordinating conjunction used between two clauses with a comma, not after a semicolon as a discourse connector"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0004",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The road was blocked ___ a serious accident, so all drivers had to take a different route.",
+        "correct_answer": "owing to",
+        "distractors": [
+          "because",
+          "consequently",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'because' requires a full clause with a subject and verb, but 'a serious accident' is only a noun phrase",
+          "'consequently' introduces a result, not a cause, and cannot precede a noun phrase",
+          "'since' requires a full clause with a subject and verb, not a bare noun phrase like 'a serious accident'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0005",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The heating in the office broke down last night. ___, the manager told everyone to work from home today.",
+        "correct_answer": "As a result",
+        "distractors": [
+          "Because",
+          "Due to",
+          "Since"
+        ],
+        "distractor_rationale": [
+          "'Because' at the start of a new sentence introduces a subordinate cause clause, not a result, and would make the sentence a fragment without a main clause",
+          "'Due to' must be followed by a noun phrase and signals cause, not result",
+          "'Since' introduces a cause clause and cannot begin an independent sentence that expresses a result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0006",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ the team had not practised enough, they made several mistakes during the final match.",
+        "correct_answer": "Since",
+        "distractors": [
+          "Therefore",
+          "Due to",
+          "As a result"
+        ],
+        "distractor_rationale": [
+          "'Therefore' introduces a result clause and cannot begin a subordinate clause explaining why mistakes were made",
+          "'Due to' must be followed by a noun phrase, but 'the team had not practised enough' is a full clause",
+          "'As a result' introduces a result statement and cannot introduce the cause of the mistakes described in the main clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0007",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project was completed two weeks ahead of schedule; ___, the client agreed to give the team a bonus.",
+        "correct_answer": "consequently",
+        "distractors": [
+          "because of",
+          "as",
+          "owing to"
+        ],
+        "distractor_rationale": [
+          "'because of' must be followed by a noun phrase and introduces a cause, not a result following a semicolon",
+          "'as' introduces a subordinate cause clause and cannot follow a semicolon to begin an independent result statement",
+          "'owing to' must be followed by a noun phrase and introduces a cause, not a result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0008",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The outdoor event was cancelled ___ the organisers had not arranged any shelter for the guests.",
+        "correct_answer": "as",
+        "distractors": [
+          "due to",
+          "consequently",
+          "therefore"
+        ],
+        "distractor_rationale": [
+          "'due to' must be followed by a noun phrase, but 'the organisers had not arranged any shelter' is a full clause with a subject and verb",
+          "'consequently' introduces a result and cannot introduce the cause of the cancellation",
+          "'therefore' introduces a result and cannot introduce a subordinate clause explaining why the event was cancelled"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0009",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Several key members of staff resigned last month. ___, the company has decided to pause its expansion plans until new staff are hired.",
+        "correct_answer": "As a result",
+        "distractors": [
+          "Because of",
+          "Since",
+          "Owing to"
+        ],
+        "distractor_rationale": [
+          "'Because of' must be followed by a noun phrase and introduces a cause, not a result in a new sentence",
+          "'Since' introduces a subordinate cause clause and cannot begin an independent sentence expressing a consequence",
+          "'Owing to' must be followed by a noun phrase and introduces a cause, not a result expressed in a new independent sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0000",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The bus was late, therefore we missed the first part of the film.",
+        "correct_answer": "so we missed",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The bus was late, therefore we missed the first part of the film.",
+        "corrected_sentence": "The bus was late, so we missed the first part of the film.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0001",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She stayed home due to she had a bad cold and did not want to infect her colleagues.",
+        "correct_answer": "because she had",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She stayed home due to she had a bad cold and did not want to infect her colleagues.",
+        "corrected_sentence": "She stayed home because she had a bad cold and did not want to infect her colleagues.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0002",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The match was cancelled because of the weather conditions were too dangerous for the players.",
+        "correct_answer": "because the weather conditions",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The match was cancelled because of the weather conditions were too dangerous for the players.",
+        "corrected_sentence": "The match was cancelled because the weather conditions were too dangerous for the players.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0003",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom had not slept well the night before, as a result he found it very hard to concentrate during the meeting.",
+        "correct_answer": "as a result, he found",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom had not slept well the night before, as a result he found it very hard to concentrate during the meeting.",
+        "corrected_sentence": "Tom had not slept well the night before, as a result, he found it very hard to concentrate during the meeting.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0004",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The road was closed because due to a large fallen tree, and drivers had to take a longer route.",
+        "correct_answer": "because of a large fallen tree",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The road was closed because due to a large fallen tree, and drivers had to take a longer route.",
+        "corrected_sentence": "The road was closed because of a large fallen tree, and drivers had to take a longer route.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0005",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Owing to the manager was away on a business trip, the team had to make all the decisions themselves.",
+        "correct_answer": "Since the manager was away",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Owing to the manager was away on a business trip, the team had to make all the decisions themselves.",
+        "corrected_sentence": "Since the manager was away on a business trip, the team had to make all the decisions themselves.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0006",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The project was delivered on time; consequently, the client was satisfied with the outcome. Therefore the team received a bonus.",
+        "correct_answer": "As a result, the team received",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The project was delivered on time; consequently, the client was satisfied with the outcome. Therefore the team received a bonus.",
+        "corrected_sentence": "The project was delivered on time; consequently, the client was satisfied with the outcome. Therefore, the team received a bonus.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_result_cause_error_correction_0007",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Due to the heavy snowfall overnight, many schools were closed and, consequently, parents had to arrange childcare because of they could not go to work.",
+        "correct_answer": "because they could not go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Due to the heavy snowfall overnight, many schools were closed and, consequently, parents had to arrange childcare because of they could not go to work.",
+        "corrected_sentence": "Due to the heavy snowfall overnight, many schools were closed and, consequently, parents had to arrange childcare because they could not go to work.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_result_cause_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_connectors_result_cause_multiple_choice_0001",
+      "skill_ids": [
+        "connectors_result_cause"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria missed the bus ___ she woke up late this morning.",
+        "correct_answer": "because",
+        "distractors": [
+          "so",
+          "therefore",
+          "due to"
+        ],
+        "distractor_rationale": [
+          "'so' introduces a result clause, but 'she woke up late' is the cause, not the result",
+          "'therefore' introduces a result and cannot begin a subordinate cause clause",
+          "'due to' must be followed by a noun phrase, not a full clause like 'she woke up late'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:20:22.459372+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_result_cause_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

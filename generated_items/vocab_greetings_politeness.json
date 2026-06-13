@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_greetings_politeness",
+  "skill_name": "Greetings & Politeness",
+  "exercises": [
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0000",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She opened the door and said '___ ' to her friend.",
+        "correct_answer": "hello",
+        "distractors": [
+          "goodbye",
+          "sorry",
+          "thanks"
+        ],
+        "distractor_rationale": [
+          "goodbye is said when leaving, not when opening the door to greet someone",
+          "sorry is an apology, not a greeting used when meeting someone",
+          "thanks is an expression of gratitude, not a greeting when opening the door"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0001",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom waved and said '___ ' as he walked out of the office at the end of the day.",
+        "correct_answer": "goodbye",
+        "distractors": [
+          "hello",
+          "please",
+          "excuse"
+        ],
+        "distractor_rationale": [
+          "hello is a greeting used when arriving, not when leaving at the end of the day",
+          "please is used to make polite requests, not to say farewell when leaving",
+          "excuse is used to get someone's attention or to apologise, not to say farewell"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0002",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher said '___ morning' to the students when they arrived at school.",
+        "correct_answer": "good",
+        "distractors": [
+          "bye",
+          "fine",
+          "hey"
+        ],
+        "distractor_rationale": [
+          "bye is a farewell expression and cannot precede 'morning' to form a greeting",
+          "fine describes a state of being and does not collocate with 'morning' as a greeting",
+          "hey is an informal attention-getter and does not collocate with 'morning' to form a standard greeting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0003",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "He bumped into a colleague in the corridor and said '___ me' before stepping to one side.",
+        "correct_answer": "excuse",
+        "distractors": [
+          "congratulate",
+          "apologize",
+          "farewell"
+        ],
+        "distractor_rationale": [
+          "congratulate does not collocate with 'me' in this pattern and is used to praise someone, not to pass politely",
+          "apologize does not collocate with 'me' in this fixed phrase; the correct collocation is 'excuse me' for passing someone",
+          "farewell is a noun or interjection used when leaving, not a verb that collocates with 'me' in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0004",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After Maria passed her driving test, her family shouted '___ !' and gave her flowers.",
+        "correct_answer": "congratulations",
+        "distractors": [
+          "goodbye",
+          "hello",
+          "excuse me"
+        ],
+        "distractor_rationale": [
+          "goodbye is a farewell expression and is not used to celebrate someone's achievement",
+          "hello is a greeting used when meeting someone, not a reaction to a personal success",
+          "excuse me is used to get attention or pass politely, not to celebrate an achievement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0005",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna called her friend on the phone and said '___ , is this a good time to talk?'",
+        "correct_answer": "hi",
+        "distractors": [
+          "bye",
+          "cheers",
+          "farewell"
+        ],
+        "distractor_rationale": [
+          "bye is used at the end of a conversation, not at the beginning of a phone call",
+          "cheers is used to express thanks or as a toast, not to open a phone conversation",
+          "farewell is a formal word used when parting for a long time, not to open a phone call"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0006",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "When David helped her carry the heavy bags, Lisa said '___ ' and smiled at him.",
+        "correct_answer": "cheers",
+        "distractors": [
+          "hello",
+          "goodbye",
+          "hey"
+        ],
+        "distractor_rationale": [
+          "hello is a greeting used when meeting someone, not a response to receiving help",
+          "goodbye is a farewell expression and is not used to thank someone for helping",
+          "hey is used to get someone's attention, not to express gratitude after receiving help"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0007",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Mark stepped on someone's foot on the bus and quickly said 'I ___ ' to the person.",
+        "correct_answer": "apologize",
+        "distractors": [
+          "congratulate",
+          "excuse",
+          "farewell"
+        ],
+        "distractor_rationale": [
+          "congratulate means to praise someone for an achievement, which is the opposite of what is needed after stepping on someone's foot",
+          "excuse collocates with 'me' as a fixed phrase but 'I excuse' is not a standard expression of apology after causing pain",
+          "farewell is a noun or interjection for parting, not a verb used to express regret for hurting someone"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0008",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The guests arrived at seven in the ___ , just as it was getting dark outside.",
+        "correct_answer": "evening",
+        "distractors": [
+          "morning",
+          "afternoon",
+          "goodbye"
+        ],
+        "distractor_rationale": [
+          "morning refers to the early part of the day before noon, which contradicts 'getting dark outside'",
+          "afternoon refers to the period between noon and early evening, which does not match 'getting dark' at seven",
+          "goodbye is a farewell expression and cannot refer to a time of day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0009",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After twenty years working at the company, Sara received a warm ___ from all her colleagues at her leaving party.",
+        "correct_answer": "farewell",
+        "distractors": [
+          "hello",
+          "morning",
+          "fine"
+        ],
+        "distractor_rationale": [
+          "hello is a greeting used when meeting someone, not a send-off given at a leaving party after long service",
+          "morning refers to a time of day and cannot describe the send-off someone receives at a leaving party",
+          "fine describes a state or quality and cannot describe the act of saying goodbye to a long-serving colleague"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0010",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She says '___ ' to her teacher when she arrives at school every morning.",
+        "correct_answer": "hello",
+        "distractors": [
+          "goodbye",
+          "cheers",
+          "sorry"
+        ],
+        "distractor_rationale": [
+          "'goodbye' is said when leaving, not when arriving — it contradicts 'arrives'",
+          "'cheers' is an informal toast or thanks, not a standard arrival greeting",
+          "'sorry' is an apology, not a greeting used when meeting someone"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0011",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom waved and said '___ ' to his friend as he walked out of the building and went home.",
+        "correct_answer": "goodbye",
+        "distractors": [
+          "hello",
+          "excuse",
+          "fine"
+        ],
+        "distractor_rationale": [
+          "'hello' is used when meeting someone, not when leaving — it contradicts 'walked out and went home'",
+          "'excuse' is used to get someone's attention or to apologise, not to end a meeting",
+          "'fine' is a response to 'how are you', not a farewell expression"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0012",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The receptionist greeted every visitor with 'Good ___ ' when they entered the office before lunch.",
+        "correct_answer": "morning",
+        "distractors": [
+          "evening",
+          "afternoon",
+          "bye"
+        ],
+        "distractor_rationale": [
+          "'Good evening' is used after sunset, not before lunch — it contradicts 'before lunch'",
+          "'Good afternoon' is used after noon, but the visit happens before lunch, so it is too early",
+          "'bye' cannot follow 'Good' to form a standard greeting and is a farewell, not a welcome"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0013",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna stepped on the man's foot on the bus and quickly said '___ me' to apologise to him.",
+        "correct_answer": "excuse",
+        "distractors": [
+          "hi",
+          "goodbye",
+          "congratulations"
+        ],
+        "distractor_rationale": [
+          "'hi' is a greeting and cannot follow with 'me' to form an apology after an accident",
+          "'goodbye me' is not a phrase in English and does not express an apology",
+          "'congratulations me' is not a phrase in English and is the opposite of an apology — it expresses celebration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_cloze_0014",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Everyone at the party shouted '___ ' when David told them he had just passed his final exams.",
+        "correct_answer": "congratulations",
+        "distractors": [
+          "farewell",
+          "hello",
+          "fine"
+        ],
+        "distractor_rationale": [
+          "'farewell' is said when someone is leaving permanently, not when celebrating an achievement",
+          "'hello' is a greeting used when first meeting someone, not a response to good news about an exam",
+          "'fine' is a reply to 'how are you' and does not express celebration or praise for an achievement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_greetings_politeness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She says '___ ' to her teacher every morning when she arrives at school.",
+        "correct_answer": "hello",
+        "distractors": [
+          "goodbye",
+          "sorry",
+          "thanks"
+        ],
+        "distractor_rationale": [
+          "'goodbye' is said when leaving, not when arriving",
+          "'sorry' is an apology, not a greeting",
+          "'thanks' expresses gratitude, not a greeting on arrival"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom waves and says '___ ' to his friend as the bus drives away.",
+        "correct_answer": "bye",
+        "distractors": [
+          "hi",
+          "hey",
+          "fine"
+        ],
+        "distractor_rationale": [
+          "'hi' is a greeting used when meeting someone, not when leaving",
+          "'hey' is used to get someone's attention or greet them, not to say farewell",
+          "'fine' describes a state or condition and is not a farewell word"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A1",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna says 'Good ___ ' to her neighbour when she sees him at eight o'clock in the morning.",
+        "correct_answer": "morning",
+        "distractors": [
+          "evening",
+          "afternoon",
+          "goodbye"
+        ],
+        "distractor_rationale": [
+          "'evening' is used as a greeting later in the day, not at eight o'clock in the morning",
+          "'afternoon' is used as a greeting after midday, not at eight o'clock in the morning",
+          "'goodbye' is a farewell, not part of the fixed greeting 'Good morning'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "He stepped on the woman's foot on the bus and said '___ me' immediately.",
+        "correct_answer": "excuse",
+        "distractors": [
+          "hello",
+          "goodbye",
+          "congratulations"
+        ],
+        "distractor_rationale": [
+          "'hello' is a greeting and has no connection to apologising for an accident",
+          "'goodbye' is a farewell and is not used when apologising",
+          "'congratulations' is used to celebrate good news, not to apologise for an accident"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The friends shouted '___ !' and clapped when Maria told them she passed her driving test.",
+        "correct_answer": "congratulations",
+        "distractors": [
+          "farewell",
+          "excuse",
+          "morning"
+        ],
+        "distractor_rationale": [
+          "'farewell' is said when someone is leaving permanently, not when celebrating good news",
+          "'excuse' is used to apologise or get attention, not to celebrate an achievement",
+          "'morning' is part of a time-of-day greeting and is not used to celebrate success"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The receptionist greeted every guest with a smile and a warm 'Good ___ ' as they arrived at six in the evening.",
+        "correct_answer": "evening",
+        "distractors": [
+          "morning",
+          "afternoon",
+          "bye"
+        ],
+        "distractor_rationale": [
+          "'morning' is used as a greeting in the early part of the day, not at six in the evening",
+          "'afternoon' is used as a greeting between midday and early evening, not at six in the evening",
+          "'bye' is a farewell expression and does not follow 'Good' as part of a time-of-day greeting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "When the waiter brought their drinks, David raised his glass and said '___ ' to his friends.",
+        "correct_answer": "cheers",
+        "distractors": [
+          "sorry",
+          "farewell",
+          "hi"
+        ],
+        "distractor_rationale": [
+          "'sorry' is an apology and is not used as a toast when raising a glass",
+          "'farewell' is a formal goodbye and is not used as a toast when raising a glass",
+          "'hi' is an informal greeting used when meeting someone, not as a toast"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Lisa wanted to ___ for arriving late to the meeting, so she said sorry to everyone in the room.",
+        "correct_answer": "apologize",
+        "distractors": [
+          "greet",
+          "farewell",
+          "congratulate"
+        ],
+        "distractor_rationale": [
+          "'greet' means to say hello to someone and does not match saying sorry for being late",
+          "'farewell' is a noun or exclamation used when leaving and cannot fill this verb position meaningfully",
+          "'congratulate' means to praise someone for success, which contradicts the context of arriving late"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After many years working together, the whole team gathered to say a warm ___ to James before he moved to another city.",
+        "correct_answer": "farewell",
+        "distractors": [
+          "hello",
+          "cheers",
+          "excuse"
+        ],
+        "distractor_rationale": [
+          "'hello' is a greeting used when meeting someone, which contradicts the context of someone leaving permanently",
+          "'cheers' is a toast or informal thanks and does not describe a formal goodbye event",
+          "'excuse' is used to apologise or get attention and does not fit the context of a leaving celebration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The manager asked everyone to be ___ to customers by using polite words and a friendly tone at all times.",
+        "correct_answer": "good",
+        "distractors": [
+          "fine",
+          "bye",
+          "hey"
+        ],
+        "distractor_rationale": [
+          "'fine' describes a satisfactory condition or state and does not collocate with 'to customers' to describe polite behaviour",
+          "'bye' is a farewell expression and cannot function as an adjective describing how staff should behave",
+          "'hey' is an informal exclamation used to attract attention and cannot function as an adjective in this sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_greetings_politeness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_word_formation_0000",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She said ___ to her friend before leaving. (GOOD)",
+        "correct_answer": "goodbye",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "GOOD"
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_greetings_politeness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_word_formation_0001",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 25,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom said ___ morning to everyone when he arrived at school. (GOOD)",
+        "correct_answer": "good",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "GOOD"
+      },
+      "difficulty_features": {
+        "gse_target": 25,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_greetings_politeness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_word_formation_0002",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "He made a full ___ to his colleague for arriving late to the meeting. (APOLOGIZE)",
+        "correct_answer": "apology",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "APOLOGIZE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_greetings_politeness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_word_formation_0003",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The teacher asked the students to ___ themselves before entering the classroom quietly. (EXCUSE)",
+        "correct_answer": "excuse",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "EXCUSE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_greetings_politeness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_greetings_politeness_word_formation_0004",
+      "skill_ids": [
+        "vocab_greetings_politeness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "At the end of the ceremony, the manager gave a short ___ speech to the team member who was leaving the company. (FAREWELL)",
+        "correct_answer": "farewell",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "FAREWELL"
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:51:40.498402+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_greetings_politeness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

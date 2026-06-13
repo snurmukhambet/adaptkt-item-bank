@@ -1,0 +1,1863 @@
+{
+  "skill_id": "time_clauses",
+  "skill_name": "Time Clauses (When/Before/After/While/Until)",
+  "exercises": [
+    {
+      "id": "ex_time_clauses_cloze_0000",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I'll send you a message when I ___ (get) home tonight.",
+        "correct_answer": "get",
+        "distractors": [
+          "will get",
+          "got",
+          "am getting"
+        ],
+        "distractor_rationale": [
+          "will is not used in a future time clause introduced by 'when' — this is the most common learner error",
+          "past simple 'got' is impossible in a future time clause referring to a future event tonight",
+          "present continuous implies an already-arranged ongoing action, not a future point-in-time arrival"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0001",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please wait here ___ the doctor is ready to see you.",
+        "correct_answer": "until",
+        "distractors": [
+          "when",
+          "while",
+          "after"
+        ],
+        "distractor_rationale": [
+          "'when' marks the point at which something happens, not a continuous period of waiting up to that point",
+          "'while' introduces a simultaneous action, but waiting and the doctor being ready are not simultaneous events",
+          "'after' means following a completed event, which is the opposite of what the sentence requires"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0002",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom always checks his phone ___ he eats his breakfast in the morning.",
+        "correct_answer": "while",
+        "distractors": [
+          "until",
+          "before",
+          "as soon as"
+        ],
+        "distractor_rationale": [
+          "'until' marks the end point of an action, but checking a phone and eating breakfast happen at the same time",
+          "'before' means prior to eating, but the sentence describes two simultaneous habitual actions",
+          "'as soon as' means immediately after, but the two actions overlap rather than one triggering the other"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0003",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She will not leave the office ___ she finishes writing the report for her manager.",
+        "correct_answer": "until",
+        "distractors": [
+          "when",
+          "as soon as",
+          "after"
+        ],
+        "distractor_rationale": [
+          "'when' marks the moment something happens, not a continuous state that continues up to a future point",
+          "'as soon as' means she would leave immediately upon finishing, which contradicts the negative 'will not leave'",
+          "'after' would mean she stays following the report, which reverses the intended meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0004",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "As soon as the train ___ (arrive) at the station, we'll pick up our bags and head to the hotel.",
+        "correct_answer": "arrives",
+        "distractors": [
+          "will arrive",
+          "arrived",
+          "has arrived"
+        ],
+        "distractor_rationale": [
+          "will is not used in a future time clause introduced by 'as soon as' — this is a direct learner error",
+          "past simple 'arrived' refers to a completed past event, but the sentence is about a future journey",
+          "present perfect 'has arrived' could theoretically signal completion, but 'as soon as' requires present simple in future time clauses, not present perfect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0005",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Make sure you turn off all the lights ___ you leave the house for your holiday.",
+        "correct_answer": "before",
+        "distractors": [
+          "while",
+          "until",
+          "when"
+        ],
+        "distractor_rationale": [
+          "'while' requires two simultaneous actions, but turning off lights and leaving happen in sequence, not at the same time",
+          "'until' would mean the lights stay on up to the moment of leaving, which contradicts the instruction to turn them off",
+          "'when' would mean turning them off at the exact moment of leaving, but the instruction implies doing it as a prior step"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0006",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the children were playing in the garden, their parents were preparing lunch inside the house.",
+        "correct_answer": "While",
+        "distractors": [
+          "When",
+          "After",
+          "Until"
+        ],
+        "distractor_rationale": [
+          "'when' introduces a point-in-time event, but both actions here are ongoing and simultaneous, which requires 'while'",
+          "'after' means one action follows the completion of another, but preparing lunch and playing happen at the same time",
+          "'until' marks the end point of a duration, not two parallel ongoing actions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0007",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the rescue team ___ (reach) the village, the flooding had already damaged most of the houses.",
+        "correct_answer": "reached",
+        "distractors": [
+          "had reached",
+          "was reaching",
+          "has reached"
+        ],
+        "distractor_rationale": [
+          "past perfect is reserved for the earlier action in a past sequence; reaching the village is the later action, so simple past is required",
+          "past continuous 'was reaching' describes an ongoing action, but the sentence requires a completed arrival at a specific point",
+          "present perfect cannot be used for a completed past sequence where both events are clearly in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0008",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna will have finished packing her suitcase ___ her taxi arrives to take her to the airport.",
+        "correct_answer": "by the time",
+        "distractors": [
+          "as soon as",
+          "while",
+          "until"
+        ],
+        "distractor_rationale": [
+          "'as soon as' means immediately when the taxi arrives, but the future perfect 'will have finished' signals completion before that moment, which only 'by the time' expresses",
+          "'while' requires two simultaneous ongoing actions, but packing will be completed before the taxi arrives, not during",
+          "'until' would mean she continues packing up to the taxi's arrival, contradicting the future perfect which shows prior completion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0009",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager wants everyone to review the draft carefully ___ submitting the final version to the client next Friday.",
+        "correct_answer": "before",
+        "distractors": [
+          "after",
+          "until",
+          "while"
+        ],
+        "distractor_rationale": [
+          "'after' reverses the required sequence — reviewing must happen prior to submission, not following it",
+          "'until' would mean the team reviews continuously up to the moment of submission without a clear stopping point, which does not match the instruction to review carefully as a prior step",
+          "'while' implies reviewing and submitting happen simultaneously, but you cannot submit and review at the same time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0010",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I'll turn off the lights before I ___ (leave) the house tonight.",
+        "correct_answer": "leave",
+        "distractors": [
+          "will leave",
+          "left",
+          "am leaving"
+        ],
+        "distractor_rationale": [
+          "will is not used in a subordinate time clause introduced by before — this is the most common learner error on this structure",
+          "past simple cannot be used in a future time clause; the action has not happened yet",
+          "present continuous in a time clause implies an ongoing background action, but leaving is a single completed point, making this contextually wrong"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0011",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children were playing in the garden ___ it started to rain heavily.",
+        "correct_answer": "when",
+        "distractors": [
+          "while",
+          "until",
+          "before"
+        ],
+        "distractor_rationale": [
+          "while introduces a simultaneous ongoing action, but the rain starting is a sudden point-in-time event that interrupted the playing, not a parallel activity",
+          "until means 'up to the point that', which would imply the children stopped playing only at the moment of rain and no earlier — the sentence describes an interruption, not a limit, making until wrong here",
+          "before would mean the playing happened earlier than the rain, contradicting the sense that the rain interrupted the playing while it was in progress"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0012",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please wait here ___ the doctor calls your name — she won't be long.",
+        "correct_answer": "until",
+        "distractors": [
+          "when",
+          "while",
+          "after"
+        ],
+        "distractor_rationale": [
+          "when refers to a specific point in time but does not carry the meaning of continuous waiting up to that point, so 'wait here when the doctor calls' is logically incoherent as a command",
+          "while describes two simultaneous ongoing actions, but waiting and the doctor calling are not simultaneous — calling is the endpoint of the waiting",
+          "after means the waiting would happen following the call, which reverses the intended sequence entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0013",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "As soon as Mark ___ (finish) his report, he will send it to the whole team.",
+        "correct_answer": "finishes",
+        "distractors": [
+          "will finish",
+          "finished",
+          "has been finishing"
+        ],
+        "distractor_rationale": [
+          "will is not permitted in a subordinate time clause introduced by as soon as — learners frequently transfer the future meaning of the main clause into the time clause",
+          "past simple signals a completed past event, but the context is clearly future — Mark has not finished yet",
+          "present perfect continuous describes an ongoing activity with duration, but as soon as requires a simple completion point, not a duration, making this form semantically incompatible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_cloze_0014",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time Anna ___ (get) back from her business trip, her colleagues will have already presented the results.",
+        "correct_answer": "gets",
+        "distractors": [
+          "will get",
+          "got",
+          "has gotten"
+        ],
+        "distractor_rationale": [
+          "will is not used in a time clause introduced by by the time when referring to a future event — the time clause takes present simple even though the main clause uses future perfect",
+          "past simple is only correct when the main clause describes a past completed event; here the main clause uses future perfect, confirming the whole sentence is future-oriented",
+          "present perfect suggests the action is already complete relative to now, but the context makes clear Anna has not yet returned — the sentence projects a future scenario"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0000",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I'll wait here until the bus ___.",
+        "correct_answer": "arrives",
+        "distractors": [
+          "will arrive",
+          "arrived",
+          "is arriving"
+        ],
+        "distractor_rationale": [
+          "using 'will' in a time clause after 'until' is a core learner error — present simple is required",
+          "past tense cannot be used in a future time clause introduced by 'until'",
+          "present continuous suggests a temporary action in progress, not the single arrival point that 'until' requires"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0001",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She'll turn off the lights before she ___ the house.",
+        "correct_answer": "leaves",
+        "distractors": [
+          "will leave",
+          "left",
+          "leaving"
+        ],
+        "distractor_rationale": [
+          "using 'will' in the time clause after 'before' is a common learner error — present simple is required",
+          "past tense is incorrect in a future time clause; the action has not happened yet",
+          "a bare '-ing' form cannot function as the main verb in a subordinate clause without an auxiliary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0002",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom was reading a book ___ his sister watched television in the next room.",
+        "correct_answer": "while",
+        "distractors": [
+          "when",
+          "until",
+          "after"
+        ],
+        "distractor_rationale": [
+          "'when' signals a point in time or a single event, not two simultaneous ongoing actions",
+          "'until' marks the endpoint of an action, not two actions happening at the same time",
+          "'after' signals a sequence where one action follows another, not two simultaneous actions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0003",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We'll start cooking dinner as soon as David ___ from the supermarket.",
+        "correct_answer": "gets back",
+        "distractors": [
+          "will get back",
+          "got back",
+          "is getting back"
+        ],
+        "distractor_rationale": [
+          "using 'will' in a time clause after 'as soon as' is a typical learner error — present simple is required",
+          "past tense is incorrect because the action is still in the future at the time of speaking",
+          "present continuous implies an action in progress right now, not a future arrival point triggered by 'as soon as'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0004",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Please don't say anything to Maria ___ I have spoken to her manager first.",
+        "correct_answer": "until",
+        "distractors": [
+          "when",
+          "while",
+          "after"
+        ],
+        "distractor_rationale": [
+          "'when' marks the moment something happens, not the endpoint up to which an action is withheld",
+          "'while' describes two simultaneous actions, not a restriction lasting up to a future point",
+          "'after' would mean the talking should not happen following the conversation, which contradicts the intended meaning of waiting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0005",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After she ___ her homework, Anna went outside to play with her friends.",
+        "correct_answer": "finished",
+        "distractors": [
+          "finishes",
+          "will finish",
+          "was finishing"
+        ],
+        "distractor_rationale": [
+          "present simple is incorrect here because the main clause is in the past; the time clause must also be past",
+          "using 'will' in a time clause is always incorrect, and the main clause is already in the past tense",
+          "past continuous suggests an ongoing action, but 'after' requires a completed action before the next event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0006",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children were playing loudly ___ the teacher suddenly walked into the classroom.",
+        "correct_answer": "when",
+        "distractors": [
+          "while",
+          "until",
+          "before"
+        ],
+        "distractor_rationale": [
+          "'while' requires two simultaneous ongoing actions, but the teacher's entry is a single interrupting event, not an ongoing action",
+          "'until' marks an endpoint, not an interrupting moment during an ongoing activity",
+          "'before' would mean the playing happened prior to the entry, removing the sense of interruption that the sentence conveys"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0007",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the time the repair team ___ the office tomorrow, the manager will have already left for the airport.",
+        "correct_answer": "reaches",
+        "distractors": [
+          "will reach",
+          "reached",
+          "has reached"
+        ],
+        "distractor_rationale": [
+          "using 'will' in a time clause introduced by 'by the time' is a persistent learner error — present simple is required in future time clauses",
+          "past simple is incorrect because the scenario is set in the future; 'tomorrow' confirms this",
+          "present perfect is not used in future time clauses introduced by 'by the time' when the reference is a future point; present simple is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0008",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "You should save your work regularly ___ the computer crashes and you lose everything you have typed.",
+        "correct_answer": "before",
+        "distractors": [
+          "until",
+          "while",
+          "as soon as"
+        ],
+        "distractor_rationale": [
+          "'until' marks a continuous state up to a point, not a precautionary action taken to prevent a future event",
+          "'while' describes simultaneous actions, but saving work is done to prevent the crash, not at the same time as it",
+          "'as soon as' means immediately after the crash, but saving after a crash is too late — the sentence requires a precautionary 'before'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_multiple_choice_0009",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project manager will not approve the final report until the team ___ all the necessary changes to the document.",
+        "correct_answer": "has made",
+        "distractors": [
+          "will have made",
+          "made",
+          "makes"
+        ],
+        "distractor_rationale": [
+          "using 'will have made' in the time clause after 'until' is incorrect — future perfect is not used in time clauses; present perfect is required to show completion before the main event",
+          "past simple cannot be used in a future time clause; the action of making changes has not happened yet",
+          "present simple 'makes' does not convey the sense of completed action that the context requires; present perfect 'has made' signals all changes must be fully done before approval"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0000",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I will call you when I will get home from work.",
+        "correct_answer": "when I get home",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I will call you when I will get home from work.",
+        "corrected_sentence": "I will call you when I get home from work.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0001",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Please wait here until the doctor will call your name.",
+        "correct_answer": "until the doctor calls your name",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Please wait here until the doctor will call your name.",
+        "corrected_sentence": "Please wait here until the doctor calls your name.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0002",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She always reads her messages while she will eat breakfast in the morning.",
+        "correct_answer": "while she eats breakfast",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She always reads her messages while she will eat breakfast in the morning.",
+        "corrected_sentence": "She always reads her messages while she eats breakfast in the morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0003",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Make sure you turn off all the lights before you will leave the office tonight.",
+        "correct_answer": "before you leave the office",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Make sure you turn off all the lights before you will leave the office tonight.",
+        "corrected_sentence": "Make sure you turn off all the lights before you leave the office tonight.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0004",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom listened to music when he was cooking dinner last night, so he didn't hear the phone.",
+        "correct_answer": "while he was cooking dinner",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom listened to music when he was cooking dinner last night, so he didn't hear the phone.",
+        "corrected_sentence": "Tom listened to music while he was cooking dinner last night, so he didn't hear the phone.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0005",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "As soon as the package will arrive, we can start assembling the furniture in the living room.",
+        "correct_answer": "as soon as the package arrives",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "As soon as the package will arrive, we can start assembling the furniture in the living room.",
+        "corrected_sentence": "As soon as the package arrives, we can start assembling the furniture in the living room.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0006",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "By the time we arrived at the cinema, the film already started and the lights were down.",
+        "correct_answer": "the film had already started",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "By the time we arrived at the cinema, the film already started and the lights were down.",
+        "corrected_sentence": "By the time we arrived at the cinema, the film had already started and the lights were down.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_clauses_error_correction_0007",
+      "skill_ids": [
+        "time_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children have to stay in the classroom until the rain will stop and the playground is dry.",
+        "correct_answer": "until the rain stops",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children have to stay in the classroom until the rain will stop and the playground is dry.",
+        "corrected_sentence": "The children have to stay in the classroom until the rain stops and the playground is dry.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:45:44.533512+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

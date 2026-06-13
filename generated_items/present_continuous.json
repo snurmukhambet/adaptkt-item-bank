@@ -1,0 +1,1865 @@
+{
+  "skill_id": "present_continuous",
+  "skill_name": "Present Continuous",
+  "exercises": [
+    {
+      "id": "ex_present_continuous_cloze_0000",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The dog ___ (sleep) on the sofa right now.",
+        "correct_answer": "is sleeping",
+        "distractors": [
+          "sleeps",
+          "sleep",
+          "are sleeping"
+        ],
+        "distractor_rationale": [
+          "present simple describes habits, not an action happening at this exact moment",
+          "bare infinitive omits the required be auxiliary entirely",
+          "are is incorrect subject-verb agreement for a singular subject (the dog)"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0001",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look! Tom ___ (run) across the park.",
+        "correct_answer": "is running",
+        "distractors": [
+          "runs",
+          "run",
+          "was running"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe an action the speaker is watching happen at this moment",
+          "bare infinitive omits the required be auxiliary entirely",
+          "past continuous refers to a past in-progress action, but 'Look!' signals the action is happening now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0002",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (not / watch) TV at the moment — we are reading.",
+        "correct_answer": "are not watching",
+        "distractors": [
+          "don't watch",
+          "not watching",
+          "isn't watching"
+        ],
+        "distractor_rationale": [
+          "present simple negative describes general habits, not what is happening at this specific moment",
+          "omitting the be auxiliary produces a grammatically incomplete negative form",
+          "isn't is incorrect subject-verb agreement for the plural subject we"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0003",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (stay) with her aunt this week because her flat is being repaired.",
+        "correct_answer": "is staying",
+        "distractors": [
+          "stays",
+          "was staying",
+          "has stayed"
+        ],
+        "distractor_rationale": [
+          "present simple describes a permanent habit, but 'this week' signals a temporary situation, not a routine",
+          "past continuous refers to a past in-progress situation, contradicting the present time marker 'this week'",
+          "present perfect describes a completed experience or result, not an ongoing temporary arrangement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0004",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James and Sara ___ (meet) their manager at the office tomorrow morning — it's already in the diary.",
+        "correct_answer": "are meeting",
+        "distractors": [
+          "meet",
+          "will meet",
+          "met"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a fixed, pre-arranged future appointment already confirmed in the diary",
+          "will expresses an unplanned decision or prediction, not a pre-arranged appointment already confirmed",
+          "past simple refers to a completed past event, contradicting the future time marker 'tomorrow morning'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0005",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (not / feel) well today, so she decided to stay at home and rest.",
+        "correct_answer": "is not feeling",
+        "distractors": [
+          "doesn't feel",
+          "not feels",
+          "aren't feeling"
+        ],
+        "distractor_rationale": [
+          "present simple negative describes a permanent state or habit, but 'today' signals a temporary condition",
+          "not feels is ungrammatical — the auxiliary do is required for present simple negation, and present continuous requires be",
+          "aren't is incorrect subject-verb agreement for the singular subject Anna"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0006",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I ___ (know) the answer to your question — it's on the first page of the book.",
+        "correct_answer": "know",
+        "distractors": [
+          "am knowing",
+          "was knowing",
+          "have known"
+        ],
+        "distractor_rationale": [
+          "know is a stative verb describing a mental state; it cannot be used in the continuous aspect in standard English",
+          "past continuous is impossible for a stative verb and also refers to the past, not the present",
+          "present perfect describes a completed experience or duration up to now, not a current state expressed by a stative verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0007",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The company ___ (expand) its delivery service to three new cities this year, so the team is very busy at the moment.",
+        "correct_answer": "is expanding",
+        "distractors": [
+          "expands",
+          "has expanded",
+          "will be expanding"
+        ],
+        "distractor_rationale": [
+          "present simple describes a permanent or repeated fact, but 'this year' combined with 'at the moment' signals a temporary, ongoing process",
+          "present perfect describes a completed action with a current result, but the sentence presents the expansion as still in progress",
+          "future continuous describes a planned action in progress at a future point in time, not an action currently in progress now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0008",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa ___ (give) a presentation to the board of directors next Monday — she has already prepared all her slides.",
+        "correct_answer": "is giving",
+        "distractors": [
+          "gives",
+          "will give",
+          "is going to give"
+        ],
+        "distractor_rationale": [
+          "present simple cannot express a fixed, pre-arranged future event; it describes habitual or scheduled timetable events, not a personal appointment",
+          "will expresses a spontaneous decision or prediction made at the moment of speaking, not a pre-arranged appointment confirmed in advance",
+          "is going to give expresses intention or prediction based on evidence, not a firm diary arrangement already confirmed, making it a weaker fit than the present continuous for a fixed appointment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0009",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although David usually cycles to work, he ___ (take) the bus this week because his bike is at the repair shop.",
+        "correct_answer": "is taking",
+        "distractors": [
+          "takes",
+          "took",
+          "has been taking"
+        ],
+        "distractor_rationale": [
+          "takes describes David's usual habit, which the sentence explicitly contrasts with the temporary current situation marked by 'this week'",
+          "past simple refers to a completed past action, contradicting the present time marker 'this week' and the current temporary situation",
+          "present perfect continuous describes an action that started in the past and continues to now with emphasis on duration, but the sentence focuses on a temporary arrangement in the current week, not a duration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0010",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (eat) his lunch right now.",
+        "correct_answer": "is eating",
+        "distractors": [
+          "eats",
+          "are eating",
+          "eat"
+        ],
+        "distractor_rationale": [
+          "present simple describes habits, not an action happening at this exact moment",
+          "'are' is incorrect subject-verb agreement for the singular subject 'Tom'",
+          "bare infinitive omits the required auxiliary 'is' for present continuous"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0011",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (play) in the garden at the moment.",
+        "correct_answer": "are playing",
+        "distractors": [
+          "play",
+          "is playing",
+          "playing"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe an action visibly in progress right now",
+          "'is' is incorrect subject-verb agreement for the plural subject 'the children'",
+          "the -ing form alone without the auxiliary 'are' is not a complete verb phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0013",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (meet) our new manager at the office tomorrow afternoon — it's already in the diary.",
+        "correct_answer": "are meeting",
+        "distractors": [
+          "will meet",
+          "meet",
+          "were meeting"
+        ],
+        "distractor_rationale": [
+          "'will meet' expresses a spontaneous decision or prediction, not a pre-arranged fixed plan already confirmed in the diary",
+          "present simple without a continuous form cannot express a fixed future personal arrangement",
+          "past continuous places the action in past time, contradicting 'tomorrow afternoon'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_cloze_0014",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sales figures show that more customers ___ (choose) to shop online this year, which is changing how the store operates.",
+        "correct_answer": "are choosing",
+        "distractors": [
+          "choose",
+          "have chosen",
+          "were choosing"
+        ],
+        "distractor_rationale": [
+          "present simple describes a general permanent fact, but 'this year' signals an ongoing, currently developing trend requiring present continuous",
+          "present perfect emphasises a completed action with present relevance, whereas present continuous better captures an actively unfolding trend still in progress",
+          "past continuous locates the trend in a past period, contradicting 'this year' which includes the present moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0000",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The dog ___ in the garden right now.",
+        "correct_answer": "is playing",
+        "distractors": [
+          "plays",
+          "are playing",
+          "play"
+        ],
+        "distractor_rationale": [
+          "present simple describes habit, not an action happening at this exact moment",
+          "'are' is incorrect subject-verb agreement for the singular subject 'the dog'",
+          "bare infinitive omits the required be auxiliary and -ing form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0001",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look! It ___ outside. Let's stay indoors.",
+        "correct_answer": "is raining",
+        "distractors": [
+          "rains",
+          "rained",
+          "rain"
+        ],
+        "distractor_rationale": [
+          "present simple cannot describe weather happening visibly at this moment",
+          "past simple contradicts the present evidence signalled by 'Look!'",
+          "bare infinitive omits the required be auxiliary and -ing form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0002",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ TV at the moment — can you call back later?",
+        "correct_answer": "are watching",
+        "distractors": [
+          "watch",
+          "is watching",
+          "watches"
+        ],
+        "distractor_rationale": [
+          "present simple describes a habit, not an action in progress right now",
+          "'is' is incorrect subject-verb agreement for the plural subject 'we'",
+          "'watches' is third-person singular present simple and does not match 'we'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0003",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria ___ with her parents this month while her flat is being repaired.",
+        "correct_answer": "is staying",
+        "distractors": [
+          "stays",
+          "stayed",
+          "has stayed"
+        ],
+        "distractor_rationale": [
+          "present simple implies a permanent arrangement, but 'this month' signals a temporary situation",
+          "past simple is incorrect because the situation is ongoing in the present",
+          "present perfect does not express a temporary ongoing situation in the current period"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0004",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I ___ a new language these days because I want to travel next year.",
+        "correct_answer": "am learning",
+        "distractors": [
+          "learn",
+          "learned",
+          "am knowing"
+        ],
+        "distractor_rationale": [
+          "present simple does not convey the temporary, ongoing nature of the activity described by 'these days'",
+          "past simple is wrong because the activity is happening in the current period, not in the past",
+          "'know' is a stative verb that cannot be used in the continuous form; the learner error of applying -ing to stative verbs is tested here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0005",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James and Sara ___ dinner at the new restaurant on Saturday evening — they booked a table last week.",
+        "correct_answer": "are having",
+        "distractors": [
+          "have",
+          "will have",
+          "had"
+        ],
+        "distractor_rationale": [
+          "present simple does not convey a fixed personal arrangement already made, as confirmed by 'they booked a table'",
+          "'will have' expresses a spontaneous decision or prediction, but the booking shows this is a pre-arranged plan",
+          "past simple is incorrect because the dinner is a future arrangement, not a past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0006",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ his report right now, so he cannot answer the phone.",
+        "correct_answer": "is writing",
+        "distractors": [
+          "writes",
+          "writing",
+          "was writing"
+        ],
+        "distractor_rationale": [
+          "present simple describes a habitual action, not an action in progress at this exact moment",
+          "omitting the auxiliary 'is' produces a non-finite form that is grammatically incomplete as a main verb",
+          "past continuous places the action in the past, contradicting 'right now'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0007",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa ___ the project manager position at her company at the moment, while the usual manager is on leave.",
+        "correct_answer": "is covering",
+        "distractors": [
+          "covers",
+          "has been covering",
+          "cover"
+        ],
+        "distractor_rationale": [
+          "present simple implies this is Lisa's permanent role, contradicting the temporary context established by 'while the usual manager is on leave'",
+          "present perfect continuous emphasises duration from a past point to now but does not highlight the temporary, in-progress nature as clearly as present continuous in this context; the sentence provides no duration marker such as 'since' or 'for'",
+          "bare infinitive omits the required auxiliary and -ing form, making the sentence grammatically incomplete"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0008",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna ___ to the conference in the capital next Monday — her flight and hotel are already confirmed.",
+        "correct_answer": "is flying",
+        "distractors": [
+          "flies",
+          "will be flying",
+          "flew"
+        ],
+        "distractor_rationale": [
+          "present simple here would suggest a habitual routine rather than a specific arranged future event confirmed by booked travel",
+          "'will be flying' expresses an action in progress at a future moment or a neutral future fact, but does not carry the sense of a pre-arranged personal plan that present continuous conveys in this context",
+          "past simple is impossible because the event is scheduled for next Monday, not in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_multiple_choice_0009",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The company ___ its office to a larger building this quarter because the team has grown significantly.",
+        "correct_answer": "is moving",
+        "distractors": [
+          "moves",
+          "moved",
+          "is knowing"
+        ],
+        "distractor_rationale": [
+          "present simple implies a habitual or permanent fact rather than a temporary, ongoing change happening in the current quarter",
+          "past simple incorrectly places the move in the past, contradicting 'this quarter'",
+          "'know' is a stative verb and cannot take the continuous form; using it here also creates a meaning that is completely illogical in context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0000",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He are working in the garden right now.",
+        "correct_answer": "is working",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He are working in the garden right now.",
+        "corrected_sentence": "He is working in the garden right now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0001",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Look! The baby sleep in the chair.",
+        "correct_answer": "is sleeping",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Look! The baby sleep in the chair.",
+        "corrected_sentence": "Look! The baby is sleeping in the chair.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0002",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria studying for her exam at the moment, so please don't disturb her.",
+        "correct_answer": "is studying",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria studying for her exam at the moment, so please don't disturb her.",
+        "corrected_sentence": "Maria is studying for her exam at the moment, so please don't disturb her.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0003",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I am knowing the answer to your question, so I can help you now.",
+        "correct_answer": "know",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I am knowing the answer to your question, so I can help you now.",
+        "corrected_sentence": "I know the answer to your question, so I can help you now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0004",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom and Sara are stay with their aunt this week while their flat is being repaired.",
+        "correct_answer": "staying",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom and Sara are stay with their aunt this week while their flat is being repaired.",
+        "corrected_sentence": "Tom and Sara are staying with their aunt this week while their flat is being repaired.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0005",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We meet our project team at the office tomorrow afternoon, so I need to prepare my notes tonight.",
+        "correct_answer": "are meeting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We meet our project team at the office tomorrow afternoon, so I need to prepare my notes tonight.",
+        "corrected_sentence": "We are meeting our project team at the office tomorrow afternoon, so I need to prepare my notes tonight.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0006",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She is not understanding why the manager changed the schedule without telling anyone in the team.",
+        "correct_answer": "does not understand",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She is not understanding why the manager changed the schedule without telling anyone in the team.",
+        "corrected_sentence": "She does not understand why the manager changed the schedule without telling anyone in the team.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_continuous_error_correction_0007",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James works from home this month because his office is closed for renovation.",
+        "correct_answer": "is working",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James works from home this month because his office is closed for renovation.",
+        "corrected_sentence": "James is working from home this month because his office is closed for renovation.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_present_continuous_cloze_0012",
+      "skill_ids": [
+        "present_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (stay) with her aunt this week because her flat is being repaired.",
+        "correct_answer": "is staying",
+        "distractors": [
+          "stays",
+          "stayed",
+          "has stayed"
+        ],
+        "distractor_rationale": [
+          "present simple describes a permanent arrangement, but 'this week' signals a temporary situation requiring present continuous",
+          "past simple places the action in finished past time, contradicting 'this week'",
+          "present perfect focuses on a completed result rather than an ongoing temporary situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:11:28.212138+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

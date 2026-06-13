@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_science_research",
+  "skill_name": "Science & Research",
+  "exercises": [
+    {
+      "id": "ex_vocab_science_research_cloze_0000",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher asked the students to draw a ___ showing the parts of a plant cell and label each section clearly.",
+        "correct_answer": "diagram",
+        "distractors": [
+          "conclusion",
+          "category",
+          "definition"
+        ],
+        "distractor_rationale": [
+          "a conclusion is a written judgement at the end of an investigation, not a labelled visual drawing of parts",
+          "a category is a group things belong to, not a visual representation of parts",
+          "a definition explains the meaning of a word, not a labelled visual drawing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0001",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The scientist used a microscope to look at a single ___ taken from the patient's skin to check for signs of damage.",
+        "correct_answer": "cell",
+        "distractors": [
+          "chemical",
+          "bacteria",
+          "diagram"
+        ],
+        "distractor_rationale": [
+          "a chemical is a substance, not a biological unit examined under a microscope from skin tissue",
+          "bacteria are living microorganisms, not the structural unit of skin tissue being examined for damage",
+          "a diagram is a drawn image, not a biological sample taken from skin"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0002",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The nurse washed her hands thoroughly to remove any ___ that might cause an infection in the patient.",
+        "correct_answer": "bacteria",
+        "distractors": [
+          "cells",
+          "chemicals",
+          "diagrams"
+        ],
+        "distractor_rationale": [
+          "cells are the building blocks of living tissue and are not removed by handwashing to prevent infection",
+          "chemicals in this context would not specifically cause an infection the way microorganisms do, and handwashing targets germs not generic substances",
+          "diagrams are drawn images and cannot be removed from hands or cause infections"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0003",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After collecting all the data, the research team met to ___ the results and look for patterns that could explain the outcome.",
+        "correct_answer": "analyse",
+        "distractors": [
+          "calculate",
+          "define",
+          "conclude"
+        ],
+        "distractor_rationale": [
+          "calculate means to work out a number using arithmetic, not to examine data for patterns and explanations",
+          "define means to explain the meaning of a term, not to examine results for patterns",
+          "conclude means to reach a final judgement, which happens after analysis, not during the examination of results for patterns"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0004",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The measurements in the report must be ___, so the engineers checked every figure twice before submitting the final document.",
+        "correct_answer": "accurate",
+        "distractors": [
+          "chemical",
+          "developed",
+          "defined"
+        ],
+        "distractor_rationale": [
+          "chemical describes the nature of a substance, not the quality of measurements in a report",
+          "developed means created or advanced over time, which does not describe the required quality of measurements",
+          "defined means given a clear meaning, which applies to terms or concepts, not to numerical measurements in a report"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0005",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The professor asked her students to ___ the term 'hypothesis' clearly at the beginning of their written reports.",
+        "correct_answer": "define",
+        "distractors": [
+          "analyse",
+          "calculate",
+          "develop"
+        ],
+        "distractor_rationale": [
+          "analyse means to examine something in detail, not to explain the meaning of a term in writing",
+          "calculate means to work out a numerical answer, not to explain what a word means",
+          "develop means to create or improve something over time, not to explain the meaning of a specific term"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0006",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Researchers placed each type of plant into a separate ___ based on the shape of its leaves and the structure of its roots.",
+        "correct_answer": "category",
+        "distractors": [
+          "conclusion",
+          "analysis",
+          "definition"
+        ],
+        "distractor_rationale": [
+          "a conclusion is the final judgement reached at the end of a study, not a group that things are sorted into",
+          "an analysis is the process of examining data in detail, not a group that objects are placed into based on shared features",
+          "a definition explains the meaning of a word or concept, not a group that plants are sorted into by physical features"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0007",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "By examining the rate at which the substance dissolved in water at different temperatures, the chemist was able to ___ the exact boiling point of the compound.",
+        "correct_answer": "determine",
+        "distractors": [
+          "conclude",
+          "develop",
+          "define"
+        ],
+        "distractor_rationale": [
+          "conclude means to reach a general judgement at the end of a study, not to establish a precise numerical value through measurement",
+          "develop means to create or improve something, not to establish an exact physical value through experimental measurement",
+          "define means to explain the meaning of a term, not to establish a precise physical property through experimental observation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 30,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0008",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The lab team used a detailed ___ of the soil samples to identify which ___ compounds were present and at what concentration levels.",
+        "correct_answer": "analysis",
+        "distractors": [
+          "definition",
+          "diagram",
+          "category"
+        ],
+        "distractor_rationale": [
+          "a definition explains the meaning of a word and cannot be used on soil samples to identify compounds",
+          "a diagram is a visual drawing and is not a process applied to soil samples to identify substances",
+          "a category is a classification group, not a process carried out on samples to identify chemical compounds"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0009",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After reviewing all the experimental evidence, the team was able to ___ that the new vaccine reduced the spread of the virus by more than sixty percent.",
+        "correct_answer": "conclude",
+        "distractors": [
+          "calculate",
+          "determine",
+          "develop"
+        ],
+        "distractor_rationale": [
+          "calculate means to work out a number arithmetically, not to reach a final judgement based on reviewing experimental evidence",
+          "determine means to establish a specific fact or value through measurement or testing, not to draw an overall judgement from a body of evidence after a study is complete",
+          "develop means to create or advance something over time, not to reach a final judgement based on reviewed evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 30,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0010",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The nurse used a microscope to examine the blood ___ and check for signs of infection.",
+        "correct_answer": "cells",
+        "distractors": [
+          "chemicals",
+          "diagrams",
+          "categories"
+        ],
+        "distractor_rationale": [
+          "chemicals are substances, not biological units examined in blood under a microscope",
+          "diagrams are drawn illustrations, not physical components found in blood",
+          "categories are classification groups, not physical structures visible under a microscope"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0011",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The scientist drew a clear ___ to show how the heart pumps blood around the body.",
+        "correct_answer": "diagram",
+        "distractors": [
+          "conclusion",
+          "bacteria",
+          "definition"
+        ],
+        "distractor_rationale": [
+          "a conclusion is a written or spoken finding, not a visual illustration of a process",
+          "bacteria are microscopic organisms, not a visual tool used to explain a process",
+          "a definition explains the meaning of a word, not the physical process of how an organ works"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0012",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After reviewing all the test results, the research team was able to ___ that the new medicine reduced symptoms in most patients.",
+        "correct_answer": "conclude",
+        "distractors": [
+          "calculate",
+          "define",
+          "develop"
+        ],
+        "distractor_rationale": [
+          "calculate means to work out a number mathematically, not to reach a judgement from evidence",
+          "define means to give the meaning of a term, not to reach a finding from test results",
+          "develop means to create or build something new, not to form a judgement after reviewing results"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0013",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The food safety officer confirmed that harmful ___ were present in the samples taken from the kitchen surfaces.",
+        "correct_answer": "bacteria",
+        "distractors": [
+          "cells",
+          "chemicals",
+          "categories"
+        ],
+        "distractor_rationale": [
+          "cells are basic biological units of living organisms, not pathogens specifically associated with contamination of kitchen surfaces",
+          "chemicals are non-living substances, and the sentence specifies harmful organisms detected in a food safety context, not a chemical spill",
+          "categories are classification groups and cannot be physically present on a surface or cause contamination"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_cloze_0014",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Before presenting her findings, Maria had to carefully ___ the survey data to identify patterns in how different age groups responded to the treatment.",
+        "correct_answer": "analyse",
+        "distractors": [
+          "determine",
+          "calculate",
+          "define"
+        ],
+        "distractor_rationale": [
+          "determine means to find out a specific fact or decision, not to examine data systematically for patterns across groups",
+          "calculate means to perform a mathematical computation to reach a single numerical result, not to examine patterns across grouped survey responses",
+          "define means to state the meaning of a concept or term, not to examine and interpret collected data"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_science_research_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The nurse used a microscope to look at the blood ___ and check for any damage.",
+        "correct_answer": "cells",
+        "distractors": [
+          "chemicals",
+          "diagrams",
+          "bacteria"
+        ],
+        "distractor_rationale": [
+          "chemicals are substances, not biological units visible as individual structures in blood under a microscope",
+          "diagrams are drawings or charts, not physical components of blood",
+          "bacteria are microorganisms that cause infection, not the structural units of blood being examined for damage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The teacher drew a clear ___ on the board to show how water moves through the water cycle.",
+        "correct_answer": "diagram",
+        "distractors": [
+          "definition",
+          "conclusion",
+          "category"
+        ],
+        "distractor_rationale": [
+          "a definition explains the meaning of a word, it cannot be drawn on a board to show a process",
+          "a conclusion is a final judgement reached after study, not a visual representation of a process",
+          "a category is a group or class of things, not a visual illustration of how something works"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The doctor told the patient that the infection was caused by ___ that had entered the wound.",
+        "correct_answer": "bacteria",
+        "distractors": [
+          "cells",
+          "chemicals",
+          "diagrams"
+        ],
+        "distractor_rationale": [
+          "cells are the basic units of living organisms and do not enter a wound to cause infection from outside",
+          "chemicals are non-living substances and do not independently enter wounds to cause biological infections",
+          "diagrams are visual representations and have no role in causing physical infections"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Before the experiment began, the scientist needed to ___ the exact amount of salt required for the solution.",
+        "correct_answer": "calculate",
+        "distractors": [
+          "conclude",
+          "define",
+          "develop"
+        ],
+        "distractor_rationale": [
+          "conclude means to reach a final judgement after investigation, which happens at the end, not before an experiment begins",
+          "define means to explain the meaning of a term, not to work out a precise numerical quantity",
+          "develop means to create or improve something over time, not to work out a specific measurement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After collecting all the data, the research team met to ___ the results and look for patterns.",
+        "correct_answer": "analyse",
+        "distractors": [
+          "define",
+          "calculate",
+          "conclude"
+        ],
+        "distractor_rationale": [
+          "define means to give the meaning of a word or concept, not to examine data for patterns",
+          "calculate means to work out a number mathematically, which is only one small part of examining results for patterns",
+          "conclude means to reach a final decision, which comes after analysis, not as the act of examining results"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The measurements in the report were ___, matching the actual values to within one decimal place.",
+        "correct_answer": "accurate",
+        "distractors": [
+          "chemical",
+          "defined",
+          "developed"
+        ],
+        "distractor_rationale": [
+          "chemical describes the nature of a substance, not the precision of a measurement",
+          "defined means explained or given a clear meaning, which does not describe how closely measurements match real values",
+          "developed means created or improved over time, which cannot describe the precision of a recorded measurement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The researchers placed each plant species into a separate ___ based on the shape of its leaves.",
+        "correct_answer": "category",
+        "distractors": [
+          "conclusion",
+          "analysis",
+          "definition"
+        ],
+        "distractor_rationale": [
+          "a conclusion is a judgement reached after study, not a group that items are placed into for classification",
+          "an analysis is the process of examining something in detail, not a group used to organise species",
+          "a definition explains the meaning of a term, not a classification group that specimens are sorted into"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The laboratory report included a detailed ___ of the water sample, identifying every substance present in it.",
+        "correct_answer": "analysis",
+        "distractors": [
+          "definition",
+          "conclusion",
+          "category"
+        ],
+        "distractor_rationale": [
+          "a definition explains what a term means and cannot identify substances present in a physical sample",
+          "a conclusion is the final judgement drawn from an investigation, not the detailed examination of a sample's contents",
+          "a category is a classification group and does not describe the process of identifying all substances in a sample"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The scientists used a series of controlled tests to ___ which of the three materials conducted heat most efficiently.",
+        "correct_answer": "determine",
+        "distractors": [
+          "define",
+          "conclude",
+          "develop"
+        ],
+        "distractor_rationale": [
+          "define means to explain the meaning of a concept, not to find out which of several options performs best through testing",
+          "conclude means to reach a final judgement, but it follows from evidence already gathered, whereas determine describes the active process of finding out through the tests themselves",
+          "develop means to create or improve something, not to find out which material has a specific property"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "At the start of the paper, the authors provide a clear ___ of the term 'sustainable energy' as it is used throughout their study.",
+        "correct_answer": "definition",
+        "distractors": [
+          "conclusion",
+          "analysis",
+          "diagram"
+        ],
+        "distractor_rationale": [
+          "a conclusion appears at the end of a study to summarise findings, not at the start to explain how a term is used",
+          "an analysis is a detailed examination of data or evidence, not an explanation of how a specific term is being used",
+          "a diagram is a visual illustration and cannot explain the meaning of a technical term in written academic text"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_science_research_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_word_formation_0000",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The scientist made a careful ___ of the water sample before writing her report. (ANALYSE)",
+        "correct_answer": "analysis",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ANALYSE"
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_science_research_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_word_formation_0001",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The teacher asked the students to draw a clear ___ showing how plants absorb water. (DIAGRAM)",
+        "correct_answer": "diagrammatic",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DIAGRAM"
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_science_research_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_word_formation_0002",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "After running three experiments, the research team was able to reach a firm ___ about the effect of temperature on bacterial growth. (CONCLUDE)",
+        "correct_answer": "conclusion",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CONCLUDE"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_science_research_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_word_formation_0003",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The lab report must include ___ measurements, so students should check their instruments twice before recording any data. (ACCURATE)",
+        "correct_answer": "accurate",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ACCURATE"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_science_research_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_science_research_word_formation_0004",
+      "skill_ids": [
+        "vocab_science_research"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of a new category of heat-resistant bacteria has led researchers to reconsider existing theories about life in extreme environments. (DEVELOP)",
+        "correct_answer": "development",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DEVELOP"
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:32:36.763456+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_science_research_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

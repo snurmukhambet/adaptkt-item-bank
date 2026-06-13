@@ -1,0 +1,1863 @@
+{
+  "skill_id": "pronouns_indefinite_impersonal",
+  "skill_name": "Indefinite & Impersonal Pronouns",
+  "exercises": [
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0000",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There is ___ in the bag — it is completely empty.",
+        "correct_answer": "nothing",
+        "distractors": [
+          "anything",
+          "something",
+          "everything"
+        ],
+        "distractor_rationale": [
+          "anything requires a negative auxiliary (e.g. there isn't anything); used alone without negation it is wrong here",
+          "something implies the bag contains an item, which contradicts 'completely empty'",
+          "everything implies the bag is full of items, directly contradicting 'completely empty'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0001",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Is ___ home? I knocked three times but nobody answered the door.",
+        "correct_answer": "anyone",
+        "distractors": [
+          "someone",
+          "no one",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "someone is used in affirmative statements and positive expectations, not in open questions where the answer is unknown",
+          "no one makes the question self-contradictory — you would not ask if no one is home and then say nobody answered",
+          "everyone implies all people are home, which is contradicted by the fact that nobody answered"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0002",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ in the class passed the test — the teacher was very happy with the results.",
+        "correct_answer": "Everyone",
+        "distractors": [
+          "Anyone",
+          "Someone",
+          "No one"
+        ],
+        "distractor_rationale": [
+          "anyone in a statement means 'any person at all' and does not convey that all students passed, so it does not explain the teacher's happiness",
+          "someone means only one person passed, which would not make the teacher very happy with the overall results",
+          "no one means nobody passed, which directly contradicts the teacher being very happy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0003",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I looked ___ for my phone — on the sofa, in my bag, and on the kitchen table — but I still couldn't find it.",
+        "correct_answer": "everywhere",
+        "distractors": [
+          "somewhere",
+          "anywhere",
+          "nowhere"
+        ],
+        "distractor_rationale": [
+          "somewhere means one unspecified location, which contradicts the list of multiple places searched",
+          "anywhere requires a negative or question context; in an affirmative statement it is ungrammatical without negation",
+          "nowhere creates a double negative with 'couldn't', making the sentence mean the speaker found the phone, which contradicts the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0004",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor said I shouldn't eat ___ spicy for the next two weeks because of my stomach.",
+        "correct_answer": "anything",
+        "distractors": [
+          "something",
+          "nothing",
+          "everything"
+        ],
+        "distractor_rationale": [
+          "something is used in affirmative contexts or when a positive answer is expected; after 'shouldn't' it produces an ungrammatical double-meaning",
+          "nothing creates a double negative with 'shouldn't', meaning the doctor said I should eat spicy food, which contradicts the medical advice",
+          "everything means I shouldn't eat all spicy things individually listed, but the natural meaning here is 'any spicy food at all', and everything is semantically wrong in this negative restriction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0005",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Everyone in the office ___ working late tonight because the deadline is tomorrow morning.",
+        "correct_answer": "is",
+        "distractors": [
+          "are",
+          "were",
+          "have been"
+        ],
+        "distractor_rationale": [
+          "everyone is a singular indefinite pronoun and always takes a singular verb; 'are' is the most common learner error caused by the plural sense of 'everyone'",
+          "were is past tense, but the sentence refers to tonight's situation and tomorrow's deadline, making past tense contradictory",
+          "have been is present perfect continuous, which describes a completed or ongoing past action, not a plan for tonight"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0006",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "In many countries, ___ say that it is rude to arrive at a dinner party exactly on time.",
+        "correct_answer": "they",
+        "distractors": [
+          "one",
+          "you",
+          "people"
+        ],
+        "distractor_rationale": [
+          "one is grammatically possible but is a formal, literary register choice; the sentence uses 'say' in a colloquial reporting structure where impersonal 'they' is the standard natural form",
+          "you is the impersonal pronoun for general advice directed at the listener; here the statement reports a social norm attributed to an unnamed group, making 'they' the correct impersonal form",
+          "people is a noun, not a pronoun, and the instruction asks for a pronoun to complete the gap; inserting a noun where a subject pronoun is needed changes the grammatical category required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0007",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although the manager announced the new schedule yesterday, ___ in the team seems to have read it, judging by all the confused questions this morning.",
+        "correct_answer": "no one",
+        "distractors": [
+          "anyone",
+          "someone",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "anyone in an affirmative clause means 'any person at all' and does not convey the negative meaning required by the context of confused questions showing ignorance of the schedule",
+          "someone means only one person read it, which contradicts the implication that the whole team is confused and asking questions",
+          "everyone means all team members read the schedule, which directly contradicts the evidence of confused questions from all of them"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0008",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If ___ wants to join the photography club, they should add their name to the list on the notice board by Friday.",
+        "correct_answer": "anyone",
+        "distractors": [
+          "someone",
+          "no one",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "someone implies a specific unnamed person is expected to join, removing the open invitation meaning; the conditional 'if' clause signals an open hypothetical for any potential member",
+          "no one makes the conditional self-defeating — it would mean the club is not accepting new members, contradicting the instruction to sign up",
+          "everyone implies all people must join, which is not an open invitation but a compulsory requirement, changing the meaning entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0009",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When ___ moves to a new city alone, it can take several months before the place starts to feel like home.",
+        "correct_answer": "you",
+        "distractors": [
+          "they",
+          "one",
+          "someone"
+        ],
+        "distractor_rationale": [
+          "they as impersonal subject normally refers to an unnamed external group reporting norms or facts; it does not naturally include the speaker or listener in a shared general experience the way 'you' does in conversational register",
+          "one is grammatically correct but belongs to a formal or written register; this sentence has a conversational, empathetic tone that calls for the informal impersonal 'you'",
+          "someone refers to a single unspecified individual rather than making a general statement that applies to all people in that situation, so it weakens the universal meaning of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0010",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Is ___ home? I knocked three times but the door didn't open.",
+        "correct_answer": "anyone",
+        "distractors": [
+          "someone",
+          "everyone",
+          "no one"
+        ],
+        "distractor_rationale": [
+          "someone is used in affirmative statements or offers, not in open questions where we do not know if a person is present",
+          "everyone implies all people are home, which contradicts the unanswered door and makes the question illogical",
+          "no one is a subject that would require a statement structure, not a question, and would mean the speaker already knows nobody is there"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0011",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The fridge is empty — there is ___ to eat for breakfast.",
+        "correct_answer": "nothing",
+        "distractors": [
+          "anything",
+          "something",
+          "everything"
+        ],
+        "distractor_rationale": [
+          "anything requires a negative auxiliary (there isn't anything); using it after the affirmative 'there is' produces a double-negative error",
+          "something means food is present, which directly contradicts 'the fridge is empty'",
+          "everything means all food is present, which is the opposite of the empty-fridge context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0012",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ in the meeting room agreed that the new schedule was a good idea, so the manager confirmed it immediately.",
+        "correct_answer": "Everyone",
+        "distractors": [
+          "Anyone",
+          "Someone",
+          "They"
+        ],
+        "distractor_rationale": [
+          "anyone in a statement without a negative or conditional context implies uncertainty about whether a person is present, and does not convey unanimous agreement",
+          "someone means only one unspecified person agreed, which does not justify the manager confirming the plan for the whole group",
+          "they refers to a previously identified group and cannot introduce a general statement about all people in the room without a prior reference"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0013",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I searched ___ in the flat for my passport — under the bed, in every drawer, and behind the sofa — but I still couldn't find it.",
+        "correct_answer": "everywhere",
+        "distractors": [
+          "somewhere",
+          "anywhere",
+          "nowhere"
+        ],
+        "distractor_rationale": [
+          "somewhere means only one unspecified place was searched, which contradicts the list of multiple locations and the emphatic tone of the sentence",
+          "anywhere requires a negative or question context; in an affirmative clause it does not convey the meaning of searching all possible places",
+          "nowhere means no place was searched, which directly contradicts the list of locations given and requires a negative verb structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_cloze_0014",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "In many countries, ___ say that if you work hard and stay consistent, you can achieve almost anything you set your mind to.",
+        "correct_answer": "they",
+        "distractors": [
+          "one",
+          "someone",
+          "anyone"
+        ],
+        "distractor_rationale": [
+          "one is possible in very formal written English but is not the natural choice for reporting a widely held popular belief in everyday speech; the sentence's informal register and the plural verb 'say' make 'they' the correct impersonal subject here",
+          "someone refers to a single unidentified individual, but the plural verb 'say' and the context of a widespread cultural belief require a plural impersonal subject",
+          "anyone in an affirmative statement without a conditional or negative context does not function as an impersonal subject meaning 'people in general'; it would require a conditional or negative frame to be grammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_indefinite_impersonal_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0000",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There is ___ in the kitchen — I can hear voices.",
+        "correct_answer": "someone",
+        "distractors": [
+          "anyone",
+          "no one",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "anyone is used in questions and negatives, not in affirmative statements about a specific presence",
+          "no one contradicts the evidence of voices being heard",
+          "everyone implies all possible people are present, which is not supported by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0001",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I looked in every drawer but I couldn't find ___ .",
+        "correct_answer": "anything",
+        "distractors": [
+          "something",
+          "nothing",
+          "everything"
+        ],
+        "distractor_rationale": [
+          "something is used in affirmative contexts; after a negative verb (couldn't), anything is required",
+          "nothing creates a double negative with couldn't, making the sentence grammatically incorrect",
+          "everything contradicts the meaning — the speaker found no items at all, not all items"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0002",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ in the class passed the test — the teacher was very pleased.",
+        "correct_answer": "Everyone",
+        "distractors": [
+          "Anyone",
+          "Someone",
+          "No one"
+        ],
+        "distractor_rationale": [
+          "anyone refers to any individual in a question or negative context, not to the whole group in an affirmative result",
+          "someone refers to an unspecified individual, not to the entire class",
+          "no one contradicts the teacher being pleased and the positive outcome described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0003",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Has ___ called for me while I was out this afternoon?",
+        "correct_answer": "anyone",
+        "distractors": [
+          "someone",
+          "no one",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "someone is used in affirmative sentences or polite requests, not in direct questions asking about an unknown caller",
+          "no one would make the question a statement of fact rather than a genuine inquiry",
+          "everyone implies all people called, which is implausible and contradicts the open question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0004",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The fridge is completely empty — there is ___ to eat in the house.",
+        "correct_answer": "nothing",
+        "distractors": [
+          "anything",
+          "something",
+          "everything"
+        ],
+        "distractor_rationale": [
+          "anything requires a negative auxiliary (e.g. there isn't); with the affirmative there is, nothing is needed",
+          "something means food is available, which directly contradicts the empty fridge",
+          "everything means all food is present, which is the opposite of what the context describes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0005",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "In many countries, ___ drive on the left side of the road, which surprises visitors from elsewhere.",
+        "correct_answer": "they",
+        "distractors": [
+          "someone",
+          "anyone",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "someone refers to a single unidentified individual, not to a general social practice in a country",
+          "anyone is used in questions or negative contexts and cannot express a general impersonal rule",
+          "everyone would mean every single person drives on the left, which is factually inaccurate as a general statement about a country's rule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0006",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Everyone on the team ___ responsible for submitting their report by Friday.",
+        "correct_answer": "is",
+        "distractors": [
+          "are",
+          "were",
+          "have been"
+        ],
+        "distractor_rationale": [
+          "are is the plural form; everyone always takes a singular verb even though it refers to a group",
+          "were is past tense and plural; the sentence describes a present obligation, not a past one",
+          "have been is present perfect plural; everyone requires a singular verb and the context calls for simple present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0007",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She searched ___ for her passport before the flight but couldn't find it.",
+        "correct_answer": "everywhere",
+        "distractors": [
+          "somewhere",
+          "anywhere",
+          "nowhere"
+        ],
+        "distractor_rationale": [
+          "somewhere indicates one unspecified location, which contradicts the exhaustive searching implied by the context",
+          "anywhere requires a negative auxiliary or question context; with the affirmative searched, it is not standard",
+          "nowhere creates a double negative with couldn't and means she had no place to search, which contradicts the active searching described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0008",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When ___ works hard and stays focused, the results usually speak for themselves over time.",
+        "correct_answer": "one",
+        "distractors": [
+          "you",
+          "someone",
+          "anyone"
+        ],
+        "distractor_rationale": [
+          "you is also possible in informal impersonal statements but in this formal, balanced sentence one is the register-appropriate impersonal pronoun that the context signals through its elevated phrasing",
+          "someone refers to a specific unknown individual, not to people in general as a universal truth",
+          "anyone is used in conditional or negative contexts and does not express a general impersonal truth in affirmative statements"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_multiple_choice_0009",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager announced that ___ had taken the missing files, so the whole department had to stay late.",
+        "correct_answer": "someone",
+        "distractors": [
+          "anyone",
+          "no one",
+          "everyone"
+        ],
+        "distractor_rationale": [
+          "anyone is used in questions and negatives; in this affirmative reported statement about a real but unknown person, someone is required",
+          "no one means nobody took the files, which contradicts the consequence of the whole department staying late as a result of the theft",
+          "everyone means all staff took the files, which is implausible and contradicts the singular unknown perpetrator implied by the announcement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_indefinite_impersonal_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0000",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I don't know nothing about the new timetable.",
+        "correct_answer": "anything",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I don't know nothing about the new timetable.",
+        "corrected_sentence": "I don't know anything about the new timetable.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0001",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Everyone are happy about the school trip next week.",
+        "correct_answer": "is",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Everyone are happy about the school trip next week.",
+        "corrected_sentence": "Everyone is happy about the school trip next week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0002",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Is there someone waiting outside the office right now?",
+        "correct_answer": "anyone",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Is there someone waiting outside the office right now?",
+        "corrected_sentence": "Is there anyone waiting outside the office right now?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0003",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She couldn't find her keys somewhere in the flat, so she was late for work.",
+        "correct_answer": "anywhere",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She couldn't find her keys somewhere in the flat, so she was late for work.",
+        "corrected_sentence": "She couldn't find her keys anywhere in the flat, so she was late for work.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0004",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Nobody didn't call the manager during the meeting, so the problem was not solved.",
+        "correct_answer": "Nobody called",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Nobody didn't call the manager during the meeting, so the problem was not solved.",
+        "corrected_sentence": "Nobody called the manager during the meeting, so the problem was not solved.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0005",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "In many countries, you has to carry an identity card at all times.",
+        "correct_answer": "have",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "In many countries, you has to carry an identity card at all times.",
+        "corrected_sentence": "In many countries, you have to carry an identity card at all times.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0006",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They say that one should always check their work carefully before one submits them.",
+        "correct_answer": "it",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They say that one should always check their work carefully before one submits them.",
+        "corrected_sentence": "They say that one should always check their work carefully before one submits it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_indefinite_impersonal_error_correction_0007",
+      "skill_ids": [
+        "pronouns_indefinite_impersonal"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although the manager asked for feedback, no one of the employees said something critical about the new policy.",
+        "correct_answer": "anything",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although the manager asked for feedback, no one of the employees said something critical about the new policy.",
+        "corrected_sentence": "Although the manager asked for feedback, no one of the employees said anything critical about the new policy.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:33:18.742201+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_indefinite_impersonal_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

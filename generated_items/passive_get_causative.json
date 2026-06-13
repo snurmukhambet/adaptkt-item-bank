@@ -1,0 +1,1863 @@
+{
+  "skill_id": "passive_get_causative",
+  "skill_name": "Passive with Get / Causative Have",
+  "exercises": [
+    {
+      "id": "ex_passive_get_causative_cloze_0000",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom needs to ___ his teeth checked by the dentist before he travels abroad next month.",
+        "correct_answer": "have",
+        "distractors": [
+          "do",
+          "make",
+          "get done"
+        ],
+        "distractor_rationale": [
+          "'do his teeth checked' is grammatically incorrect; 'do' cannot introduce a causative structure with object + past participle",
+          "'make his teeth checked' is incorrect; 'make' requires an infinitive without 'to', not a past participle, in causative structures",
+          "'get done his teeth checked' is a double-marking error that creates a redundant and ungrammatical string"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0001",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria's laptop was very slow, so she ___ it repaired at the local shop last week.",
+        "correct_answer": "got",
+        "distractors": [
+          "got it to repair",
+          "had it to repair",
+          "made"
+        ],
+        "distractor_rationale": [
+          "'got it to repair' inserts an incorrect infinitive marker; the causative requires object + bare past participle, not 'to' + infinitive",
+          "'had it to repair' also incorrectly uses 'to' + infinitive after the object instead of the required past participle",
+          "'made' requires a bare infinitive after the object, not a past participle, so 'made it repaired' is ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0002",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The windows in our office look very dirty — we really should ___ them cleaned before the clients arrive on Friday.",
+        "correct_answer": "have",
+        "distractors": [
+          "get them to clean",
+          "have them to clean",
+          "be"
+        ],
+        "distractor_rationale": [
+          "'get them to clean' changes the meaning entirely — it means asking the windows themselves to clean, which is nonsensical; the causative requires 'get + object + past participle'",
+          "'have them to clean' incorrectly inserts 'to' before the base form; causative 'have' requires object + bare past participle",
+          "'be them cleaned' is ungrammatical; 'be' cannot introduce a causative structure with an intervening object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0003",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the storm, several trees in the garden had fallen over, so the family had to ___ them removed by a professional team.",
+        "correct_answer": "get",
+        "distractors": [
+          "get them to remove",
+          "make",
+          "do"
+        ],
+        "distractor_rationale": [
+          "'get them to remove' shifts meaning to instructing the trees to act, which is absurd; the causative requires 'get + object + past participle', not 'to' + infinitive",
+          "'make them removed' is ungrammatical; 'make' in causative structures requires a bare infinitive, not a past participle",
+          "'do them removed' is entirely ungrammatical; 'do' cannot function as a causative verb in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0004",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James was cycling home when he ___ hit by a car that ran a red light at the junction.",
+        "correct_answer": "got",
+        "distractors": [
+          "had",
+          "was being",
+          "got himself"
+        ],
+        "distractor_rationale": [
+          "'had hit by a car' is ungrammatical in the causative sense here because James did not arrange to be hit; 'had' causative implies deliberate arrangement, which is contextually impossible",
+          "'was being hit' describes an ongoing action in the past, but the event is a sudden, completed incident, making past continuous semantically wrong",
+          "'got himself hit' implies deliberate self-inflicted action, which contradicts the accidental context established by 'ran a red light'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0005",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara decided to ___ her living room repainted in a lighter colour because the old walls made the space feel dark.",
+        "correct_answer": "have",
+        "distractors": [
+          "get her living room to repaint",
+          "have her living room to repaint",
+          "make her living room repainted"
+        ],
+        "distractor_rationale": [
+          "'get her living room to repaint' uses 'to' + infinitive after the object, which incorrectly implies the living room will do the repainting itself",
+          "'have her living room to repaint' also inserts 'to' before the base form, violating the causative rule that requires object + bare past participle",
+          "'make her living room repainted' is ungrammatical; 'make' in causative structures requires object + bare infinitive, not a past participle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0006",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The chef's new recipe ___ praised by all the food critics who attended the launch event at the restaurant.",
+        "correct_answer": "got",
+        "distractors": [
+          "had",
+          "got itself",
+          "was getting"
+        ],
+        "distractor_rationale": [
+          "'had praised by all the food critics' is ungrammatical; 'have' in the causative requires an object between 'have' and the past participle, and this sentence's subject cannot deliberately arrange its own praise in this construction",
+          "'got itself praised' adds a reflexive pronoun that is unnatural and ungrammatical in informal passive; 'get + V3' does not take a reflexive object",
+          "'was getting praised' describes an ongoing or repeated process, but the context specifies a single completed event at a specific launch, making past continuous semantically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0007",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Before the annual inspection, the manager arranged to ___ the fire safety equipment tested by a certified engineer, as required by company policy.",
+        "correct_answer": "have",
+        "distractors": [
+          "get the fire safety equipment to test",
+          "have the fire safety equipment to be tested",
+          "make the fire safety equipment tested"
+        ],
+        "distractor_rationale": [
+          "'get the fire safety equipment to test' uses 'to' + infinitive, implying the equipment will perform the testing itself, which is semantically absurd and structurally wrong for causative 'get'",
+          "'have the fire safety equipment to be tested' incorrectly combines 'to be' with the past participle, creating a non-standard and ungrammatical hybrid of passive infinitive and causative",
+          "'make the fire safety equipment tested' is ungrammatical; 'make' in causative structures requires a bare infinitive after the object, not a past participle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0008",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although Anna had prepared the report herself, she still wanted to ___ it proofread by a colleague before submitting it to the board.",
+        "correct_answer": "get",
+        "distractors": [
+          "have it to proofread",
+          "get it to proofread",
+          "make it proofread"
+        ],
+        "distractor_rationale": [
+          "'have it to proofread' incorrectly inserts 'to' before the base verb; causative 'have' requires object + bare past participle, not 'to' + infinitive",
+          "'get it to proofread' uses 'to' + infinitive, implying the report will proofread something else, which is semantically impossible and structurally incorrect for causative 'get'",
+          "'make it proofread' is ungrammatical; 'make' in a causative structure requires a bare infinitive after the object, and 'proofread' here would be misread as base form with wrong meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0009",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David's phone ___ stolen while he was waiting at the busy train station, so he immediately called his bank to cancel his cards.",
+        "correct_answer": "got",
+        "distractors": [
+          "had",
+          "was being",
+          "got it"
+        ],
+        "distractor_rationale": [
+          "'had stolen' implies David arranged for someone to steal his phone, which directly contradicts the accidental, victimised context described in the sentence",
+          "'was being stolen' describes an ongoing process, but the theft is presented as a completed event that prompted an immediate response, making past continuous semantically inconsistent",
+          "'got it stolen' inserts a redundant object pronoun; in the informal passive 'get + V3', the subject itself undergoes the action and no additional object pronoun is inserted between 'got' and the past participle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0010",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My phone screen was cracked, so I had it ___ at the repair shop near my office.",
+        "correct_answer": "replaced",
+        "distractors": [
+          "to replace",
+          "replacing",
+          "replace"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after causative 'have + object' is a common learner error; the correct form is bare past participle",
+          "present participle produces an active meaning ('it was replacing'), which is grammatically wrong in this causative structure",
+          "bare infinitive is used in causative 'make/let + object + infinitive', not in 'have + object + past participle'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0011",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom got ___ in a minor accident on his way home, but fortunately he was not injured.",
+        "correct_answer": "involved",
+        "distractors": [
+          "involve",
+          "to involve",
+          "involving"
+        ],
+        "distractor_rationale": [
+          "bare infinitive after 'got' in the informal passive is incorrect; the past participle is required",
+          "to-infinitive after 'get' signals a purpose or intention, not an informal passive meaning",
+          "present participle after 'got' would suggest an active, ongoing action rather than a passive event that happened to him"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0012",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Before the annual inspection, the manager asked all staff to get the office equipment ___.",
+        "correct_answer": "checked",
+        "distractors": [
+          "to check",
+          "checking",
+          "be checked"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after 'get + object' creates the wrong structure; learners often confuse this with 'get someone to do something', but here the object is a thing, requiring the past participle",
+          "present participle after 'get + object' implies the equipment is actively doing the checking, which is semantically absurd",
+          "'be checked' belongs to the formal passive construction 'be + past participle', not the informal causative 'get + object + past participle'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0013",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara decided to get her apartment ___ by a professional painter before she moved in, as the walls were in poor condition.",
+        "correct_answer": "repainted",
+        "distractors": [
+          "to repaint",
+          "repainting",
+          "repaint"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after 'get + object' is a classic learner error that confuses causative 'get + object + V3' with the structure 'get someone to do something'",
+          "present participle after 'get + object' implies Sara's apartment was actively doing the repainting, which is impossible and semantically wrong",
+          "bare infinitive is not used after 'get + object' in the causative; it is the form required after 'make + object' or 'let + object', not 'get + object'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_cloze_0014",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although David had planned to fix the boiler himself, he eventually had it ___ by a certified engineer after realising the fault was more serious than he had thought.",
+        "correct_answer": "repaired",
+        "distractors": [
+          "to repair",
+          "repair",
+          "repairing"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after 'have + object' is incorrect in the causative structure; this error arises from confusion with 'get someone to do something', where 'to' is required before a person, not a thing",
+          "bare infinitive after 'have + object' is the pattern for 'make + object + infinitive', not the causative 'have + object + past participle', where the past participle signals that the action is done to the object",
+          "present participle after 'have + object' would imply the boiler was actively repairing something else, which contradicts the sentence's meaning that David arranged for it to be fixed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 33,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_get_causative_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0000",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria needs to get her eyes ___ before she can order new glasses.",
+        "correct_answer": "tested",
+        "distractors": [
+          "to test",
+          "testing",
+          "test"
+        ],
+        "distractor_rationale": [
+          "to-infinitive cannot follow get in the causative structure; the correct form is bare past participle",
+          "present participle -ing is used after get only when describing the subject actively doing something, not arranging for it to be done",
+          "bare infinitive without to cannot complete the causative get + object + V3 structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0001",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom's laptop stopped working, so he got it ___ at the repair shop near his office.",
+        "correct_answer": "fixed",
+        "distractors": [
+          "to fix",
+          "fixing",
+          "fix"
+        ],
+        "distractor_rationale": [
+          "to-infinitive is the most common learner error in causative get; the object must be followed by a past participle, not to-infinitive",
+          "-ing form after the object signals the object is actively doing the action itself, which is impossible for a laptop",
+          "bare infinitive is used after causative make or let, not after causative get"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0002",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The kitchen looked much better after Anna had the walls ___.",
+        "correct_answer": "repainted",
+        "distractors": [
+          "to repaint",
+          "repainting",
+          "repaint"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after have + object signals the object will do the action itself, which walls cannot do",
+          "-ing after have + object means the object is actively performing the action, which is impossible for walls",
+          "bare infinitive cannot follow have + object in the causative structure; a past participle is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0003",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James was ___ when he slipped on the wet floor, so he had to leave work early.",
+        "correct_answer": "hurt",
+        "distractors": [
+          "hurting",
+          "to hurt",
+          "hurted"
+        ],
+        "distractor_rationale": [
+          "-ing form here would mean James was actively hurting someone else, which contradicts the context of him leaving work",
+          "to-infinitive cannot follow the verb be in this passive or result-state structure",
+          "hurt is an irregular verb; 'hurted' is a common learner error applying regular past participle rules to an irregular form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0004",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We couldn't move into the apartment until we got the locks ___.",
+        "correct_answer": "changed",
+        "distractors": [
+          "to change",
+          "change",
+          "changing"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after get + object is a very frequent learner error; the causative requires a past participle",
+          "bare infinitive is used after causative make or let, not after causative get + object",
+          "-ing after get + object implies the object is actively performing the action, but locks cannot change themselves"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0005",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara usually gets her hair ___ every six weeks at the salon downtown.",
+        "correct_answer": "cut",
+        "distractors": [
+          "cutting",
+          "to cut",
+          "cuts"
+        ],
+        "distractor_rationale": [
+          "-ing after get + object implies Sara's hair is actively cutting something, which is nonsensical",
+          "to-infinitive is the most common error learners make in causative get; the correct form is past participle",
+          "third-person singular present tense 'cuts' cannot follow get + object in the causative construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0006",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David had his annual report ___ by a professional editor before submitting it to the board.",
+        "correct_answer": "proofread",
+        "distractors": [
+          "to proofread",
+          "proofreading",
+          "proofreads"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after have + object incorrectly signals that the report itself will proofread something",
+          "-ing after have + object implies the report is actively proofreading, which is impossible",
+          "third-person singular present form cannot follow have + object in the causative structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0007",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project manager got the budget figures ___ twice before presenting them to the client.",
+        "correct_answer": "checked",
+        "distractors": [
+          "being checked",
+          "to be checked",
+          "check"
+        ],
+        "distractor_rationale": [
+          "'being checked' is a progressive passive form used in formal written registers, not in the informal causative get + object + V3 construction",
+          "'to be checked' is a formal passive infinitive used after verbs like need or want, not after causative get + object",
+          "bare infinitive 'check' is used after causative make or let, not after causative get + object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0008",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa's phone ___ stolen while she was waiting for the bus, so she had to borrow one to call home.",
+        "correct_answer": "got",
+        "distractors": [
+          "was being",
+          "has been",
+          "had"
+        ],
+        "distractor_rationale": [
+          "'was being stolen' describes an action in progress at a past moment, which contradicts the sudden completed event implied by the context",
+          "'has been stolen' uses present perfect, which conflicts with the clearly past time frame established by 'while she was waiting'",
+          "'had stolen' makes Lisa the active subject who stole something herself, which is the opposite of the intended meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_multiple_choice_0009",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Rather than fixing the heating system herself, she decided to get it ___ by a qualified engineer before winter arrived.",
+        "correct_answer": "inspected",
+        "distractors": [
+          "to be inspected",
+          "being inspected",
+          "inspect"
+        ],
+        "distractor_rationale": [
+          "'to be inspected' is a formal passive infinitive appropriate after verbs such as need or want, but it cannot follow get + object in the causative structure",
+          "'being inspected' is a formal progressive passive form used in written or official contexts, not in the informal causative get + object + V3 pattern",
+          "bare infinitive 'inspect' is used after causative make or let, not after causative get + object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_get_causative_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0000",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria needs to get her eyes to tested before she buys new glasses.",
+        "correct_answer": "get her eyes tested",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria needs to get her eyes to tested before she buys new glasses.",
+        "corrected_sentence": "Maria needs to get her eyes tested before she buys new glasses.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0001",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom got his hair to cut at the new salon on the high street last Saturday.",
+        "correct_answer": "got his hair cut",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom got his hair to cut at the new salon on the high street last Saturday.",
+        "corrected_sentence": "Tom got his hair cut at the new salon on the high street last Saturday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0002",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We had the kitchen to repaint last month because the walls were badly stained.",
+        "correct_answer": "had the kitchen repainted",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We had the kitchen to repaint last month because the walls were badly stained.",
+        "corrected_sentence": "We had the kitchen repainted last month because the walls were badly stained.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0003",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara got very surprising when she found out that the meeting had been cancelled.",
+        "correct_answer": "got very surprised",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara got very surprising when she found out that the meeting had been cancelled.",
+        "corrected_sentence": "Sara got very surprised when she found out that the meeting had been cancelled.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0004",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James decided to have his old laptop to repair rather than buy a brand-new one.",
+        "correct_answer": "have his old laptop repaired",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James decided to have his old laptop to repair rather than buy a brand-new one.",
+        "corrected_sentence": "James decided to have his old laptop repaired rather than buy a brand-new one.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0005",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The report was got submitted by the team just before the deadline on Friday afternoon.",
+        "correct_answer": "was submitted",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The report was got submitted by the team just before the deadline on Friday afternoon.",
+        "corrected_sentence": "The report was submitted by the team just before the deadline on Friday afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0006",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna got the travel documents checked herself at the embassy, so she didn't need any help from an agent.",
+        "correct_answer": "had the travel documents checked",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna got the travel documents checked herself at the embassy, so she didn't need any help from an agent.",
+        "corrected_sentence": "Anna had the travel documents checked at the embassy, so she didn't need any help from an agent.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_get_causative_error_correction_0007",
+      "skill_ids": [
+        "passive_get_causative"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After the storm, David got the roof inspecting by a professional builder to check for any serious damage.",
+        "correct_answer": "got the roof inspected",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After the storm, David got the roof inspecting by a professional builder to check for any serious damage.",
+        "corrected_sentence": "After the storm, David got the roof inspected by a professional builder to check for any serious damage.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:43:43.724590+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_get_causative_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

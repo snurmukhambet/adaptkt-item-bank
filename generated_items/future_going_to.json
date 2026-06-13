@@ -1,0 +1,1863 @@
+{
+  "skill_id": "future_going_to",
+  "skill_name": "Future with Going To",
+  "exercises": [
+    {
+      "id": "ex_future_going_to_cloze_0000",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (buy) a new bag tomorrow.",
+        "correct_answer": "is going to buy",
+        "distractors": [
+          "will buys",
+          "going to buy",
+          "buys"
+        ],
+        "distractor_rationale": [
+          "will buys is grammatically incorrect — will is followed by the base form, not a conjugated verb",
+          "going to buy omits the required auxiliary be, making the sentence ungrammatical",
+          "buys is simple present and cannot express a future plan decided in advance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0001",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at that baby! She ___ (cry) any second now.",
+        "correct_answer": "is going to cry",
+        "distractors": [
+          "will cry",
+          "cries",
+          "is crying"
+        ],
+        "distractor_rationale": [
+          "will cry expresses a general prediction without present evidence, but the visible sign 'look at that baby' demands a going to prediction based on evidence",
+          "cries is simple present and cannot describe an imminent future event",
+          "is crying describes an action already in progress, but the baby has not started crying yet"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0002",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (not visit) the museum this weekend because it is closed.",
+        "correct_answer": "are not going to visit",
+        "distractors": [
+          "will not visiting",
+          "don't visit",
+          "are not visit"
+        ],
+        "distractor_rationale": [
+          "will not visiting is ungrammatical — will must be followed by a base verb, not a gerund",
+          "don't visit is simple present and cannot express a cancelled future plan",
+          "are not visit omits the required going to structure and is grammatically incomplete"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0003",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna has already packed her suitcase because she ___ (fly) to her sister's city next Monday.",
+        "correct_answer": "is going to fly",
+        "distractors": [
+          "will fly",
+          "flies",
+          "was going to fly"
+        ],
+        "distractor_rationale": [
+          "will fly suggests a spontaneous decision made at the moment of speaking, but the packed suitcase shows a pre-arranged plan requiring going to",
+          "flies is simple present and cannot express a future travel plan",
+          "was going to fly is past tense and contradicts the future time marker next Monday"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0004",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The glass is right on the edge of the table — it ___ (fall) if nobody moves it.",
+        "correct_answer": "is going to fall",
+        "distractors": [
+          "will fall",
+          "falls",
+          "is fallen"
+        ],
+        "distractor_rationale": [
+          "will fall is used for general predictions without visible evidence, but the glass visibly on the edge provides immediate physical evidence requiring going to",
+          "falls is simple present and cannot express an imminent future event based on current evidence",
+          "is fallen is grammatically incorrect — fall is an intransitive verb and does not form a passive in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0005",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My parents ___ (redecorate) the living room next month — they have already chosen the paint colour.",
+        "correct_answer": "are going to redecorate",
+        "distractors": [
+          "will redecorate",
+          "are redecorating",
+          "going to redecorate"
+        ],
+        "distractor_rationale": [
+          "will redecorate implies a decision made now at the moment of speaking, but the chosen paint colour proves the plan was made earlier, requiring going to",
+          "are redecorating could describe an action already in progress, which contradicts next month as a future time marker",
+          "going to redecorate omits the auxiliary are, making the sentence grammatically incomplete"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0006",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David ___ (not eat) meat anymore — he decided to become vegetarian last week.",
+        "correct_answer": "is not going to eat",
+        "distractors": [
+          "will not eat",
+          "does not eat",
+          "is not eaten"
+        ],
+        "distractor_rationale": [
+          "will not eat suggests a spontaneous future decision, but the sentence specifies the decision was made last week, so going to is required for a pre-planned intention",
+          "does not eat is simple present and cannot express a future intention starting from a past decision",
+          "is not eaten is passive voice and is grammatically and semantically incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0007",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara has signed up for an evening course, so she ___ (study) graphic design every Tuesday for the next three months.",
+        "correct_answer": "is going to study",
+        "distractors": [
+          "will study",
+          "studies",
+          "has studied"
+        ],
+        "distractor_rationale": [
+          "will study implies a decision made at the moment of speaking, but signing up for a course is clear evidence of a pre-arranged plan requiring going to",
+          "studies is simple present and cannot express a scheduled future commitment",
+          "has studied is present perfect and refers to completed past experience, not a future plan"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0008",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The mechanic has just looked under the car and says the engine ___ (break down) completely unless we replace the part today.",
+        "correct_answer": "is going to break down",
+        "distractors": [
+          "will break down",
+          "breaks down",
+          "is breaking down"
+        ],
+        "distractor_rationale": [
+          "will break down expresses a general future prediction without specific present evidence, but the mechanic's physical inspection provides concrete visible evidence requiring going to for an evidence-based prediction",
+          "breaks down is simple present and cannot express a future consequence identified through current evidence",
+          "is breaking down describes an action currently in progress, whereas the engine has not yet failed — the breakdown is imminent but future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0009",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager confirmed in this morning's meeting that the team ___ (launch) the new product in early spring, once all the tests are complete.",
+        "correct_answer": "is going to launch",
+        "distractors": [
+          "will launch",
+          "launched",
+          "is launching"
+        ],
+        "distractor_rationale": [
+          "will launch suggests a spontaneous announcement rather than a confirmed pre-arranged plan; the phrase confirmed in this morning's meeting establishes that the decision was already made, requiring going to",
+          "launched is past simple and cannot refer to a future event described with once all the tests are complete",
+          "is launching could imply the launch is already underway, which contradicts once all the tests are complete as a future condition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0010",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (visit) his grandparents this weekend.",
+        "correct_answer": "is going to visit",
+        "distractors": [
+          "will visits",
+          "is going visit",
+          "visits"
+        ],
+        "distractor_rationale": [
+          "will requires the base form without -s; this form is grammatically impossible",
+          "the auxiliary be is required before going to; omitting it produces an ungrammatical structure",
+          "present simple cannot express a future plan already decided for this weekend"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0011",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at that little boy on the bike — he ___ (fall) off!",
+        "correct_answer": "is going to fall",
+        "distractors": [
+          "will fall",
+          "falls",
+          "is falling"
+        ],
+        "distractor_rationale": [
+          "will expresses a general prediction without present evidence; here the visible scene provides clear evidence, requiring going to",
+          "present simple cannot express an imminent future event predicted from current visual evidence",
+          "present continuous describes an action already in progress, but the boy has not yet fallen"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0012",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna and her sister ___ (not/fly) to the conference next week because they booked train tickets yesterday.",
+        "correct_answer": "are not going to fly",
+        "distractors": [
+          "will not flying",
+          "do not going to fly",
+          "are not going fly"
+        ],
+        "distractor_rationale": [
+          "will requires the base form; attaching -ing to the main verb produces an ungrammatical construction",
+          "do is the auxiliary for present simple negation, not for going to constructions; be is required",
+          "to is obligatory between going and the base verb; omitting it makes the structure ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0013",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James has already bought all the ingredients, so he ___ (cook) dinner for the whole family tonight.",
+        "correct_answer": "is going to cook",
+        "distractors": [
+          "will cook",
+          "is going to cooking",
+          "cooks"
+        ],
+        "distractor_rationale": [
+          "will is used for spontaneous decisions made at the moment of speaking; buying ingredients beforehand shows a pre-planned intention, which requires going to",
+          "the base form of the main verb must follow going to; adding -ing produces an ungrammatical structure",
+          "present simple cannot express a future plan; it describes habits or scheduled timetable events only"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_cloze_0014",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager has already confirmed the schedule, so the team ___ (start) the new project on Monday morning, not next month as some people expected.",
+        "correct_answer": "is going to start",
+        "distractors": [
+          "will start",
+          "going to start",
+          "are going to starting"
+        ],
+        "distractor_rationale": [
+          "will is used for decisions made at the moment of speaking or general predictions without evidence; the confirmed schedule indicates a pre-arranged plan, which requires going to",
+          "the auxiliary be must agree with the subject the team (singular collective); omitting is produces an ungrammatical structure",
+          "the main verb must remain in base form after going to; adding -ing is ungrammatical regardless of the auxiliary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_going_to_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0000",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ a new bike next week.",
+        "correct_answer": "is going to buy",
+        "distractors": [
+          "will buying",
+          "going to buy",
+          "buys"
+        ],
+        "distractor_rationale": [
+          "will + -ing is not a valid verb form in English; will must be followed by a bare infinitive",
+          "omits the required auxiliary 'is' before going to, a common learner error",
+          "present simple cannot express a future plan or intention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0001",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look at that glass on the edge of the table! It ___ fall.",
+        "correct_answer": "is going to",
+        "distractors": [
+          "will",
+          "going to",
+          "is going"
+        ],
+        "distractor_rationale": [
+          "will is used for general predictions without present evidence; here the visible position of the glass provides clear physical evidence, requiring going to",
+          "omits the required auxiliary 'is' before going to, making the verb phrase grammatically incomplete",
+          "omits 'to' from the going to structure, making the verb phrase incomplete and ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0002",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ visit our grandparents this Sunday — we already told them.",
+        "correct_answer": "are going to",
+        "distractors": [
+          "will",
+          "are going",
+          "were going to"
+        ],
+        "distractor_rationale": [
+          "will is used for unplanned decisions made at the moment of speaking; here the plan was already made in advance, requiring going to",
+          "omits 'to' after going, making the structure incomplete and ungrammatical",
+          "were going to describes a past intention that was not carried out; the plan is still current and for the future"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0003",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria has already booked her flights, so she ___ spend her holiday in Italy this summer.",
+        "correct_answer": "is going to",
+        "distractors": [
+          "will",
+          "is going",
+          "was going to"
+        ],
+        "distractor_rationale": [
+          "will is inappropriate here because the evidence of a pre-existing decision (booked flights) signals a prior plan, which requires going to",
+          "omits 'to' from the going to structure, making the verb phrase grammatically incomplete",
+          "was going to refers to a past unfulfilled intention; the sentence describes a current confirmed future plan"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0004",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children ___ not ___ play in the garden today because it is raining heavily.",
+        "correct_answer": "are / going to",
+        "distractors": [
+          "will / going to",
+          "are / going",
+          "is / going to"
+        ],
+        "distractor_rationale": [
+          "will cannot be combined with going to; the negative form requires 'are not going to'",
+          "omits 'to' after going, making the structure incomplete and ungrammatical",
+          "'is' does not agree with the plural subject 'the children'; the correct auxiliary is 'are'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0005",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James has saved enough money, and he ___ buy a new laptop before his course starts.",
+        "correct_answer": "is going to",
+        "distractors": [
+          "will",
+          "going to",
+          "is going"
+        ],
+        "distractor_rationale": [
+          "will suggests a spontaneous decision made now; the sentence shows James has already saved and planned, so going to is required",
+          "omits the auxiliary 'is', making the structure ungrammatical without a finite verb",
+          "omits 'to' after going, leaving the infinitive 'buy' without the required connector"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0006",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look at the sky — those black clouds mean it ___ storm very soon.",
+        "correct_answer": "is going to",
+        "distractors": [
+          "will",
+          "is going",
+          "was going to"
+        ],
+        "distractor_rationale": [
+          "will is used for general predictions with no visible evidence; the visible black clouds provide present evidence, so going to is required",
+          "omits 'to' from the structure, making the verb phrase 'is going storm' ungrammatical",
+          "was going to indicates a past unfulfilled intention; the prediction is about an imminent future event based on current evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0007",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After months of planning, Anna and her team ___ launch the new product at the trade fair next month.",
+        "correct_answer": "are going to",
+        "distractors": [
+          "will",
+          "are going",
+          "have gone to"
+        ],
+        "distractor_rationale": [
+          "will implies a spontaneous decision; months of prior planning signals a fixed intention, which requires going to",
+          "omits 'to' after going, making the infinitive 'launch' grammatically unattached",
+          "have gone to is present perfect and describes a completed action of going somewhere, not a future plan"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0008",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The doctor says that if David doesn't rest this week, his cold ___ get much worse by the weekend.",
+        "correct_answer": "is going to",
+        "distractors": [
+          "will",
+          "is going",
+          "goes to"
+        ],
+        "distractor_rationale": [
+          "will is possible here for a general prediction, but the doctor's present clinical assessment provides specific present evidence pointing to an imminent outcome, making going to the more precise and contextually required choice",
+          "omits 'to' from the structure, leaving 'is going get' which is ungrammatical",
+          "goes to is present simple and cannot express a future prediction; 'to' here wrongly implies movement toward a destination"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_multiple_choice_0009",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara told her manager last week that she ___ not ___ accept the new position because it requires too much travel.",
+        "correct_answer": "is / going to",
+        "distractors": [
+          "will / going to",
+          "are / going to",
+          "is / going"
+        ],
+        "distractor_rationale": [
+          "will cannot be combined with going to in the same verb phrase; the negative of going to is formed with 'is not going to'",
+          "'are' does not agree with the singular subject 'she'; the correct auxiliary is 'is'",
+          "omits 'to' after going, making 'is not going accept' ungrammatical as the infinitive requires the connector 'to'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_going_to_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0000",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She going to visit her grandmother this weekend.",
+        "correct_answer": "is going to visit",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She going to visit her grandmother this weekend.",
+        "corrected_sentence": "She is going to visit her grandmother this weekend.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0001",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 35,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They going to buy a new sofa for the living room.",
+        "correct_answer": "are going to buy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They going to buy a new sofa for the living room.",
+        "corrected_sentence": "They are going to buy a new sofa for the living room.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 35,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0002",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I will meet my friends at the café tonight — we already booked a table.",
+        "correct_answer": "am going to meet",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I will meet my friends at the café tonight — we already booked a table.",
+        "corrected_sentence": "I am going to meet my friends at the café tonight — we already booked a table.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0003",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Look at those dark clouds — it will rain very soon.",
+        "correct_answer": "is going to rain",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Look at those dark clouds — it will rain very soon.",
+        "corrected_sentence": "Look at those dark clouds — it is going to rain very soon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0004",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Mark and his brother gonna paint the kitchen walls next Saturday.",
+        "correct_answer": "are going to paint",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Mark and his brother gonna paint the kitchen walls next Saturday.",
+        "corrected_sentence": "Mark and his brother are going to paint the kitchen walls next Saturday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0005",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager will present the new project plan at tomorrow's meeting — she has prepared everything already.",
+        "correct_answer": "is going to present",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager will present the new project plan at tomorrow's meeting — she has prepared everything already.",
+        "corrected_sentence": "The manager is going to present the new project plan at tomorrow's meeting — she has prepared everything already.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0006",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna isn't going to finishes her assignment before the deadline because she started it too late.",
+        "correct_answer": "finish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna isn't going to finishes her assignment before the deadline because she started it too late.",
+        "corrected_sentence": "Anna isn't going to finish her assignment before the deadline because she started it too late.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_going_to_error_correction_0007",
+      "skill_ids": [
+        "future_going_to"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Be careful — that shelf is loaded with heavy boxes and it will fall if you touch it.",
+        "correct_answer": "is going to fall",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Be careful — that shelf is loaded with heavy boxes and it will fall if you touch it.",
+        "corrected_sentence": "Be careful — that shelf is loaded with heavy boxes and it is going to fall if you touch it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:19:18.954422+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_going_to_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

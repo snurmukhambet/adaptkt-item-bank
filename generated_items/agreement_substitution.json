@@ -1,0 +1,1863 @@
+{
+  "skill_id": "agreement_substitution",
+  "skill_name": "Agreement & Substitution (So do I / Neither can she)",
+  "exercises": [
+    {
+      "id": "ex_agreement_substitution_cloze_0000",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'I love cooking at home.' 'So ___ I — it's much cheaper than eating out.'",
+        "correct_answer": "do",
+        "distractors": [
+          "I do",
+          "am",
+          "did"
+        ],
+        "distractor_rationale": [
+          "subject-auxiliary order is inverted after 'so'; 'So I do' is the classic word-order error",
+          "'am' matches 'be' verbs, but 'love' is a main verb requiring 'do' as auxiliary",
+          "'did' signals past tense, but 'I love' is present simple, so the auxiliary must also be present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0001",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'Maria can't swim very well.' 'Neither ___ Tom — they should both take lessons.'",
+        "correct_answer": "can",
+        "distractors": [
+          "does",
+          "is",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'does' is the auxiliary for present simple main verbs, not for modal 'can'; the modal must be echoed",
+          "'is' is a 'be' auxiliary and does not match the modal 'can' in the original statement",
+          "'did' signals past simple, but 'can't swim' is present, so the auxiliary must remain present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0002",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'We enjoyed the concert last night.' 'So ___ we — the band was absolutely fantastic.'",
+        "correct_answer": "did",
+        "distractors": [
+          "do",
+          "have",
+          "were"
+        ],
+        "distractor_rationale": [
+          "'do' is present simple auxiliary, but 'enjoyed' is past simple, so the echo auxiliary must be 'did'",
+          "'have' suggests present perfect, which contradicts the past time marker 'last night'",
+          "'were' is a past 'be' auxiliary and does not match the past simple main verb 'enjoyed'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0003",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'James has never tried sushi before.' '___ have I — let's order some together tonight.'",
+        "correct_answer": "Neither",
+        "distractors": [
+          "So",
+          "Either",
+          "Nor do"
+        ],
+        "distractor_rationale": [
+          "'So' is used to agree with positive statements; 'has never tried' is negative, so 'Neither' is required",
+          "'Either' can express negative agreement but must follow the pattern '…either' at the end of a clause, not at the start with inverted auxiliary",
+          "'Nor do' uses the wrong auxiliary; the original uses 'have' (present perfect), so the echo must be 'Neither have I'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0004",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'Anna was feeling tired after the long journey.' 'So ___ David — he fell asleep on the train.'",
+        "correct_answer": "was",
+        "distractors": [
+          "did",
+          "were",
+          "is"
+        ],
+        "distractor_rationale": [
+          "'did' echoes past simple main verbs, but 'was feeling' uses past continuous 'be', so the auxiliary must be 'was'",
+          "'were' does not agree with the singular subject 'David'; the correct past 'be' form for a singular third-person subject is 'was'",
+          "'is' is present tense and contradicts the past context established by 'after the long journey'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0005",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'I don't usually eat breakfast before work.' 'Neither ___ my flatmate — we just have coffee in the morning.'",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "is",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'do' does not agree with the third-person singular subject 'my flatmate'; present simple third-person requires 'does'",
+          "'is' is a 'be' auxiliary and cannot echo the present simple main verb 'eat' in 'don't usually eat'",
+          "'did' implies past tense, but 'don't usually eat' is a present habitual statement, requiring a present auxiliary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0006",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'Sara has already booked her flights for the holiday.' 'So ___ Lisa — they're both flying on the same day.'",
+        "correct_answer": "has",
+        "distractors": [
+          "does",
+          "did",
+          "had"
+        ],
+        "distractor_rationale": [
+          "'does' echoes present simple main verbs, but 'has booked' is present perfect, requiring 'has' as the auxiliary",
+          "'did' signals past simple and contradicts the present perfect 'has already booked', which has current relevance",
+          "'had' signals past perfect, but the context is present perfect with no earlier past reference point"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0007",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'By the time Mark arrived, the others had already left the meeting room.' 'So ___ his manager — the whole team had gone home early.'",
+        "correct_answer": "had",
+        "distractors": [
+          "did",
+          "has",
+          "was"
+        ],
+        "distractor_rationale": [
+          "'did' echoes past simple, but 'had already left' is past perfect, so the echo auxiliary must also be past perfect 'had'",
+          "'has' is a present perfect auxiliary and is inconsistent with the completed past sequence described in the sentence",
+          "'was' is a past 'be' auxiliary and cannot echo the past perfect auxiliary 'had' used with the main verb 'left'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0008",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'I wouldn't feel comfortable presenting in front of such a large audience.' '___ would I — I always get very nervous in those situations.'",
+        "correct_answer": "Neither",
+        "distractors": [
+          "So",
+          "Nor I",
+          "Either"
+        ],
+        "distractor_rationale": [
+          "'So' is used to agree with positive statements; 'wouldn't feel comfortable' is negative, so 'Neither' is required to express agreement",
+          "'Nor I' omits the auxiliary 'would' and reverses the required inverted structure 'Neither would I'",
+          "'Either' expresses negative agreement only when placed at the end of a clause after a subject and auxiliary, not at the start of an inverted response"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0009",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'The new colleague seems very confident during team meetings.' 'So ___ the project manager — they both speak really clearly and calmly.'",
+        "correct_answer": "does",
+        "distractors": [
+          "is",
+          "do",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'is' would echo a 'be' verb, but 'seems' is a present simple main verb requiring 'does' as the auxiliary echo",
+          "'do' does not agree with the singular third-person subject 'the project manager'; present simple third-person singular requires 'does'",
+          "'did' signals past tense and contradicts the present simple 'seems', which describes a current, ongoing characteristic"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0010",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'I enjoy long walks in the park on weekends.' 'So ___ my sister — she goes every Sunday morning.'",
+        "correct_answer": "does",
+        "distractors": [
+          "do",
+          "is",
+          "enjoys"
+        ],
+        "distractor_rationale": [
+          "'do' is wrong because the subject 'my sister' is third person singular and requires 'does' to match the present simple auxiliary",
+          "'is' is wrong because the original statement uses 'enjoy', a main verb in present simple, not a be-verb construction",
+          "'enjoys' is wrong because the inverted agreement structure requires an auxiliary verb after 'so', not a full main verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0011",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'I can't swim very well.' 'Neither ___ Tom — he always stays in the shallow end of the pool.'",
+        "correct_answer": "can",
+        "distractors": [
+          "do",
+          "does",
+          "is"
+        ],
+        "distractor_rationale": [
+          "'do' is wrong because the original statement uses the modal 'can't', so the agreement response must repeat the modal 'can', not a do-auxiliary",
+          "'does' is wrong for the same reason — the auxiliary must match the modal in the original, and 'does' replaces present simple main verbs, not modals",
+          "'is' is wrong because the original uses 'can't', a modal, and 'is' is a be-verb that does not correspond to any element in the original statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0012",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'We visited the new science museum last weekend.' 'So ___ we — the exhibition on space exploration was fascinating.'",
+        "correct_answer": "did",
+        "distractors": [
+          "do",
+          "have",
+          "were"
+        ],
+        "distractor_rationale": [
+          "'do' is wrong because the original statement is in the past simple tense, marked by 'last weekend', so the auxiliary must be past 'did', not present 'do'",
+          "'have' is wrong because the original uses past simple, not present perfect; 'have' would imply a present perfect agreement which contradicts the finished past time reference",
+          "'were' is wrong because 'visited' is a past simple main verb, not a past continuous construction, so 'were' does not match the auxiliary needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0013",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'Mark hasn't finished the report yet.' '___ has Anna — she said she still needs two more hours to complete it.'",
+        "correct_answer": "Neither",
+        "distractors": [
+          "So",
+          "Nor do",
+          "Either"
+        ],
+        "distractor_rationale": [
+          "'So' is wrong because 'so' is used to agree with a positive statement; the original statement is negative ('hasn't'), so the agreement must use 'neither' or 'nor'",
+          "'Nor do' is wrong because the original uses 'has' as the auxiliary in 'hasn't finished', so the agreement requires 'nor has', not 'nor do'",
+          "'Either' is wrong because 'either' is used at the end of a clause (e.g. 'Anna hasn't either') and cannot begin an inverted agreement response in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_cloze_0014",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "'By the time the meeting ended, I was completely exhausted.' 'So ___ the rest of the team — nobody had slept well the night before.'",
+        "correct_answer": "was",
+        "distractors": [
+          "did",
+          "were",
+          "had"
+        ],
+        "distractor_rationale": [
+          "'did' is wrong because the original statement uses 'was', a past be-verb, not a past simple main verb; the agreement must echo the be-verb 'was', not a do-auxiliary",
+          "'were' is wrong because the subject in the agreement clause is 'the rest of the team', which, as a collective singular noun phrase, takes 'was' in standard agreement, and because the original statement's 'I was' sets 'was' as the required auxiliary form to echo",
+          "'had' is wrong because the original statement uses past simple 'was', not past perfect; introducing 'had' shifts the tense incorrectly and does not reflect the auxiliary in the original clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "agreement_substitution_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0000",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'I enjoy cooking at home.' '___, and I make dinner every Friday.'",
+        "correct_answer": "So do I",
+        "distractors": [
+          "So I do",
+          "Neither do I",
+          "So I am"
+        ],
+        "distractor_rationale": [
+          "Subject-auxiliary inversion is required after 'so' in short agreements; 'So I do' uses wrong word order",
+          "'Neither do I' expresses agreement with a negative statement, but 'I enjoy cooking' is positive",
+          "'So I am' uses wrong word order and the wrong auxiliary — 'enjoy' is a main verb requiring 'do', not 'am'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0001",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'Maria can't swim very well.' '___, so we both stayed in the shallow end.'",
+        "correct_answer": "Neither can I",
+        "distractors": [
+          "So can I",
+          "Neither I can",
+          "Either can I"
+        ],
+        "distractor_rationale": [
+          "'So can I' expresses agreement with a positive statement, but 'can't swim' is negative",
+          "'Neither I can' uses wrong word order — inversion (auxiliary before subject) is required after 'neither'",
+          "'Either can I' is not a grammatical short-response structure; 'either' requires 'not either' or is used at the end of a clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0002",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'Tom has already eaten lunch.' '___, and now we're both looking for something sweet.'",
+        "correct_answer": "So have I",
+        "distractors": [
+          "So do I",
+          "So did I",
+          "So I have"
+        ],
+        "distractor_rationale": [
+          "'So do I' uses the wrong auxiliary — the original uses present perfect 'has eaten', so 'have' is required",
+          "'So did I' uses past simple auxiliary, but the original statement is in the present perfect",
+          "'So I have' uses wrong word order — the auxiliary must come before the subject after 'so'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0003",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'I didn't sleep well last night because of the noise.' '___ — I kept waking up every hour.'",
+        "correct_answer": "Neither did I",
+        "distractors": [
+          "Neither do I",
+          "So didn't I",
+          "Neither I did"
+        ],
+        "distractor_rationale": [
+          "'Neither do I' uses the present simple auxiliary, but the original statement uses past simple 'didn't sleep'",
+          "'So didn't I' is grammatically impossible — 'so' is used for positive agreement, not negative; and auxiliary inversion after 'so' does not take 'not'",
+          "'Neither I did' uses wrong word order — subject-auxiliary inversion is obligatory after 'neither'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0004",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'Sara was really nervous before her presentation.' '___ — my hands were shaking the whole time.'",
+        "correct_answer": "So was I",
+        "distractors": [
+          "So did I",
+          "So were I",
+          "So am I"
+        ],
+        "distractor_rationale": [
+          "'So did I' uses the wrong auxiliary — the original uses 'was' (past simple of 'be'), not a main verb requiring 'do'",
+          "'So were I' uses the wrong form of 'be' — the subject 'I' requires 'was', not 'were', in past simple",
+          "'So am I' uses the present tense of 'be', but the original statement refers to a past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0005",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'James hasn't visited his grandparents in months.' '___, and we both feel a bit guilty about it.'",
+        "correct_answer": "Neither have I",
+        "distractors": [
+          "Neither did I",
+          "So haven't I",
+          "Neither has I"
+        ],
+        "distractor_rationale": [
+          "'Neither did I' uses the past simple auxiliary, but the original statement is in the present perfect with 'hasn't'",
+          "'So haven't I' is impossible — 'so' signals positive agreement; a negative original requires 'neither/nor'",
+          "'Neither has I' uses the third-person singular auxiliary 'has' with the first-person subject 'I', which is a subject-verb agreement error"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0006",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'I would love to travel somewhere warm this winter.' '___ — maybe we should plan a trip together.'",
+        "correct_answer": "So would I",
+        "distractors": [
+          "So will I",
+          "So do I",
+          "So I would"
+        ],
+        "distractor_rationale": [
+          "'So will I' uses the wrong modal — the original uses 'would', not 'will', so the auxiliary in the response must match",
+          "'So do I' uses the present simple auxiliary 'do', but the original statement uses the modal 'would'",
+          "'So I would' uses wrong word order — the auxiliary must be inverted before the subject after 'so'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0007",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'By the time the meeting started, Anna had already read through all the reports.' '___, so we were both prepared to answer questions.'",
+        "correct_answer": "So had I",
+        "distractors": [
+          "So have I",
+          "So did I",
+          "So was I"
+        ],
+        "distractor_rationale": [
+          "'So have I' uses the present perfect auxiliary, but the original statement uses the past perfect 'had already read', referring to an event completed before another past event",
+          "'So did I' uses the past simple auxiliary 'did', but the original statement is in the past perfect, which requires 'had'",
+          "'So was I' uses the past simple of 'be', which is the wrong auxiliary — 'had read' requires 'had' in the agreement response"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0008",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'I've never been able to concentrate properly when there's background music playing.' '___ — I always need complete silence to focus on my work.'",
+        "correct_answer": "Neither have I",
+        "distractors": [
+          "Neither had I",
+          "So have I",
+          "Neither do I"
+        ],
+        "distractor_rationale": [
+          "'Neither had I' uses the past perfect auxiliary, but the original uses present perfect 'have never been able', referring to a general life experience up to now",
+          "'So have I' signals positive agreement, but 'I've never been able to' is a negative statement requiring 'neither/nor'",
+          "'Neither do I' uses the present simple auxiliary 'do', but the original statement uses the present perfect auxiliary 'have' with 'never been able'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_multiple_choice_0009",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "'David said he might apply for the management position if the salary was high enough.' '___, but I decided the extra responsibility wasn't worth it in the end.'",
+        "correct_answer": "So might I",
+        "distractors": [
+          "So may I",
+          "So did I",
+          "So would I"
+        ],
+        "distractor_rationale": [
+          "'So may I' uses the present modal 'may', but the original statement is set in reported speech with past modal 'might', which must be matched in the response",
+          "'So did I' uses the past simple auxiliary 'did', but the original statement uses the modal 'might', not a main verb in past simple",
+          "'So would I' uses the modal 'would', which expresses a different meaning (hypothetical certainty) rather than the possibility expressed by 'might' in the original"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "agreement_substitution_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0000",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria loves Italian food, and so I do.",
+        "correct_answer": "so do I",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria loves Italian food, and so I do.",
+        "corrected_sentence": "Maria loves Italian food, and so do I.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0001",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom can't swim very well, and neither I can.",
+        "correct_answer": "neither can I",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom can't swim very well, and neither I can.",
+        "corrected_sentence": "Tom can't swim very well, and neither can I.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0002",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James finished the report early yesterday, and so do I.",
+        "correct_answer": "so did I",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James finished the report early yesterday, and so do I.",
+        "corrected_sentence": "James finished the report early yesterday, and so did I.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0003",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna doesn't enjoy working late, and so doesn't David.",
+        "correct_answer": "neither does David",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna doesn't enjoy working late, and so doesn't David.",
+        "corrected_sentence": "Anna doesn't enjoy working late, and neither does David.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0004",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 53,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara had already eaten lunch when they arrived, and so had either Lisa.",
+        "correct_answer": "so had Lisa",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara had already eaten lunch when they arrived, and so had either Lisa.",
+        "corrected_sentence": "Sara had already eaten lunch when they arrived, and so had Lisa.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 53,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0005",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "David has been feeling tired all week because of the extra shifts, and neither has Mark.",
+        "correct_answer": "so has Mark",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "David has been feeling tired all week because of the extra shifts, and neither has Mark.",
+        "corrected_sentence": "David has been feeling tired all week because of the extra shifts, and so has Mark.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0006",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Lisa couldn't find a seat on the train this morning, and neither did Mark.",
+        "correct_answer": "neither could Mark",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Lisa couldn't find a seat on the train this morning, and neither did Mark.",
+        "corrected_sentence": "Lisa couldn't find a seat on the train this morning, and neither could Mark.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_agreement_substitution_error_correction_0007",
+      "skill_ids": [
+        "agreement_substitution"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We were told that the meeting had been cancelled, and so were either our colleagues in the other office.",
+        "correct_answer": "so were our colleagues",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We were told that the meeting had been cancelled, and so were either our colleagues in the other office.",
+        "corrected_sentence": "We were told that the meeting had been cancelled, and so were our colleagues in the other office.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:24:18.123872+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "agreement_substitution_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

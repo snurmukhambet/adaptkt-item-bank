@@ -1,0 +1,1865 @@
+{
+  "skill_id": "modals_preferences",
+  "skill_name": "Preferences & Desires (Want to / Would rather / Would love)",
+  "exercises": [
+    {
+      "id": "ex_modals_preferences_cloze_0000",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I ___ a cup of tea, please.",
+        "correct_answer": "would like",
+        "distractors": [
+          "would like to",
+          "am wanting",
+          "want"
+        ],
+        "distractor_rationale": [
+          "'would like to' must be followed by a verb, not a noun phrase like 'a cup of tea'",
+          "'am wanting' is incorrect because 'want' is a stative verb and cannot be used in continuous form",
+          "'want' is grammatically possible but too informal and direct for a polite request in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0001",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ play football than watch TV on Saturday afternoons.",
+        "correct_answer": "would rather",
+        "distractors": [
+          "would rather to",
+          "would prefer",
+          "would like to"
+        ],
+        "distractor_rationale": [
+          "'would rather to' is incorrect because 'would rather' is always followed by a bare infinitive, never 'to'",
+          "'would prefer' requires 'to + infinitive' and then 'rather than', making 'than' here ungrammatical without restructuring",
+          "'would like to' cannot be followed directly by a bare infinitive and then 'than' in a comparative preference structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0002",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ to visit her grandmother this weekend.",
+        "correct_answer": "wants",
+        "distractors": [
+          "would rather",
+          "is wanting",
+          "want"
+        ],
+        "distractor_rationale": [
+          "'would rather' must be followed by a bare infinitive without 'to', so 'would rather to visit' is ungrammatical",
+          "'is wanting' is incorrect because 'want' is a stative verb and does not take the continuous form",
+          "'want' is incorrect because the third-person singular subject 'Anna' requires the -s ending 'wants'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0003",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ eat at the Italian restaurant near the park rather than order a takeaway tonight.",
+        "correct_answer": "would rather",
+        "distractors": [
+          "would rather to",
+          "would love",
+          "would prefer to"
+        ],
+        "distractor_rationale": [
+          "'would rather to eat' is ungrammatical because 'would rather' is followed by a bare infinitive, never 'to'",
+          "'would love eat' is ungrammatical because 'would love' must be followed by 'to + infinitive', not a bare infinitive",
+          "'would prefer to eat... rather than' is not standard; 'would prefer to eat... to ordering' is the correct structure, making 'rather than order' here ungrammatical with this option"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0004",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ to join the cooking class next month if there are still spaces available.",
+        "correct_answer": "would like",
+        "distractors": [
+          "would like going",
+          "would rather",
+          "would love going"
+        ],
+        "distractor_rationale": [
+          "'would like going' is incorrect because 'would like' must be followed by 'to + infinitive', not a gerund",
+          "'would rather' must be followed by a bare infinitive without 'to', so 'would rather to join' is ungrammatical",
+          "'would love going' is incorrect because 'would love' must be followed by 'to + infinitive', not a gerund"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0005",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James prefers cycling ___ driving to work because it keeps him fit.",
+        "correct_answer": "to",
+        "distractors": [
+          "than",
+          "over",
+          "instead"
+        ],
+        "distractor_rationale": [
+          "'prefer + -ing + than + -ing' is a very common learner error; the correct structure is 'prefer + -ing + to + -ing'",
+          "'prefer + -ing + over + -ing' is used informally in some varieties but is not the standard grammatical structure tested at this level",
+          "'instead' cannot link two gerund phrases in a preference structure; it functions as an adverb and requires different sentence structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0006",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She ___ to spend her holiday by the sea, so she booked a small hotel near the beach.",
+        "correct_answer": "would love",
+        "distractors": [
+          "would love going",
+          "would rather",
+          "loves"
+        ],
+        "distractor_rationale": [
+          "'would love going' is incorrect because 'would love' must be followed by 'to + infinitive', not a gerund",
+          "'would rather spend' is grammatically possible but the sentence continues with 'so she booked', indicating a decided desire fulfilled by action, which 'would love to spend' expresses more accurately as a wish that was acted upon; additionally, 'would rather' without a contrasting alternative is unnatural here",
+          "'loves to spend' changes the meaning to a habitual preference rather than a specific desire that led to the booking action described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0007",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you don't mind, I ___ not wait in the queue any longer and come back another time.",
+        "correct_answer": "would rather",
+        "distractors": [
+          "would rather to",
+          "would prefer",
+          "would like to"
+        ],
+        "distractor_rationale": [
+          "'would rather to not wait' is ungrammatical; 'would rather' is always followed by a bare infinitive, never 'to'",
+          "'would prefer not wait' is ungrammatical; 'would prefer' requires 'to + infinitive', giving 'would prefer not to wait', which changes the structure required by the sentence",
+          "'would like to not wait' is grammatically awkward and non-standard; the natural negative form with 'would like' places 'not' before 'would', not before the infinitive, and the overall preference-refusal meaning here is better expressed by 'would rather'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0008",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David would prefer ___ the report himself rather than ask a colleague to do it for him.",
+        "correct_answer": "to write",
+        "distractors": [
+          "writing",
+          "write",
+          "to writing"
+        ],
+        "distractor_rationale": [
+          "'would prefer writing' is incorrect because 'would prefer' (with 'would') must be followed by 'to + infinitive', not a gerund; 'prefer + gerund' is used without 'would'",
+          "'would prefer write' is incorrect because 'would prefer' requires 'to + infinitive', not a bare infinitive",
+          "'to writing' is incorrect because after 'would prefer', the correct form is 'to + base verb', not 'to + gerund'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0009",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa told the travel agent that she ___ to fly business class if the price difference was not too large.",
+        "correct_answer": "would like",
+        "distractors": [
+          "would rather",
+          "wants",
+          "would love going"
+        ],
+        "distractor_rationale": [
+          "'would rather fly' is grammatically possible but the conditional clause 'if the price difference was not too large' signals a polite, tentative desire, which 'would like to' expresses; furthermore, 'would rather' without a contrasting alternative sounds incomplete and unnatural in this reported-speech context",
+          "'wants to fly' breaks the reported-speech back-shift; since the reporting verb 'told' is past, the reported desire must also use a past or conditional form, making 'wants' incorrect",
+          "'would love going' is doubly wrong: 'would love' must be followed by 'to + infinitive' not a gerund, and the gerund form makes the sentence ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0010",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ stay at home tonight because he is very tired.",
+        "correct_answer": "would rather",
+        "distractors": [
+          "would rather to",
+          "would like",
+          "wants rather"
+        ],
+        "distractor_rationale": [
+          "would rather is always followed by a bare infinitive, never 'to'; adding 'to' is the most common learner error with this structure",
+          "would like expresses a desire or wish but does not signal a preference over an alternative the way 'would rather' does; the context implies choosing one option over another",
+          "'wants rather' is not a grammatical structure in English; 'rather' cannot combine with 'want' in this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0011",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ a glass of water, please.",
+        "correct_answer": "would like",
+        "distractors": [
+          "would rather",
+          "would love",
+          "wants rather"
+        ],
+        "distractor_rationale": [
+          "'would rather' is used to express a preference between options, not a polite request for something; it must be followed by a bare infinitive, not a noun phrase",
+          "'would love' is grammatically possible but requires a to-infinitive after it, not a bare noun phrase; 'would love a glass of water' is borderline, but the key teaching point here is that 'would like + noun' is the standard polite request form at this level",
+          "'wants rather' is not a grammatical structure in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0012",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (go) to the beach this weekend rather than spend another day in the city.",
+        "correct_answer": "would love to go",
+        "distractors": [
+          "would love going",
+          "would love go",
+          "would rather go to"
+        ],
+        "distractor_rationale": [
+          "'would love' must be followed by a to-infinitive, not a gerund; using '-ing' after 'would love' is a common learner error caused by confusion with 'enjoy + -ing'",
+          "'would love' requires 'to' before the infinitive; omitting 'to' produces an ungrammatical structure",
+          "'would rather go to' introduces an extra 'to' that makes the infinitive 'go' grammatically incorrect after 'rather'; 'would rather' takes a bare infinitive, and the sentence already uses 'rather than' later, so this distractor also creates a structural conflict"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0013",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My sister prefers ___ at home to eating out, so we usually cook together on Fridays.",
+        "correct_answer": "cooking",
+        "distractors": [
+          "to cook",
+          "cook",
+          "would cook"
+        ],
+        "distractor_rationale": [
+          "'prefer + to-infinitive' is used with 'would prefer' (e.g. 'would prefer to cook'), not with the base form 'prefer'; the structure 'prefer + -ing + to + -ing' requires a gerund here",
+          "a bare infinitive without 'to' is ungrammatical after 'prefers' in this structure; learners who know 'would rather + base verb' sometimes incorrectly apply that rule to 'prefer'",
+          "'would cook' is a conditional or habitual past form and cannot function as the object of 'prefers'; it breaks the grammatical pattern entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_cloze_0014",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If you don't mind, I ___ (wait) in the café downstairs while you finish your meeting, rather than standing here in the corridor.",
+        "correct_answer": "would rather wait",
+        "distractors": [
+          "would rather to wait",
+          "would prefer wait",
+          "would like wait"
+        ],
+        "distractor_rationale": [
+          "adding 'to' after 'would rather' is the most frequent learner error with this structure; 'would rather' is always followed directly by a bare infinitive",
+          "'would prefer' must be followed by a to-infinitive ('would prefer to wait'), not a bare infinitive; learners sometimes apply the 'would rather + bare infinitive' rule incorrectly to 'would prefer'",
+          "'would like' must also be followed by a to-infinitive ('would like to wait'), not a bare infinitive; omitting 'to' after 'would like' produces an ungrammatical sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_preferences_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0001",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She ___ stay at home tonight instead of going out.",
+        "correct_answer": "would rather",
+        "distractors": [
+          "would rather to",
+          "would like",
+          "prefers to"
+        ],
+        "distractor_rationale": [
+          "'would rather to stay' is wrong because 'would rather' is followed directly by a base verb, not 'to' + infinitive",
+          "'would like stay' is wrong because 'would like' must be followed by 'to' before the base verb",
+          "'prefers to stay' changes the meaning and structure; 'prefer' without 'would' does not match the conditional preference pattern the sentence requires"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0002",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ visit his grandparents this weekend.",
+        "correct_answer": "would like to",
+        "distractors": [
+          "would like",
+          "would rather to",
+          "would love"
+        ],
+        "distractor_rationale": [
+          "'would like' without 'to' cannot be followed directly by a base verb; it needs 'to' before the infinitive",
+          "'would rather to visit' is incorrect because 'would rather' takes a bare infinitive without 'to'",
+          "'would love' without 'to' cannot directly precede a base verb; it requires 'to' before the infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0003",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ have dinner at that new restaurant by the park on Friday evening.",
+        "correct_answer": "would love to",
+        "distractors": [
+          "would love",
+          "would rather",
+          "would like"
+        ],
+        "distractor_rationale": [
+          "'would love' without 'to' cannot precede a bare infinitive; it requires 'to' before 'have'",
+          "'would rather have dinner' changes the meaning to a comparative preference; the sentence expresses a strong desire, not a comparison between two options",
+          "'would like' without 'to' cannot directly precede the base verb 'have'; 'to' is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0004",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna prefers ___ to work rather than taking the bus every morning.",
+        "correct_answer": "cycling",
+        "distractors": [
+          "to cycle",
+          "cycle",
+          "cycles"
+        ],
+        "distractor_rationale": [
+          "'prefers to cycle to work' is the 'would prefer' structure; with the base form 'prefer' (not 'would prefer'), the pattern is 'prefer + -ing + to + -ing'",
+          "'prefer cycle' is grammatically incorrect; a bare infinitive cannot follow 'prefer' directly",
+          "'prefer cycles' is grammatically incorrect; a conjugated verb form cannot follow 'prefer' as its complement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0005",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children would rather ___ in the garden than sit inside and watch television.",
+        "correct_answer": "play",
+        "distractors": [
+          "to play",
+          "playing",
+          "played"
+        ],
+        "distractor_rationale": [
+          "'would rather to play' is a very common learner error; 'would rather' is always followed by a bare infinitive without 'to'",
+          "'would rather playing' is incorrect; '-ing' forms cannot follow 'would rather'",
+          "'would rather played' is incorrect; past tense forms cannot follow 'would rather' in this present preference context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0006",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I'd like ___ more about the cooking class before I sign up for it.",
+        "correct_answer": "to find out",
+        "distractors": [
+          "finding out",
+          "find out",
+          "to finding out"
+        ],
+        "distractor_rationale": [
+          "'I'd like finding out' is incorrect; 'would like' must be followed by 'to' + infinitive, not a gerund",
+          "'I'd like find out' is incorrect; 'would like' requires 'to' before the base verb, not a bare infinitive",
+          "'I'd like to finding out' is incorrect; after 'to' the base verb is used, not the '-ing' form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0007",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My colleague would prefer ___ the report by email rather than printing it out and leaving it on the desk.",
+        "correct_answer": "to receive",
+        "distractors": [
+          "receiving",
+          "receive",
+          "to receiving"
+        ],
+        "distractor_rationale": [
+          "'would prefer receiving' is incorrect; 'would prefer' takes 'to' + infinitive, while 'prefer' (without 'would') takes the '-ing' form — learners often confuse these two patterns",
+          "'would prefer receive' is incorrect; 'would prefer' requires 'to' before the base verb, not a bare infinitive",
+          "'would prefer to receiving' is incorrect; after 'to' the base verb is used, not the '-ing' form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0008",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If you have a choice, would you rather ___ the early morning shift or the late afternoon one at the café?",
+        "correct_answer": "work",
+        "distractors": [
+          "to work",
+          "working",
+          "have worked"
+        ],
+        "distractor_rationale": [
+          "'would you rather to work' is a very frequent learner error; 'would rather' always takes a bare infinitive without 'to'",
+          "'would you rather working' is incorrect; '-ing' forms cannot follow 'would rather' in a direct question about preference",
+          "'would you rather have worked' is incorrect; the present-tense preference question requires a base verb, not a past participle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_multiple_choice_0009",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark prefers ___ to cooking at home, especially after a long and tiring day at the office.",
+        "correct_answer": "eating out",
+        "distractors": [
+          "to eat out",
+          "eat out",
+          "having eaten out"
+        ],
+        "distractor_rationale": [
+          "'prefers to eat out to cooking' is the 'would prefer' structure; with the base form 'prefer', the correct pattern is 'prefer + -ing + to + -ing', not 'to-infinitive + to + -ing'",
+          "'prefer eat out' is grammatically incorrect; a bare infinitive cannot directly follow the base form 'prefer'",
+          "'prefers having eaten out' is incorrect; a perfect gerund is not used in this structure for expressing a general preference"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0000",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I'd rather to stay at home tonight.",
+        "correct_answer": "stay",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I'd rather to stay at home tonight.",
+        "corrected_sentence": "I'd rather stay at home tonight.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0001",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She'd like eating a sandwich for lunch.",
+        "correct_answer": "to eat",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She'd like eating a sandwich for lunch.",
+        "corrected_sentence": "She'd like to eat a sandwich for lunch.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0002",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They'd rather to watch a film than do their homework on Friday evening.",
+        "correct_answer": "watch",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They'd rather to watch a film than do their homework on Friday evening.",
+        "corrected_sentence": "They'd rather watch a film than do their homework on Friday evening.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0003",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He'd love going to the new restaurant near the park this weekend.",
+        "correct_answer": "to go",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He'd love going to the new restaurant near the park this weekend.",
+        "corrected_sentence": "He'd love to go to the new restaurant near the park this weekend.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0004",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria prefers to cook at home to eating out at expensive restaurants.",
+        "correct_answer": "cooking",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria prefers to cook at home to eating out at expensive restaurants.",
+        "corrected_sentence": "Maria prefers cooking at home to eating out at expensive restaurants.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0005",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If you don't mind, I'd prefer staying in a quieter hotel room, away from the street.",
+        "correct_answer": "to stay",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If you don't mind, I'd prefer staying in a quieter hotel room, away from the street.",
+        "corrected_sentence": "If you don't mind, I'd prefer to stay in a quieter hotel room, away from the street.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0006",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James wants to ask his manager for a day off, but he knows it is a busy week at the office.",
+        "correct_answer": "would like to ask",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James wants to ask his manager for a day off, but he knows it is a busy week at the office.",
+        "corrected_sentence": "James would like to ask his manager for a day off, but he knows it is a busy week at the office.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_preferences_error_correction_0007",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna would rather to take the train than drive for three hours through heavy traffic.",
+        "correct_answer": "take",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna would rather to take the train than drive for three hours through heavy traffic.",
+        "corrected_sentence": "Anna would rather take the train than drive for three hours through heavy traffic.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_preferences_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_modals_preferences_multiple_choice_0000",
+      "skill_ids": [
+        "modals_preferences"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I ___ a cup of tea, please.",
+        "correct_answer": "would like",
+        "distractors": [
+          "would like to",
+          "want",
+          "would love to"
+        ],
+        "distractor_rationale": [
+          "'would like to' requires a verb infinitive after it, not a noun; here 'a cup of tea' is a noun object so 'to' is not used",
+          "'want' is grammatically possible but inappropriate in a polite request context; 'would like' is the correct formal register here",
+          "'would love to' requires a verb infinitive after it, not a noun phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:15:12.458786+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_preferences_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

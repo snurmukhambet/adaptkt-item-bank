@@ -1,0 +1,1865 @@
+{
+  "skill_id": "connectors_concession_contrast",
+  "skill_name": "Concession & Contrast Connectors",
+  "exercises": [
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0000",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the heavy rain, the football match continued until the final whistle.",
+        "correct_answer": "Despite",
+        "distractors": [
+          "Although",
+          "Even though",
+          "However"
+        ],
+        "distractor_rationale": [
+          "although must be followed by a full clause with a subject and verb, not a noun phrase",
+          "even though must be followed by a full clause with a subject and verb, not a noun phrase",
+          "however connects two separate independent clauses and cannot introduce a noun phrase mid-sentence this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0001",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ she had studied all weekend, she still found the exam very difficult on Monday morning.",
+        "correct_answer": "Although",
+        "distractors": [
+          "Despite",
+          "In spite of",
+          "Nevertheless"
+        ],
+        "distractor_rationale": [
+          "despite must be followed by a noun phrase or -ing form, not a full clause with a subject and verb",
+          "in spite of must be followed by a noun phrase or -ing form, not a full clause with a subject and verb",
+          "nevertheless is an adverb that links two independent clauses; it cannot introduce a subordinate clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0002",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom loves spicy food; ___, his brother refuses to eat anything with chilli in it.",
+        "correct_answer": "however",
+        "distractors": [
+          "although",
+          "despite",
+          "even though"
+        ],
+        "distractor_rationale": [
+          "although introduces a subordinate clause and cannot follow a semicolon to link two independent clauses in this position",
+          "despite must be followed by a noun phrase or -ing form, not a full independent clause",
+          "even though introduces a subordinate clause and cannot stand between a semicolon and an independent clause in this connector position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0003",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ working long hours every day, Maria still found time to attend her evening language class.",
+        "correct_answer": "Despite",
+        "distractors": [
+          "Although",
+          "Even though",
+          "Nevertheless"
+        ],
+        "distractor_rationale": [
+          "although must be followed by a subject and a finite verb, not a bare -ing participle phrase",
+          "even though must be followed by a subject and a finite verb, not a bare -ing participle phrase",
+          "nevertheless is an adverb connector between independent clauses and cannot introduce a participial phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0004",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The hotel room was quite small. ___, it had a beautiful view of the sea and we enjoyed our stay.",
+        "correct_answer": "Nevertheless",
+        "distractors": [
+          "Despite",
+          "Although",
+          "Whereas"
+        ],
+        "distractor_rationale": [
+          "despite must be followed by a noun phrase or -ing form, not a full independent clause, and cannot begin a new sentence in this linking role",
+          "although introduces a subordinate clause and cannot stand alone as the first word of a new independent sentence linking back to the previous one",
+          "whereas expresses a direct contrast between two simultaneous situations, not a concession that overrides a stated drawback"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0005",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna prefers to cook at home, ___ her flatmate eats out at restaurants almost every evening.",
+        "correct_answer": "whereas",
+        "distractors": [
+          "however",
+          "despite",
+          "though"
+        ],
+        "distractor_rationale": [
+          "however requires a semicolon or a full stop before it and cannot function as a mid-sentence subordinating connector linking two contrasting clauses directly",
+          "despite must be followed by a noun phrase or -ing form, not a full clause with a subject and verb",
+          "though as a concession connector introduces a clause where the speaker acknowledges something unexpected; here the contrast is a simple factual difference between two people, which whereas expresses precisely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0006",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ in spite of the doctor's advice, James continued to eat unhealthy food and skip his daily exercise.",
+        "correct_answer": "In spite of",
+        "distractors": [
+          "Even though",
+          "Although",
+          "However"
+        ],
+        "distractor_rationale": [
+          "even though must be followed by a subject and finite verb, not the noun phrase 'the doctor's advice'",
+          "although must be followed by a subject and finite verb, not the noun phrase 'the doctor's advice'",
+          "however is an adverb that links two independent clauses and cannot introduce a noun phrase at the start of a single clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0007",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ even though the traffic was very heavy, we managed to reach the airport on time and catch our flight.",
+        "correct_answer": "Even though",
+        "distractors": [
+          "Despite",
+          "In spite of",
+          "On the other hand"
+        ],
+        "distractor_rationale": [
+          "despite must be followed by a noun phrase or -ing form, not the full clause 'the traffic was very heavy'",
+          "in spite of must be followed by a noun phrase or -ing form, not the full clause 'the traffic was very heavy'",
+          "on the other hand introduces a contrasting point in a second clause or sentence and cannot introduce a subordinate concession clause at the start of a single sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0008",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new office is far from the city centre. ___, it offers much more space and a quiet working environment.",
+        "correct_answer": "On the other hand",
+        "distractors": [
+          "Despite",
+          "Although",
+          "Even though"
+        ],
+        "distractor_rationale": [
+          "despite must be followed by a noun phrase or -ing form and cannot open a new independent sentence to introduce a balancing positive point",
+          "although introduces a subordinate clause and cannot stand as the opening of a new independent sentence that presents a contrasting advantage",
+          "even though introduces a subordinate concessive clause and cannot begin a new independent sentence presenting a balancing positive point"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0009",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project was completed on time ___ the team had to deal with several unexpected technical problems along the way.",
+        "correct_answer": "even though",
+        "distractors": [
+          "despite",
+          "in spite of",
+          "however"
+        ],
+        "distractor_rationale": [
+          "despite must be followed by a noun phrase or -ing form, not the full clause 'the team had to deal with several unexpected technical problems'",
+          "in spite of must be followed by a noun phrase or -ing form, not the full clause 'the team had to deal with several unexpected technical problems'",
+          "however is an adverb connector that requires a preceding independent clause separated by a semicolon or full stop; it cannot link a main clause directly to a subordinate clause mid-sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0010",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ the heavy rain, the outdoor concert continued until the final song.",
+        "correct_answer": "Despite",
+        "distractors": [
+          "Although",
+          "Even though",
+          "However"
+        ],
+        "distractor_rationale": [
+          "although must be followed by a full clause with a subject and verb, not a noun phrase like 'the heavy rain'",
+          "even though must be followed by a full clause with a subject and verb, not a noun phrase",
+          "however connects two independent clauses and cannot begin a subordinate phrase that modifies the main clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0011",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark enjoys cooking at home; ___, he rarely has enough time to prepare a proper meal on weekdays.",
+        "correct_answer": "however",
+        "distractors": [
+          "although",
+          "despite",
+          "even though"
+        ],
+        "distractor_rationale": [
+          "although introduces a subordinate clause and cannot follow a semicolon to connect two independent main clauses in this position",
+          "despite must be followed by a noun or -ing form, not a full independent clause, and cannot link two main clauses with a semicolon",
+          "even though introduces a subordinate clause and cannot appear mid-sentence after a semicolon to join two independent clauses"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0012",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ she had studied hard for several weeks, she found the final exam surprisingly difficult.",
+        "correct_answer": "Although",
+        "distractors": [
+          "Despite",
+          "In spite of",
+          "Nevertheless"
+        ],
+        "distractor_rationale": [
+          "despite must be followed by a noun phrase or -ing form, not a full clause with subject 'she' and verb 'had studied'",
+          "in spite of must be followed by a noun phrase or -ing form, not a full clause with a subject and verb",
+          "nevertheless connects two independent clauses and cannot introduce a subordinate clause at the start of a sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0013",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna loves living in the city centre; ___, her sister prefers the peace and quiet of the countryside.",
+        "correct_answer": "on the other hand",
+        "distractors": [
+          "although",
+          "despite",
+          "even though"
+        ],
+        "distractor_rationale": [
+          "although introduces a subordinate clause and cannot follow a semicolon to contrast two independent statements about different people",
+          "despite must be followed by a noun or -ing form and cannot link two fully independent clauses after a semicolon",
+          "even though introduces a subordinate clause and cannot appear after a semicolon to join two separate independent clauses"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_cloze_0014",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ not feeling well that morning, David decided to attend the important team meeting and present his report.",
+        "correct_answer": "In spite of",
+        "distractors": [
+          "Though",
+          "Even though",
+          "Nevertheless"
+        ],
+        "distractor_rationale": [
+          "though must be followed by a full clause containing a subject and verb, not the -ing phrase 'not feeling well'",
+          "even though must be followed by a full clause with a subject and finite verb, not a bare -ing participial phrase",
+          "nevertheless connects two independent clauses and cannot introduce a participial phrase that modifies the subject of the main clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "connectors_concession_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0001",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark studied very hard for the exam; ___, he did not get the grade he needed.",
+        "correct_answer": "nevertheless",
+        "distractors": [
+          "despite",
+          "although",
+          "in spite of"
+        ],
+        "distractor_rationale": [
+          "Despite must be followed by a noun or -ing form, not a full independent clause introduced by a semicolon",
+          "Although introduces a subordinate clause and cannot follow a semicolon to connect two independent clauses in this position",
+          "In spite of must be followed by a noun or -ing form, not a full independent clause introduced by a semicolon"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0002",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ she had never visited the city before, Anna found her way around very easily.",
+        "correct_answer": "Although",
+        "distractors": [
+          "Despite",
+          "In spite of",
+          "Nevertheless"
+        ],
+        "distractor_rationale": [
+          "Despite must be followed by a noun or -ing form, not a full clause with subject 'she' and verb 'had never visited'",
+          "In spite of must be followed by a noun or -ing form, not a full clause with subject 'she' and verb 'had never visited'",
+          "Nevertheless connects two independent clauses and cannot introduce a subordinate clause at the start of a sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0003",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara loves cooking at home. ___, her brother prefers to eat at restaurants every night.",
+        "correct_answer": "On the other hand",
+        "distractors": [
+          "Although",
+          "Despite",
+          "Even though"
+        ],
+        "distractor_rationale": [
+          "Although introduces a subordinate clause and cannot stand alone between two separate sentences as a linking phrase",
+          "Despite must be followed by a noun or -ing form and cannot connect two separate sentences as a discourse marker",
+          "Even though introduces a subordinate clause and cannot stand alone between two separate sentences as a linking phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0004",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ not feeling well that morning, Lisa decided to go to work and finish the report.",
+        "correct_answer": "In spite of",
+        "distractors": [
+          "Though",
+          "However",
+          "Whereas"
+        ],
+        "distractor_rationale": [
+          "Though must be followed by a full clause with a subject and verb, not a bare -ing participle phrase like 'not feeling well'",
+          "However connects two independent clauses and cannot introduce a participial phrase at the start of a sentence",
+          "Whereas introduces a full clause showing contrast and cannot be followed by a bare -ing participial phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0005",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom works long hours every day, ___ his colleague David usually leaves the office by five o'clock.",
+        "correct_answer": "whereas",
+        "distractors": [
+          "despite",
+          "nevertheless",
+          "even though"
+        ],
+        "distractor_rationale": [
+          "Despite must be followed by a noun or -ing form and cannot connect two parallel clauses showing a direct contrast between two people's habits",
+          "Nevertheless introduces a concession in a new clause but does not directly contrast two simultaneous situations within a single sentence",
+          "Even though introduces a concession but implies that one situation is surprising given the other; whereas is the correct connector for a neutral direct contrast between two different subjects"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0006",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ the manager's clear instructions, several team members made the same mistake again.",
+        "correct_answer": "Despite",
+        "distractors": [
+          "Even though",
+          "However",
+          "Though"
+        ],
+        "distractor_rationale": [
+          "Even though must be followed by a full clause with a subject and verb, not a noun phrase like 'the manager's clear instructions'",
+          "However connects two independent clauses and cannot introduce a noun phrase at the beginning of a sentence",
+          "Though must be followed by a full clause with a subject and verb, not a noun phrase like 'the manager's clear instructions'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0007",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ the new software was difficult to learn, the whole team had mastered it within two weeks.",
+        "correct_answer": "Even though",
+        "distractors": [
+          "Despite",
+          "In spite of",
+          "However"
+        ],
+        "distractor_rationale": [
+          "Despite must be followed by a noun or -ing form, not a full clause with subject 'the new software' and verb 'was'",
+          "In spite of must be followed by a noun or -ing form, not a full clause with subject 'the new software' and verb 'was'",
+          "However connects two independent clauses and cannot introduce a subordinate clause at the beginning of a sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0008",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The hotel room was small and quite noisy. ___, the view from the window was absolutely beautiful.",
+        "correct_answer": "However",
+        "distractors": [
+          "Although",
+          "Despite",
+          "Whereas"
+        ],
+        "distractor_rationale": [
+          "Although introduces a subordinate clause and cannot stand alone as a sentence-initial connector linking two separate sentences",
+          "Despite must be followed by a noun or -ing form and cannot connect two separate sentences as a discourse marker in this position",
+          "Whereas introduces a direct contrast within a single sentence between two subjects or situations and does not function as an opening discourse marker between two separate sentences"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0009",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The project was delivered on time ___ the team had faced several unexpected technical problems during the final week.",
+        "correct_answer": "even though",
+        "distractors": [
+          "despite",
+          "in spite of",
+          "however"
+        ],
+        "distractor_rationale": [
+          "Despite must be followed by a noun or -ing form, not a full clause with subject 'the team' and verb 'had faced'",
+          "In spite of must be followed by a noun or -ing form, not a full clause with subject 'the team' and verb 'had faced'",
+          "However connects two independent clauses typically separated by a period or semicolon and cannot be embedded mid-sentence to introduce a subordinate clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0000",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Despite she was tired, Maria finished all her homework before going to bed.",
+        "correct_answer": "Despite being tired",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Despite she was tired, Maria finished all her homework before going to bed.",
+        "corrected_sentence": "Despite being tired, Maria finished all her homework before going to bed.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0001",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although the heavy rain, the football match continued until the final whistle.",
+        "correct_answer": "Despite the heavy rain",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although the heavy rain, the football match continued until the final whistle.",
+        "corrected_sentence": "Despite the heavy rain, the football match continued until the final whistle.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0002",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The hotel room was quite small; however it had a beautiful view of the sea.",
+        "correct_answer": "however, it",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The hotel room was quite small; however it had a beautiful view of the sea.",
+        "corrected_sentence": "The hotel room was quite small; however, it had a beautiful view of the sea.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0003",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Even though his lack of experience, Tom performed very well in the job interview.",
+        "correct_answer": "In spite of his lack of experience",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Even though his lack of experience, Tom performed very well in the job interview.",
+        "corrected_sentence": "In spite of his lack of experience, Tom performed very well in the job interview.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0004",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although James had studied hard for the exam, but he still found several questions very difficult.",
+        "correct_answer": "Although James had studied hard for the exam, he",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although James had studied hard for the exam, but he still found several questions very difficult.",
+        "corrected_sentence": "Although James had studied hard for the exam, he still found several questions very difficult.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0005",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "In spite of the manager explained the new policy clearly, some staff members were still confused.",
+        "correct_answer": "In spite of the manager explaining the new policy clearly",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "In spite of the manager explained the new policy clearly, some staff members were still confused.",
+        "corrected_sentence": "In spite of the manager explaining the new policy clearly, some staff members were still confused.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0006",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna prefers working in a busy city centre office, whereas her colleague David prefers to work from home; nevertheless both of them meet their deadlines every week.",
+        "correct_answer": "home; nevertheless, both",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna prefers working in a busy city centre office, whereas her colleague David prefers to work from home; nevertheless both of them meet their deadlines every week.",
+        "corrected_sentence": "Anna prefers working in a busy city centre office, whereas her colleague David prefers to work from home; nevertheless, both of them meet their deadlines every week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_connectors_concession_contrast_error_correction_0007",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Though the project took much longer than expected, but the final results impressed everyone on the team.",
+        "correct_answer": "Though the project took much longer than expected, the",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Though the project took much longer than expected, but the final results impressed everyone on the team.",
+        "corrected_sentence": "Though the project took much longer than expected, the final results impressed everyone on the team.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "connectors_concession_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_connectors_concession_contrast_multiple_choice_0000",
+      "skill_ids": [
+        "connectors_concession_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ the heavy rain, the football match continued until the final whistle.",
+        "correct_answer": "Despite",
+        "distractors": [
+          "Although",
+          "However",
+          "Even though"
+        ],
+        "distractor_rationale": [
+          "Although must be followed by a full clause with a subject and verb, not a noun phrase like 'the heavy rain'",
+          "However is a sentence connector that links two independent clauses and cannot introduce a noun phrase at the start of a sentence this way",
+          "Even though must be followed by a full clause with a subject and verb, not a noun phrase like 'the heavy rain'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:38:54.230965+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "connectors_concession_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

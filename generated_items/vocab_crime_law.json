@@ -1,0 +1,1715 @@
+{
+  "skill_id": "vocab_crime_law",
+  "skill_name": "Crime, Law & Society",
+  "exercises": [
+    {
+      "id": "ex_vocab_crime_law_cloze_0000",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The police decided to ___ the man after they found stolen goods in his bag.",
+        "correct_answer": "arrest",
+        "distractors": [
+          "ban",
+          "defend",
+          "accuse"
+        ],
+        "distractor_rationale": [
+          "ban means to officially prohibit something, not to take someone into police custody",
+          "defend means to protect someone, which is the opposite of what police do when they detain a suspect",
+          "accuse means to formally charge someone with wrongdoing but does not involve physically taking them into custody — the sentence specifies the police acted after finding evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0001",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Dropping litter in the park is a ___ in this town, and you can get a fine for it.",
+        "correct_answer": "crime",
+        "distractors": [
+          "border",
+          "campaign",
+          "battle"
+        ],
+        "distractor_rationale": [
+          "border refers to a boundary between areas, which has no connection to littering being punishable",
+          "campaign means an organised effort to achieve a goal, not an act that results in a fine",
+          "battle refers to a fight or struggle, not an illegal act that carries a financial penalty"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0002",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The city council decided to ___ smoking in all public buildings to protect people's health.",
+        "correct_answer": "ban",
+        "distractors": [
+          "arrest",
+          "attack",
+          "accuse"
+        ],
+        "distractor_rationale": [
+          "arrest means to take a person into police custody, not to prohibit an activity through official rules",
+          "attack means to use physical or verbal force against someone, not to officially forbid a practice",
+          "accuse means to claim someone has done something wrong, not to make a rule that stops an activity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0003",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The lawyer stood up in ___ to argue that her client was innocent and had not been near the scene.",
+        "correct_answer": "court",
+        "distractors": [
+          "authority",
+          "border",
+          "campaign"
+        ],
+        "distractor_rationale": [
+          "authority refers to an organisation or person with official power, not a physical place where a lawyer argues a case",
+          "border refers to a boundary between regions, not a legal setting where innocence is argued",
+          "campaign refers to an organised series of actions for a cause, not a formal legal proceeding"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0004",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Several witnesses came forward to ___ the young man, saying he was at home when the robbery happened.",
+        "correct_answer": "defend",
+        "distractors": [
+          "accuse",
+          "arrest",
+          "attack"
+        ],
+        "distractor_rationale": [
+          "accuse means to claim someone did something wrong, which contradicts the witnesses' supportive role described in the sentence",
+          "arrest means to take someone into police custody, which is not what witnesses do by giving testimony",
+          "attack means to use force or harsh criticism against someone, which is the opposite of the supportive action described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0005",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "As a ___ of this country, you have the right to vote in every national election.",
+        "correct_answer": "citizen",
+        "distractors": [
+          "criminal",
+          "authority",
+          "border"
+        ],
+        "distractor_rationale": [
+          "criminal refers to someone who breaks the law, and criminals often lose voting rights rather than having them guaranteed",
+          "authority refers to an organisation or power, not an individual person who holds voting rights",
+          "border refers to a geographical boundary, not a person who holds national rights"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0006",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The newspaper ran a long ___ to raise awareness about unsafe roads, and thousands of people signed the petition.",
+        "correct_answer": "campaign",
+        "distractors": [
+          "crime",
+          "battle",
+          "court"
+        ],
+        "distractor_rationale": [
+          "crime refers to an illegal act, not an organised public effort involving petitions and awareness-raising",
+          "battle refers to a physical fight or armed conflict, not a coordinated media and public action",
+          "court refers to a legal venue for trials, not a newspaper-led public awareness effort"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0007",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The judge ruled that the new regulation was not ___ because it treated some groups of people unfairly under the law.",
+        "correct_answer": "civil",
+        "distractors": [
+          "criminal",
+          "border",
+          "campaign"
+        ],
+        "distractor_rationale": [
+          "criminal describes activity that breaks the law, but the sentence concerns a regulation's fairness, not its legality as a crime",
+          "border refers to a geographical boundary and cannot describe the nature of a legal regulation",
+          "campaign refers to an organised effort for a cause and cannot describe the legal character of a regulation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0008",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The local ___ had the power to close the restaurant immediately after inspectors found serious hygiene problems.",
+        "correct_answer": "authority",
+        "distractors": [
+          "citizen",
+          "criminal",
+          "court"
+        ],
+        "distractor_rationale": [
+          "citizen refers to an individual member of society and does not have official power to close businesses",
+          "criminal refers to a person who breaks the law and has no power to issue official closures",
+          "court refers to a judicial venue for legal proceedings, not an inspecting body that acts directly to close premises"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0009",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Officers at the ___ checked every vehicle carefully before allowing it to pass from one country into the other.",
+        "correct_answer": "border",
+        "distractors": [
+          "court",
+          "campaign",
+          "authority"
+        ],
+        "distractor_rationale": [
+          "court is a place for legal proceedings, not a checkpoint between countries where vehicles are inspected",
+          "campaign is an organised effort for a cause and is not a physical location where vehicles are checked",
+          "authority refers to an organisation with official power, not the physical crossing point between two countries"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0010",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The police came to the house and made an ___ after finding stolen goods inside.",
+        "correct_answer": "arrest",
+        "distractors": [
+          "attack",
+          "ban",
+          "campaign"
+        ],
+        "distractor_rationale": [
+          "attack refers to a violent action against someone, not a police procedure for detaining a suspect",
+          "ban means an official prohibition of an activity, not a police action of taking someone into custody",
+          "campaign refers to an organised effort to achieve a goal, not the act of detaining a person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0011",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The city council decided to ___ smoking in all public parks to protect people's health.",
+        "correct_answer": "ban",
+        "distractors": [
+          "arrest",
+          "accuse",
+          "defend"
+        ],
+        "distractor_rationale": [
+          "arrest means to take a person into police custody, not to officially prohibit an activity",
+          "accuse means to charge a person with wrongdoing, not to prohibit a behaviour through official rules",
+          "defend means to protect someone or argue in their favour, not to officially stop an activity from happening"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0012",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Every ___ has the right to vote in national elections and to receive basic government services.",
+        "correct_answer": "citizen",
+        "distractors": [
+          "criminal",
+          "border",
+          "authority"
+        ],
+        "distractor_rationale": [
+          "criminal refers to someone who breaks the law, and criminals in many countries lose the right to vote, making this contextually contradictory",
+          "border refers to the line dividing two countries, not a person who holds rights within a state",
+          "authority refers to an organisation or person with official power, not an individual who holds voting rights as a member of a country"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0013",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The lawyer stood up in ___ to present evidence that proved her client was not at the scene of the crime.",
+        "correct_answer": "court",
+        "distractors": [
+          "battle",
+          "campaign",
+          "border"
+        ],
+        "distractor_rationale": [
+          "battle refers to a military or physical fight, not a formal legal setting where a lawyer presents evidence",
+          "campaign refers to an organised effort to achieve a social or political goal, not a legal venue where evidence is presented",
+          "border refers to a boundary between countries, not a place where a lawyer stands and presents legal evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_cloze_0014",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The local residents launched a ___ to pressure the government into passing stricter laws against street crime in their neighbourhood.",
+        "correct_answer": "campaign",
+        "distractors": [
+          "court",
+          "civil",
+          "authority"
+        ],
+        "distractor_rationale": [
+          "court is a place where legal cases are decided, not an action that residents launch to put pressure on a government",
+          "civil is an adjective describing rights or society, not a noun that residents can launch to pressure a government",
+          "authority refers to an organisation with official power, not an organised effort that ordinary residents initiate to influence policy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_crime_law_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Stealing from a shop is a ___ that can result in a fine or time in prison.",
+        "correct_answer": "crime",
+        "distractors": [
+          "battle",
+          "campaign",
+          "border"
+        ],
+        "distractor_rationale": [
+          "battle refers to a fight or conflict, not an illegal act punishable by law",
+          "campaign refers to an organised effort to achieve a goal, not an illegal act",
+          "border refers to the line between two areas or countries, not an illegal act"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The judge in the ___ listened carefully to both sides before making a decision.",
+        "correct_answer": "court",
+        "distractors": [
+          "campaign",
+          "border",
+          "authority"
+        ],
+        "distractor_rationale": [
+          "campaign is an organised effort for a cause, not a place where a judge works",
+          "border is a boundary between areas, not a place where a judge makes legal decisions",
+          "authority refers to the power to make decisions, not a physical place where a judge sits"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The lawyer worked hard to ___ her client in court because she believed he was innocent.",
+        "correct_answer": "defend",
+        "distractors": [
+          "accuse",
+          "arrest",
+          "attack"
+        ],
+        "distractor_rationale": [
+          "accuse means to claim someone is guilty, which is the opposite of what a defence lawyer does",
+          "arrest means to take someone into police custody, which is not a lawyer's role in court",
+          "attack means to use physical force against someone, which contradicts the legal context of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Every ___ of the country has the right to vote in national elections once they turn eighteen.",
+        "correct_answer": "citizen",
+        "distractors": [
+          "criminal",
+          "authority",
+          "border"
+        ],
+        "distractor_rationale": [
+          "criminal refers to someone who breaks the law, and criminals typically lose voting rights, contradicting the sentence",
+          "authority refers to an organisation or power, not an individual person who can vote",
+          "border refers to a geographical boundary, not a person who holds rights in a country"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The government decided to ___ the use of plastic bags in all supermarkets to help the environment.",
+        "correct_answer": "ban",
+        "distractors": [
+          "arrest",
+          "accuse",
+          "attack"
+        ],
+        "distractor_rationale": [
+          "arrest applies to detaining people, not to making a rule about objects like plastic bags",
+          "accuse means to blame someone for wrongdoing, not to make something officially forbidden",
+          "attack means to use force against something or someone, not to create a legal prohibition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The police have the ___ to stop and question anyone they believe may be involved in illegal activity.",
+        "correct_answer": "authority",
+        "distractors": [
+          "campaign",
+          "border",
+          "court"
+        ],
+        "distractor_rationale": [
+          "campaign refers to an organised effort for a cause, not the legal power held by police officers",
+          "border refers to a geographical boundary, not the right or power to take an action",
+          "court is a place where legal decisions are made, not the power or right that police hold"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The newspaper ___ the politician of taking money from public funds without permission, but he denied everything.",
+        "correct_answer": "accused",
+        "distractors": [
+          "arrested",
+          "defended",
+          "banned"
+        ],
+        "distractor_rationale": [
+          "arrested means taken into police custody, but a newspaper cannot arrest anyone — only police have that power",
+          "defended means protected or argued in favour of, which contradicts the negative claim made against the politician",
+          "banned means officially forbidden, but a newspaper cannot legally ban a person from doing something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The community group ran a ___ to raise awareness about knife crime in their neighbourhood, holding meetings and distributing leaflets.",
+        "correct_answer": "campaign",
+        "distractors": [
+          "battle",
+          "court",
+          "border"
+        ],
+        "distractor_rationale": [
+          "battle refers to a physical or military conflict, not an organised public awareness effort involving meetings and leaflets",
+          "court is a legal venue, not an organised public effort carried out through meetings and leaflets",
+          "border is a geographical boundary, not an organised community effort to raise awareness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Residents demanded stronger ___ rights after the local council tried to build a road through their park without consulting them.",
+        "correct_answer": "civil",
+        "distractors": [
+          "criminal",
+          "border",
+          "court"
+        ],
+        "distractor_rationale": [
+          "criminal relates to illegal acts and punishment, not to the rights of ordinary residents to participate in decisions",
+          "border describes a geographical boundary, not a type of right held by residents in a community",
+          "court describes a legal venue, not a category of rights that residents can demand or hold"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_word_formation_0000",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The police made an ___ after finding the stolen goods. (ARREST)",
+        "correct_answer": "arrest",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ARREST"
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_crime_law_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_word_formation_0001",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "He has a ___ record, so he cannot apply for that job. (CRIME)",
+        "correct_answer": "criminal",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CRIME"
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_crime_law_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_word_formation_0002",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The lawyer prepared a strong ___ for her client before the trial began. (DEFEND)",
+        "correct_answer": "defence",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DEFEND"
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_crime_law_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_word_formation_0003",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The government gave the police special ___ to search private properties during the investigation. (AUTHORITY)",
+        "correct_answer": "authorisation",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "AUTHORITY"
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_crime_law_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_crime_law_word_formation_0004",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the suspect was based entirely on witness statements, with no physical evidence presented in court. (ACCUSE)",
+        "correct_answer": "accusation",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ACCUSE"
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_crime_law_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_vocab_crime_law_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_crime_law"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The police decided to ___ the man after they found stolen goods in his bag.",
+        "correct_answer": "arrest",
+        "distractors": [
+          "accuse",
+          "ban",
+          "defend"
+        ],
+        "distractor_rationale": [
+          "accuse means to say someone did something wrong, not to physically take them into custody",
+          "ban means to officially forbid something, not to detain a person",
+          "defend means to protect someone, which is the opposite action to taking someone into custody"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:30:49.602645+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_crime_law_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 29,
+    "filter_rejected": 1
+  }
+}

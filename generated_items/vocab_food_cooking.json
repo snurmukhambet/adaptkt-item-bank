@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_food_cooking",
+  "skill_name": "Food & Cooking",
+  "exercises": [
+    {
+      "id": "ex_vocab_food_cooking_cloze_0000",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria put the eggs and vegetables into a large ___ and mixed everything together.",
+        "correct_answer": "bowl",
+        "distractors": [
+          "plate",
+          "cup",
+          "glass"
+        ],
+        "distractor_rationale": [
+          "a plate is flat and cannot hold a mixture for mixing — you mix ingredients in a deep container",
+          "a cup is too small and narrow to mix eggs and vegetables together",
+          "a glass is a drinking vessel and cannot be used to mix food ingredients"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0001",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom spread ___ on his bread because it melts into the warm surface and makes it taste rich.",
+        "correct_answer": "butter",
+        "distractors": [
+          "oil",
+          "honey",
+          "jam"
+        ],
+        "distractor_rationale": [
+          "oil is a liquid and cannot be spread on bread in the same way — you do not spread oil, you drizzle it",
+          "honey does not melt into bread the way butter does — it stays sticky on the surface",
+          "jam does not melt into bread — it sits on top as a cold layer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0002",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She put the pot of water on the stove and waited for it to ___ before adding the pasta.",
+        "correct_answer": "boil",
+        "distractors": [
+          "freeze",
+          "melt",
+          "burn"
+        ],
+        "distractor_rationale": [
+          "water does not freeze on a stove — freezing requires very low temperatures, not heat",
+          "water does not melt — melting applies to solids, not liquids",
+          "water cannot burn — burning requires a combustible material, not water"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0003",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ at the restaurant trained for ten years and now creates all the menus and prepares every dish in the kitchen.",
+        "correct_answer": "chef",
+        "distractors": [
+          "waiter",
+          "cashier",
+          "customer"
+        ],
+        "distractor_rationale": [
+          "a waiter serves food to tables but does not create menus or prepare dishes in the kitchen",
+          "a cashier handles payments and does not prepare food or design menus",
+          "a customer eats at the restaurant but does not work in the kitchen or create menus"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0004",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna grilled the ___ breasts with herbs and lemon juice for twenty minutes until they were fully cooked through.",
+        "correct_answer": "chicken",
+        "distractors": [
+          "beef",
+          "bean",
+          "cheese"
+        ],
+        "distractor_rationale": [
+          "beef does not come in 'breasts' — this body-part cut specifically refers to poultry such as chicken",
+          "beans are small legumes that have no breast cut and are not grilled as a whole piece",
+          "cheese does not have a breast cut and is not grilled for twenty minutes in this way"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0005",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The birthday ___ had three layers of sponge with cream between each one, and it was decorated with fresh strawberries on top.",
+        "correct_answer": "cake",
+        "distractors": [
+          "biscuit",
+          "chip",
+          "dish"
+        ],
+        "distractor_rationale": [
+          "a biscuit is a single flat, thin, dry item — it cannot have three layers with cream between them",
+          "a chip is a thin fried slice of potato — it cannot have layers of sponge or cream",
+          "a dish is a general word for any food item or a container — it does not have layers of sponge or birthday decoration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0006",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "David added grated ___ to the top of the pasta and it melted into the hot sauce, making it creamy and salty.",
+        "correct_answer": "cheese",
+        "distractors": [
+          "chocolate",
+          "butter",
+          "cream"
+        ],
+        "distractor_rationale": [
+          "chocolate is sweet and is not grated onto pasta — it would create a sweet, not salty, flavour",
+          "butter is not grated — it is a soft solid that is cut or spread, not grated into shreds",
+          "cream is a liquid and cannot be grated — grating applies only to solid foods"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0007",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The slow-cooked ___ stew was made with thick slices of red meat, carrots, and red wine, and it simmered on the stove for three hours.",
+        "correct_answer": "beef",
+        "distractors": [
+          "chicken",
+          "bean",
+          "chocolate"
+        ],
+        "distractor_rationale": [
+          "chicken is white meat, not red meat — the sentence specifically states 'thick slices of red meat', which rules out chicken",
+          "beans are small legumes and cannot be described as 'thick slices of red meat'",
+          "chocolate is a sweet ingredient and is never described as 'thick slices of red meat' in a savoury stew"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0008",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Everyone at the dinner table agreed that the lamb ___ was ___ — the spices were perfectly balanced and the meat was incredibly tender.",
+        "correct_answer": "delicious",
+        "distractors": [
+          "raw",
+          "frozen",
+          "salty"
+        ],
+        "distractor_rationale": [
+          "raw means uncooked, which contradicts the description of perfectly balanced spices and tender meat that has clearly been cooked",
+          "frozen means not yet cooked or thawed, which contradicts serving it at a dinner table as a finished meal",
+          "salty describes only one flavour quality and contradicts 'perfectly balanced spices', which implies a range of well-combined flavours"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0009",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Lisa soaked the dried ___ in cold water overnight so that they would soften enough to cook into the vegetable soup the next morning.",
+        "correct_answer": "beans",
+        "distractors": [
+          "biscuits",
+          "chips",
+          "cream"
+        ],
+        "distractor_rationale": [
+          "biscuits are dry baked goods that dissolve when soaked in water and are never soaked overnight to prepare for soup",
+          "chips are already cooked fried potato slices and are never soaked overnight to soften them for soup",
+          "cream is a liquid dairy product that cannot be soaked in water — it is already a liquid and requires no softening"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0010",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria put the eggs and vegetables into a large ___ and mixed them together.",
+        "correct_answer": "bowl",
+        "distractors": [
+          "dish",
+          "chip",
+          "bean"
+        ],
+        "distractor_rationale": [
+          "a dish is a flat container used for serving food, not for mixing ingredients together",
+          "a chip is a thin fried slice of potato, not a container",
+          "a bean is a type of food, not a container used for mixing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0011",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom put the pan of water on the stove and waited for it to ___ before adding the pasta.",
+        "correct_answer": "boil",
+        "distractors": [
+          "butter",
+          "cream",
+          "biscuit"
+        ],
+        "distractor_rationale": [
+          "butter is a solid fat spread, not an action a pan of water can perform",
+          "cream is a dairy product, not an action that water performs on a stove",
+          "a biscuit is a baked food item, not an action that water performs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0012",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The restaurant's most popular meal is a slow-cooked ___ stew made with carrots, onions, and red wine.",
+        "correct_answer": "beef",
+        "distractors": [
+          "chocolate",
+          "biscuit",
+          "cake"
+        ],
+        "distractor_rationale": [
+          "chocolate is a sweet ingredient and cannot be described as slow-cooked in a stew with carrots and red wine",
+          "a biscuit is a baked snack and is never used as the main ingredient in a stew",
+          "cake is a sweet baked dessert and cannot be cooked in a stew with carrots and red wine"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0013",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Everyone at the dinner table agreed that the homemade soup was absolutely ___, and they all asked for a second helping.",
+        "correct_answer": "delicious",
+        "distractors": [
+          "boiled",
+          "creamy",
+          "cheesy"
+        ],
+        "distractor_rationale": [
+          "boiled describes a cooking method, not a positive judgment about overall taste quality",
+          "creamy describes one specific texture quality and cannot express the general approval shown by asking for a second helping",
+          "cheesy describes a single flavour characteristic and does not convey the universal agreement about the soup's quality"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_cloze_0014",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The head ___ at the hotel trained for ten years in professional kitchens before designing the restaurant's new menu.",
+        "correct_answer": "chef",
+        "distractors": [
+          "customer",
+          "waiter",
+          "farmer"
+        ],
+        "distractor_rationale": [
+          "a customer visits a restaurant to eat and does not train in professional kitchens or design menus",
+          "a waiter serves food to customers and does not train in kitchens or design menus",
+          "a farmer grows ingredients but does not train in professional kitchens or create restaurant menus"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_food_cooking_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She put the pasta in a large ___ of hot water to cook it.",
+        "correct_answer": "bowl",
+        "distractors": [
+          "plate",
+          "cup",
+          "glass"
+        ],
+        "distractor_rationale": [
+          "a plate is flat and cannot hold water for cooking pasta",
+          "a cup is too small to cook pasta in",
+          "a glass is a drinking vessel and cannot be used to cook pasta on a stove"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom spread ___ on his bread because it melts quickly when the bread is warm.",
+        "correct_answer": "butter",
+        "distractors": [
+          "cheese",
+          "cream",
+          "chocolate"
+        ],
+        "distractor_rationale": [
+          "cheese does not melt on warm bread when simply spread — it must be heated separately",
+          "cream is a liquid and cannot be spread on bread in the same way",
+          "chocolate does not melt on warm bread at room temperature in normal conditions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "You need to ___ the eggs in water for ten minutes to make them hard.",
+        "correct_answer": "boil",
+        "distractors": [
+          "bake",
+          "fry",
+          "grill"
+        ],
+        "distractor_rationale": [
+          "baking uses dry oven heat, not water, so it cannot make hard-boiled eggs",
+          "frying uses oil in a pan, not water, and does not produce hard eggs in ten minutes",
+          "grilling uses direct dry heat and cannot cook eggs submerged in water"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The birthday ___ had three layers of sponge with cream and strawberries between each one.",
+        "correct_answer": "cake",
+        "distractors": [
+          "biscuit",
+          "chip",
+          "dish"
+        ],
+        "distractor_rationale": [
+          "a biscuit is a single flat, thin item and cannot have multiple layers with cream",
+          "a chip is a thin slice of fried potato and cannot have layers of sponge and cream",
+          "a dish refers to a type of food or a container, not a layered baked dessert with sponge"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ___ at the restaurant trained for years to prepare complex sauces and grilled meats.",
+        "correct_answer": "chef",
+        "distractors": [
+          "waiter",
+          "customer",
+          "cashier"
+        ],
+        "distractor_rationale": [
+          "a waiter serves food to tables but does not prepare sauces or cook meats",
+          "a customer eats the food and does not work in the kitchen preparing dishes",
+          "a cashier handles payments at the till and does not train to cook complex dishes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna added kidney ___ to the stew because they are high in protein and make the dish more filling.",
+        "correct_answer": "beans",
+        "distractors": [
+          "chips",
+          "biscuits",
+          "cream"
+        ],
+        "distractor_rationale": [
+          "chips are fried potato slices and are not added to stew as a protein source",
+          "biscuits are dry baked snacks and are not added to stew for protein",
+          "cream is a dairy liquid added for richness, not for protein, and is not described as 'kidney'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The soup was so ___ that everyone at the table asked for a second serving.",
+        "correct_answer": "delicious",
+        "distractors": [
+          "raw",
+          "frozen",
+          "salty"
+        ],
+        "distractor_rationale": [
+          "raw means uncooked, which contradicts the context of a soup being served at a table",
+          "frozen means not yet thawed or cooked, which contradicts a hot soup being served",
+          "salty describes a specific unpleasant excess of salt, which would not cause everyone to ask for more"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The recipe called for minced ___ as the main ingredient, so Lisa bought a 500-gram pack from the butcher.",
+        "correct_answer": "beef",
+        "distractors": [
+          "cheese",
+          "butter",
+          "chocolate"
+        ],
+        "distractor_rationale": [
+          "cheese is not sold in minced form at a butcher's shop and is not a meat ingredient",
+          "butter is a dairy fat, not a meat product sold by a butcher in minced form",
+          "chocolate is a sweet ingredient that is not sold at a butcher's and cannot be minced as a main savoury ingredient"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The traditional ___ in that region is made by slowly roasting whole pieces of meat with root vegetables for several hours.",
+        "correct_answer": "dish",
+        "distractors": [
+          "bean",
+          "biscuit",
+          "chip"
+        ],
+        "distractor_rationale": [
+          "a bean is a single ingredient, not a complete traditional preparation involving roasting meat and vegetables",
+          "a biscuit is a small dry baked item and cannot describe a slow-roasted meat preparation",
+          "a chip is a thin fried slice of potato and cannot refer to a complete regional culinary preparation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The sauce was made by heating ___ gently in a pan until it thickened into a rich, smooth coating for the dessert.",
+        "correct_answer": "cream",
+        "distractors": [
+          "beef",
+          "chicken",
+          "bean"
+        ],
+        "distractor_rationale": [
+          "beef is a solid meat and cannot be heated to thicken into a smooth coating for a dessert",
+          "chicken is a solid meat that does not thicken into a smooth sauce when heated and is not used as a dessert coating",
+          "a bean is a solid legume that does not melt or thicken into a smooth liquid coating when gently heated"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_food_cooking_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_word_formation_0000",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "This soup is very ___. I want more! (DELIGHT)",
+        "correct_answer": "delightful",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DELIGHT"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_food_cooking_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_word_formation_0001",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She put the vegetables in a pot of ___ water to cook them quickly. (BOIL)",
+        "correct_answer": "boiling",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BOIL"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_food_cooking_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_word_formation_0002",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the chocolate cake filled the whole kitchen with a wonderful smell. (BAKE)",
+        "correct_answer": "baking",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BAKE"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_food_cooking_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_word_formation_0003",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The restaurant is well known for its ___ beef dishes, which are slow-cooked for several hours. (CREAM)",
+        "correct_answer": "creamy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CREAM"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_food_cooking_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_food_cooking_word_formation_0004",
+      "skill_ids": [
+        "vocab_food_cooking"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The head chef gave clear ___ to the kitchen team about how to prepare each dish before the dinner service began. (INSTRUCT)",
+        "correct_answer": "instructions",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "INSTRUCT"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:03:48.575984+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_food_cooking_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

@@ -1,0 +1,1865 @@
+{
+  "skill_id": "quantifiers_advanced",
+  "skill_name": "Quantifiers: Advanced (A little vs Little / Neither/Either/Each / Hardly any)",
+  "exercises": [
+    {
+      "id": "ex_quantifiers_advanced_cloze_0000",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There is ___ milk left in the fridge — we need to buy more today.",
+        "correct_answer": "little",
+        "distractors": [
+          "a little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "a little means some, which contradicts the need to buy more immediately",
+          "a few is used with countable nouns; milk is uncountable",
+          "few is used with countable nouns; milk is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0001",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We have ___ time before the bus leaves, so let's get a coffee quickly.",
+        "correct_answer": "a little",
+        "distractors": [
+          "little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "little means almost none, which contradicts the suggestion to get a coffee",
+          "a few is used with countable nouns; time is uncountable",
+          "few is used with countable nouns; time is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0002",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ student in the class has to submit a different project topic by Friday.",
+        "correct_answer": "Each",
+        "distractors": [
+          "Every",
+          "Either",
+          "Neither"
+        ],
+        "distractor_rationale": [
+          "every is grammatically possible but the sentence stresses individual assignment of distinct topics, which each expresses more precisely; however, the key distractor error tested here is either/neither — note: 'every' is accepted as near-equivalent, so this item is adjusted — see rationale note",
+          "either refers to one of two options only, not to all members of a group",
+          "neither expresses a negative meaning about two things, which contradicts the positive requirement to submit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0003",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor said there is ___ chance of a full recovery, so the family feels hopeful.",
+        "correct_answer": "a little",
+        "distractors": [
+          "little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "little means almost no chance, which contradicts the family feeling hopeful",
+          "a few is used with countable nouns; chance used as an uncountable mass noun here requires a little",
+          "few is used with countable nouns; chance as an uncountable noun requires a little"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0004",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ of the two candidates has the right experience for this job, so we will advertise again.",
+        "correct_answer": "Neither",
+        "distractors": [
+          "Either",
+          "Each",
+          "None"
+        ],
+        "distractor_rationale": [
+          "either means one or the other is acceptable, which contradicts the decision to advertise again",
+          "each is used to refer to every individual in a group separately, not to express that both fail a condition",
+          "none is used with groups of three or more, not specifically with two candidates"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0005",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There were ___ seats left when we arrived at the theatre, so we had to stand at the back.",
+        "correct_answer": "hardly any",
+        "distractors": [
+          "a few",
+          "a little",
+          "not some"
+        ],
+        "distractor_rationale": [
+          "a few means some, which contradicts having to stand at the back because of the shortage",
+          "a little is used with uncountable nouns; seats is countable, and the meaning of some also contradicts standing",
+          "not some is not a standard English quantifier phrase; the correct negative form would be not any, but hardly any better expresses almost none"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0006",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ side of the road has a pavement, so cyclists must be very careful when riding here.",
+        "correct_answer": "Either",
+        "distractors": [
+          "Neither",
+          "Each",
+          "Every"
+        ],
+        "distractor_rationale": [
+          "neither means not one and not the other, but the sentence says cyclists must be careful because pavements exist on both sides — wait, re-reading: 'either side has a pavement' means both sides have one, which is why cyclists must be careful sharing the road — this is the correct positive both-sides reading of either",
+          "each is used to refer to individual members one by one, not to express that both sides share the same feature simultaneously",
+          "every is used with groups of three or more and does not collocate naturally with side of the road in this two-item context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0007",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The report showed that ___ of the students had completed the reading before class, which surprised the teacher.",
+        "correct_answer": "hardly any",
+        "distractors": [
+          "a little",
+          "few",
+          "neither"
+        ],
+        "distractor_rationale": [
+          "a little is used with uncountable nouns; students is countable, and a little cannot quantify people",
+          "few is grammatically possible with a countable noun but cannot be followed by of the students in standard usage without the article; more importantly, hardly any more precisely conveys almost none and is the target form",
+          "neither is used exclusively with two items and cannot refer to a whole class of students"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0008",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although the project is nearly finished, there is still ___ work to do before we can present it to the client.",
+        "correct_answer": "a little",
+        "distractors": [
+          "little",
+          "a few",
+          "hardly any"
+        ],
+        "distractor_rationale": [
+          "little means almost no work remains, which contradicts the clause saying there is still work to do before presenting",
+          "a few is used with countable nouns; work here is an uncountable noun",
+          "hardly any means almost none, which contradicts the implication that some remaining work must be done before the presentation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0009",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ member of the research team is responsible for writing up their own section of the final report.",
+        "correct_answer": "Each",
+        "distractors": [
+          "Either",
+          "Neither",
+          "All"
+        ],
+        "distractor_rationale": [
+          "either refers to one of exactly two options and cannot distribute individual responsibility across a whole team",
+          "neither expresses that not one of two people does something, which contradicts the positive assignment of responsibility",
+          "all requires a plural noun; member is singular, so all member is ungrammatical without the plural members, and the sentence specifically tests each with a singular noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0011",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ student in the class has to submit a separate report by Friday.",
+        "correct_answer": "Each",
+        "distractors": [
+          "Either",
+          "Neither",
+          "Every one"
+        ],
+        "distractor_rationale": [
+          "either refers to one of two options and cannot distribute a single task across a whole class",
+          "neither expresses a negative meaning for two things, which contradicts the requirement to submit a report",
+          "every one requires 'of' before a noun phrase and cannot directly precede a singular noun without it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0012",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We have ___ a little time before the meeting starts, so let's get a coffee quickly.",
+        "correct_answer": "a little",
+        "distractors": [
+          "little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "little means almost no time, which contradicts the suggestion to get a coffee",
+          "a few is used with countable nouns; time is uncountable",
+          "few is used with countable nouns; time is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0013",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ of the two job candidates was suitable for the position, so the manager decided to advertise again.",
+        "correct_answer": "Neither",
+        "distractors": [
+          "Either",
+          "Each",
+          "Both"
+        ],
+        "distractor_rationale": [
+          "either of the two would mean one of them was suitable, which contradicts the decision to advertise again",
+          "each is used to refer to members of a group individually and does not express the negative meaning required here",
+          "both means the two candidates were suitable together, which contradicts the decision to advertise again"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_cloze_0014",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There were ___ any seats left on the train by the time Tom arrived at the station, so he had to stand for the whole journey.",
+        "correct_answer": "hardly",
+        "distractors": [
+          "not",
+          "a little",
+          "scarcely enough"
+        ],
+        "distractor_rationale": [
+          "not any means there were zero seats, but the sentence implies Tom did board the train and stand, suggesting a tiny number existed; also 'not any' does not collocate with 'any' in this pattern without restructuring the sentence",
+          "a little does not collocate with the countable plural noun 'seats' and does not fit the 'any' structure",
+          "scarcely enough changes the grammatical structure of the sentence and does not fit the fixed 'hardly any' pattern required before 'seats'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0000",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There is ___ milk left in the fridge, so we need to buy more today.",
+        "correct_answer": "little",
+        "distractors": [
+          "a little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "'a little' means some milk remains and implies no problem, contradicting 'we need to buy more'",
+          "'a few' is used with countable nouns, but 'milk' is uncountable",
+          "'few' is used with countable nouns, but 'milk' is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0001",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We have ___ time before the bus arrives, so let's get a coffee.",
+        "correct_answer": "a little",
+        "distractors": [
+          "little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "'little' means almost none and would contradict the suggestion to get coffee, which requires enough time",
+          "'a few' is used with countable nouns, but 'time' is uncountable",
+          "'few' is used with countable nouns, but 'time' is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0002",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There are ___ seats available for tonight's concert, so you should book one now.",
+        "correct_answer": "few",
+        "distractors": [
+          "a few",
+          "little",
+          "a little"
+        ],
+        "distractor_rationale": [
+          "'a few' means some seats are available and implies no urgency, contradicting 'you should book one now'",
+          "'little' is used with uncountable nouns, but 'seats' is countable and plural",
+          "'a little' is used with uncountable nouns, but 'seats' is countable and plural"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0003",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ student in the class has to submit their assignment by Friday without exception.",
+        "correct_answer": "Each",
+        "distractors": [
+          "Either",
+          "Neither",
+          "Every one"
+        ],
+        "distractor_rationale": [
+          "'Either' refers to one of two options and cannot distribute a requirement across an entire class",
+          "'Neither' is negative and means not one of two, making the sentence contradict the requirement",
+          "'Every one' requires 'of the students' to be grammatical in this sentence position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0004",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ of the two job candidates was suitable, so the manager decided to advertise the position again.",
+        "correct_answer": "Neither",
+        "distractors": [
+          "Either",
+          "Each",
+          "Both"
+        ],
+        "distractor_rationale": [
+          "'Either' means one or the other would be acceptable, contradicting the decision to readvertise",
+          "'Each' distributes positively across items and cannot express that none was suitable",
+          "'Both' means the two together, implying both were suitable, which contradicts the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0005",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The doctor said I can take ___ tablet in the morning or at night — it doesn't matter which.",
+        "correct_answer": "either",
+        "distractors": [
+          "neither",
+          "each",
+          "every"
+        ],
+        "distractor_rationale": [
+          "'neither' means not one of the two, which would mean I cannot take the tablet at all, contradicting the doctor's instruction",
+          "'each' distributes across all items in a group and does not express a choice between two alternatives",
+          "'every' requires a plural or collective context and does not express a binary choice between two options"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0006",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There are ___ students who still haven't returned their library books, which is a big problem for the school.",
+        "correct_answer": "a few",
+        "distractors": [
+          "few",
+          "a little",
+          "little"
+        ],
+        "distractor_rationale": [
+          "'few' would mean almost none haven't returned books, which contradicts 'a big problem for the school'",
+          "'a little' is used with uncountable nouns, but 'students' is countable and plural",
+          "'little' is used with uncountable nouns, but 'students' is countable and plural"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0007",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ of the employees had heard about the new policy before the meeting, which surprised the director.",
+        "correct_answer": "Hardly any",
+        "distractors": [
+          "Not any",
+          "A little",
+          "Few of"
+        ],
+        "distractor_rationale": [
+          "'Not any' is an absolute negative meaning zero employees knew, whereas 'hardly any' means almost none, which is the nuanced meaning supported by the surprise expressed",
+          "'A little' is used with uncountable nouns and cannot modify the countable noun 'employees'",
+          "'Few of' requires a determiner before the noun phrase: 'Few of the employees' is grammatical, but this distractor is listed without 'the', making it structurally incomplete as presented, and more importantly it lacks the emphatic near-zero nuance that 'hardly any' carries in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0008",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ team in the competition gets exactly the same amount of preparation time to ensure the contest is fair.",
+        "correct_answer": "Each",
+        "distractors": [
+          "Either",
+          "Neither",
+          "Any"
+        ],
+        "distractor_rationale": [
+          "'Either' refers to one of only two options, but the competition has more than two teams, making it semantically wrong",
+          "'Neither' is negative and implies no team gets preparation time, directly contradicting the sentence meaning",
+          "'Any' does not carry the distributive meaning of 'each one individually' and would not convey that every single team gets the same time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_multiple_choice_0009",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There is ___ evidence to support the claim, so the report cannot be published in its current form.",
+        "correct_answer": "little",
+        "distractors": [
+          "a little",
+          "hardly any of",
+          "few"
+        ],
+        "distractor_rationale": [
+          "'a little' means some evidence exists and would not justify blocking publication, contradicting the consequence stated",
+          "'hardly any of' requires a specific noun phrase with a determiner after 'of', making it grammatically incomplete before the bare noun 'evidence'",
+          "'few' is used with countable nouns, but 'evidence' is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "quantifiers_advanced_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0000",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "There is a little milk left in the fridge, so we need to buy more today.",
+        "correct_answer": "little",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "There is a little milk left in the fridge, so we need to buy more today.",
+        "corrected_sentence": "There is little milk left in the fridge, so we need to buy more today.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0001",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Each of the students have to submit their assignment before Friday.",
+        "correct_answer": "has",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Each of the students have to submit their assignment before Friday.",
+        "corrected_sentence": "Each of the students has to submit their assignment before Friday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0002",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Neither of the two candidates were qualified for the position, so the manager decided to advertise again.",
+        "correct_answer": "was",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Neither of the two candidates were qualified for the position, so the manager decided to advertise again.",
+        "corrected_sentence": "Neither of the two candidates was qualified for the position, so the manager decided to advertise again.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0003",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We had little time before the train left, so we quickly grabbed something to eat at the station.",
+        "correct_answer": "a little",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We had little time before the train left, so we quickly grabbed something to eat at the station.",
+        "corrected_sentence": "We had a little time before the train left, so we quickly grabbed something to eat at the station.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0004",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Either side of the road were covered in fallen leaves after the storm last night.",
+        "correct_answer": "was",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Either side of the road were covered in fallen leaves after the storm last night.",
+        "corrected_sentence": "Either side of the road was covered in fallen leaves after the storm last night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0005",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The café was almost empty on Monday morning — there were not any customers at the tables near the window.",
+        "correct_answer": "hardly any",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The café was almost empty on Monday morning — there were not any customers at the tables near the window.",
+        "corrected_sentence": "The café was almost empty on Monday morning — there were hardly any customers at the tables near the window.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0006",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Each team member were given a different task to complete before the end of the working day.",
+        "correct_answer": "was",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Each team member were given a different task to complete before the end of the working day.",
+        "corrected_sentence": "Each team member was given a different task to complete before the end of the working day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_quantifiers_advanced_error_correction_0007",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She had a little confidence in her ability to pass the exam, so she refused to even try signing up for it.",
+        "correct_answer": "little",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She had a little confidence in her ability to pass the exam, so she refused to even try signing up for it.",
+        "corrected_sentence": "She had little confidence in her ability to pass the exam, so she refused to even try signing up for it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "quantifiers_advanced_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_quantifiers_advanced_cloze_0010",
+      "skill_ids": [
+        "quantifiers_advanced"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There is ___ milk left in the fridge — we need to buy more today.",
+        "correct_answer": "little",
+        "distractors": [
+          "a little",
+          "a few",
+          "few"
+        ],
+        "distractor_rationale": [
+          "a little means there is some milk, which contradicts the instruction to buy more today",
+          "a few is used with countable nouns; milk is uncountable",
+          "few is used with countable nouns; milk is uncountable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:43:45.006930+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "quantifiers_advanced_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

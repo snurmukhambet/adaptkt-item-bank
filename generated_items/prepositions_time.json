@@ -1,0 +1,1865 @@
+{
+  "skill_id": "prepositions_time",
+  "skill_name": "Prepositions of Time",
+  "exercises": [
+    {
+      "id": "ex_prepositions_time_cloze_0000",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The train leaves ___ 7 o'clock every morning.",
+        "correct_answer": "at",
+        "distractors": [
+          "in",
+          "on",
+          "by"
+        ],
+        "distractor_rationale": [
+          "in is used for months, years, and periods, not clock times",
+          "on is used for days and dates, not clock times",
+          "by indicates a deadline, not the scheduled time of a departure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0001",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My birthday is ___ March, so we always have a party then.",
+        "correct_answer": "in",
+        "distractors": [
+          "at",
+          "on",
+          "during"
+        ],
+        "distractor_rationale": [
+          "at is used for clock times and fixed expressions like at night, not months",
+          "on is used for specific days and dates, not months",
+          "during requires a noun that describes an event or period, not a bare month name used to state when something occurs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0002",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The supermarket is closed ___ Sunday, so we need to shop on Saturday.",
+        "correct_answer": "on",
+        "distractors": [
+          "in",
+          "at",
+          "during"
+        ],
+        "distractor_rationale": [
+          "in is used for months, years, and seasons, not days of the week",
+          "at is used for clock times and fixed phrases, not days of the week",
+          "during is used before event nouns such as the weekend or the holidays, not before a single named day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0003",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom learned to drive ___ the summer holidays when he was eighteen.",
+        "correct_answer": "during",
+        "distractors": [
+          "in",
+          "at",
+          "on"
+        ],
+        "distractor_rationale": [
+          "in the summer holidays is unnatural because the summer holidays is a specific event period, not a general season or year; during is required before definite event-period nouns",
+          "at is used for clock times and brief fixed moments, not extended event periods",
+          "on is used for specific days and dates, not extended holiday periods"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0004",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please send me the report ___ Friday — the manager needs it before the weekend meeting.",
+        "correct_answer": "by",
+        "distractors": [
+          "until",
+          "at",
+          "on"
+        ],
+        "distractor_rationale": [
+          "until describes a continuous state or action lasting up to a point, not a one-time submission deadline",
+          "at is used for clock times, not deadline days",
+          "on Friday alone would mean the action happens on that day but does not convey the sense of a deadline before which the report must arrive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0005",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children stayed in the playground ___ half past three, when their teacher called them inside.",
+        "correct_answer": "until",
+        "distractors": [
+          "by",
+          "during",
+          "at"
+        ],
+        "distractor_rationale": [
+          "by indicates a deadline for completing an action, not a continuous activity that continues up to a point in time",
+          "during is followed by a noun describing an event or period, not a specific clock time",
+          "at marks a point in time when something happens, not the end point of a continuous activity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0006",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new sports centre is open ___ Monday ___ Saturday, but it is closed on Sundays.",
+        "correct_answer": "from … to",
+        "distractors": [
+          "during … until",
+          "between … at",
+          "from … until"
+        ],
+        "distractor_rationale": [
+          "during is not used to introduce the start of a range, and until alone after the second day is non-standard in this fixed range pattern",
+          "between requires and, not at, and at is for clock times not days",
+          "from … until can express duration but is less natural and standard than from … to when listing two days as the limits of a weekly schedule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0007",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna first moved to the city ___ 2018, and she has lived there ever since.",
+        "correct_answer": "in",
+        "distractors": [
+          "at",
+          "on",
+          "during"
+        ],
+        "distractor_rationale": [
+          "at is used for clock times and fixed phrases such as at night, not for years",
+          "on is used for specific days and full calendar dates, not for years",
+          "during is used before event-period nouns, not before a bare year number"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0008",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The builders must finish all the repairs ___ the end of next month, or the company will pay a fine.",
+        "correct_answer": "by",
+        "distractors": [
+          "until",
+          "at",
+          "during"
+        ],
+        "distractor_rationale": [
+          "until implies a continuous activity or state lasting up to a point, but finishing repairs is a one-time completed action with a deadline",
+          "at is used for clock times and brief moments, not for month-end deadlines",
+          "during is followed by an event-period noun and cannot introduce a deadline for a completed action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0009",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The hotel receptionist told us that the pool would be closed ___ the renovation work, which was expected to last two weeks.",
+        "correct_answer": "during",
+        "distractors": [
+          "while",
+          "for",
+          "until"
+        ],
+        "distractor_rationale": [
+          "while introduces a clause with a subject and verb, but the renovation work is a noun phrase, not a clause, so during is required",
+          "for indicates a length of time measured in units and would require a number such as for two weeks, not for the renovation work",
+          "until marks the end point of a continuous state, not the event period within which something is closed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0010",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The supermarket opens ___ 8 o'clock every morning.",
+        "correct_answer": "at",
+        "distractors": [
+          "in",
+          "on",
+          "during"
+        ],
+        "distractor_rationale": [
+          "in is used for months, years, and periods, not clock times",
+          "on is used for days and dates, not clock times",
+          "during requires a noun phrase describing a period, not a specific clock time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0011",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom has football practice ___ Saturdays.",
+        "correct_answer": "on",
+        "distractors": [
+          "at",
+          "in",
+          "by"
+        ],
+        "distractor_rationale": [
+          "at is used for clock times, not days of the week",
+          "in is used for months, years, and seasons, not days of the week",
+          "by expresses a deadline, not a recurring day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0012",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna fell asleep ___ the long bus journey and missed her stop.",
+        "correct_answer": "during",
+        "distractors": [
+          "in",
+          "at",
+          "on"
+        ],
+        "distractor_rationale": [
+          "in does not collocate with a specific event noun like 'the long bus journey' to mean 'throughout that event'",
+          "at is reserved for clock times and specific moments, not extended events",
+          "on is used for days and dates, not for describing what happened throughout an event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0013",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Please send me the completed report ___ Friday, because the manager needs it for the weekend meeting.",
+        "correct_answer": "by",
+        "distractors": [
+          "until",
+          "at",
+          "in"
+        ],
+        "distractor_rationale": [
+          "until describes a continuous state or action lasting up to a point, not a deadline for submitting something",
+          "at is used with clock times, not with day names expressing a deadline",
+          "in is used with months, years, or seasons, not with day names expressing a deadline"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_cloze_0014",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The café stays open ___ midnight on weekends, so we can meet there after the show.",
+        "correct_answer": "until",
+        "distractors": [
+          "by",
+          "from",
+          "during"
+        ],
+        "distractor_rationale": [
+          "by indicates a deadline for completing an action, not a continuous state lasting up to a point in time",
+          "from cannot stand alone here; it requires a paired 'to' or 'until' to form a range, and using 'from midnight' would reverse the meaning",
+          "during requires a noun phrase describing an event or period, not a specific clock time like midnight"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_time_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0001",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My birthday is ___ March, so we usually have a party then.",
+        "correct_answer": "in",
+        "distractors": [
+          "at",
+          "on",
+          "by"
+        ],
+        "distractor_rationale": [
+          "'at' is used for clock times and specific points, not months",
+          "'on' is used for specific days and dates, not months",
+          "'by' expresses a deadline, not the time of year when something occurs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0002",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara always visits her grandmother ___ Sundays.",
+        "correct_answer": "on",
+        "distractors": [
+          "in",
+          "at",
+          "during"
+        ],
+        "distractor_rationale": [
+          "'in' is used for months and years, not days of the week",
+          "'at' is used for clock times and fixed expressions like 'at the weekend' in British English, but not with named days",
+          "'during' requires a noun phrase describing a period or event, not a day name"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0003",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children were very noisy ___ the film, so we could not hear the dialogue clearly.",
+        "correct_answer": "during",
+        "distractors": [
+          "while",
+          "at",
+          "in"
+        ],
+        "distractor_rationale": [
+          "'while' is a conjunction and must be followed by a clause with a subject and verb, not a noun phrase",
+          "'at' is used for clock times and specific points, not for describing an ongoing event period",
+          "'in' is used for months, years, and seasons, not for describing a concurrent event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0004",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The library is open ___ Monday to Friday, but it closes at the weekend.",
+        "correct_answer": "from",
+        "distractors": [
+          "at",
+          "during",
+          "by"
+        ],
+        "distractor_rationale": [
+          "'at' is used for clock times and specific points, not to introduce the start of a range",
+          "'during' is used before a noun phrase describing a period, not to connect two endpoints of a range",
+          "'by' expresses a deadline, not the beginning of a time span"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0005",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom started learning to drive ___ 2019, and he passed his test the following year.",
+        "correct_answer": "in",
+        "distractors": [
+          "at",
+          "on",
+          "during"
+        ],
+        "distractor_rationale": [
+          "'at' is used for clock times and fixed time expressions, not years",
+          "'on' is used for specific days and dates, not years",
+          "'during' is used before a noun phrase describing an event or period, not a bare year"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0006",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Please make sure you submit your application ___ Friday, or the manager will not consider it.",
+        "correct_answer": "by",
+        "distractors": [
+          "until",
+          "at",
+          "during"
+        ],
+        "distractor_rationale": [
+          "'until' describes a continuous state or action that continues up to a point, not a one-time deadline for completion",
+          "'at' is used for clock times, not for expressing a submission deadline on a named day",
+          "'during' requires a noun phrase describing a period or event, not a specific day acting as a deadline"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0007",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The café stays open ___ midnight every night, so you can always get a hot drink late.",
+        "correct_answer": "until",
+        "distractors": [
+          "by",
+          "at",
+          "from"
+        ],
+        "distractor_rationale": [
+          "'by' expresses a deadline for completing an action, not a continuous state that lasts up to a point in time",
+          "'at' is used for clock times as a point of reference, not to describe the end point of a continuous duration",
+          "'from' introduces the start of a time range and must be paired with 'to' or 'until', so it cannot stand alone here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0008",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna had already finished her report ___ the time the meeting started, so she felt well prepared.",
+        "correct_answer": "by",
+        "distractors": [
+          "until",
+          "during",
+          "at"
+        ],
+        "distractor_rationale": [
+          "'until' describes a continuous situation lasting up to a point, but finishing a report is a completed action, not a continuous one — 'by' marks the deadline before which it was done",
+          "'during' is followed by a noun phrase describing an event, not by the expression 'the time' introducing a clause",
+          "'at' can introduce a time expression but 'at the time' means 'at that moment in the past', which does not convey the sense of prior completion that the context requires"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_multiple_choice_0009",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The sports centre is available for bookings ___ 6 a.m. to 10 p.m. on weekdays.",
+        "correct_answer": "from",
+        "distractors": [
+          "during",
+          "between",
+          "at"
+        ],
+        "distractor_rationale": [
+          "'during' is used before a noun phrase describing a period or event, not to introduce the start point of a clock-time range with 'to'",
+          "'between' pairs with 'and' in time ranges (between 6 a.m. and 10 p.m.), not with 'to', so it creates an ungrammatical structure here",
+          "'at' is used for a single specific clock time, not to introduce the beginning of a time span"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0000",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The class starts in 9 o'clock every morning.",
+        "correct_answer": "at 9 o'clock",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The class starts in 9 o'clock every morning.",
+        "corrected_sentence": "The class starts at 9 o'clock every morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0001",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My birthday is in Monday this year.",
+        "correct_answer": "on Monday",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My birthday is in Monday this year.",
+        "corrected_sentence": "My birthday is on Monday this year.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0002",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom fell asleep during the film was playing in the living room.",
+        "correct_answer": "during the film",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom fell asleep during the film was playing in the living room.",
+        "corrected_sentence": "Tom fell asleep while the film was playing in the living room.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0003",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Please finish your homework until Friday or you will lose marks.",
+        "correct_answer": "by Friday",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Please finish your homework until Friday or you will lose marks.",
+        "corrected_sentence": "Please finish your homework by Friday or you will lose marks.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0004",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 39,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna usually goes for a walk at the afternoon when the weather is nice.",
+        "correct_answer": "in the afternoon",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna usually goes for a walk at the afternoon when the weather is nice.",
+        "corrected_sentence": "Anna usually goes for a walk in the afternoon when the weather is nice.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 39,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0005",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The shop was open from Monday until Saturday, but it was closed all day on Sunday.",
+        "correct_answer": "from Monday to Saturday",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The shop was open from Monday until Saturday, but it was closed all day on Sunday.",
+        "corrected_sentence": "The shop was open from Monday to Saturday, but it was closed all day on Sunday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0006",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The road works started in 14 March and caused long traffic delays for several weeks.",
+        "correct_answer": "on 14 March",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The road works started in 14 March and caused long traffic delays for several weeks.",
+        "corrected_sentence": "The road works started on 14 March and caused long traffic delays for several weeks.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_time_error_correction_0007",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager said we could stay in the meeting room by they finished setting up the equipment.",
+        "correct_answer": "until they finished",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager said we could stay in the meeting room by they finished setting up the equipment.",
+        "corrected_sentence": "The manager said we could stay in the meeting room until they finished setting up the equipment.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_time_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_prepositions_time_multiple_choice_0000",
+      "skill_ids": [
+        "prepositions_time"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The train leaves ___ 7 o'clock every morning.",
+        "correct_answer": "at",
+        "distractors": [
+          "in",
+          "on",
+          "during"
+        ],
+        "distractor_rationale": [
+          "'in' is used for months, years, and periods, not clock times",
+          "'on' is used for days and dates, not clock times",
+          "'during' requires a noun phrase describing a period, not a clock time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:03:45.616802+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_time_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

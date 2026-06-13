@@ -1,0 +1,1863 @@
+{
+  "skill_id": "past_perfect",
+  "skill_name": "Past Perfect",
+  "exercises": [
+    {
+      "id": "ex_past_perfect_cloze_0000",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When the doctor arrived, the patient ___ (take) his medicine and was feeling much better.",
+        "correct_answer": "had taken",
+        "distractors": [
+          "took",
+          "was taking",
+          "has taken"
+        ],
+        "distractor_rationale": [
+          "past simple cannot show that taking the medicine happened before the doctor arrived; the sequence is lost",
+          "past continuous implies the action was still in progress when the doctor arrived, which contradicts 'was feeling much better' as a completed result",
+          "present perfect cannot be used in a completed past narrative sequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0001",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the guests arrived at the restaurant, Mark ___ (already reserve) a table near the window.",
+        "correct_answer": "had already reserved",
+        "distractors": [
+          "already reserved",
+          "was already reserving",
+          "has already reserved"
+        ],
+        "distractor_rationale": [
+          "past simple with 'already' does not correctly show that reserving was completed before the guests arrived; the sequence marker 'by the time' requires past perfect",
+          "past continuous cannot describe a completed reservation action; reserving a table is a single completed act, not an ongoing one",
+          "present perfect cannot anchor to a completed past sequence introduced by 'by the time'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0002",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara noticed that someone ___ (move) her bag from the chair while she was in the kitchen.",
+        "correct_answer": "had moved",
+        "distractors": [
+          "moved",
+          "was moving",
+          "has moved"
+        ],
+        "distractor_rationale": [
+          "past simple cannot show that the moving was completed before Sara noticed; the sequence of events requires past perfect",
+          "past continuous implies the action was still happening at the moment Sara noticed, but the bag was already in a different place",
+          "present perfect cannot be used in a past narrative where the noticing already happened"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0003",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Before Anna left for the airport, she ___ (check) her passport twice to make sure it was valid.",
+        "correct_answer": "had checked",
+        "distractors": [
+          "checked",
+          "was checking",
+          "has checked"
+        ],
+        "distractor_rationale": [
+          "past simple cannot show that checking was completed before leaving; 'before' signals a two-event sequence requiring past perfect for the earlier action",
+          "past continuous implies the checking was still ongoing when she left, which contradicts the completed, deliberate act described",
+          "present perfect cannot be used in a past narrative where leaving for the airport is already a past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0004",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the manager read the report, the team ___ (finish) all the changes he wanted.",
+        "correct_answer": "had finished",
+        "distractors": [
+          "finished",
+          "have finished",
+          "were finishing"
+        ],
+        "distractor_rationale": [
+          "past simple does not show that finishing was completed before the manager read the report; 'by the time' requires past perfect for the earlier event",
+          "present perfect cannot be used in a completed past sequence where the reading already happened in the past",
+          "past continuous implies the changes were still in progress when the manager read the report, which contradicts 'all the changes'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0005",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom realised he ___ (leave) his phone on the bus only after he reached his office.",
+        "correct_answer": "had left",
+        "distractors": [
+          "left",
+          "was leaving",
+          "has left"
+        ],
+        "distractor_rationale": [
+          "past simple cannot show that leaving the phone happened before the realisation; the sequence requires past perfect for the earlier completed action",
+          "past continuous implies the leaving was still in progress at the moment of realisation, which is impossible for a completed, unintentional action",
+          "present perfect cannot be used in a past narrative where realising and reaching the office are both already past events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0006",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the children ___ (eat) dinner, their father read them a story and put them to bed.",
+        "correct_answer": "had eaten",
+        "distractors": [
+          "ate",
+          "were eating",
+          "have eaten"
+        ],
+        "distractor_rationale": [
+          "past simple does not clearly show that eating was fully completed before the father began reading; 'after' with a sequence of distinct events requires past perfect for the earlier action",
+          "past continuous implies eating was still in progress when the father started reading, which contradicts the completed meal described",
+          "present perfect cannot be used in a past narrative where reading and putting to bed are already completed past events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0007",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa ___ (never visit) a foreign country before she took her first trip abroad at the age of thirty.",
+        "correct_answer": "had never visited",
+        "distractors": [
+          "never visited",
+          "was never visiting",
+          "has never visited"
+        ],
+        "distractor_rationale": [
+          "past simple with 'never' does not show that the lack of visiting covers all time up to the specific past moment of her first trip; past perfect is required",
+          "past continuous with 'never' is grammatically impossible and does not describe a state of experience over a period of time",
+          "present perfect cannot be used to describe a state that ended at a specific past point; 'before she took her first trip' anchors the reference to the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0008",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When James opened the fridge, he saw that his flatmate ___ (eat) the last piece of cake.",
+        "correct_answer": "had eaten",
+        "distractors": [
+          "ate",
+          "was eating",
+          "has eaten"
+        ],
+        "distractor_rationale": [
+          "past simple cannot show that eating the cake was completed before James opened the fridge; the sequence requires past perfect for the earlier event",
+          "past continuous implies the flatmate was in the process of eating the cake at the exact moment James opened the fridge, but the cake was already gone",
+          "present perfect cannot be used in a past narrative where opening the fridge is already a completed past action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0009",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the fire service reached the building, the fire ___ (spread) to the upper floors and the roof.",
+        "correct_answer": "had spread",
+        "distractors": [
+          "spread",
+          "was spreading",
+          "has spread"
+        ],
+        "distractor_rationale": [
+          "past simple does not show that the spreading was already completed before the fire service arrived; 'by the time' signals that the earlier event must be in the past perfect",
+          "past continuous implies the fire was still in the process of spreading at the moment of arrival, but 'had spread to the upper floors and the roof' describes a fully completed state, not an ongoing one",
+          "present perfect cannot be used in a past narrative where the fire service's arrival is already a completed past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0010",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "When the guests arrived at the restaurant, Tom ___ (already/reserve) a table near the window.",
+        "correct_answer": "had already reserved",
+        "distractors": [
+          "already reserved",
+          "was already reserving",
+          "has already reserved"
+        ],
+        "distractor_rationale": [
+          "past simple cannot express an action completed before another past event when sequence is explicitly marked",
+          "past continuous describes an ongoing action, not a completed reservation before the guests arrived",
+          "present perfect cannot be used in a completed past sequence; the time frame is entirely in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0011",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the doctor called her name, Sara ___ (wait) in the clinic for nearly two hours.",
+        "correct_answer": "had been waiting",
+        "distractors": [
+          "waited",
+          "was waiting",
+          "has been waiting"
+        ],
+        "distractor_rationale": [
+          "past simple presents the waiting as a simple completed event without emphasising its duration up to the second past event",
+          "past continuous does not anchor the duration of waiting to the moment the doctor called, which requires past perfect continuous",
+          "present perfect continuous cannot be used in a completed past sequence; the frame is entirely in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0012",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Before Mark ___ (leave) the office, he had sent all the reports to his manager.",
+        "correct_answer": "left",
+        "distractors": [
+          "had left",
+          "was leaving",
+          "has left"
+        ],
+        "distractor_rationale": [
+          "past perfect is needed for the earlier action (sending reports), not for leaving, which is the later event in the sequence",
+          "past continuous cannot express a simple completed departure that follows the sending of reports",
+          "present perfect cannot anchor a completed action to a fully past time frame"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0013",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna was upset because she ___ (not/finish) her homework before her parents got home.",
+        "correct_answer": "hadn't finished",
+        "distractors": [
+          "didn't finish",
+          "wasn't finishing",
+          "hasn't finished"
+        ],
+        "distractor_rationale": [
+          "past simple does not show that the failure to finish occurred before the parents' arrival; the sequence of two past events requires past perfect",
+          "past continuous negative describes an interrupted ongoing action, not a task that was simply not completed before a past deadline",
+          "present perfect cannot refer to a situation fully in the past with no connection to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_cloze_0014",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "By the time the firefighters reached the building, the fire ___ (spread) to the upper floors and the roof.",
+        "correct_answer": "had spread",
+        "distractors": [
+          "spread",
+          "was spread",
+          "has spread"
+        ],
+        "distractor_rationale": [
+          "past simple does not convey that the spreading was fully completed before the firefighters arrived; the 'by the time' clause demands past perfect for the earlier event",
+          "'was spread' is a passive construction implying the fire was deliberately spread by an agent, which is both contextually wrong and grammatically inappropriate here",
+          "present perfect cannot be used for a completed past event in a sequence that is entirely in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "past_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0000",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the time the doctor arrived, the patient ___ already ___ the medicine.",
+        "correct_answer": "had taken",
+        "distractors": [
+          "took",
+          "has taken",
+          "was taking"
+        ],
+        "distractor_rationale": [
+          "past simple cannot describe an event completed before another past event marked by 'by the time'",
+          "present perfect cannot be used in a past time frame established by 'by the time the doctor arrived'",
+          "past continuous describes an action in progress, not one already completed before the doctor's arrival"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0001",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When Sara got home from work, her children ___ all the cake she had left on the table.",
+        "correct_answer": "had eaten",
+        "distractors": [
+          "ate",
+          "were eating",
+          "have eaten"
+        ],
+        "distractor_rationale": [
+          "past simple does not show that eating was completed before Sara's arrival, which is required by the sequence",
+          "past continuous implies the eating was still in progress when Sara arrived, contradicting 'all the cake'",
+          "present perfect cannot anchor to a past reference point such as 'when Sara got home'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0002",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The film ___ already ___ when we found our seats in the cinema.",
+        "correct_answer": "had started",
+        "distractors": [
+          "started",
+          "has started",
+          "was started"
+        ],
+        "distractor_rationale": [
+          "past simple does not express that the film's start was completed before the past moment of finding seats",
+          "present perfect cannot be used for a completed action set in a past time frame",
+          "was started is a passive form suggesting someone deliberately started the film; the context requires active past perfect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0003",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark called his friend after he ___ the report for his manager.",
+        "correct_answer": "had finished",
+        "distractors": [
+          "finished",
+          "has finished",
+          "had been finishing"
+        ],
+        "distractor_rationale": [
+          "past simple does not clearly signal that finishing happened before calling in a sequence of two past events",
+          "present perfect cannot be used in a past time context established by 'Mark called'",
+          "past perfect continuous emphasises an ongoing process rather than a completed action, and 'after' signals completion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0004",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Before the guests arrived at the party, Anna ___ all the food and drinks on the table.",
+        "correct_answer": "had arranged",
+        "distractors": [
+          "arranged",
+          "was arranging",
+          "has arranged"
+        ],
+        "distractor_rationale": [
+          "past simple does not express that arranging was completed before the guests' past arrival",
+          "past continuous implies the arranging was still in progress when guests arrived, which contradicts the completed preparation",
+          "present perfect cannot be used in a past context anchored by 'before the guests arrived'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0005",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager noticed that someone ___ the window open before the storm, so the office floor was completely wet.",
+        "correct_answer": "had left",
+        "distractors": [
+          "left",
+          "was leaving",
+          "has left"
+        ],
+        "distractor_rationale": [
+          "past simple does not establish that leaving the window open preceded the manager's noticing in a clear sequence",
+          "past continuous implies an ongoing action at the time of noticing, but the completed result — the wet floor — requires a completed past action",
+          "present perfect cannot be used within a past narrative frame established by 'the manager noticed'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0006",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the time Lisa woke up on Saturday morning, her brother ___ already ___ to the market and come back.",
+        "correct_answer": "had gone",
+        "distractors": [
+          "went",
+          "has gone",
+          "was gone"
+        ],
+        "distractor_rationale": [
+          "past simple does not show the journey was completed before Lisa's waking, which 'by the time' requires",
+          "present perfect cannot be used in a past time frame set by 'by the time Lisa woke up'",
+          "was gone is an adjectival construction describing a state, not the active completion of going and returning expressed by the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0007",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom realised he ___ his phone at home only after he reached the office.",
+        "correct_answer": "had left",
+        "distractors": [
+          "left",
+          "has left",
+          "was leaving"
+        ],
+        "distractor_rationale": [
+          "past simple does not signal that leaving the phone happened before the past moment of realising",
+          "present perfect cannot be used in a completed past narrative anchored by 'Tom realised'",
+          "past continuous implies an ongoing action, but leaving a phone is a completed single event that preceded realising"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0008",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "When the teacher entered the classroom, the students ___ not yet ___ their homework on the desks.",
+        "correct_answer": "had placed",
+        "distractors": [
+          "placed",
+          "were placing",
+          "have placed"
+        ],
+        "distractor_rationale": [
+          "past simple in the negative with 'not yet' does not properly express an action that was still incomplete at a specific past moment",
+          "past continuous describes an action in progress, but 'not yet' combined with the teacher's entry signals a state of non-completion before that moment",
+          "present perfect cannot be used in a past time frame set by 'when the teacher entered'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_multiple_choice_0009",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After the team ___ the project, they celebrated with a dinner at a local restaurant.",
+        "correct_answer": "had completed",
+        "distractors": [
+          "completed",
+          "have completed",
+          "were completing"
+        ],
+        "distractor_rationale": [
+          "past simple does not clearly mark that completing the project was the earlier event before celebrating in a two-event past sequence",
+          "present perfect cannot be used in a past narrative context established by 'they celebrated'",
+          "past continuous implies the project was still in progress during the celebration, which contradicts the meaning of 'after'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "past_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0000",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "By the time the bus arrived, we waited for nearly forty minutes in the rain.",
+        "correct_answer": "had waited",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "By the time the bus arrived, we waited for nearly forty minutes in the rain.",
+        "corrected_sentence": "By the time the bus arrived, we had waited for nearly forty minutes in the rain.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0001",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When the teacher handed out the test papers, Sara already finished reading the chapter.",
+        "correct_answer": "had already finished",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When the teacher handed out the test papers, Sara already finished reading the chapter.",
+        "corrected_sentence": "When the teacher handed out the test papers, Sara had already finished reading the chapter.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0002",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The report was written before the manager had asked for any changes to be made.",
+        "correct_answer": "asked",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The report was written before the manager had asked for any changes to be made.",
+        "corrected_sentence": "The report was written before the manager asked for any changes to be made.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0003",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James was surprised to find that someone had ate the last piece of cake from the fridge.",
+        "correct_answer": "had eaten",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James was surprised to find that someone had ate the last piece of cake from the fridge.",
+        "corrected_sentence": "James was surprised to find that someone had eaten the last piece of cake from the fridge.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0004",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After the guests left, Anna realised she forgot to serve the dessert she had prepared.",
+        "correct_answer": "had forgotten",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After the guests left, Anna realised she forgot to serve the dessert she had prepared.",
+        "corrected_sentence": "After the guests left, Anna realised she had forgotten to serve the dessert she had prepared.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0005",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The match had already started when we reached the stadium, so we missed the first goal.",
+        "correct_answer": "started",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The match had already started when we reached the stadium, so we missed the first goal.",
+        "corrected_sentence": "The match had already started when we reached the stadium, so we missed the first goal.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0006",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "By the time David got home from work, his children were already went to bed.",
+        "correct_answer": "had already gone",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "By the time David got home from work, his children were already went to bed.",
+        "corrected_sentence": "By the time David got home from work, his children had already gone to bed.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_past_perfect_error_correction_0007",
+      "skill_ids": [
+        "past_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She didn't want to watch the film because her brother had told her the ending before she had a chance to see it.",
+        "correct_answer": "told",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She didn't want to watch the film because her brother had told her the ending before she had a chance to see it.",
+        "corrected_sentence": "She didn't want to watch the film because her brother told her the ending before she had a chance to see it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:30:38.102474+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "past_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

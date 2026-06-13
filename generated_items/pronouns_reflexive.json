@@ -1,0 +1,1863 @@
+{
+  "skill_id": "pronouns_reflexive",
+  "skill_name": "Reflexive Pronouns",
+  "exercises": [
+    {
+      "id": "ex_pronouns_reflexive_cloze_0000",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom burned ___ on the hot pan while he was cooking dinner last night.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "his",
+          "he"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' refers to a different person, but Tom burned his own hand — the action is reflexive",
+          "possessive 'his' cannot function as the object of a verb; it must modify a noun",
+          "subject pronoun 'he' cannot be used as the direct object of the verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0001",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The little girl dressed ___ without any help from her parents this morning.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' would mean someone else dressed her, but the sentence says she did it alone",
+          "subject pronoun 'she' cannot serve as the direct object of the verb 'dressed'",
+          "possessive pronoun 'hers' cannot function as the object of a verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0002",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We really enjoyed ___ at the outdoor concert on Saturday evening.",
+        "correct_answer": "ourselves",
+        "distractors": [
+          "us",
+          "our",
+          "each other"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'us' would imply someone else caused our enjoyment, but the subject and object are the same group",
+          "possessive adjective 'our' must modify a noun and cannot act as the object of 'enjoyed'",
+          "'each other' is a reciprocal pronoun indicating two parties acting on one another, not a group experiencing the same feeling together"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0003",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna decided to teach ___ Spanish by watching videos online every day after work.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' implies someone else taught her, but the context clearly states she did it independently",
+          "subject pronoun 'she' cannot be used as the object of the verb 'teach'",
+          "possessive pronoun 'hers' is not a valid object form for a verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0004",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager ___ checked every detail of the report before sending it to the client.",
+        "correct_answer": "herself",
+        "distractors": [
+          "by herself",
+          "her",
+          "she"
+        ],
+        "distractor_rationale": [
+          "'by herself' means alone/without help, but the sentence emphasises that the manager personally did the checking, not that she did it alone — the emphatic reflexive without 'by' is required here",
+          "object pronoun 'her' would mean someone else checked, contradicting the meaning that the manager did it personally",
+          "subject pronoun 'she' cannot be placed between subject and verb as an emphatic element in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0005",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the argument, the two colleagues apologised to ___ and agreed to work together again.",
+        "correct_answer": "each other",
+        "distractors": [
+          "themselves",
+          "them",
+          "one another's"
+        ],
+        "distractor_rationale": [
+          "'themselves' is a reflexive pronoun indicating the subject acts on itself, but here two people are acting on one another — a reciprocal relationship requires 'each other'",
+          "object pronoun 'them' would refer to a third group of people, not the two colleagues acting on each other",
+          "'one another's' is a possessive form of a reciprocal pronoun and cannot follow the preposition 'to' as an object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0006",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark fixed the broken shelf by ___ instead of calling a professional, which saved him a lot of money.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "his own",
+          "his"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' after 'by' would mean someone else fixed it for him, which contradicts 'instead of calling a professional'",
+          "'his own' is a possessive phrase and cannot complete the structure 'by ___' to mean without help",
+          "possessive adjective 'his' must modify a noun and cannot stand alone after 'by' to express doing something without assistance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0007",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children were so proud because they had organised the whole school event by ___ without any adult supervision.",
+        "correct_answer": "themselves",
+        "distractors": [
+          "them",
+          "each other",
+          "their own"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'them' after 'by' implies another group did it for them, which directly contradicts 'without any adult supervision'",
+          "'each other' is a reciprocal pronoun for two parties acting on one another, not a group acting independently as a unit",
+          "'their own' is a possessive phrase that must modify a noun and cannot complete the structure 'by ___' to mean without external help"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0008",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara told me that she had pushed ___ to finish the project on time, even though she was exhausted.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' would indicate that someone else pushed Sara, but the context shows Sara was the one pushing herself to work harder",
+          "subject pronoun 'she' cannot function as the direct object of the verb 'pushed' in this clause",
+          "possessive pronoun 'hers' cannot serve as the direct object of a verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0009",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new software updates ___ automatically every night, so you never need to do it manually.",
+        "correct_answer": "itself",
+        "distractors": [
+          "it",
+          "by itself",
+          "its"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'it' would mean an external agent updates the software, but the sentence says the software performs the action on itself — a reflexive pronoun is required",
+          "'by itself' means without help or alone, but the sentence is describing a standard automatic process, not emphasising the absence of external assistance — the direct reflexive object 'itself' is needed",
+          "possessive adjective 'its' must modify a noun and cannot function as the direct object of the verb 'updates'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0010",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom cut ___ while he was chopping vegetables for dinner last night.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "his",
+          "he"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' refers to a different person, but the subject Tom is the one who was cut — the action reflects back on the subject",
+          "possessive adjective 'his' cannot function as the object of a verb in this position",
+          "subject pronoun 'he' cannot serve as the object of the verb 'cut'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0011",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children made the birthday cake ___ without any help from their parents.",
+        "correct_answer": "themselves",
+        "distractors": [
+          "them",
+          "each other",
+          "their"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'them' refers to other people, not back to the subject 'the children'",
+          "'each other' indicates a reciprocal action between two parties, but here all the children acted together on one task without any external help",
+          "possessive adjective 'their' cannot function as the object complement in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0012",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the long meeting, Sara poured ___ a cup of coffee and sat down quietly at her desk.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' refers to a different female person, but Sara is pouring the coffee for herself — the action reflects back on the subject",
+          "subject pronoun 'she' cannot serve as the indirect object of the verb 'poured'",
+          "possessive pronoun 'hers' cannot function as an indirect object in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0013",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager ___ checked every report before it was sent to the client, so no mistakes were found.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "by herself",
+          "she"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' refers to a different female person and cannot be used for emphatic reference to the subject",
+          "'by herself' means she did it alone, but the sentence emphasises personal involvement, not the absence of help — 'by herself' placed here between subject and verb is grammatically unnatural",
+          "subject pronoun 'she' would create a double subject, making the sentence grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_cloze_0014",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although nobody taught him, David managed to fix the broken washing machine by ___ using only a basic toolkit.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "his own",
+          "itself"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' refers to a different male person and cannot form the 'by + reflexive' structure meaning without help",
+          "'his own' is a possessive determiner that must precede a noun and cannot complete the 'by + ___' structure for independent action",
+          "reflexive pronoun 'itself' refers to a non-human thing, but the subject of the action is David, a person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "pronouns_reflexive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0000",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom cut ___ while he was chopping vegetables for dinner.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "his",
+          "he"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' cannot refer back to the subject of the same clause — this is the classic reflexive-action error",
+          "possessive adjective 'his' is grammatically incorrect as the object of a verb",
+          "subject pronoun 'he' cannot function as the direct object of 'cut'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0001",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children made ___ sandwiches because their mother was busy working.",
+        "correct_answer": "themselves",
+        "distractors": [
+          "them",
+          "their",
+          "they"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'them' cannot refer back to the subject 'the children' in the same clause — a reflexive pronoun is required",
+          "possessive adjective 'their' cannot function as the indirect object here",
+          "subject pronoun 'they' cannot serve as the object of 'made'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0002",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna looked at ___ in the mirror before leaving for her job interview.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' would mean Anna looked at a different woman, not at her own reflection — the context of a mirror demands a reflexive",
+          "subject pronoun 'she' cannot function as the object of the preposition 'at'",
+          "possessive pronoun 'hers' cannot serve as the object of a preposition in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0003",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We painted the whole apartment ___ to save money, and it took us three weekends.",
+        "correct_answer": "ourselves",
+        "distractors": [
+          "us",
+          "by us",
+          "each other"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'us' after the verb does not convey the meaning of doing something without help, which the context requires",
+          "'by us' is a passive agent phrase, not the structure used to express doing something without help — 'by ourselves' would be correct, but 'by us' alone is not",
+          "'each other' expresses reciprocal action between two parties, not the idea of doing something without external help"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0004",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David taught ___ to use the new editing software by watching online tutorials every evening.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "each other",
+          "themselves"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' implies someone else taught David, contradicting the self-directed learning described",
+          "'each other' requires two or more subjects acting reciprocally, but the subject here is singular 'David'",
+          "'themselves' is a plural reflexive and does not agree with the singular subject 'David'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0005",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager ___ approved the new budget, so there was no need to wait for anyone else.",
+        "correct_answer": "herself",
+        "distractors": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'her' in this position would be grammatically odd and loses the emphatic meaning that the manager personally did it",
+          "subject pronoun 'she' creates a double subject and is not used for emphasis in standard English",
+          "possessive pronoun 'hers' cannot function as an emphatic reflexive in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0006",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara and her brother argued so loudly that they hurt ___ without meaning to.",
+        "correct_answer": "each other",
+        "distractors": [
+          "themselves",
+          "them",
+          "one another's feelings"
+        ],
+        "distractor_rationale": [
+          "'themselves' implies each person hurt only themselves, not that they hurt the other person — the context of an argument between two people requires a reciprocal pronoun",
+          "object pronoun 'them' would refer to a third group of people outside the sentence, not to Sara and her brother",
+          "'one another's feelings' introduces a possessive structure that is grammatically inconsistent with the verb 'hurt' as used here and adds a noun not present in any other option"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0007",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After the accident, Mark found ___ unable to concentrate on even the simplest tasks at work.",
+        "correct_answer": "himself",
+        "distractors": [
+          "him",
+          "his own",
+          "he"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'him' implies a different person found Mark, whereas the subject and object of 'found' refer to the same person here",
+          "'his own' is a possessive phrase that cannot follow 'found' as a direct object in this structure",
+          "subject pronoun 'he' cannot function as the direct object of 'found' in this clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0008",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new coffee machine switches ___ off automatically after ten minutes of not being used.",
+        "correct_answer": "itself",
+        "distractors": [
+          "it",
+          "its",
+          "by itself"
+        ],
+        "distractor_rationale": [
+          "object pronoun 'it' would refer to a different object, not the machine performing the action on itself — a reflexive is required when subject and object are the same",
+          "possessive adjective 'its' cannot function as the direct object of 'switches off'",
+          "'by itself' means without help and would change the meaning — the sentence describes an automatic function, not the absence of assistance; also, 'by itself' cannot fill the gap between 'switches' and 'off' in this phrasal verb structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_multiple_choice_0009",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa and James organised the entire farewell party by ___, without any help from their colleagues.",
+        "correct_answer": "themselves",
+        "distractors": [
+          "each other",
+          "them",
+          "their own"
+        ],
+        "distractor_rationale": [
+          "'each other' expresses reciprocal action between two parties but cannot follow 'by' to mean without help — 'by each other' is not a standard English structure for this meaning",
+          "object pronoun 'them' after 'by' would mean the party was organised by some other people, contradicting the sentence's meaning",
+          "'their own' is a possessive phrase and cannot follow 'by' to express the idea of doing something without help"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "pronouns_reflexive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0000",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom burned him on the hot pan while he was cooking dinner last night.",
+        "correct_answer": "himself",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom burned him on the hot pan while he was cooking dinner last night.",
+        "corrected_sentence": "Tom burned himself on the hot pan while he was cooking dinner last night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0001",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children enjoyed them at the birthday party and didn't want to go home.",
+        "correct_answer": "themselves",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children enjoyed them at the birthday party and didn't want to go home.",
+        "corrected_sentence": "The children enjoyed themselves at the birthday party and didn't want to go home.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0002",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Myself finished the whole project without any help from my colleagues.",
+        "correct_answer": "I",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Myself finished the whole project without any help from my colleagues.",
+        "corrected_sentence": "I finished the whole project without any help from my colleagues.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0003",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara looked at her in the mirror for a long time before she left for the interview.",
+        "correct_answer": "herself",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara looked at her in the mirror for a long time before she left for the interview.",
+        "corrected_sentence": "Sara looked at herself in the mirror for a long time before she left for the interview.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0004",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager himself checked the report, but his assistant prepared it themselves.",
+        "correct_answer": "himself",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager himself checked the report, but his assistant prepared it themselves.",
+        "corrected_sentence": "The manager himself checked the report, but his assistant prepared it himself.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0005",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "During the argument, the two friends hurt themselves and stopped talking to each other for a week.",
+        "correct_answer": "each other",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "During the argument, the two friends hurt themselves and stopped talking to each other for a week.",
+        "corrected_sentence": "During the argument, the two friends hurt each other and stopped talking to each other for a week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0006",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna was proud that she had painted the entire kitchen by her without asking anyone for help.",
+        "correct_answer": "herself",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna was proud that she had painted the entire kitchen by her without asking anyone for help.",
+        "corrected_sentence": "Anna was proud that she had painted the entire kitchen by herself without asking anyone for help.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_pronouns_reflexive_error_correction_0007",
+      "skill_ids": [
+        "pronouns_reflexive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new employee introduced herself to the team, and then her manager explained the office rules to herself.",
+        "correct_answer": "her",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new employee introduced herself to the team, and then her manager explained the office rules to herself.",
+        "corrected_sentence": "The new employee introduced herself to the team, and then her manager explained the office rules to her.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:04:05.771973+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "pronouns_reflexive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

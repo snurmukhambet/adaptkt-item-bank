@@ -1,0 +1,1865 @@
+{
+  "skill_id": "prepositions_place_movement",
+  "skill_name": "Prepositions of Place & Movement",
+  "exercises": [
+    {
+      "id": "ex_prepositions_place_movement_cloze_0000",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The cat is sitting ___ the sofa.",
+        "correct_answer": "on",
+        "distractors": [
+          "in",
+          "at",
+          "to"
+        ],
+        "distractor_rationale": [
+          "in describes being inside an enclosed space, but a sofa is an open surface",
+          "at marks a general point or location, not a surface someone is resting on",
+          "to marks movement toward a destination, not a static position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0001",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After dinner, Tom went ___ home and watched TV.",
+        "correct_answer": "home",
+        "distractors": [
+          "to home",
+          "at home",
+          "in home"
+        ],
+        "distractor_rationale": [
+          "home after a movement verb like went needs no preposition in English; to home is a direct transfer error from many other languages",
+          "at home describes being already there, not movement toward it",
+          "in home is never grammatically correct in English for movement or location"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0002",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "There is a small café ___ the corner of the street.",
+        "correct_answer": "on",
+        "distractors": [
+          "at",
+          "in",
+          "next"
+        ],
+        "distractor_rationale": [
+          "at the corner is used for meeting points or precise addresses, but on the corner is the fixed collocation for describing where a building is situated",
+          "in the corner refers to an interior corner of a room, not an outdoor street corner",
+          "next is not a preposition on its own and cannot follow is without to, making the sentence grammatically incomplete"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0003",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria walked ___ the room and sat down at the big table near the window.",
+        "correct_answer": "into",
+        "distractors": [
+          "in",
+          "to",
+          "through"
+        ],
+        "distractor_rationale": [
+          "in describes static location inside a space, not the movement of entering it",
+          "to marks movement toward a destination but does not express the act of entering an enclosed space",
+          "through describes movement from one side of a space to the other side, but Maria stopped inside the room rather than exiting the other side"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0004",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The post office is ___ the bank and the pharmacy on the main road.",
+        "correct_answer": "between",
+        "distractors": [
+          "opposite",
+          "next to",
+          "in front of"
+        ],
+        "distractor_rationale": [
+          "opposite means directly facing something across a road or space, not positioned with one thing on each side",
+          "next to means beside one other thing, not sandwiched between two named places",
+          "in front of means ahead of something, not positioned with two things flanking it on either side"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0005",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ran ___ the tunnel and came out on the other side of the park.",
+        "correct_answer": "through",
+        "distractors": [
+          "past",
+          "into",
+          "across"
+        ],
+        "distractor_rationale": [
+          "past means going alongside and beyond a point without entering it, but the tunnel is an enclosed structure the children moved inside",
+          "into describes only the act of entering, not the complete movement from one end to the other that the second clause confirms",
+          "across describes movement over an open surface from one side to the other, not movement inside a narrow enclosed structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0006",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She took the books ___ of the box and put them on the shelf.",
+        "correct_answer": "out",
+        "distractors": [
+          "outside",
+          "away",
+          "off"
+        ],
+        "distractor_rationale": [
+          "outside is an adverb or preposition of location, not part of the fixed phrasal movement expression out of",
+          "away does not combine with of to describe removal from inside a container",
+          "off describes movement from a surface, not from inside an enclosed container like a box"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0007",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Every morning, James cycles ___ the old market square without stopping before he reaches the office.",
+        "correct_answer": "past",
+        "distractors": [
+          "through",
+          "across",
+          "around"
+        ],
+        "distractor_rationale": [
+          "through implies moving inside and exiting the other side of an enclosed space, but an open market square is not an enclosed structure James enters",
+          "across describes moving over the full width of an open surface from one edge to the other, but James does not cross the square — he passes alongside it without entering",
+          "around means going in a circle or a detour encircling the place, which contradicts the direct daily route described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0008",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new library is ___ the sports centre, so you can see the entrance from the car park.",
+        "correct_answer": "opposite",
+        "distractors": [
+          "next to",
+          "between",
+          "behind"
+        ],
+        "distractor_rationale": [
+          "next to means directly beside something with no road or gap in between, but being visible from the car park across the road indicates it faces the sports centre",
+          "between requires two named reference points on either side, but only one reference point is given here",
+          "behind means at the back of something and hidden from view, which contradicts the fact that the entrance is clearly visible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0009",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The delivery driver carried the heavy boxes ___ the building and left them in the storage room on the ground floor.",
+        "correct_answer": "into",
+        "distractors": [
+          "in",
+          "through",
+          "onto"
+        ],
+        "distractor_rationale": [
+          "in describes a static position already inside the building, not the act of entering it while carrying something",
+          "through implies the driver entered and exited the building completely, but the boxes were left inside in the storage room",
+          "onto describes movement up and onto a surface, not the act of entering an enclosed building"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0011",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After dinner, Tom walked ___ home.",
+        "correct_answer": "home",
+        "distractors": [
+          "to home",
+          "at home",
+          "into home"
+        ],
+        "distractor_rationale": [
+          "home after a movement verb like walked needs no preposition; 'to home' is a direct learner error",
+          "at home describes being stationary at a location, not the act of walking there",
+          "into is used for enclosed spaces but home does not take any preposition after movement verbs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 6,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0012",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ran ___ the classroom as soon as the bell rang.",
+        "correct_answer": "into",
+        "distractors": [
+          "in",
+          "to",
+          "at"
+        ],
+        "distractor_rationale": [
+          "in describes a static position inside a space, not the movement of entering it",
+          "to marks movement toward a destination but does not indicate crossing the threshold into an enclosed space",
+          "at marks a general point or location and cannot describe directional movement into a room"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0013",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The post office is ___ the bank, so you can see both buildings from the street.",
+        "correct_answer": "opposite",
+        "distractors": [
+          "next to",
+          "in",
+          "past"
+        ],
+        "distractor_rationale": [
+          "next to means beside or immediately adjacent, but the sentence says you can see both from the street, which implies they face each other across the road",
+          "in describes being inside an enclosed space and cannot describe the spatial relationship between two buildings",
+          "past describes movement beyond a point and cannot describe a static positional relationship between buildings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_cloze_0014",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "To reach the market, you walk ___ the old bridge and then turn left at the fountain.",
+        "correct_answer": "through",
+        "distractors": [
+          "past",
+          "into",
+          "across"
+        ],
+        "distractor_rationale": [
+          "past means moving alongside and beyond a point without entering it, but a bridge is a structure you travel along its full length from one side to the other, which is described by through in this context",
+          "into implies entering an enclosed space, but a bridge is an open path, not an enclosure you step inside",
+          "across describes movement from one side to the other of an open flat surface like a road or field, but the sentence pairs the bridge with a covered or enclosed old structure where through is the conventional collocate"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0000",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The cat is ___ the box.",
+        "correct_answer": "in",
+        "distractors": [
+          "on",
+          "at",
+          "into"
+        ],
+        "distractor_rationale": [
+          "'on' describes a surface position, but the cat is enclosed inside the box, not resting on top of it",
+          "'at' marks a general point or location, not an enclosed space that surrounds the subject",
+          "'into' marks movement toward the inside of something, but the sentence describes a static location, not an action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 6,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0001",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Her keys are ___ the table.",
+        "correct_answer": "on",
+        "distractors": [
+          "in",
+          "at",
+          "onto"
+        ],
+        "distractor_rationale": [
+          "'in' implies the keys are enclosed inside the table, which is impossible for a flat surface",
+          "'at' marks a general point or destination, not an object resting on a flat surface",
+          "'onto' describes movement from one place to a surface, but the sentence is static, not directional"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 6,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0002",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark is waiting ___ the bus stop.",
+        "correct_answer": "at",
+        "distractors": [
+          "in",
+          "on",
+          "to"
+        ],
+        "distractor_rationale": [
+          "'in' implies an enclosed space, but a bus stop is an open point or location, not a room or container",
+          "'on' describes a surface, not a specific point or landmark where someone stands",
+          "'to' marks movement toward a destination, but the sentence describes a static position, not travel"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0003",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After school, Tom walked ___ the library to return his books.",
+        "correct_answer": "to",
+        "distractors": [
+          "into",
+          "in",
+          "at"
+        ],
+        "distractor_rationale": [
+          "'into' describes entering an enclosed space, but the sentence focuses on the direction of travel toward the library, not the act of entering it",
+          "'in' marks a static location inside an enclosed space, not movement toward a destination",
+          "'at' marks a point or location, but it does not express the directional movement described by 'walked'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0004",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children ran ___ the building when it started to rain heavily.",
+        "correct_answer": "into",
+        "distractors": [
+          "in",
+          "to",
+          "through"
+        ],
+        "distractor_rationale": [
+          "'in' describes a static position inside an enclosed space, not the action of entering it from outside",
+          "'to' marks movement toward a destination but does not specify that the children entered and went inside the building",
+          "'through' means passing from one side to the other, not entering and staying inside"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0005",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The supermarket is ___ the post office, so you can see both from the street.",
+        "correct_answer": "opposite",
+        "distractors": [
+          "next to",
+          "at",
+          "past"
+        ],
+        "distractor_rationale": [
+          "'next to' means directly beside something, not facing it from across the street",
+          "'at' marks a general point or location and does not describe the spatial relationship between two buildings",
+          "'past' describes movement beyond a point, not a static position facing another building"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0006",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She took the dog ___ of the car and put it on its lead.",
+        "correct_answer": "out",
+        "distractors": [
+          "outside",
+          "off",
+          "away"
+        ],
+        "distractor_rationale": [
+          "'outside' is an adverb or preposition of location meaning 'not inside', but the phrasal preposition needed here is 'out of' to express removal from an enclosed space",
+          "'off' collocates with surfaces or attached positions (e.g. off the shelf), not with enclosed spaces like a car interior",
+          "'away' describes movement from a place in general and cannot form the required two-word preposition 'out of'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0007",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Every morning, James cycles ___ the old bridge on his way to the office.",
+        "correct_answer": "past",
+        "distractors": [
+          "through",
+          "across",
+          "over"
+        ],
+        "distractor_rationale": [
+          "'through' implies moving from one end to the other of an enclosed or interior space, which does not apply to cycling alongside or beyond a bridge",
+          "'across' implies travelling from one side to the other of a surface such as a road or river, not moving beyond a landmark without crossing it",
+          "'over' implies passing above something, which is physically impossible when cycling on a road near a bridge"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0008",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The hikers walked ___ the narrow tunnel under the mountain and came out on the other side.",
+        "correct_answer": "through",
+        "distractors": [
+          "past",
+          "into",
+          "across"
+        ],
+        "distractor_rationale": [
+          "'past' means moving beyond a point without entering it, but the hikers went inside the tunnel and emerged on the far side, indicating complete passage",
+          "'into' describes only the act of entering an enclosed space, not the full journey from one end to the other",
+          "'across' describes movement over a flat open surface such as a field or road, not through an enclosed passage like a tunnel"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_multiple_choice_0009",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After a long day at work, Lisa was relieved to finally arrive ___ home and sit down.",
+        "correct_answer": "at",
+        "distractors": [
+          "to",
+          "in",
+          "into"
+        ],
+        "distractor_rationale": [
+          "'to' is used before most destinations, but 'home' is a special adverbial noun that requires 'at' when expressing arrival at the location, not 'to'",
+          "'in' describes being located inside an enclosed space, but the fixed collocation for reaching one's home is 'arrive at home', not 'arrive in home'",
+          "'into' expresses entering an enclosed space and cannot follow 'arrive', which requires a preposition of location, not movement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_place_movement_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0000",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The keys are on the drawer next to the front door.",
+        "correct_answer": "in the drawer",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The keys are on the drawer next to the front door.",
+        "corrected_sentence": "The keys are in the drawer next to the front door.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0001",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After school, Tom went to home and had lunch.",
+        "correct_answer": "went home",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After school, Tom went to home and had lunch.",
+        "corrected_sentence": "After school, Tom went home and had lunch.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0002",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She walked in the room and sat down at the big table.",
+        "correct_answer": "into the room",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She walked in the room and sat down at the big table.",
+        "corrected_sentence": "She walked into the room and sat down at the big table.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0003",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "There is a small café in the corner of the main square.",
+        "correct_answer": "on the corner",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "There is a small café in the corner of the main square.",
+        "corrected_sentence": "There is a small café on the corner of the main square.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0004",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children jumped on the swimming pool to cool down on the hot day.",
+        "correct_answer": "into the swimming pool",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children jumped on the swimming pool to cool down on the hot day.",
+        "corrected_sentence": "The children jumped into the swimming pool to cool down on the hot day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0005",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Every morning, Mark runs through the park and then past at the old library before reaching his office.",
+        "correct_answer": "past the old library",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Every morning, Mark runs through the park and then past at the old library before reaching his office.",
+        "corrected_sentence": "Every morning, Mark runs through the park and then past the old library before reaching his office.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0006",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The bus stop is just opposite to the supermarket, so it is easy to find from the station.",
+        "correct_answer": "opposite the supermarket",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The bus stop is just opposite to the supermarket, so it is easy to find from the station.",
+        "corrected_sentence": "The bus stop is just opposite the supermarket, so it is easy to find from the station.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_place_movement_error_correction_0007",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "When Anna arrived in the airport, she took her luggage out from the conveyor belt and looked for her family.",
+        "correct_answer": "arrived at the airport",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "When Anna arrived in the airport, she took her luggage out from the conveyor belt and looked for her family.",
+        "corrected_sentence": "When Anna arrived at the airport, she took her luggage out from the conveyor belt and looked for her family.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_place_movement_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_prepositions_place_movement_cloze_0010",
+      "skill_ids": [
+        "prepositions_place_movement"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The cat is sitting ___ the sofa.",
+        "correct_answer": "on",
+        "distractors": [
+          "in",
+          "at",
+          "to"
+        ],
+        "distractor_rationale": [
+          "in describes being inside an enclosed space, but a sofa is a surface, not an enclosure",
+          "at marks a general point or location for activities, not contact with a surface",
+          "to marks movement toward a destination, but the cat is not moving"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:56:17.961040+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_place_movement_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

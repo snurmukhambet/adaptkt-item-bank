@@ -1,0 +1,1865 @@
+{
+  "skill_id": "complement_clauses",
+  "skill_name": "Complement Clauses (That/About/Know)",
+  "exercises": [
+    {
+      "id": "ex_complement_clauses_cloze_0000",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I think ___ the bus leaves at nine o'clock every morning.",
+        "correct_answer": "that",
+        "distractors": [
+          "what",
+          "if",
+          "which"
+        ],
+        "distractor_rationale": [
+          "'what' introduces a noun clause referring to an unknown thing, not a statement of belief about a fact",
+          "'if' introduces a yes/no conditional or indirect question, not a declarative complement after 'think'",
+          "'which' is a relative pronoun or question word for choosing between options, not a complement introducer after 'think'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0001",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you know ___ the supermarket is open on Sundays?",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "which"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement stating a known fact, not a yes/no question embedded after 'know'",
+          "'what' asks about a thing or information, not a yes/no alternative, so it cannot introduce this open question about opening hours",
+          "'which' selects between specific named options and cannot introduce a yes/no embedded question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0002",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She told me ___ she would be late for the meeting this afternoon.",
+        "correct_answer": "that",
+        "distractors": [
+          "what",
+          "whether",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'what' introduces a clause about an unknown thing, but the clause here is a complete statement of fact, not a thing",
+          "'whether' introduces a yes/no indirect question, but 'told' followed by a complete declarative clause requires 'that'",
+          "'how' introduces a manner or degree clause, which does not fit a direct statement about being late"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0003",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James wondered ___ his neighbours had heard the noise from his flat the night before.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "did"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a complement clause stating a fact, but 'wondered' here expresses uncertainty about a yes/no situation",
+          "'what' asks about a thing or content, not a yes/no alternative about whether neighbours heard something",
+          "'did' inverts the subject and auxiliary as in a direct question, which is incorrect inside an embedded clause after 'wondered'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0004",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Can you find out ___ the next train to the city centre departs?",
+        "correct_answer": "when",
+        "distractors": [
+          "that",
+          "does",
+          "whether"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative fact clause, but the sentence is asking for specific time information, requiring a wh-word",
+          "'does' inverts subject and auxiliary as in a direct question, which is ungrammatical inside an embedded clause after 'find out'",
+          "'whether' introduces a yes/no embedded question, but the sentence is asking for the specific departure time, not a yes/no answer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0005",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria believes ___ her brother has already bought the tickets for the concert.",
+        "correct_answer": "that",
+        "distractors": [
+          "whether",
+          "what",
+          "if"
+        ],
+        "distractor_rationale": [
+          "'whether' introduces a yes/no indirect question, but 'believes' followed by a confident declarative statement requires 'that'",
+          "'what' introduces a clause about an unknown thing, not a complete statement of belief about an action already done",
+          "'if' can introduce an indirect yes/no question in informal use, but after 'believes' expressing a confident assertion, only 'that' is correct"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0006",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you know ___ the new manager lives, so we can send her a welcome card?",
+        "correct_answer": "where",
+        "distractors": [
+          "where does",
+          "that",
+          "whether"
+        ],
+        "distractor_rationale": [
+          "'where does' uses direct-question inversion inside an embedded clause, which is ungrammatical after 'know'",
+          "'that' introduces a declarative fact clause, but the sentence is asking for a specific location, requiring a wh-word",
+          "'whether' introduces a yes/no embedded question, but the sentence seeks a specific place, not a yes/no answer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0007",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The receptionist couldn't tell us ___ the doctor would be available that afternoon or the following morning.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "if",
+          "when"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement stating a fact, but the sentence presents two explicit alternatives — afternoon or morning — which requires 'whether'",
+          "'if' can introduce an embedded yes/no question informally, but when two explicit alternatives are named, 'whether' is the only grammatically precise choice",
+          "'when' asks for a specific point in time, but the sentence already provides two time options and is asking which of them applies, not an open time question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0008",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the meeting, Anna found out ___ the project deadline had been moved to the end of the month.",
+        "correct_answer": "that",
+        "distractors": [
+          "whether",
+          "what",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'whether' introduces a yes/no embedded question, but 'found out' here is followed by a specific piece of information stated as a fact, requiring 'that'",
+          "'what' introduces a clause about an unknown thing, but the clause already contains a complete statement about the deadline, making 'what' ungrammatical",
+          "'how' introduces a manner or degree clause, which cannot introduce a complete declarative statement about a deadline change"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0009",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The travel agent said she would check ___ any direct flights to the destination were still available at that price.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "where"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement asserting a fact, but 'check' here implies investigating an uncertain yes/no situation, which requires 'whether'",
+          "'what' asks about a specific thing or content, but the clause is about the existence or non-existence of flights — a yes/no matter — not about what kind of flights",
+          "'where' asks about a location, which is irrelevant here since the question is about availability, not the place of the flights"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0011",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you know where ___ the nearest supermarket?",
+        "correct_answer": "the nearest supermarket is",
+        "distractors": [
+          "is the nearest supermarket",
+          "the nearest supermarket are",
+          "does the nearest supermarket be"
+        ],
+        "distractor_rationale": [
+          "inverting subject and verb after 'where' treats the embedded clause as a direct question, which is a very common learner error — the subject must come before the verb",
+          "'are' does not agree with the singular noun phrase 'the nearest supermarket'",
+          "'does … be' incorrectly applies do-support to the verb 'be', which never uses do-support in any context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0012",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria told her colleague ___ she would finish the report before the end of the day.",
+        "correct_answer": "that",
+        "distractors": [
+          "whether",
+          "what",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'whether' introduces an indirect yes/no question, but the clause here is a statement of intention, not a question — 'that' is required after 'told' with a declarative complement",
+          "'what' introduces an indirect wh-question asking about unknown content, but the clause already provides the full information, making 'what' grammatically incorrect here",
+          "'how' introduces an indirect question about manner or degree, which contradicts the declarative content of the clause following it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0013",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James was not sure ___ the meeting had already started, so he knocked quietly before entering the room.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "where"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement stating something as a fact, but 'not sure' signals uncertainty about a yes/no alternative, requiring 'whether'",
+          "'what' introduces an indirect wh-question about unknown content, but the uncertainty here is about a yes/no situation, not about the identity of something",
+          "'where' introduces an indirect question about location, which is semantically incompatible with the clause 'the meeting had already started'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_cloze_0014",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After checking online, Anna found out ___ the evening train to the coast was fully booked for the whole weekend.",
+        "correct_answer": "that",
+        "distractors": [
+          "whether",
+          "what time",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'whether' introduces an indirect yes/no question, but 'found out' here is followed by a declarative complement reporting a discovered fact, not an unresolved question — 'that' is required",
+          "'what time' introduces an indirect question about a specific time, which is semantically contradicted by the clause that follows, which states a condition about availability rather than a departure time",
+          "'how' introduces an indirect question about manner or degree, which is semantically incompatible with a clause reporting that a train was fully booked"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0000",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I think ___ the bus leaves at nine o'clock in the morning.",
+        "correct_answer": "that",
+        "distractors": [
+          "what",
+          "which",
+          "if"
+        ],
+        "distractor_rationale": [
+          "'what' introduces a wh-clause as a noun object, not a complement clause after 'think' with a full statement",
+          "'which' is a relative or wh-question word and cannot introduce a declarative complement clause after 'think'",
+          "'if' introduces yes/no indirect questions after 'wonder' or 'know', not declarative complement clauses after 'think'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0001",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Do you know ___ the supermarket is closed today?",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement clause, not a yes/no indirect question",
+          "'what' introduces a wh-complement clause requiring a noun or noun phrase as its answer, not a yes/no question",
+          "'how' introduces a wh-complement clause about manner or degree, not a yes/no question about open or closed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0002",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She told me ___ she was feeling much better after her rest.",
+        "correct_answer": "that",
+        "distractors": [
+          "what",
+          "whether",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'what' would require a noun phrase or embedded question, not a full declarative statement after 'told me'",
+          "'whether' introduces a yes/no indirect question, but the clause here is a full declarative statement, not a question",
+          "'how' would require a complement expressing manner or degree, not a declarative statement about feeling better"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0003",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Can you find out ___ the next train to the city centre leaves?",
+        "correct_answer": "when",
+        "distractors": [
+          "that",
+          "whether",
+          "if"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement clause and cannot introduce a wh-question about time",
+          "'whether' introduces a yes/no indirect question, but the sentence asks about a specific time, requiring a wh-word",
+          "'if' introduces a yes/no indirect question and cannot introduce a wh-question asking for a specific departure time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0004",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark wondered ___ his colleagues had already seen the new schedule on the board.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "when"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement clause, not a yes/no indirect question expressing uncertainty",
+          "'what' introduces a wh-complement clause requiring a noun or noun phrase as its answer, not a yes/no question",
+          "'when' asks about a specific time, but the sentence expresses uncertainty about whether something happened at all"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0005",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Do you know ___ the manager keeps the spare keys for the office?",
+        "correct_answer": "where",
+        "distractors": [
+          "where does",
+          "that where",
+          "if where"
+        ],
+        "distractor_rationale": [
+          "'where does' inverts the subject and auxiliary as in a direct question, which is incorrect inside an embedded clause",
+          "'that where' combines two clause introducers, which is ungrammatical in English",
+          "'if where' combines a yes/no introducer with a wh-word, which is ungrammatical in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0006",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna believes ___ her brother will pass his driving test on the first attempt.",
+        "correct_answer": "that",
+        "distractors": [
+          "if",
+          "whether",
+          "what"
+        ],
+        "distractor_rationale": [
+          "'if' introduces a yes/no indirect question, not a declarative complement clause after 'believes'",
+          "'whether' introduces a yes/no indirect question expressing doubt, which contradicts the confident belief expressed here",
+          "'what' requires a noun or noun phrase answer rather than a full declarative statement about passing a test"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0007",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The receptionist couldn't tell us ___ the doctor would be available for appointments that afternoon.",
+        "correct_answer": "whether",
+        "distractors": [
+          "that",
+          "what",
+          "who"
+        ],
+        "distractor_rationale": [
+          "'that' introduces a declarative complement clause expressing a known fact, which contradicts the uncertainty implied by 'couldn't tell us'",
+          "'what' requires a noun or noun phrase answer, but the embedded clause here is a full yes/no question about availability",
+          "'who' asks about a person as subject or object, but the clause already has 'the doctor' as its subject and asks about availability"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0008",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the end of the meeting, everyone finally understood ___ the new system worked so differently from the old one.",
+        "correct_answer": "why",
+        "distractors": [
+          "why did",
+          "that why",
+          "whether why"
+        ],
+        "distractor_rationale": [
+          "'why did' inverts subject and auxiliary as in a direct question, which is ungrammatical inside an embedded wh-clause",
+          "'that why' combines a declarative clause introducer with a wh-word, which is ungrammatical in English",
+          "'whether why' combines a yes/no introducer with a wh-word, which is ungrammatical in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_multiple_choice_0009",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After speaking to the technician, Lisa found out ___ the problem with her laptop had started after a recent software update.",
+        "correct_answer": "that",
+        "distractors": [
+          "whether",
+          "what",
+          "if"
+        ],
+        "distractor_rationale": [
+          "'whether' introduces a yes/no indirect question expressing uncertainty, but Lisa has already found out the specific cause, implying a known fact",
+          "'what' requires a noun or noun phrase as the answer, but the embedded clause is a full declarative statement about a cause",
+          "'if' introduces a yes/no indirect question and cannot introduce a declarative complement clause stating a confirmed fact"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "complement_clauses_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0000",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I think he coming to the party tonight.",
+        "correct_answer": "that he is coming",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I think he coming to the party tonight.",
+        "corrected_sentence": "I think that he is coming to the party tonight.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0001",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Do you know where does she work?",
+        "correct_answer": "where she works",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Do you know where does she work?",
+        "corrected_sentence": "Do you know where she works?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 7,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0002",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She told me that where the nearest supermarket was.",
+        "correct_answer": "told me where",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She told me that where the nearest supermarket was.",
+        "corrected_sentence": "She told me where the nearest supermarket was.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0003",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I wonder if or not she will accept the job offer.",
+        "correct_answer": "whether or not",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I wonder if or not she will accept the job offer.",
+        "corrected_sentence": "I wonder whether or not she will accept the job offer.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0004",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He didn't know what did the doctor say about his test results.",
+        "correct_answer": "what the doctor said",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He didn't know what did the doctor say about his test results.",
+        "corrected_sentence": "He didn't know what the doctor said about his test results.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0005",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "They found out that how much the train tickets would cost before booking.",
+        "correct_answer": "found out how much",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "They found out that how much the train tickets would cost before booking.",
+        "corrected_sentence": "They found out how much the train tickets would cost before booking.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0006",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager asked whether did the new employee understand the safety procedures.",
+        "correct_answer": "whether the new employee understood",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager asked whether did the new employee understand the safety procedures.",
+        "corrected_sentence": "The manager asked whether the new employee understood the safety procedures.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_complement_clauses_error_correction_0007",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Most passengers didn't realise how long would the delay last, so they waited near the gate.",
+        "correct_answer": "how long the delay would last",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Most passengers didn't realise how long would the delay last, so they waited near the gate.",
+        "corrected_sentence": "Most passengers didn't realise how long the delay would last, so they waited near the gate.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "complement_clauses_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_complement_clauses_cloze_0010",
+      "skill_ids": [
+        "complement_clauses"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I think ___ the bus leaves at nine o'clock every morning.",
+        "correct_answer": "that",
+        "distractors": [
+          "what",
+          "which",
+          "if"
+        ],
+        "distractor_rationale": [
+          "'what' introduces a wh-clause referring to unknown information, but the clause here states a known fact, so 'that' is required",
+          "'which' is a relative pronoun used to identify or add information about a noun, not to introduce a complement clause after 'think'",
+          "'if' introduces a yes/no indirect question after verbs like 'wonder', not after 'think' with a declarative complement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:02:07.237182+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "complement_clauses_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

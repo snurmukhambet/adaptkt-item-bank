@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_emotions",
+  "skill_name": "Emotions & Feelings",
+  "exercises": [
+    {
+      "id": "ex_vocab_emotions_cloze_0000",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The little boy was ___ of the big dog and hid behind his mother.",
+        "correct_answer": "afraid",
+        "distractors": [
+          "bored",
+          "calm",
+          "delighted"
+        ],
+        "distractor_rationale": [
+          "bored means uninterested, not scared — hiding behind a parent contradicts boredom",
+          "calm means relaxed and untroubled — hiding behind a parent shows the opposite reaction",
+          "delighted means very happy — hiding behind a parent shows fear, not happiness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0001",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She was ___ because she had nothing to do all afternoon and no one to talk to.",
+        "correct_answer": "bored",
+        "distractors": [
+          "angry",
+          "amazed",
+          "anxious"
+        ],
+        "distractor_rationale": [
+          "angry means feeling strong displeasure — having nothing to do causes boredom, not anger",
+          "amazed means very surprised by something impressive — nothing to do gives no reason for amazement",
+          "anxious means worried about something uncertain — the sentence describes emptiness, not worry"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0002",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom was ___ when his neighbour played loud music at midnight and woke him up.",
+        "correct_answer": "annoyed",
+        "distractors": [
+          "comfortable",
+          "delighted",
+          "confused"
+        ],
+        "distractor_rationale": [
+          "comfortable means physically at ease — being woken by noise produces irritation, not comfort",
+          "delighted means very pleased — being woken at midnight by noise is unpleasant, not pleasing",
+          "confused means unable to understand something — being woken by noise causes irritation, not confusion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0003",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria felt ___ after the doctor explained her test results clearly and said everything was fine.",
+        "correct_answer": "calm",
+        "distractors": [
+          "desperate",
+          "ashamed",
+          "depressed"
+        ],
+        "distractor_rationale": [
+          "desperate means feeling hopeless with no solution — hearing that everything is fine removes desperation",
+          "ashamed means feeling guilt or embarrassment about something wrong you did — a clean test result gives no reason for shame",
+          "depressed means feeling deeply sad for a long time — a positive medical result would relieve sadness, not cause it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0004",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James was completely ___ by the magician's tricks and kept asking how they were done.",
+        "correct_answer": "amazed",
+        "distractors": [
+          "ashamed",
+          "anxious",
+          "comfortable"
+        ],
+        "distractor_rationale": [
+          "ashamed means feeling guilt about a wrong action — watching a magician gives no reason for guilt",
+          "anxious means worried about something uncertain — asking how tricks work shows curiosity, not worry",
+          "comfortable means physically or emotionally at ease — repeatedly asking how tricks work shows surprise and fascination, not ease"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0005",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna was ___ about her job interview the next morning and could not sleep at all.",
+        "correct_answer": "anxious",
+        "distractors": [
+          "delighted",
+          "bored",
+          "calm"
+        ],
+        "distractor_rationale": [
+          "delighted means very happy — being unable to sleep before a stressful event shows worry, not happiness",
+          "bored means uninterested — not sleeping before an interview shows nervous concern, not boredom",
+          "calm means relaxed and untroubled — not being able to sleep contradicts feeling calm"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0006",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara was ___ when she received the surprise gift and immediately called to say thank you.",
+        "correct_answer": "delighted",
+        "distractors": [
+          "depressed",
+          "confused",
+          "angry"
+        ],
+        "distractor_rationale": [
+          "depressed means deeply sad — calling immediately to say thank you shows happiness, not sadness",
+          "confused means unable to understand — calling to say thank you shows a clear, positive reaction, not puzzlement",
+          "angry means feeling strong displeasure — calling to say thank you contradicts feeling angry"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0007",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After losing his job and his flat in the same week, David felt completely ___ and did not know where to turn for help.",
+        "correct_answer": "desperate",
+        "distractors": [
+          "comfortable",
+          "amazed",
+          "calm"
+        ],
+        "distractor_rationale": [
+          "comfortable means at ease and content — losing both a job and a home in one week creates extreme distress, not comfort",
+          "amazed means surprised by something impressive — the context describes crisis and helplessness, not wonder",
+          "calm means relaxed and untroubled — not knowing where to turn for help directly contradicts feeling calm"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0008",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Lisa felt deeply ___ after she realised she had blamed her colleague unfairly in front of the whole team.",
+        "correct_answer": "ashamed",
+        "distractors": [
+          "bored",
+          "anxious",
+          "amazed"
+        ],
+        "distractor_rationale": [
+          "bored means uninterested — realising you wrongly blamed someone in public causes guilt, not boredom",
+          "anxious means worried about an uncertain future event — the sentence describes guilt about a past action already done, not worry about what might happen",
+          "amazed means surprised by something impressive — wrongly blaming a colleague causes shame, not wonder"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0009",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Mark had been ___ for several months after he moved abroad alone, rarely going out and losing interest in things he used to enjoy.",
+        "correct_answer": "depressed",
+        "distractors": [
+          "confused",
+          "annoyed",
+          "comfortable"
+        ],
+        "distractor_rationale": [
+          "confused means unable to understand something — rarely going out and losing interest in hobbies over months describes deep sadness, not puzzlement",
+          "annoyed means mildly irritated — a prolonged loss of interest in life and social withdrawal describes clinical-level sadness, far beyond irritation",
+          "comfortable means at ease and content — withdrawing socially and losing interest in activities directly contradicts feeling comfortable"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0010",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The little boy was ___ of the big dog and ran behind his mother to hide.",
+        "correct_answer": "afraid",
+        "distractors": [
+          "bored",
+          "calm",
+          "delighted"
+        ],
+        "distractor_rationale": [
+          "bored describes having nothing interesting to do, which contradicts the act of hiding from a dog in fear",
+          "calm means relaxed and not worried, which is the opposite of running away to hide",
+          "delighted means very happy, which contradicts the fearful action of hiding behind his mother"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0011",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria was very ___ when her neighbour played loud music at midnight and she could not sleep.",
+        "correct_answer": "annoyed",
+        "distractors": [
+          "amazed",
+          "comfortable",
+          "ashamed"
+        ],
+        "distractor_rationale": [
+          "amazed means very surprised in a positive or neutral way, which does not fit the negative situation of being kept awake by noise",
+          "comfortable means feeling at ease physically, which contradicts being unable to sleep due to loud noise",
+          "ashamed means feeling guilty about something you did wrong yourself, but Maria is the victim of the noise, not the cause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0012",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After sitting in the waiting room for two hours with nothing to read or do, Tom felt completely ___.",
+        "correct_answer": "bored",
+        "distractors": [
+          "anxious",
+          "confused",
+          "angry"
+        ],
+        "distractor_rationale": [
+          "anxious means worried about something uncertain in the future, but the sentence describes having nothing to do, not an uncertain outcome",
+          "confused means unable to understand something, but the sentence gives no information suggesting Tom failed to understand anything",
+          "angry means feeling strong displeasure, usually at a person or an unfair act, which is too strong and specific for the context of simply having nothing to do"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0013",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara felt ___ when she realised she had given her colleague the wrong report and caused a problem at the meeting.",
+        "correct_answer": "ashamed",
+        "distractors": [
+          "delighted",
+          "amazed",
+          "calm"
+        ],
+        "distractor_rationale": [
+          "delighted means very happy, which directly contradicts feeling bad about causing a problem for someone else",
+          "amazed means very surprised, but the sentence focuses on Sara's guilt about her own mistake, not surprise at an unexpected event",
+          "calm means relaxed and untroubled, which contradicts the guilt and regret implied by realising she caused a problem"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_cloze_0014",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James had been looking for work for eight months without success, and by the end he felt so ___ that he almost stopped applying for jobs altogether.",
+        "correct_answer": "desperate",
+        "distractors": [
+          "depressed",
+          "anxious",
+          "confused"
+        ],
+        "distractor_rationale": [
+          "depressed describes a lasting low mood or clinical sadness, but the sentence specifically highlights that James was on the verge of giving up entirely, which signals the urgency and hopelessness that 'desperate' conveys rather than general low mood",
+          "anxious describes worry about an uncertain future outcome, but the sentence focuses on the point of nearly quitting, expressing a loss of hope rather than ongoing worry about what might happen",
+          "confused describes not being able to understand something, but James clearly understands his situation — he is overwhelmed by hopelessness, not by a lack of understanding"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_emotions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The dog barked loudly and the little girl was ___ — she ran straight to her mother.",
+        "correct_answer": "afraid",
+        "distractors": [
+          "bored",
+          "delighted",
+          "calm"
+        ],
+        "distractor_rationale": [
+          "bored means uninterested, which contradicts the child running away in fear",
+          "delighted means very happy, which is the opposite of a fear response",
+          "calm means relaxed, which contradicts running away from the dog"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom had nothing to do all afternoon and felt very ___ sitting alone in his room.",
+        "correct_answer": "bored",
+        "distractors": [
+          "angry",
+          "ashamed",
+          "amazed"
+        ],
+        "distractor_rationale": [
+          "angry requires a cause such as an insult or unfair event, not simply having nothing to do",
+          "ashamed requires doing something wrong or embarrassing, which is not mentioned",
+          "amazed means surprised by something impressive, which contradicts having nothing to do"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria was ___ when she opened her birthday present and found exactly the book she wanted.",
+        "correct_answer": "delighted",
+        "distractors": [
+          "confused",
+          "annoyed",
+          "depressed"
+        ],
+        "distractor_rationale": [
+          "confused means not understanding something, which contradicts the positive outcome of getting the right gift",
+          "annoyed means slightly angry, which is the opposite of a happy reaction to a wanted gift",
+          "depressed means very sad, which contradicts receiving something she wanted"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James felt ___ after he shouted at his younger brother for no real reason, so he went to apologise.",
+        "correct_answer": "ashamed",
+        "distractors": [
+          "amazed",
+          "comfortable",
+          "desperate"
+        ],
+        "distractor_rationale": [
+          "amazed means surprised by something impressive, which does not explain why he would apologise",
+          "comfortable means physically or emotionally at ease, which contradicts going to apologise for bad behaviour",
+          "desperate means feeling a strong need with no options left, which does not fit the context of regretting unkind words"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara was ___ by the teacher's explanation because she had understood it differently from everyone else in the class.",
+        "correct_answer": "confused",
+        "distractors": [
+          "calm",
+          "delighted",
+          "angry"
+        ],
+        "distractor_rationale": [
+          "calm means relaxed and untroubled, which does not explain why her understanding differed from everyone else's",
+          "delighted means very happy, which does not fit the situation of misunderstanding an explanation",
+          "angry means feeling strong displeasure, but misunderstanding an explanation causes confusion, not necessarily anger"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna was ___ when her neighbour played loud music at midnight for the third night in a row.",
+        "correct_answer": "annoyed",
+        "distractors": [
+          "amazed",
+          "depressed",
+          "comfortable"
+        ],
+        "distractor_rationale": [
+          "amazed means surprised by something impressive, which does not fit repeated inconsiderate behaviour by a neighbour",
+          "depressed means feeling deep sadness over a longer period, which is too strong and different in type for this situation",
+          "comfortable means at ease, which is the opposite of the reaction to being disturbed repeatedly at night"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The audience was ___ when the magician made a car appear on the empty stage in just a few seconds.",
+        "correct_answer": "amazed",
+        "distractors": [
+          "bored",
+          "ashamed",
+          "anxious"
+        ],
+        "distractor_rationale": [
+          "bored means uninterested, which contradicts witnessing an impressive and unexpected trick",
+          "ashamed means feeling guilt or embarrassment, which has no connection to watching a magic show",
+          "anxious means worried about something uncertain, which does not fit the reaction to a successful impressive performance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "David had been out of work for six months and was growing ___, willing to accept almost any job just to pay his rent.",
+        "correct_answer": "desperate",
+        "distractors": [
+          "calm",
+          "bored",
+          "comfortable"
+        ],
+        "distractor_rationale": [
+          "calm means relaxed and in control, which contradicts the urgency of accepting any job to pay rent",
+          "bored means uninterested due to lack of activity, which does not explain the willingness to take any available job",
+          "comfortable means feeling at ease, which contradicts the financial pressure described in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Lisa had been feeling ___ for weeks — she had no energy, lost interest in her hobbies, and rarely left the house.",
+        "correct_answer": "depressed",
+        "distractors": [
+          "anxious",
+          "annoyed",
+          "confused"
+        ],
+        "distractor_rationale": [
+          "anxious describes worry and nervousness about future events, but the symptoms described — no energy and loss of interest — specifically indicate depression rather than anxiety",
+          "annoyed describes mild short-term anger at a specific cause, which does not match a weeks-long pattern of low energy and withdrawal",
+          "confused describes a lack of understanding, which does not explain losing interest in hobbies or rarely leaving the house"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Before her job interview, Sara felt ___ — her heart was beating fast and she kept checking her notes over and over.",
+        "correct_answer": "anxious",
+        "distractors": [
+          "delighted",
+          "calm",
+          "depressed"
+        ],
+        "distractor_rationale": [
+          "delighted means very happy, which contradicts the physical signs of stress such as a fast heartbeat and repeated checking",
+          "calm means relaxed and unworried, which directly contradicts the nervous physical behaviour described in the sentence",
+          "depressed describes prolonged sadness and low energy, which does not match the active, nervous behaviour before an interview"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_emotions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_word_formation_0000",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The children were very ___ on the long bus ride. (BORE)",
+        "correct_answer": "bored",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BORE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_emotions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_word_formation_0001",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She felt ___ when she forgot her friend's birthday. (SHAME)",
+        "correct_answer": "ashamed",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "SHAME"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_emotions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_word_formation_0002",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Mark's ___ grew when he had to wait over an hour for his order to arrive. (ANNOY)",
+        "correct_answer": "annoyance",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ANNOY"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_emotions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_word_formation_0003",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The audience watched in ___ as the magician made the table disappear right in front of them. (AMAZE)",
+        "correct_answer": "amazement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "AMAZE"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_emotions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_emotions_word_formation_0004",
+      "skill_ids": [
+        "vocab_emotions"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Her ___ about the job interview kept her awake for most of the night before it took place. (ANXIOUS)",
+        "correct_answer": "anxiety",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ANXIOUS"
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:25:10.330604+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_emotions_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

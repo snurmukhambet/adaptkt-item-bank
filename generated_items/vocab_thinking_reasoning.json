@@ -1,0 +1,1715 @@
+{
+  "skill_id": "vocab_thinking_reasoning",
+  "skill_name": "Thinking, Reasoning & Analysis",
+  "exercises": [
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0000",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The main ___ of the flooding was three days of very heavy rain, which filled the rivers beyond their capacity.",
+        "correct_answer": "cause",
+        "distractors": [
+          "result",
+          "effect",
+          "consequence"
+        ],
+        "distractor_rationale": [
+          "result describes what happens after an event, not what produces it — here the flooding is the result, not the cause",
+          "effect describes the outcome of something, not the origin — the flooding is the effect, not what created it",
+          "consequence also describes what follows from an event, not what triggers it — using it here reverses the logical direction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0001",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After a long discussion, the team finally reached a ___ to move their weekly meeting from Monday to Wednesday.",
+        "correct_answer": "decision",
+        "distractors": [
+          "concept",
+          "concern",
+          "condition"
+        ],
+        "distractor_rationale": [
+          "concept means an idea or principle and cannot be 'reached' as the outcome of a group discussion about scheduling",
+          "concern means a worry or problem and cannot be 'reached' as the result of a discussion — one raises a concern, not reaches one",
+          "condition means a requirement or state of affairs and cannot be 'reached' as the conclusion of a scheduling discussion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0002",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor explained that stress can be a ___ for many health problems, so it is important to manage it carefully.",
+        "correct_answer": "basis",
+        "distractors": [
+          "contrast",
+          "comparison",
+          "connection"
+        ],
+        "distractor_rationale": [
+          "contrast refers to a difference between two things and does not collocate with 'be a ___ for health problems' in this causal sense",
+          "comparison refers to the act of examining similarities and differences and does not fit the meaning of an underlying factor for health problems",
+          "connection describes a link between things but the sentence specifically frames stress as a foundational factor, not merely a link — 'basis for' is the fixed collocation here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0003",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher asked the students to consider every ___ of the problem before writing their final answer, including the social and financial sides.",
+        "correct_answer": "aspect",
+        "distractors": [
+          "consequence",
+          "condition",
+          "development"
+        ],
+        "distractor_rationale": [
+          "consequence refers to a result that follows from something, not to the different dimensions or sides of a problem itself",
+          "condition refers to a requirement or circumstance under which something operates, not to the various angles or dimensions of a problem",
+          "development refers to a process of growth or change over time, not to the different components or angles of a single problem"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0004",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The report drew a clear ___ between the two groups' test scores, showing that one group performed nearly twice as well as the other.",
+        "correct_answer": "comparison",
+        "distractors": [
+          "concept",
+          "concern",
+          "consequence"
+        ],
+        "distractor_rationale": [
+          "concept means an abstract idea or principle and cannot be 'drawn' between two sets of scores to show a numerical difference",
+          "concern means a worry or issue and cannot be 'drawn' between two groups' scores in a report examining performance differences",
+          "consequence means an outcome or result and cannot be 'drawn' between two groups — one draws a comparison, not a consequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0005",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The new manager introduced a completely different ___ to solving customer complaints, preferring direct phone calls over written emails.",
+        "correct_answer": "approach",
+        "distractors": [
+          "aspect",
+          "condition",
+          "connection"
+        ],
+        "distractor_rationale": [
+          "aspect refers to one dimension or side of something, not to a method or strategy for handling a task",
+          "condition refers to a requirement or state of affairs, not to a method or strategy that someone prefers and applies",
+          "connection refers to a link between things and does not collocate with 'introduce a ___ to solving complaints' in the sense of a method or strategy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0006",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Researchers found a clear ___ between the amount of sleep people get and their ability to concentrate the following morning.",
+        "correct_answer": "connection",
+        "distractors": [
+          "contrast",
+          "decision",
+          "basis"
+        ],
+        "distractor_rationale": [
+          "contrast describes a difference between two things, but the sentence describes a relationship or link, not a difference, between sleep and concentration",
+          "decision refers to a choice made after deliberation and cannot describe a relationship found by researchers between two measurable variables",
+          "basis refers to an underlying foundation or reason, not to a relationship or link that researchers identify between two variables"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0007",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The philosopher argued that the ___ of personal freedom is difficult to define precisely because it means different things in different cultural settings.",
+        "correct_answer": "concept",
+        "distractors": [
+          "consequence",
+          "consideration",
+          "condition"
+        ],
+        "distractor_rationale": [
+          "consequence refers to a result that follows from an action, not to an abstract idea or principle that is defined and interpreted differently across cultures",
+          "consideration refers to a factor taken into account when making a decision, not to an abstract idea or principle that philosophers argue about and define",
+          "condition refers to a specific requirement or state of affairs, not to an abstract idea or principle that carries different meanings across cultural settings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 27,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0008",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "One important ___ that the planning committee overlooked was the impact of the new road on residents who lived directly alongside it.",
+        "correct_answer": "consideration",
+        "distractors": [
+          "contrast",
+          "development",
+          "ability"
+        ],
+        "distractor_rationale": [
+          "contrast refers to a difference between two things and cannot be 'overlooked' by a committee as a factor in their planning process",
+          "development refers to a process of growth or change and does not fit the collocation 'overlook a ___' in the sense of failing to account for a relevant factor",
+          "ability refers to a skill or capacity and cannot be 'overlooked' by a committee as something that should have been factored into a planning decision"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0009",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The sharp ___ between the city's wealthy northern districts and its poorer southern areas was clearly visible in the quality of local schools and health services.",
+        "correct_answer": "contrast",
+        "distractors": [
+          "connection",
+          "consequence",
+          "consideration"
+        ],
+        "distractor_rationale": [
+          "connection describes a link or relationship between things, but the sentence highlights a difference — specifically opposing qualities — between two areas, not a link",
+          "consequence describes a result that follows from a cause, but the sentence is describing a difference in quality between two areas, not an outcome of a prior event",
+          "consideration describes a factor taken into account, but the sentence is describing an observable difference between two areas, not a factor being weighed in a decision"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0010",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor explained that stress was the main ___ of the patient's sleeping problems, not any physical illness.",
+        "correct_answer": "cause",
+        "distractors": [
+          "contrast",
+          "concept",
+          "condition"
+        ],
+        "distractor_rationale": [
+          "contrast means a difference between two things and cannot identify the source of a problem",
+          "concept means an abstract idea and cannot be the origin of a medical symptom",
+          "condition refers to a state of health or a requirement, not the factor that produces a symptom — and 'the main condition of sleeping problems' is not a natural collocation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0012",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher asked the students to analyse every ___ of the problem carefully before writing their conclusions.",
+        "correct_answer": "aspect",
+        "distractors": [
+          "basis",
+          "consequence",
+          "development"
+        ],
+        "distractor_rationale": [
+          "basis means the foundation or starting point of something, so 'every basis of the problem' is not a natural collocation and does not mean each individual dimension of an issue",
+          "consequence means a result that follows from something, so 'every consequence of the problem' would describe outcomes, not the parts of the problem itself that need analysing beforehand",
+          "development means a change or progress over time, so 'every development of the problem' refers to how it has changed, not to the different angles or dimensions students should examine"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0013",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The report showed a clear ___ between the number of hours employees slept and their productivity at work, with less sleep leading to poorer results.",
+        "correct_answer": "connection",
+        "distractors": [
+          "contrast",
+          "consideration",
+          "concept"
+        ],
+        "distractor_rationale": [
+          "contrast describes a sharp difference between two things that are unlike each other, but the sentence describes a linked relationship where one variable influences another, not a difference",
+          "consideration means a factor that is thought about when making a decision, so 'a clear consideration between hours of sleep and productivity' is not a natural collocation and does not describe a causal link",
+          "concept means an abstract idea or notion, so 'a clear concept between hours of sleep and productivity' is grammatically and semantically wrong — concepts are not shown between two variables"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0014",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The scientist chose a different ___ to the experiment, testing small groups separately rather than collecting all data at once, which produced far more reliable results.",
+        "correct_answer": "approach",
+        "distractors": [
+          "basis",
+          "consequence",
+          "condition"
+        ],
+        "distractor_rationale": [
+          "basis means the underlying foundation or reason for something, so 'chose a different basis to the experiment' does not describe the method or strategy used to carry it out",
+          "consequence means a result or effect that follows an action, so 'chose a different consequence to the experiment' is semantically contradictory — consequences are not chosen before conducting an experiment",
+          "condition means a requirement or a state that must exist, so 'chose a different condition to the experiment' does not describe the overall strategy or methodology the scientist selected"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 30,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The teacher asked the students to make a ___ between the two poems and explain which one they preferred.",
+        "correct_answer": "comparison",
+        "distractors": [
+          "decision",
+          "concern",
+          "condition"
+        ],
+        "distractor_rationale": [
+          "a decision is a choice made, not an analytical examination of two things side by side",
+          "a concern is a worry or issue, not an act of examining similarities and differences",
+          "a condition is a requirement or state, not an act of examining two poems together"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Eating too much sugar is a known ___ of tooth decay, according to most dentists.",
+        "correct_answer": "cause",
+        "distractors": [
+          "concept",
+          "aspect",
+          "basis"
+        ],
+        "distractor_rationale": [
+          "a concept is an idea or principle, not a factor that produces a result",
+          "an aspect is one part of something, not the agent that brings about a result",
+          "a basis is a foundation or starting point, not something that directly produces tooth decay"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She found it difficult to ___ the problem because she did not have enough information to think it through clearly.",
+        "correct_answer": "analyse",
+        "distractors": [
+          "ignore",
+          "repeat",
+          "describe"
+        ],
+        "distractor_rationale": [
+          "ignoring the problem means not thinking about it at all, which contradicts the idea of needing information to think it through",
+          "repeating the problem means saying it again, not examining it carefully",
+          "describing the problem means explaining what it looks like, not breaking it down to understand it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The manager took several important factors into ___ before announcing the final plan to the team.",
+        "correct_answer": "consideration",
+        "distractors": [
+          "contrast",
+          "connection",
+          "consequence"
+        ],
+        "distractor_rationale": [
+          "taking factors into contrast makes no sense as a fixed collocation; contrast refers to differences, not a deliberate mental process of weighing factors",
+          "taking factors into connection is not a recognised collocation; connection refers to a link between things, not a process of careful thought",
+          "taking factors into consequence is not a recognised collocation; consequence refers to a result that follows an action, not a planning process"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Researchers use experiments to test whether there is a clear ___ between regular exercise and improved mental health.",
+        "correct_answer": "connection",
+        "distractors": [
+          "contrast",
+          "condition",
+          "concept"
+        ],
+        "distractor_rationale": [
+          "a contrast highlights differences between two things, but the sentence describes a possible link or relationship, not a difference",
+          "a condition is a requirement or circumstance, not a relationship or link between two variables",
+          "a concept is an abstract idea, not a relationship that can be tested between two specific things"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The report examined every ___ of the new policy, from its cost to its likely effect on local communities.",
+        "correct_answer": "aspect",
+        "distractors": [
+          "consequence",
+          "approach",
+          "basis"
+        ],
+        "distractor_rationale": [
+          "a consequence is a result that follows an action, not one of several parts or dimensions of a policy being examined",
+          "an approach is a method of doing something, not one of the individual parts or dimensions of a policy",
+          "a basis is a foundation or underlying principle, not one of the individual parts or dimensions being examined"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The scientist's ___ to solving the problem was to test each possible variable one at a time, rather than changing everything at once.",
+        "correct_answer": "approach",
+        "distractors": [
+          "ability",
+          "concern",
+          "development"
+        ],
+        "distractor_rationale": [
+          "ability refers to a skill or capacity, not a systematic method or strategy for solving a problem",
+          "a concern is a worry or matter of interest, not a method or strategy for tackling a problem",
+          "development refers to a process of growth or change over time, not a deliberate method chosen to solve a problem"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The committee drew a sharp ___ between the two proposals, pointing out that one focused on short-term savings while the other prioritised long-term growth.",
+        "correct_answer": "contrast",
+        "distractors": [
+          "comparison",
+          "connection",
+          "concept"
+        ],
+        "distractor_rationale": [
+          "drawing a comparison examines similarities as well as differences, but the sentence specifically highlights opposing features, which is the function of contrast; furthermore, 'draw a contrast' is the established collocation here",
+          "a connection implies a link or relationship between two things, which contradicts the sentence's emphasis on how the two proposals differ from each other",
+          "a concept is an abstract idea, not an analytical act of highlighting differences between two specific proposals"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Failing to act quickly will have serious ___ for the project, as the delay will push costs well beyond the original budget.",
+        "correct_answer": "consequences",
+        "distractors": [
+          "concepts",
+          "conditions",
+          "comparisons"
+        ],
+        "distractor_rationale": [
+          "concepts are ideas or principles, not outcomes that result from inaction; the sentence describes what will happen as a result of delay",
+          "conditions are requirements or circumstances, not outcomes produced by a failure to act; the sentence describes results, not prerequisites",
+          "comparisons involve examining things side by side, not outcomes that follow from inaction; the sentence is about what will happen, not about examining differences"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ___ of supply and demand is central to economics; without understanding it, it is very hard to explain why prices rise and fall.",
+        "correct_answer": "concept",
+        "distractors": [
+          "condition",
+          "basis",
+          "concern"
+        ],
+        "distractor_rationale": [
+          "a condition is a requirement or state that must exist, not an abstract theoretical idea that explains how a system works",
+          "a basis is a foundation or starting point for something, not an abstract theoretical idea with explanatory power in a field of study",
+          "a concern is a worry or matter of importance, not an abstract theoretical idea used to explain economic behaviour"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_thinking_reasoning_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_word_formation_0000",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The teacher asked us to make a ___ between the two methods before choosing one. (COMPARE)",
+        "correct_answer": "comparison",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COMPARE"
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_thinking_reasoning_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_word_formation_0001",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "After a long discussion, the team finally reached a ___ about which plan to follow. (DECIDE)",
+        "correct_answer": "decision",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DECIDE"
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_thinking_reasoning_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_word_formation_0002",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The report highlighted several ___ factors that could affect the outcome of the experiment. (CAUSE)",
+        "correct_answer": "causal",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CAUSE"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_thinking_reasoning_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_word_formation_0003",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "It is important to take all ___ aspects into account before drawing any conclusions from the data. (CONCEPT)",
+        "correct_answer": "conceptual",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CONCEPT"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_thinking_reasoning_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_thinking_reasoning_word_formation_0004",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The scientist stressed that any ___ drawn from such a small sample should be treated with great caution. (CONCLUDE)",
+        "correct_answer": "conclusions",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CONCLUDE"
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_thinking_reasoning_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_vocab_thinking_reasoning_cloze_0011",
+      "skill_ids": [
+        "vocab_thinking_reasoning"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After a long discussion, the team finally reached a ___ to move their weekly meeting from Monday to Wednesday.",
+        "correct_answer": "decision",
+        "distractors": [
+          "comparison",
+          "concern",
+          "connection"
+        ],
+        "distractor_rationale": [
+          "comparison means examining similarities and differences between things, and you cannot 'reach a comparison'",
+          "concern means a worry or anxiety, and 'reached a concern' is not a fixed collocation and does not mean choosing a course of action",
+          "connection means a link between two things, and 'reached a connection' does not describe the act of choosing an outcome after discussion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:34:26.813270+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_thinking_reasoning_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 29,
+    "filter_rejected": 1
+  }
+}

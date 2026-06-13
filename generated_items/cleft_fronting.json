@@ -1,0 +1,1863 @@
+{
+  "skill_id": "cleft_fronting",
+  "skill_name": "Cleft Sentences & Ellipsis (It is… / What… / Omission)",
+  "exercises": [
+    {
+      "id": "ex_cleft_fronting_cloze_0000",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "It was the head teacher ___ called my parents about the incident, not the class tutor.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "that",
+          "whom"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not people, so it is grammatically incorrect here",
+          "that is acceptable in informal use but this item specifically tests who for a human subject in a formal cleft",
+          "whom is the object form and cannot be used when the cleft focus is the subject of the following clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0001",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "What the children ___ most after the long trip was a warm meal and a good rest.",
+        "correct_answer": "needed",
+        "distractors": [
+          "need",
+          "are needing",
+          "have needed"
+        ],
+        "distractor_rationale": [
+          "present simple breaks the past-time narrative established by 'after the long trip'",
+          "present continuous cannot describe a completed past state of need",
+          "present perfect cannot anchor to a specific completed past situation described as finished"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0002",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "It ___ the noisy neighbours who kept us awake all night, not the traffic outside.",
+        "correct_answer": "was",
+        "distractors": [
+          "is",
+          "were",
+          "has been"
+        ],
+        "distractor_rationale": [
+          "present simple is incorrect because the sentence describes a completed past event signalled by 'kept'",
+          "were does not agree with the singular it-cleft subject construction, which always takes a singular verb",
+          "present perfect cannot be used in a cleft sentence referring to a specific completed past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0003",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Never ___ such a disorganised meeting in all my years working in this company.",
+        "correct_answer": "have I attended",
+        "distractors": [
+          "I have attended",
+          "I attended",
+          "did I attend"
+        ],
+        "distractor_rationale": [
+          "after negative fronting with Never, subject-verb inversion is obligatory, so the subject must follow the auxiliary",
+          "past simple with normal word order is doubly wrong: it lacks inversion and uses the wrong tense for a life-experience statement",
+          "did I attend uses past simple inversion, but the present perfect is required for a life-experience statement with no specific time reference"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0004",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "What really surprised everyone at the conference ___ the speaker's final announcement about the new project funding.",
+        "correct_answer": "was",
+        "distractors": [
+          "were",
+          "is",
+          "are"
+        ],
+        "distractor_rationale": [
+          "were is incorrect because the complement 'the speaker's final announcement' is a singular noun phrase, requiring a singular verb",
+          "is uses present tense, which is inconsistent with the past-time context of a completed conference event",
+          "are is doubly wrong: it is plural and present, while the sentence requires singular past tense"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0005",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "A: Did you and Sara manage to finish the report before the deadline? B: Sara did, but I ___.",
+        "correct_answer": "didn't",
+        "distractors": [
+          "didn't finish",
+          "don't",
+          "wasn't"
+        ],
+        "distractor_rationale": [
+          "repeating the full verb phrase 'didn't finish' is grammatically possible but violates the ellipsis rule being tested, which requires omission of the repeated verb phrase",
+          "don't uses present simple, which does not match the past-tense auxiliary 'did' established in the question",
+          "wasn't uses a be-auxiliary, which cannot substitute for the do-auxiliary required by the main verb 'finish'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0006",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "It was the faulty cable ___ caused the entire system to shut down during the presentation.",
+        "correct_answer": "that",
+        "distractors": [
+          "who",
+          "which",
+          "what"
+        ],
+        "distractor_rationale": [
+          "who is reserved for people; a cable is a thing, so who is grammatically incorrect here",
+          "which cannot introduce the subordinate clause in an it-cleft construction; only that or who are used after the focused element",
+          "what introduces a what-cleft and cannot follow the focused element inside an it-cleft structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0007",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Not only ___ the deadline, but the team also delivered results that exceeded the client's expectations.",
+        "correct_answer": "did they meet",
+        "distractors": [
+          "they met",
+          "they did meet",
+          "have they met"
+        ],
+        "distractor_rationale": [
+          "they met uses normal declarative word order, which is obligatorily inverted after negative fronting with Not only",
+          "they did meet places the subject before the auxiliary, violating the subject-verb inversion required after Not only",
+          "have they met uses present perfect inversion, but the past-time context established by 'delivered' and the completed project requires past simple"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0008",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "What the manager ___ is a clearer breakdown of the monthly costs, not a general summary.",
+        "correct_answer": "wants",
+        "distractors": [
+          "want",
+          "are wanting",
+          "is wanting"
+        ],
+        "distractor_rationale": [
+          "want without the third-person singular -s ending fails subject-verb agreement with the singular subject 'the manager'",
+          "are wanting uses a plural auxiliary and the progressive aspect, both of which are incorrect: the subject is singular and 'want' is a stative verb not used in continuous form",
+          "is wanting incorrectly uses the progressive aspect; 'want' is a stative verb that does not take continuous forms in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0009",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Only after the investigation was completed ___ the full extent of the damage to the building.",
+        "correct_answer": "did the engineers discover",
+        "distractors": [
+          "the engineers discovered",
+          "the engineers did discover",
+          "had the engineers discovered"
+        ],
+        "distractor_rationale": [
+          "the engineers discovered uses normal declarative word order, which must be inverted after the fronted negative adverbial 'Only after'",
+          "the engineers did discover places the subject before the auxiliary, violating the obligatory inversion after 'Only after'",
+          "had the engineers discovered uses past perfect inversion, but the main clause describes a single completed past action after a completed condition, requiring past simple with do-inversion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0010",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "It was the manager ___ approved the new budget, not the assistant.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "that",
+          "whom"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not people in a cleft sentence",
+          "that is used for things or in restrictive relative clauses but not the standard choice for a person in an it-cleft when who is available and being tested",
+          "whom is an object pronoun and cannot function as the subject of 'approved' in this cleft"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0011",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "What Sara really ___ is a long holiday after months of working overtime.",
+        "correct_answer": "needs",
+        "distractors": [
+          "need",
+          "are needing",
+          "needed"
+        ],
+        "distractor_rationale": [
+          "bare infinitive 'need' lacks the third-person singular -s required for the subject 'Sara' in present tense",
+          "the progressive form cannot be used with stative verbs like 'need' in this context",
+          "past tense 'needed' contradicts the present-tense context of 'after months of working overtime' implying the need is current"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0012",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Never ___ so many people waiting outside the clinic when I arrived at eight in the morning.",
+        "correct_answer": "had I seen",
+        "distractors": [
+          "I had seen",
+          "I have seen",
+          "have I seen"
+        ],
+        "distractor_rationale": [
+          "placing the subject before the auxiliary violates the obligatory subject-verb inversion after negative fronting",
+          "present perfect 'have I seen' is impossible because the sentence describes a specific completed past moment ('when I arrived'), requiring past perfect",
+          "present perfect without past reference cannot describe a situation observed at a specific past time expressed by 'when I arrived'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0013",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "It ___ the heavy rain that caused the roof to leak, not the old pipes.",
+        "correct_answer": "was",
+        "distractors": [
+          "is",
+          "has been",
+          "were"
+        ],
+        "distractor_rationale": [
+          "present tense 'is' is wrong because the cleft focuses on a past event; 'caused' in the relative clause confirms the past time frame",
+          "'has been' introduces present perfect aspect, which is incompatible with the simple past 'caused' in the following clause",
+          "'were' requires a plural subject, but 'the heavy rain' is a singular uncountable noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_cloze_0014",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "What surprised the whole team most ___ the speed at which the new system processed all the data.",
+        "correct_answer": "was",
+        "distractors": [
+          "were",
+          "is",
+          "has been"
+        ],
+        "distractor_rationale": [
+          "'were' is wrong because the complement 'the speed' is a singular noun phrase, so the linking verb must be singular",
+          "present tense 'is' does not match the past-tense context established by 'surprised', indicating the reaction occurred at a specific past moment",
+          "'has been' shifts the clause into present perfect aspect, which conflicts with the simple past 'surprised' describing a completed past reaction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "cleft_fronting_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0000",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "It was the manager ___ approved the new schedule, not the assistant.",
+        "correct_answer": "who",
+        "distractors": [
+          "which",
+          "that he",
+          "whom"
+        ],
+        "distractor_rationale": [
+          "which is used for things, not people — a classic learner error in it-clefts",
+          "that he adds a redundant subject pronoun, making the clause grammatically broken",
+          "whom is an object pronoun and cannot function as the subject of the relative clause here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0001",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "What Anna really ___ is more time to finish the project before the deadline.",
+        "correct_answer": "needs",
+        "distractors": [
+          "need",
+          "are needing",
+          "have needed"
+        ],
+        "distractor_rationale": [
+          "need without -s fails subject-verb agreement — the subject 'Anna' is third-person singular",
+          "are needing incorrectly uses progressive aspect with a stative verb in a what-cleft",
+          "have needed uses present perfect, which contradicts the present-tense context of the what-cleft"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0002",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "A: Did you call the supplier this morning? B: No, but Sara ___.",
+        "correct_answer": "did",
+        "distractors": [
+          "called",
+          "has",
+          "was"
+        ],
+        "distractor_rationale": [
+          "called repeats the full verb, which is non-standard ellipsis — the auxiliary alone is the correct short form",
+          "has introduces present perfect and fails to match the past simple auxiliary in the question",
+          "was introduces a copula that does not correspond to the action verb 'call' in the question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0003",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "It was the faulty cable ___ caused the entire system to shut down unexpectedly last night.",
+        "correct_answer": "that",
+        "distractors": [
+          "who",
+          "which it",
+          "what"
+        ],
+        "distractor_rationale": [
+          "who is reserved for people in it-clefts; 'cable' is a thing",
+          "which it adds a redundant pronoun subject, creating a double-subject error",
+          "what cannot introduce the relative clause in an it-cleft — it belongs in what-cleft constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0004",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "What surprised everyone at the meeting ___ the director's sudden decision to cancel the project.",
+        "correct_answer": "was",
+        "distractors": [
+          "were",
+          "is being",
+          "has been"
+        ],
+        "distractor_rationale": [
+          "were uses plural agreement, but the complement 'the director's sudden decision' is singular",
+          "is being incorrectly uses present progressive, which is unnatural with a stative linking verb in this past context",
+          "has been uses present perfect, which is inconsistent with the past-tense narrative context of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0005",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Never ___ such a well-organised conference in all my years of working in this industry.",
+        "correct_answer": "have I attended",
+        "distractors": [
+          "I have attended",
+          "I attended",
+          "did I attend"
+        ],
+        "distractor_rationale": [
+          "I have attended fails to apply subject-auxiliary inversion after the negative fronted adverb 'Never'",
+          "I attended uses past simple without inversion, breaking both the tense and the word-order rule for negative fronting",
+          "did I attend uses past simple inversion, but 'Never have I' requires present perfect to express a life-experience meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0006",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "It is the quality of the ingredients ___ makes this dish so special, not the cooking technique.",
+        "correct_answer": "that",
+        "distractors": [
+          "which",
+          "who",
+          "what"
+        ],
+        "distractor_rationale": [
+          "which can introduce relative clauses but cannot be used in an it-cleft focusing on a noun phrase subject",
+          "who is for people; 'the quality of the ingredients' is not a person",
+          "what introduces what-clefts and cannot follow the it-cleft structure 'It is … that'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0007",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Not only ___ the report late, but he also forgot to include the financial summary.",
+        "correct_answer": "did he submit",
+        "distractors": [
+          "he submitted",
+          "he did submit",
+          "had he submitted"
+        ],
+        "distractor_rationale": [
+          "he submitted places the subject before the auxiliary, violating the inversion rule required after 'Not only'",
+          "he did submit uses emphatic do without inversion, which is still incorrect after a fronted negative adverbial",
+          "had he submitted uses past perfect inversion, which is inconsistent with the simple past context of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0008",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "What the team had worked so hard to achieve ___ a fair and transparent evaluation process for all staff.",
+        "correct_answer": "was",
+        "distractors": [
+          "were",
+          "had been",
+          "is"
+        ],
+        "distractor_rationale": [
+          "were applies plural agreement, but the complement 'a fair and transparent evaluation process' is a singular noun phrase",
+          "had been uses past perfect, which creates an illogical double past-perfect structure after 'had worked'",
+          "is shifts to present tense, which contradicts the past-tense context established by 'had worked'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_multiple_choice_0009",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "A: Has anyone reviewed the updated contract yet? B: James has, but the legal team ___.",
+        "correct_answer": "hasn't",
+        "distractors": [
+          "didn't",
+          "hasn't been",
+          "don't"
+        ],
+        "distractor_rationale": [
+          "didn't uses past simple auxiliary, which fails to match the present perfect auxiliary 'has' established in the question",
+          "hasn't been introduces a passive or copular structure that does not correspond to the active verb 'reviewed' being elided",
+          "don't uses present simple auxiliary, which is inconsistent with the present perfect tense signalled by 'has' in the question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "cleft_fronting_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0000",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "It was the manager which approved the new schedule last Friday.",
+        "correct_answer": "who",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "It was the manager which approved the new schedule last Friday.",
+        "corrected_sentence": "It was the manager who approved the new schedule last Friday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0001",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "What she really wants are a longer holiday, not a pay rise.",
+        "correct_answer": "is",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "What she really wants are a longer holiday, not a pay rise.",
+        "corrected_sentence": "What she really wants is a longer holiday, not a pay rise.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0002",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "It was Anna found the missing keys under the sofa cushion yesterday.",
+        "correct_answer": "who found",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "It was Anna found the missing keys under the sofa cushion yesterday.",
+        "corrected_sentence": "It was Anna who found the missing keys under the sofa cushion yesterday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0003",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Never I have seen such a well-organised event in this city before.",
+        "correct_answer": "Never have I seen",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Never I have seen such a well-organised event in this city before.",
+        "corrected_sentence": "Never have I seen such a well-organised event in this city before.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0004",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "What the team needs are more time to prepare for the final presentation.",
+        "correct_answer": "is",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "What the team needs are more time to prepare for the final presentation.",
+        "corrected_sentence": "What the team needs is more time to prepare for the final presentation.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0005",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "It was the broken cable which caused the power cut in the whole building.",
+        "correct_answer": "that",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "It was the broken cable which caused the power cut in the whole building.",
+        "corrected_sentence": "It was the broken cable that caused the power cut in the whole building.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0006",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Rarely she has spoken so confidently in front of such a large audience.",
+        "correct_answer": "Rarely has she spoken",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Rarely she has spoken so confidently in front of such a large audience.",
+        "corrected_sentence": "Rarely has she spoken so confidently in front of such a large audience.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_cleft_fronting_error_correction_0007",
+      "skill_ids": [
+        "cleft_fronting"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "It was the noise from the street which woke the baby up at three in the morning, not the alarm.",
+        "correct_answer": "that",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "It was the noise from the street which woke the baby up at three in the morning, not the alarm.",
+        "corrected_sentence": "It was the noise from the street that woke the baby up at three in the morning, not the alarm.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:45:55.431259+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "cleft_fronting_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

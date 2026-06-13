@@ -1,0 +1,1865 @@
+{
+  "skill_id": "modals_wishes_regrets",
+  "skill_name": "Wishes & Regrets (I wish / If only / Should have)",
+  "exercises": [
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0000",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I wish I ___ (know) how to drive — I have to take the bus everywhere and it takes so long.",
+        "correct_answer": "knew",
+        "distractors": [
+          "would know",
+          "had known",
+          "know"
+        ],
+        "distractor_rationale": [
+          "would cannot be used in a wish clause referring to a present state; this is the classic learner error of inserting would",
+          "had known is past perfect and expresses regret about a past event, but the context describes a current inability — taking the bus now",
+          "the base form know is not a past form and cannot express an unreal present wish"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0001",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (call) his grandmother on her birthday last week — she was very upset that he forgot.",
+        "correct_answer": "should have called",
+        "distractors": [
+          "should call",
+          "should of called",
+          "had called"
+        ],
+        "distractor_rationale": [
+          "should call refers to a present or future obligation, not a past failure that already happened last week",
+          "should of called is a spelling error based on the spoken contraction; of is never the correct auxiliary here",
+          "had called is past perfect and does not carry the meaning of obligation or regret about a past action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0002",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If only the weather ___ (be) warmer right now — we could sit outside and enjoy the garden.",
+        "correct_answer": "were",
+        "distractors": [
+          "would be",
+          "had been",
+          "is"
+        ],
+        "distractor_rationale": [
+          "would be cannot follow if only in a present wish clause; would is reserved for the result clause",
+          "had been is past perfect and signals regret about a past situation, but right now makes clear this is a current wish",
+          "is is the indicative present form and cannot express an unreal or wished-for condition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0003",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I wish I ___ (take) that job offer in the city two years ago — my career would be so different now.",
+        "correct_answer": "had taken",
+        "distractors": [
+          "took",
+          "would have taken",
+          "have taken"
+        ],
+        "distractor_rationale": [
+          "took is past simple and expresses an unreal present wish, but the time marker two years ago and the result clause show this is a regret about a completed past decision",
+          "would have taken is the error of placing would in the wish clause; would belongs in the result clause, not after wish",
+          "have taken is present perfect and cannot express an unreal past regret in a wish clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0004",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (save) more money before she moved into her own flat — she is struggling to pay the bills every month.",
+        "correct_answer": "should have saved",
+        "distractors": [
+          "should save",
+          "could save",
+          "should had saved"
+        ],
+        "distractor_rationale": [
+          "should save expresses a present or future recommendation, not a regret about a completed past action before she moved",
+          "could save expresses present ability or possibility, not a past obligation that was not fulfilled",
+          "should had saved is an incorrect construction; the correct form after should is have, not had"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0005",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If only I ___ (have) more free time these days — there are so many hobbies I want to try.",
+        "correct_answer": "had",
+        "distractors": [
+          "would have",
+          "had had",
+          "have"
+        ],
+        "distractor_rationale": [
+          "would have cannot appear in the if only clause; would is used in the result clause of a conditional, not in the wish itself",
+          "had had is past perfect and expresses a regret about the past, but these days makes clear the wish is about the present situation",
+          "have is the indicative present form and cannot express an unreal or wished-for present state"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0006",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (leave) the house earlier this morning — we missed the first train and had to wait an hour for the next one.",
+        "correct_answer": "could have left",
+        "distractors": [
+          "could leave",
+          "should of left",
+          "could had left"
+        ],
+        "distractor_rationale": [
+          "could leave refers to a present or future possibility, not a missed opportunity that occurred this morning in the past",
+          "should of left is a spelling error based on the spoken contraction; of is never the correct auxiliary after a modal",
+          "could had left is an incorrect construction; the correct form after a modal is have, not had"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0007",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If only I ___ (listen) to my doctor's advice last year and changed my diet — I might not be dealing with these health problems now.",
+        "correct_answer": "had listened",
+        "distractors": [
+          "listened",
+          "would have listened",
+          "have listened"
+        ],
+        "distractor_rationale": [
+          "listened is past simple and expresses an unreal present wish; the time marker last year and the result clause about current health problems confirm this is a past regret requiring past perfect",
+          "would have listened incorrectly places would in the if only clause; would belongs in the result clause, not after if only",
+          "have listened is present perfect and cannot function as an unreal past form inside a wish or if only clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0008",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I wish I ___ (speak) Spanish fluently — I would feel so much more confident during the meetings with our colleagues from abroad.",
+        "correct_answer": "spoke",
+        "distractors": [
+          "had spoken",
+          "would speak",
+          "speak"
+        ],
+        "distractor_rationale": [
+          "had spoken is past perfect and signals regret about a past event, but the result clause about feeling confident during current meetings confirms this is an unreal present wish",
+          "would speak is the common error of using would in the wish clause; would cannot follow wish when expressing a present unreal state",
+          "speak is the base form and cannot express the unreal or hypothetical meaning required after I wish"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0009",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David ___ (book) the hotel room in advance when he had the chance — now everything is full and he has nowhere to stay.",
+        "correct_answer": "should have booked",
+        "distractors": [
+          "should book",
+          "would have booked",
+          "should have been booking"
+        ],
+        "distractor_rationale": [
+          "should book expresses a present or future recommendation, not a regret about a past opportunity that was missed when he had the chance",
+          "would have booked is the result form of a third conditional and expresses a hypothetical past outcome, not a criticism or regret about an obligation",
+          "should have been booking uses past perfect continuous after should have, which is grammatically incorrect; the simple infinitive is required after should have"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0011",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark ___ have called the hotel before leaving home — there were no rooms available when he arrived.",
+        "correct_answer": "should",
+        "distractors": [
+          "should of",
+          "would",
+          "must"
+        ],
+        "distractor_rationale": [
+          "'should of' is a phonetic spelling error; the correct auxiliary is 'should have', not 'should of'",
+          "'would have called' expresses a hypothetical result, not a past regret or criticism about failing to do something",
+          "'must have called' expresses deduction about what happened, not regret that something was not done"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0012",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If only she ___ (accept) the job offer last spring — the salary was much better than what she earns now.",
+        "correct_answer": "had accepted",
+        "distractors": [
+          "accepted",
+          "would have accepted",
+          "has accepted"
+        ],
+        "distractor_rationale": [
+          "past simple 'accepted' after 'if only' refers to an unreal present wish, but the time marker 'last spring' and the comparison to current earnings confirm this is a past regret requiring the past perfect",
+          "'would have accepted' is a common learner error placing 'would' in the wish clause; 'would' belongs in the result clause of a conditional, not after 'if only'",
+          "present perfect 'has accepted' cannot express an unreal past regret; the past perfect is required for wishes about completed past events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0013",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I wish I ___ (live) closer to the city centre — the commute every morning takes almost two hours.",
+        "correct_answer": "lived",
+        "distractors": [
+          "would live",
+          "had lived",
+          "am living"
+        ],
+        "distractor_rationale": [
+          "'would live' in the wish clause is a typical learner error; 'would' is not used after 'wish' to express a present unreal wish",
+          "'had lived' signals a past regret, but the present-tense context ('the commute every morning takes') confirms this is a wish about the current situation",
+          "present continuous 'am living' cannot follow 'wish' to express an unreal present situation; the past simple is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0014",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "If only we ___ (book) the tickets earlier — by the time we checked online, the concert was completely sold out.",
+        "correct_answer": "had booked",
+        "distractors": [
+          "booked",
+          "could book",
+          "would have booked"
+        ],
+        "distractor_rationale": [
+          "past simple 'booked' after 'if only' signals a present unreal wish, but the past time sequence ('by the time we checked') establishes that the regret concerns a completed past action, requiring the past perfect",
+          "'could book' is a present or future modal form and cannot express regret about a specific past event that has already concluded",
+          "'would have booked' places 'would' inside the 'if only' clause, which is a common learner error; 'would' belongs in the result clause of a conditional, never in the wish or condition clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0000",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I wish I ___ how to drive — it would make getting to work so much easier.",
+        "correct_answer": "knew",
+        "distractors": [
+          "would know",
+          "know",
+          "had known"
+        ],
+        "distractor_rationale": [
+          "using 'would' in the wish clause is a classic learner error; wish + would is only used for annoyance about someone else's behaviour, not for personal ability",
+          "present simple 'know' cannot express an unreal present wish; past simple is required after 'I wish' for present unreality",
+          "'had known' is past perfect, used for regret about a past situation, but the context describes a current wish about a present ability"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0001",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She ___ a warmer coat before she left for the mountains last weekend.",
+        "correct_answer": "should have packed",
+        "distractors": [
+          "should pack",
+          "should of packed",
+          "should has packed"
+        ],
+        "distractor_rationale": [
+          "'should pack' is a present/future obligation form and cannot express regret about a completed past action",
+          "'should of' is a phonetic spelling error; the correct auxiliary is 'have', not 'of'",
+          "'should has' is grammatically impossible; the auxiliary after 'should' is always the base form 'have', not 'has'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0002",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If only I ___ more time to spend with my family every evening.",
+        "correct_answer": "had",
+        "distractors": [
+          "have",
+          "would have",
+          "had had"
+        ],
+        "distractor_rationale": [
+          "present simple 'have' cannot express an unreal present wish; past simple is required after 'if only' for present unreality",
+          "'would have' in the if-only clause is incorrect; 'would' is not used in the wish/if-only clause itself for present wishes",
+          "'had had' is past perfect, appropriate for regret about a past situation, but the context ('every evening') clearly describes a present recurring wish"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0003",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom wishes he ___ the job offer from the city firm three years ago — he regrets turning it down.",
+        "correct_answer": "had accepted",
+        "distractors": [
+          "accepted",
+          "would accept",
+          "has accepted"
+        ],
+        "distractor_rationale": [
+          "past simple 'accepted' cannot express an unreal past regret after 'wishes'; past perfect is required for past wishes",
+          "'would accept' is incorrect in the wish clause; 'would' cannot be used to express the speaker's own unreal past wish",
+          "present perfect 'has accepted' describes a real completed action, not an unreal past regret; past perfect is required after 'wishes' for past unreality"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0004",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If only we ___ the restaurant in advance — there were no tables left when we arrived.",
+        "correct_answer": "had booked",
+        "distractors": [
+          "booked",
+          "would have booked",
+          "have booked"
+        ],
+        "distractor_rationale": [
+          "past simple 'booked' cannot follow 'if only' to express a past regret; past perfect is required to describe an unreal past situation",
+          "'would have booked' belongs in the result clause of a third conditional, not in the if-only clause expressing the regret itself",
+          "present perfect 'have booked' refers to a real action connected to the present, not an unreal past regret; past perfect is required after 'if only'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0005",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark ___ his sister's birthday — he completely forgot and she was very upset.",
+        "correct_answer": "should have remembered",
+        "distractors": [
+          "could have forgotten",
+          "should remember",
+          "would have remembered"
+        ],
+        "distractor_rationale": [
+          "'could have forgotten' expresses an unrealised past possibility but not regret or criticism about a failure; it contradicts the context since he did forget",
+          "'should remember' is a present obligation form and cannot express regret or criticism about a past completed failure",
+          "'would have remembered' expresses a hypothetical result in a third conditional, not a direct expression of regret or criticism about a past duty"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0006",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna wishes she ___ closer to her workplace so that she didn't have to travel for two hours every day.",
+        "correct_answer": "lived",
+        "distractors": [
+          "would live",
+          "had lived",
+          "lives"
+        ],
+        "distractor_rationale": [
+          "'would live' is incorrect in the wish clause for a personal present wish; 'would' is reserved for expressing annoyance about another person's behaviour",
+          "'had lived' is past perfect, used to express regret about a past situation, but the time clue 'every day' makes clear this is a present ongoing wish",
+          "present simple 'lives' cannot express an unreal present wish; past simple is required after 'wishes' to signal present unreality"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0007",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "If only David ___ the warning signs earlier — the project might not have failed so badly.",
+        "correct_answer": "had noticed",
+        "distractors": [
+          "noticed",
+          "would have noticed",
+          "has noticed"
+        ],
+        "distractor_rationale": [
+          "past simple 'noticed' cannot follow 'if only' to express an unreal past regret; past perfect is required to describe what did not happen before a past result",
+          "'would have noticed' belongs in the hypothetical result clause, not in the if-only clause that expresses the regret itself",
+          "present perfect 'has noticed' describes a real action with present relevance, not an unreal past regret; past perfect is required after 'if only' for past unreality"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0008",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa ___ her presentation more carefully before the meeting — the manager pointed out several mistakes.",
+        "correct_answer": "could have checked",
+        "distractors": [
+          "should check",
+          "could have been checking",
+          "would check"
+        ],
+        "distractor_rationale": [
+          "'should check' is a present/future recommendation and cannot express an unrealised past possibility or mild criticism about something before a past event",
+          "'could have been checking' is past perfect continuous, which emphasises an ongoing action in progress, not a single completed opportunity that was missed",
+          "'would check' is a conditional or habitual form and cannot express an unrealised past possibility; it does not convey the sense of a missed opportunity before the meeting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_multiple_choice_0009",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I wish I ___ so much money on things I don't really need — my savings account is almost empty now.",
+        "correct_answer": "hadn't spent",
+        "distractors": [
+          "didn't spend",
+          "wouldn't spend",
+          "haven't spent"
+        ],
+        "distractor_rationale": [
+          "past simple 'didn't spend' cannot follow 'I wish' to express regret about a completed past action; past perfect is required to signal that the spending happened before now and cannot be undone",
+          "'wouldn't spend' is incorrect in the wish clause for expressing personal past regret; 'would' in wish clauses is used for annoyance about another person's present habits, not one's own past actions",
+          "present perfect 'haven't spent' describes a real situation up to now, not an unreal past regret; past perfect is required after 'I wish' to express regret about something that did happen"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_wishes_regrets_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0000",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I wish I would know the answer to that question right now.",
+        "correct_answer": "knew",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I wish I would know the answer to that question right now.",
+        "corrected_sentence": "I wish I knew the answer to that question right now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0001",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She should of called the doctor when she first felt ill yesterday morning.",
+        "correct_answer": "should have",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She should of called the doctor when she first felt ill yesterday morning.",
+        "corrected_sentence": "She should have called the doctor when she first felt ill yesterday morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0002",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I wish I had more free time last weekend to spend with my family.",
+        "correct_answer": "had had",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I wish I had more free time last weekend to spend with my family.",
+        "corrected_sentence": "I wish I had had more free time last weekend to spend with my family.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0003",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If only he would listen to his teacher's advice during the exam preparation.",
+        "correct_answer": "listened",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If only he would listen to his teacher's advice during the exam preparation.",
+        "corrected_sentence": "If only he listened to his teacher's advice during the exam preparation.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0004",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom wishes he studied harder before his driving test last month.",
+        "correct_answer": "had studied",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom wishes he studied harder before his driving test last month.",
+        "corrected_sentence": "Tom wishes he had studied harder before his driving test last month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0005",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We could of arrived at the station on time if we had left the house earlier.",
+        "correct_answer": "could have",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We could of arrived at the station on time if we had left the house earlier.",
+        "corrected_sentence": "We could have arrived at the station on time if we had left the house earlier.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0006",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If only Anna would have told us about the change of plan before we booked the tickets.",
+        "correct_answer": "had told",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If only Anna would have told us about the change of plan before we booked the tickets.",
+        "corrected_sentence": "If only Anna had told us about the change of plan before we booked the tickets.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_wishes_regrets_error_correction_0007",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I wish I would be more confident when I speak in front of a large group of people.",
+        "correct_answer": "were",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I wish I would be more confident when I speak in front of a large group of people.",
+        "corrected_sentence": "I wish I were more confident when I speak in front of a large group of people.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_wishes_regrets_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_modals_wishes_regrets_cloze_0010",
+      "skill_ids": [
+        "modals_wishes_regrets"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I wish I ___ (know) how to drive — I have to take the bus everywhere and it takes so long.",
+        "correct_answer": "knew",
+        "distractors": [
+          "would know",
+          "had known",
+          "know"
+        ],
+        "distractor_rationale": [
+          "using 'would' in a wish clause is a classic learner error; 'would' is never used in the clause after 'wish' for present wishes",
+          "'had known' expresses regret about a past situation, but the context ('I have to take the bus') shows this is a present wish about a current inability",
+          "present simple 'know' cannot express an unreal present wish; the past simple is required to signal unreality"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:40:50.560197+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_wishes_regrets_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

@@ -1,0 +1,1715 @@
+{
+  "skill_id": "vocab_sports_fitness",
+  "skill_name": "Sports & Fitness",
+  "exercises": [
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0000",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom goes to the ___ three times a week to lift weights and use the running machines.",
+        "correct_answer": "gym",
+        "distractors": [
+          "park",
+          "pool",
+          "court"
+        ],
+        "distractor_rationale": [
+          "a park is an outdoor space and does not have weight machines or running machines inside",
+          "a pool is for swimming, not for lifting weights or using running machines",
+          "a court is an outdoor or indoor surface for sports like tennis or basketball, not a place with weight machines"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0001",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children picked up their bats and gloves because they were going to play ___.",
+        "correct_answer": "baseball",
+        "distractors": [
+          "golf",
+          "hockey",
+          "basketball"
+        ],
+        "distractor_rationale": [
+          "golf uses clubs and balls, not bats and gloves as equipment",
+          "hockey uses sticks and a puck, not bats and gloves",
+          "basketball uses a ball and a hoop, not bats and gloves"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0002",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The players jumped very high to throw the ball into the hoop and score points in the ___ match.",
+        "correct_answer": "basketball",
+        "distractors": [
+          "football",
+          "golf",
+          "hockey"
+        ],
+        "distractor_rationale": [
+          "football players kick a ball into a goal, they do not throw it into a hoop",
+          "golf involves hitting a ball into a hole on a course, not throwing into a hoop",
+          "hockey players use a stick to hit a puck into a net, not throw a ball into a hoop"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0003",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria does thirty minutes of ___ every morning, including stretching and jogging, to stay healthy.",
+        "correct_answer": "exercise",
+        "distractors": [
+          "competition",
+          "game",
+          "fitness"
+        ],
+        "distractor_rationale": [
+          "competition refers to a contest between people, not a personal daily physical activity routine",
+          "game refers to a sporting event or match, not a daily routine of stretching and jogging",
+          "fitness is a noun describing a physical state or condition, not an activity you 'do' for thirty minutes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0004",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ stood on the sideline and shouted instructions to the players during the match.",
+        "correct_answer": "coach",
+        "distractors": [
+          "competitor",
+          "champion",
+          "referee"
+        ],
+        "distractor_rationale": [
+          "a competitor plays in the match, they do not stand on the sideline giving instructions to others",
+          "a champion is a winner of a competition, not the person who directs players from the sideline",
+          "a referee enforces the rules of the game but does not shout instructions to guide a team's play"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0005",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Our team managed to ___ the other side by two goals in the final minute of the match.",
+        "correct_answer": "beat",
+        "distractors": [
+          "compete",
+          "coach",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "compete means to take part in a contest, not to win against another team by a score",
+          "coach means to train or instruct players, not to defeat an opponent in a match",
+          "exercise means to do physical activity, not to win against another team by a score"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0006",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Players wore ice skates and used sticks to hit the puck across the ice in the ___ tournament.",
+        "correct_answer": "hockey",
+        "distractors": [
+          "football",
+          "golf",
+          "baseball"
+        ],
+        "distractor_rationale": [
+          "football is played on grass with a round or oval ball and does not use ice skates or a puck",
+          "golf is played on a course with clubs and a small ball, not on ice with sticks and a puck",
+          "baseball is played on a field with a bat and ball, not on ice with skates and a puck"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0007",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After years of hard training, Sara became the national ___ and received a gold medal at the awards ceremony.",
+        "correct_answer": "champion",
+        "distractors": [
+          "competitor",
+          "coach",
+          "fitness"
+        ],
+        "distractor_rationale": [
+          "a competitor is anyone who takes part in a contest, not specifically the winner who receives a gold medal",
+          "a coach trains athletes but does not win a gold medal as the top national performer",
+          "fitness is an abstract noun describing physical condition and cannot describe a person who wins a medal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0008",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Over twenty athletes signed up to ___ in the regional swimming event, each hoping to qualify for the national final.",
+        "correct_answer": "compete",
+        "distractors": [
+          "beat",
+          "coach",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "beat requires a direct object referring to an opponent, and the sentence describes signing up to take part, not defeating someone",
+          "coach means to train others, not to enter and take part in a sporting event yourself",
+          "exercise means to do general physical activity, not to officially enter and participate in a competitive event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0009",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The annual ___ attracted hundreds of runners from across the region, all racing to finish in the fastest time.",
+        "correct_answer": "competition",
+        "distractors": [
+          "fitness",
+          "game",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "fitness is a noun describing a physical state and cannot describe an organised annual event that attracts runners",
+          "game typically refers to a single match between two teams or players, not a large event attracting hundreds of individual runners",
+          "exercise refers to physical activity done for health, not a formally organised event with hundreds of participants racing for time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0010",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Every morning before school, Tom goes to the ___ to lift weights and run on the treadmill.",
+        "correct_answer": "gym",
+        "distractors": [
+          "golf",
+          "hockey",
+          "baseball"
+        ],
+        "distractor_rationale": [
+          "golf is an outdoor sport played on a course, not a building where you lift weights and use treadmills",
+          "hockey is a sport played on ice or a field, not a facility containing treadmills and weights",
+          "baseball is an outdoor team sport played on a field, not an indoor fitness facility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0011",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ told the players to practise passing the ball more and to run faster during training.",
+        "correct_answer": "coach",
+        "distractors": [
+          "competitor",
+          "champion",
+          "game"
+        ],
+        "distractor_rationale": [
+          "a competitor is another player in a contest, not the person who gives instructions during training",
+          "a champion is a winner of a competition, not the person who directs players in practice sessions",
+          "a game is an event or match, not a person who can tell players what to do"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0012",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "In ___, players score points by throwing a large ball through a high metal ring on the wall.",
+        "correct_answer": "basketball",
+        "distractors": [
+          "football",
+          "golf",
+          "hockey"
+        ],
+        "distractor_rationale": [
+          "in football, players score by kicking a ball into a goal net on the ground, not through a high ring on a wall",
+          "in golf, players hit a small ball into a hole in the ground, not through a ring on a wall",
+          "in hockey, players hit a puck or ball into a low goal using a stick, not through a ring on a wall"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0013",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara does thirty minutes of ___ every evening, including push-ups and stretching, to keep her body healthy.",
+        "correct_answer": "exercise",
+        "distractors": [
+          "competition",
+          "fitness",
+          "game"
+        ],
+        "distractor_rationale": [
+          "competition refers to a contest against others, not a personal daily physical activity routine",
+          "fitness describes a state or condition of being healthy, not the physical activity itself that you 'do' for thirty minutes",
+          "a game is a structured match or activity with rules and opponents, not a personal routine of push-ups and stretching"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_cloze_0014",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After years of training and winning every regional title, Anna finally became the national ___ in her sport last spring.",
+        "correct_answer": "champion",
+        "distractors": [
+          "competitor",
+          "coach",
+          "compete"
+        ],
+        "distractor_rationale": [
+          "a competitor is someone who takes part in a contest, but winning every title and becoming the best in the nation makes you the champion, not simply a competitor",
+          "a coach is the person who trains and directs athletes, not the title given to the athlete who wins the national competition",
+          "compete is a verb, not a noun, so it cannot follow 'the national' as a title for a person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_sports_fitness_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "We need nine players on each side to play a game of ___.",
+        "correct_answer": "baseball",
+        "distractors": [
+          "golf",
+          "hockey",
+          "basketball"
+        ],
+        "distractor_rationale": [
+          "golf is played individually or in pairs, not with nine-player sides",
+          "hockey teams have six players on ice or eleven on a field, not nine",
+          "basketball teams have five players on court, not nine"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The players scored by throwing the ball through a high metal ring in their ___ game.",
+        "correct_answer": "basketball",
+        "distractors": [
+          "football",
+          "baseball",
+          "hockey"
+        ],
+        "distractor_rationale": [
+          "football players score by kicking the ball into a goal or over a crossbar, not through a ring",
+          "baseball players score by running around bases, not by throwing through a ring",
+          "hockey players score by hitting a puck into a net, not by throwing through a ring"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The team's ___ told the players to practise their passing skills for an extra hour after the match.",
+        "correct_answer": "coach",
+        "distractors": [
+          "referee",
+          "champion",
+          "competitor"
+        ],
+        "distractor_rationale": [
+          "a referee enforces the rules during a match but does not train or instruct players in practice sessions",
+          "a champion is a winning player or team, not a person who gives training instructions",
+          "a competitor is someone who takes part in a competition, not a person who leads team training"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara does regular ___ such as jogging and swimming to keep her body healthy and strong.",
+        "correct_answer": "exercise",
+        "distractors": [
+          "competition",
+          "fitness",
+          "game"
+        ],
+        "distractor_rationale": [
+          "competition refers to an event where people try to win, not to physical activities done for health",
+          "fitness is the state of being physically healthy, not the activities themselves",
+          "a game is a specific activity played for fun or sport, not a general term for physical health activities like jogging and swimming"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Our local team managed to ___ the visiting team by two goals in the final minutes of the match.",
+        "correct_answer": "beat",
+        "distractors": [
+          "compete",
+          "coach",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "compete means to take part in a contest, not to defeat an opponent",
+          "coach means to train or instruct players, not to defeat them",
+          "exercise means to do physical activity, not to defeat an opponent in a match"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Players use a small white ball and long thin clubs to hit into holes across a large outdoor course in a game of ___.",
+        "correct_answer": "golf",
+        "distractors": [
+          "hockey",
+          "football",
+          "basketball"
+        ],
+        "distractor_rationale": [
+          "hockey uses a stick and a puck or ball hit along a surface into a goal, not into holes in a course",
+          "football uses a large round or oval ball kicked into a goal, not clubs and holes in a course",
+          "basketball uses a ball thrown into a high ring, not clubs and holes in a course"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After years of hard training, Anna finally became the national ___, winning every match in the tournament without losing a single set.",
+        "correct_answer": "champion",
+        "distractors": [
+          "competitor",
+          "coach",
+          "referee"
+        ],
+        "distractor_rationale": [
+          "a competitor is anyone who enters a competition, not specifically someone who wins all matches and holds the top title",
+          "a coach trains other players and does not typically compete in or win tournaments personally",
+          "a referee manages the rules of a match and cannot be described as winning matches and sets"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Over thirty athletes from different cities signed up to ___ in the regional swimming championship held last weekend.",
+        "correct_answer": "compete",
+        "distractors": [
+          "beat",
+          "coach",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "beat requires a direct object (you beat someone), and cannot be used intransitively with 'in a championship' to mean participation",
+          "coach means to train others, not to enter and take part in a sporting event",
+          "exercise means to do physical activity for health, not to enter and take part in a formal championship"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The doctor advised Mark to improve his overall ___ by eating well and doing aerobic activity at least four times a week.",
+        "correct_answer": "fitness",
+        "distractors": [
+          "competition",
+          "game",
+          "exercise"
+        ],
+        "distractor_rationale": [
+          "competition refers to a contest between people, not to a person's general physical condition",
+          "a game is a specific sporting activity, not the general state of physical health that a doctor measures and advises on",
+          "exercise refers to physical activity itself, not to the resulting state of physical health that the doctor is advising Mark to improve"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_word_formation_0000",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She is a great ___. She trains the team every day. (COACH)",
+        "correct_answer": "coach",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COACH"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_sports_fitness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_word_formation_0001",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom goes to the gym three times a week to stay ___. (FIT)",
+        "correct_answer": "fit",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "FIT"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_sports_fitness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_word_formation_0002",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "There were over fifty ___ in the city running race last Sunday. (COMPETE)",
+        "correct_answer": "competitors",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COMPETE"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_sports_fitness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_word_formation_0003",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The doctor told Maria that regular ___ would help her feel more energetic each day. (EXERCISE)",
+        "correct_answer": "exercise",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "EXERCISE"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_sports_fitness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_sports_fitness_word_formation_0004",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Winning the national title made Anna the ___ of the whole country, and thousands of fans came to celebrate her victory. (CHAMPION)",
+        "correct_answer": "champion",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CHAMPION"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_sports_fitness_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_vocab_sports_fitness_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_sports_fitness"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom goes to the ___ three times a week to lift weights and use the running machines.",
+        "correct_answer": "gym",
+        "distractors": [
+          "pitch",
+          "court",
+          "track"
+        ],
+        "distractor_rationale": [
+          "a pitch is an outdoor playing field for team sports, not a place with weights and running machines",
+          "a court is a surface for games like tennis or basketball, not a facility with weights and running machines",
+          "a track is an outdoor running circuit, not a building with weights and running machines"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:16:20.000312+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_sports_fitness_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 29,
+    "filter_rejected": 1
+  }
+}

@@ -1,0 +1,1865 @@
+{
+  "skill_id": "articles",
+  "skill_name": "Articles (Definite/Indefinite/Zero)",
+  "exercises": [
+    {
+      "id": "ex_articles_cloze_0000",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My sister has ___ cat. The cat sleeps on her bed every night.",
+        "correct_answer": "a",
+        "distractors": [
+          "the",
+          "an",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "the cannot be used for first mention of a noun the listener does not yet know about",
+          "an is used before vowel sounds, but 'cat' begins with a consonant sound",
+          "zero article cannot be used with a singular countable noun like 'cat'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0001",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom drinks ___ milk every morning because it is good for his health.",
+        "correct_answer": "Ø",
+        "distractors": [
+          "a",
+          "an",
+          "the"
+        ],
+        "distractor_rationale": [
+          "a cannot be used with an uncountable noun like 'milk'",
+          "an cannot be used with an uncountable noun like 'milk'",
+          "the is used for specific known referents, but here 'milk' is used as a general uncountable substance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0002",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She found ___ umbrella under her chair and put it by the door.",
+        "correct_answer": "an",
+        "distractors": [
+          "a",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "a is used before consonant sounds, but 'umbrella' begins with a vowel sound /ʌ/, so 'an' is required",
+          "the cannot be used for first mention of a noun that is new information to the listener",
+          "zero article cannot be used with a singular countable noun like 'umbrella'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0003",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We visited ___ museum in the city centre, and the guide there was very helpful.",
+        "correct_answer": "a",
+        "distractors": [
+          "the",
+          "an",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "the would imply the listener already knows which specific museum is meant, but this is first mention with no prior context",
+          "an is used before vowel sounds, but 'museum' begins with a consonant sound /m/",
+          "zero article cannot be used with a singular countable noun like 'museum'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0004",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ doctors work very long hours, so they often feel tired by the end of the week.",
+        "correct_answer": "Ø",
+        "distractors": [
+          "The",
+          "A",
+          "An"
+        ],
+        "distractor_rationale": [
+          "the would mean a specific group of doctors already known to the listener, but this is a general statement about doctors as a profession",
+          "a cannot be used with a plural noun like 'doctors'",
+          "an cannot be used with a plural noun like 'doctors'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0005",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark ordered a sandwich and a coffee. ___ sandwich arrived quickly, but the coffee was cold.",
+        "correct_answer": "The",
+        "distractors": [
+          "A",
+          "An",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "a would introduce 'sandwich' as new information, but it has already been mentioned and is now a known referent",
+          "an is used before vowel sounds, and 'sandwich' begins with a consonant sound /s/",
+          "zero article cannot be used with a singular countable noun in this context referring to a specific known item"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0006",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna plays ___ piano every evening after dinner, and her neighbours enjoy listening to her.",
+        "correct_answer": "the",
+        "distractors": [
+          "a",
+          "an",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "a cannot be used with a singular instrument in the fixed expression 'play the piano'",
+          "an cannot be used here because 'piano' begins with a consonant sound, and the fixed expression requires 'the'",
+          "zero article is incorrect because English uses 'the' with musical instruments in the pattern 'play the [instrument]'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0007",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager gave ___ advice to the new employees during their first week of training.",
+        "correct_answer": "Ø",
+        "distractors": [
+          "an",
+          "a",
+          "the"
+        ],
+        "distractor_rationale": [
+          "an cannot be used with an uncountable noun like 'advice', even though 'advice' begins with a vowel sound",
+          "a cannot be used with an uncountable noun like 'advice'",
+          "the would mean a specific piece of advice already known to the listener, but the sentence introduces this as new, general information"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0008",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children were excited to see ___ elephant at the wildlife park, as none of them had ever seen one before.",
+        "correct_answer": "an",
+        "distractors": [
+          "a",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "a is used before consonant sounds, but 'elephant' begins with a vowel sound /ɛ/, so 'an' is required",
+          "the would imply a specific elephant already known to the children, but this is first mention in the sentence",
+          "zero article cannot be used with a singular countable noun like 'elephant'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0009",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After searching for half an hour, Lisa finally found ___ information she needed on the library's website.",
+        "correct_answer": "the",
+        "distractors": [
+          "an",
+          "a",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "an cannot be used with an uncountable noun like 'information', and the phrase 'she needed' makes this a specific known referent requiring 'the'",
+          "a cannot be used with an uncountable noun like 'information'",
+          "zero article would treat 'information' as a generic uncountable noun, but the relative clause 'she needed' identifies it as a specific piece of information"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0011",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom found ___ old umbrella near the bus stop and gave it to the driver.",
+        "correct_answer": "an",
+        "distractors": [
+          "a",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "a is used before consonant sounds; 'old' begins with a vowel sound /ɒ/, so an is required",
+          "the cannot be used for first mention of an umbrella the listener has no prior knowledge of",
+          "zero article is impossible with a singular countable noun like 'umbrella'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0012",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We stayed in ___ hotel near the city centre, and ___ hotel had a lovely rooftop garden.",
+        "correct_answer": "a … the",
+        "distractors": [
+          "the … a",
+          "a … a",
+          "the … the"
+        ],
+        "distractor_rationale": [
+          "the cannot introduce the hotel on first mention because the listener does not yet know which hotel; a must come first, then the for the second reference",
+          "the second mention requires the because the hotel is now shared knowledge after the first clause — a second 'a' treats it as a new, unknown referent",
+          "the cannot introduce the hotel on first mention; using the … the incorrectly assumes the listener already knows which hotel is meant before it is introduced"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0013",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ milk is good for your teeth and bones, so doctors recommend drinking it every day.",
+        "correct_answer": "Ø",
+        "distractors": [
+          "The",
+          "A",
+          "An"
+        ],
+        "distractor_rationale": [
+          "the would imply a specific, previously identified batch of milk, but the sentence makes a general statement about milk as a substance",
+          "a cannot be used with uncountable nouns such as 'milk'",
+          "an cannot be used with uncountable nouns, and 'milk' begins with a consonant sound anyway"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_cloze_0014",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the meeting, Lisa spoke to ___ manager who had presented the sales report, because she wanted to ask about ___ information he had mentioned.",
+        "correct_answer": "the … the",
+        "distractors": [
+          "a … the",
+          "the … an",
+          "a … an"
+        ],
+        "distractor_rationale": [
+          "a would treat the manager as a new, unidentified person, but the relative clause 'who had presented the sales report' uniquely identifies him, making the correct; an cannot be used with uncountable 'information'",
+          "the is correct for the manager, but an is impossible with the uncountable noun 'information'",
+          "a is wrong for the manager because the relative clause uniquely identifies him; an is wrong because 'information' is uncountable and does not take an indefinite article"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0000",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "There is ___ orange on the table. Can you pass it to me?",
+        "correct_answer": "an",
+        "distractors": [
+          "a",
+          "the",
+          "some"
+        ],
+        "distractor_rationale": [
+          "'a' is wrong before a vowel sound — 'orange' starts with /ɒ/, so 'an' is required",
+          "'the' is wrong because the orange has not been mentioned before and is not uniquely known to both speakers",
+          "'some' is used with uncountable or plural nouns, not with a single countable noun like 'orange'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0001",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark bought ___ new bag yesterday, but he left it on the bus.",
+        "correct_answer": "a",
+        "distractors": [
+          "an",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'an' is wrong because 'new' starts with a consonant sound /n/, so 'a' is required",
+          "'the' is wrong because the bag is introduced for the first time and is not yet known to the listener",
+          "zero article is wrong because 'bag' is a singular countable noun and must take an article on first mention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0002",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Could you open ___ window? It is very hot in here.",
+        "correct_answer": "the",
+        "distractors": [
+          "a",
+          "an",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'a' is wrong because the speaker and listener both know which window is meant — the one in the room they share",
+          "'an' is wrong because 'window' starts with a consonant sound and 'an' is also inappropriate for a known referent",
+          "zero article is wrong because 'window' is a singular countable noun and requires a determiner"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0003",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My sister wants to be ___ engineer when she finishes her studies next year.",
+        "correct_answer": "an",
+        "distractors": [
+          "a",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'a' is wrong because 'engineer' begins with a vowel sound /ɛ/, so 'an' is required before it",
+          "'the' is wrong because this is a classification of profession, not a reference to a specific known engineer",
+          "zero article is wrong because a singular countable noun used for classification requires an indefinite article"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0004",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ milk is good for your bones, so doctors recommend drinking it every day.",
+        "correct_answer": "Ø",
+        "distractors": [
+          "A",
+          "An",
+          "The"
+        ],
+        "distractor_rationale": [
+          "'A' is wrong because 'milk' is an uncountable noun and cannot be preceded by the indefinite article 'a'",
+          "'An' is wrong for the same reason as 'a' — uncountable nouns do not take 'an' — and 'milk' also begins with a consonant sound",
+          "'The' is wrong because the sentence makes a general statement about milk as a substance, not a reference to a specific known quantity of milk"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0005",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We stayed in ___ small hotel near the beach, and the rooms were very clean.",
+        "correct_answer": "a",
+        "distractors": [
+          "an",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'an' is wrong because 'small' begins with a consonant sound /s/, so 'a' is required",
+          "'the' is wrong because the hotel is introduced for the first time — it has not been mentioned before in the conversation",
+          "zero article is wrong because 'hotel' is a singular countable noun and requires an indefinite article on first mention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0006",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna found ___ wallet on the floor of the café and handed it to the manager.",
+        "correct_answer": "a",
+        "distractors": [
+          "an",
+          "the",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'an' is wrong because 'wallet' begins with a consonant sound /w/, so 'a' is required",
+          "'the' is wrong because the wallet is introduced for the first time and is not previously known to the listener",
+          "zero article is wrong because 'wallet' is a singular countable noun and must have an article on first mention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0007",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ children generally learn languages faster than adults, according to most research.",
+        "correct_answer": "Ø",
+        "distractors": [
+          "A",
+          "An",
+          "The"
+        ],
+        "distractor_rationale": [
+          "'A' is wrong because 'children' is a plural noun and cannot take the singular indefinite article 'a'",
+          "'An' is wrong for the same reason as 'a' — 'an' is used only before singular nouns beginning with a vowel sound",
+          "'The' is wrong because the sentence makes a general claim about children as a whole group, not a reference to a specific group of children already known to both speakers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0008",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager called a meeting this morning. ___ meeting lasted almost two hours and covered several important topics.",
+        "correct_answer": "The",
+        "distractors": [
+          "A",
+          "An",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'A' is wrong because the meeting was already introduced in the previous sentence and is now a known, shared referent",
+          "'An' is wrong for the same reason as 'a' — the meeting is already known — and 'meeting' begins with a consonant sound anyway",
+          "zero article is wrong because 'meeting' is a singular countable noun referring to a specific event already mentioned, so the definite article is required"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_multiple_choice_0009",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She has always wanted to visit ___ Eiffel Tower, which she has seen in many photographs.",
+        "correct_answer": "the",
+        "distractors": [
+          "a",
+          "an",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "'a' is wrong because the Eiffel Tower is a unique landmark — there is only one in the world — and unique referents require 'the'",
+          "'an' is wrong for the same reason as 'a', and 'Eiffel' begins with a vowel sound but unique proper nouns with a title still require 'the', not 'an'",
+          "zero article is wrong because landmark names that include a common noun (Tower, Bridge, Palace) take the definite article 'the'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "articles_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0000",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She has a umbrella in her bag because it often rains here.",
+        "correct_answer": "an umbrella",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She has a umbrella in her bag because it often rains here.",
+        "corrected_sentence": "She has an umbrella in her bag because it often rains here.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0001",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My brother has dog that sleeps on the sofa every night.",
+        "correct_answer": "has a dog",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My brother has dog that sleeps on the sofa every night.",
+        "corrected_sentence": "My brother has a dog that sleeps on the sofa every night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0002",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children need fresh air and exercise to stay healthy.",
+        "correct_answer": "Children",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children need fresh air and exercise to stay healthy.",
+        "corrected_sentence": "Children need fresh air and exercise to stay healthy.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0003",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Can you give me an information about the train times to the city centre?",
+        "correct_answer": "some information",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Can you give me an information about the train times to the city centre?",
+        "corrected_sentence": "Can you give me some information about the train times to the city centre?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0004",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We stayed in a small hotel near the beach, and a hotel had a lovely outdoor pool.",
+        "correct_answer": "the hotel",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We stayed in a small hotel near the beach, and a hotel had a lovely outdoor pool.",
+        "corrected_sentence": "We stayed in a small hotel near the beach, and the hotel had a lovely outdoor pool.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0005",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He ordered a water and a sandwich at the café before his meeting.",
+        "correct_answer": "some water",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He ordered a water and a sandwich at the café before his meeting.",
+        "corrected_sentence": "He ordered some water and a sandwich at the café before his meeting.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0006",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The music is a powerful way to express emotions that are difficult to put into words.",
+        "correct_answer": "Music",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The music is a powerful way to express emotions that are difficult to put into words.",
+        "corrected_sentence": "Music is a powerful way to express emotions that are difficult to put into words.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_articles_error_correction_0007",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After waiting for over an hour, they finally met a manager who was responsible for their complaint.",
+        "correct_answer": "the manager",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After waiting for over an hour, they finally met a manager who was responsible for their complaint.",
+        "corrected_sentence": "After waiting for over an hour, they finally met the manager who was responsible for their complaint.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "articles_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_articles_cloze_0010",
+      "skill_ids": [
+        "articles"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 32,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My sister has ___ cat. The cat sleeps on her bed every night.",
+        "correct_answer": "a",
+        "distractors": [
+          "the",
+          "an",
+          "Ø"
+        ],
+        "distractor_rationale": [
+          "the cannot introduce a noun on its first mention — the listener does not yet know which cat is meant",
+          "an is used before vowel sounds; 'cat' begins with a consonant sound /k/",
+          "zero article is impossible with a singular countable noun like 'cat' — it must have an article"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 32,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:05:36.228390+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "articles_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

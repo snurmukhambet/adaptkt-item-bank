@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_shopping_money",
+  "skill_name": "Shopping & Money",
+  "exercises": [
+    {
+      "id": "ex_vocab_shopping_money_cloze_0000",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "I paid for the bread with a ___ because I had no notes in my wallet.",
+        "correct_answer": "coin",
+        "distractors": [
+          "bill",
+          "credit",
+          "brand"
+        ],
+        "distractor_rationale": [
+          "a bill is a paper note, not a metal coin, and the sentence specifies 'no notes'",
+          "credit refers to a payment method, not a physical piece of money you carry in a wallet alongside notes",
+          "a brand is a company name, not a form of money"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0001",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The jacket was very ___ — it only cost five euros at the market.",
+        "correct_answer": "cheap",
+        "distractors": [
+          "borrow",
+          "budget",
+          "cash"
+        ],
+        "distractor_rationale": [
+          "borrow is a verb meaning to take something temporarily, not an adjective describing price",
+          "budget is a noun or adjective meaning a financial plan, not a word meaning low in price",
+          "cash is a noun meaning physical money, not an adjective describing how much something costs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0002",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She paid for the groceries with ___ because the card machine was broken.",
+        "correct_answer": "cash",
+        "distractors": [
+          "coin",
+          "cent",
+          "change"
+        ],
+        "distractor_rationale": [
+          "coin refers to a single metal piece of money, not the general method of paying with physical money",
+          "cent is a unit of currency worth one hundredth of a euro or dollar, too small and specific to describe the full payment method",
+          "change refers to coins given back after overpaying, not the money used to make a payment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0003",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The shop assistant gave Tom his ___ after he paid twenty euros for a fifteen-euro item.",
+        "correct_answer": "change",
+        "distractors": [
+          "bill",
+          "bargain",
+          "budget"
+        ],
+        "distractor_rationale": [
+          "a bill is a document showing the amount owed, not the money returned after overpaying",
+          "a bargain is something bought at a low price, not money given back to a customer",
+          "a budget is a financial plan for spending, not money returned after a purchase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0004",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Those shoes were a real ___ — they were reduced from eighty euros to just fifteen.",
+        "correct_answer": "bargain",
+        "distractors": [
+          "bill",
+          "currency",
+          "credit"
+        ],
+        "distractor_rationale": [
+          "a bill is a document showing money owed, not a word describing a heavily discounted purchase",
+          "currency refers to the type of money used in a country, not the quality of a deal",
+          "credit is a method of borrowing money to pay later, not a description of a reduced-price item"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0005",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna set a strict weekly ___ of fifty euros for food so she would not overspend.",
+        "correct_answer": "budget",
+        "distractors": [
+          "bill",
+          "brand",
+          "bargain"
+        ],
+        "distractor_rationale": [
+          "a bill is a request for payment already owed, not a limit you set in advance for future spending",
+          "a brand is a company's name or label on a product, not a financial plan",
+          "a bargain is a cheap deal, not a planned spending limit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0006",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The restaurant brought the ___ at the end of the meal, and it showed the total for all three courses.",
+        "correct_answer": "bill",
+        "distractors": [
+          "change",
+          "coin",
+          "budget"
+        ],
+        "distractor_rationale": [
+          "change is money returned after overpaying, not a document listing what you owe at a restaurant",
+          "a coin is a small metal piece of money, not a document showing the total amount owed",
+          "a budget is a personal spending plan, not an itemised document given by a restaurant"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0007",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Mark could not ___ the new laptop, so he decided to save money for three more months before buying it.",
+        "correct_answer": "afford",
+        "distractors": [
+          "borrow",
+          "cost",
+          "buy"
+        ],
+        "distractor_rationale": [
+          "borrow means to take something temporarily, but you borrow money from someone, not a laptop from a shop in this context — and the sentence says he lacked the financial means, not that he wanted to borrow",
+          "cost describes the price of something and takes the item as its subject, not a person — 'he could not cost' is grammatically incorrect",
+          "buy means to purchase, but 'could not buy' would mean the shop refused to sell it, whereas the sentence explains the reason is financial — 'afford' specifically expresses having enough money"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0008",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "When travelling abroad, it is important to exchange your money for the local ___ before you arrive at your destination.",
+        "correct_answer": "currency",
+        "distractors": [
+          "cash",
+          "credit",
+          "change"
+        ],
+        "distractor_rationale": [
+          "cash refers to physical money in general, not the specific type of money used in a particular country",
+          "credit refers to a method of borrowing money to pay later, not the official money system of a country",
+          "change refers to coins returned after overpaying, not the official monetary system of a foreign country"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0009",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Lisa preferred to buy the well-known ___ of coffee because she trusted its quality, even though it was more expensive than the others.",
+        "correct_answer": "brand",
+        "distractors": [
+          "bargain",
+          "budget",
+          "cost"
+        ],
+        "distractor_rationale": [
+          "a bargain describes a cheap deal, which contradicts the sentence stating the item was more expensive than others",
+          "a budget is a spending plan, not a manufacturer's label or name associated with a product's quality",
+          "cost is a noun meaning the price of something, not the name or label of a product made by a specific company"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0010",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "I paid for the groceries with ___, so the cashier gave me some coins back.",
+        "correct_answer": "cash",
+        "distractors": [
+          "credit",
+          "budget",
+          "brand"
+        ],
+        "distractor_rationale": [
+          "credit is used via a card and does not result in coins being given back as change",
+          "budget is a plan for spending money, not a method of payment",
+          "brand refers to a product label, not a payment method"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0011",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The jacket was very ___ — it only cost five euros at the market stall.",
+        "correct_answer": "cheap",
+        "distractors": [
+          "borrowed",
+          "branded",
+          "billed"
+        ],
+        "distractor_rationale": [
+          "borrowed means taken temporarily from someone, which cannot describe a jacket's price",
+          "branded means carrying a well-known label, which does not indicate a low price",
+          "billed means charged or invoiced, which cannot describe the jacket itself"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0012",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom found a great ___ at the second-hand shop — a nearly new laptop for only twenty euros.",
+        "correct_answer": "bargain",
+        "distractors": [
+          "bill",
+          "coin",
+          "budget"
+        ],
+        "distractor_rationale": [
+          "bill refers to a document requesting payment, not a good deal on a purchase",
+          "coin is a small metal piece of currency, not a description of a good deal",
+          "budget is a spending plan, not an item bought at a very low price"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0013",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna set a strict weekly ___ of fifty euros for food so that she could save money each month.",
+        "correct_answer": "budget",
+        "distractors": [
+          "cost",
+          "change",
+          "bill"
+        ],
+        "distractor_rationale": [
+          "cost refers to the price of something already bought, not a planned spending limit",
+          "change refers to coins returned after overpaying, not a personal spending plan",
+          "bill refers to a payment request received, not a limit someone sets for themselves"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_cloze_0014",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria wanted to buy the new phone, but she realised she could not ___ it because her rent was due that week.",
+        "correct_answer": "afford",
+        "distractors": [
+          "borrow",
+          "cost",
+          "buy"
+        ],
+        "distractor_rationale": [
+          "borrow means to take something temporarily from someone, but the sentence describes her own financial inability, not borrowing an item",
+          "cost describes the price of the phone itself and cannot follow 'could not' with a personal subject to express financial inability",
+          "buy describes the action of purchasing, but 'could not buy' removes the specific meaning of financial incapability that the context of rent being due requires, making 'afford' the only word that explains why she cannot make the purchase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_shopping_money_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "I don't have any ___ with me, so I need to pay by card.",
+        "correct_answer": "cash",
+        "distractors": [
+          "credit",
+          "change",
+          "coin"
+        ],
+        "distractor_rationale": [
+          "credit refers to borrowing money or a credit card, not the physical money you carry",
+          "change means coins returned after paying too much, not money you carry to pay with",
+          "coin refers to a single metal piece, not money in general — the plural 'coins' would still be odd here because the speaker has no money at all, not just no small pieces"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The shoes were very ___, so I bought two pairs — they only cost five dollars each.",
+        "correct_answer": "cheap",
+        "distractors": [
+          "heavy",
+          "new",
+          "small"
+        ],
+        "distractor_rationale": [
+          "heavy describes weight, not price — it cannot explain why someone bought two pairs",
+          "new describes how recent something is, not its low price",
+          "small describes size, not cost — it does not explain the buying decision"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The cashier gave me the wrong ___ — she returned six euros but I had paid with a twenty-euro note for a twelve-euro item.",
+        "correct_answer": "change",
+        "distractors": [
+          "bill",
+          "cash",
+          "coin"
+        ],
+        "distractor_rationale": [
+          "bill refers to a document showing how much you owe, not money returned after a purchase",
+          "cash refers to physical money in general, not specifically the money returned after overpaying",
+          "coin refers to a single metal piece, not the total amount returned by the cashier"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria found a real ___ at the market — a leather jacket that was originally eighty euros but was marked down to fifteen.",
+        "correct_answer": "bargain",
+        "distractors": [
+          "brand",
+          "budget",
+          "bill"
+        ],
+        "distractor_rationale": [
+          "brand refers to the name of a product or company, not a good deal on a price",
+          "budget refers to a plan for spending money, not a specific item bought cheaply",
+          "bill refers to a document requesting payment or a banknote, not a good deal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom set a strict ___ for the month — he decided to spend no more than two hundred dollars on food and transport.",
+        "correct_answer": "budget",
+        "distractors": [
+          "bargain",
+          "credit",
+          "currency"
+        ],
+        "distractor_rationale": [
+          "bargain refers to a good deal on a purchase, not a personal spending plan",
+          "credit refers to borrowing money or a payment method, not a personal spending limit",
+          "currency refers to the type of money used in a country, not a personal financial plan"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She always buys the same ___ of coffee because she trusts its quality and knows exactly what it will taste like.",
+        "correct_answer": "brand",
+        "distractors": [
+          "bargain",
+          "cost",
+          "change"
+        ],
+        "distractor_rationale": [
+          "bargain refers to a low-priced deal, not a named product identity that a shopper is loyal to",
+          "cost refers to the price of something, not the name or identity of a product",
+          "change refers to money returned after overpaying, not a product name"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Could you ___ me ten dollars until Friday? I left my wallet at home and I need to buy lunch.",
+        "correct_answer": "lend",
+        "distractors": [
+          "borrow",
+          "afford",
+          "spend"
+        ],
+        "distractor_rationale": [
+          "borrow means to receive something temporarily — the speaker would 'borrow from' someone, not 'borrow someone' ten dollars",
+          "afford means to have enough money for something — it does not describe the action of giving money temporarily",
+          "spend means to use money on a purchase — it does not describe giving money temporarily to another person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James wanted to buy the new laptop, but after checking his bank account he realised he simply couldn't ___ it — his savings were too low.",
+        "correct_answer": "afford",
+        "distractors": [
+          "borrow",
+          "budget",
+          "spend"
+        ],
+        "distractor_rationale": [
+          "borrow means to take something temporarily — you borrow money from someone, but you cannot 'borrow' a purchase",
+          "budget means to plan spending — it does not describe being unable to pay for something due to insufficient funds",
+          "spend means to use money — the sentence requires the idea of having enough money, not the act of using it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Before travelling abroad, Anna exchanged her money at the bank because she needed the local ___ to pay for things in the market.",
+        "correct_answer": "currency",
+        "distractors": [
+          "credit",
+          "cash",
+          "coin"
+        ],
+        "distractor_rationale": [
+          "credit refers to a payment method or borrowed money, not the type of money used in a specific country",
+          "cash refers to physical money in general — it does not explain why she needed to exchange money for a different country's system",
+          "coin refers to a single metal piece — it cannot describe the whole monetary system of a country"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The restaurant sent Lisa a final ___ for the private dinner event, listing every dish and drink with its price and the total amount due.",
+        "correct_answer": "bill",
+        "distractors": [
+          "bargain",
+          "budget",
+          "brand"
+        ],
+        "distractor_rationale": [
+          "bargain refers to a good deal on a price — it cannot describe a document listing charges for a service",
+          "budget refers to a personal or organisational spending plan — it is not a document sent by a business requesting payment",
+          "brand refers to a company or product name — it cannot describe a document showing what a customer owes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_shopping_money_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_word_formation_0000",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "This jacket is very ___ — it only costs ten dollars. (CHEAP)",
+        "correct_answer": "cheaply",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CHEAP"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_shopping_money_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_word_formation_0001",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She put all her ___ into the parking machine to pay for two hours. (COIN)",
+        "correct_answer": "coins",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COIN"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_shopping_money_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_word_formation_0002",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The store manager said the price was not ___, so he refused to lower it any further. (BARGAIN)",
+        "correct_answer": "bargainable",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BARGAIN"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_shopping_money_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_word_formation_0003",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "They planned their holiday carefully because they knew ___ for flights and hotels would be tight this year. (BUDGET)",
+        "correct_answer": "budgeting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BUDGET"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_shopping_money_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_shopping_money_word_formation_0004",
+      "skill_ids": [
+        "vocab_shopping_money"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Many young people find it difficult to ___ a flat in the city centre because rents have risen so much in recent years. (AFFORD)",
+        "correct_answer": "afford",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "AFFORD"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:10:50.571944+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_shopping_money_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

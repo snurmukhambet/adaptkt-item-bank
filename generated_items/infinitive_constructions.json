@@ -1,0 +1,1863 @@
+{
+  "skill_id": "infinitive_constructions",
+  "skill_name": "Infinitive Constructions",
+  "exercises": [
+    {
+      "id": "ex_infinitive_constructions_cloze_0000",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This box is too heavy ___ me to lift alone, so please help me.",
+        "correct_answer": "for",
+        "distractors": [
+          "to",
+          "of",
+          "by"
+        ],
+        "distractor_rationale": [
+          "'to' cannot introduce a different subject before the infinitive in a too…to construction",
+          "'of' is used after adjectives describing personal qualities (kind of you), not in too…to constructions with a different subject",
+          "'by' introduces an agent in passive structures, not a subject in too…to constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0001",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The water is warm enough ___ in, so let's go for a swim.",
+        "correct_answer": "to swim",
+        "distractors": [
+          "swimming",
+          "for swimming",
+          "swim"
+        ],
+        "distractor_rationale": [
+          "'-ing' alone cannot follow 'enough' — the to-infinitive is required",
+          "'for swimming' uses a gerund phrase, but after 'enough' with no different subject the to-infinitive is the correct structure",
+          "the bare infinitive without 'to' is ungrammatical after 'enough' in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0002",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark was happy ___ his friend at the airport after such a long time.",
+        "correct_answer": "to meet",
+        "distractors": [
+          "meeting",
+          "for meeting",
+          "meet"
+        ],
+        "distractor_rationale": [
+          "'-ing' cannot directly follow an adjective like 'happy' in this structure; the to-infinitive is required",
+          "'for meeting' uses a gerund after 'for', which does not follow the adjective + to-infinitive pattern",
+          "the bare infinitive without 'to' is ungrammatical after an adjective in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0003",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The instructions were too complicated ___ the children to understand without help from a teacher.",
+        "correct_answer": "for",
+        "distractors": [
+          "to",
+          "that",
+          "of"
+        ],
+        "distractor_rationale": [
+          "'to' cannot introduce a different subject (the children) before the infinitive in a too…to construction",
+          "'that' would require a full finite clause (too complicated that the children could understand), which is non-standard in modern English and does not fit this structure",
+          "'of' is used after adjectives of personal quality (kind of you), not to introduce a different subject in too…to constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0004",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna couldn't decide ___ to wear to the job interview, so she asked her sister for advice.",
+        "correct_answer": "what",
+        "distractors": [
+          "that",
+          "which thing",
+          "how"
+        ],
+        "distractor_rationale": [
+          "'that' cannot introduce an infinitive construction; it introduces a finite clause (decided that she would wear)",
+          "'which thing' is ungrammatical as a question-word connector before a to-infinitive in this embedded structure",
+          "'how' asks about manner (how to dress), not about the item of clothing to choose, making it semantically incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0005",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new employee wasn't sure ___ to report the problem — her manager or the team leader.",
+        "correct_answer": "who",
+        "distractors": [
+          "what",
+          "how",
+          "that"
+        ],
+        "distractor_rationale": [
+          "'what' asks about a thing, but the sentence is choosing between two people (manager or team leader), so 'who' is required",
+          "'how' asks about manner, not about the person to contact, making it semantically wrong in this context",
+          "'that' introduces a finite clause, not an infinitive construction, and produces an ungrammatical sentence here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0006",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The suitcase wasn't large enough ___ all of Sara's clothes for the two-week trip.",
+        "correct_answer": "to hold",
+        "distractors": [
+          "holding",
+          "for holding",
+          "to holding"
+        ],
+        "distractor_rationale": [
+          "'-ing' alone after 'enough' is ungrammatical; the to-infinitive is required in this structure",
+          "'for holding' uses a gerund after 'for', but when the subject of the infinitive is the same as the main clause subject, 'enough + to-infinitive' is the correct pattern",
+          "'to holding' combines 'to' with an '-ing' form, which is ungrammatical; only the base infinitive follows 'to' here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0007",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager explained ___ to allocate the budget across the three departments before the deadline.",
+        "correct_answer": "how",
+        "distractors": [
+          "what",
+          "that",
+          "which"
+        ],
+        "distractor_rationale": [
+          "'what' would require a noun object (what to allocate), but 'budget' is already specified, making 'how' the correct question word for manner of distribution",
+          "'that' introduces a finite clause and cannot precede a to-infinitive in this embedded question structure",
+          "'which' requires a following noun (which budget to allocate), but the noun is already given, so 'which' produces a redundant or ungrammatical structure here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0008",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The noise from the street was too loud ___ David to concentrate on his report, so he moved to a quieter room.",
+        "correct_answer": "for",
+        "distractors": [
+          "to allow",
+          "that",
+          "to make"
+        ],
+        "distractor_rationale": [
+          "'to allow' creates a different grammatical structure (too loud to allow David to concentrate) that requires an additional infinitive and is not the target too…for…to pattern being tested",
+          "'that' would require a full finite clause (too loud that David could concentrate), which is non-standard and ungrammatical in this context",
+          "'to make' similarly creates a different construction (too loud to make David concentrate) that changes the intended structure and meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0009",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The safety guidelines were clear enough ___ any new member of staff to follow without additional training.",
+        "correct_answer": "for",
+        "distractors": [
+          "to",
+          "that",
+          "of"
+        ],
+        "distractor_rationale": [
+          "'to' cannot introduce a different subject (any new member of staff) before the infinitive in an enough…to construction; 'for' is required when the subjects differ",
+          "'that' would require a finite clause (clear enough that any new member could follow them), which is a different structure and does not fit the infinitive construction being tested",
+          "'of' is used after adjectives of personal quality (kind of you to help), not to introduce a different subject in enough…to constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0010",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The coffee is too hot ___ right now, so I will wait a few minutes.",
+        "correct_answer": "to drink",
+        "distractors": [
+          "drinking",
+          "for drinking",
+          "to drinking"
+        ],
+        "distractor_rationale": [
+          "bare -ing after 'too + adjective' is grammatically impossible; the infinitive marker 'to' is required",
+          "'for drinking' is a prepositional phrase indicating purpose, not the result clause required by 'too + adjective'",
+          "'to drinking' combines the infinitive marker with a gerund, which is a non-standard hybrid form that does not exist in English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0011",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria was happy ___ her old friends at the school reunion last weekend.",
+        "correct_answer": "to see",
+        "distractors": [
+          "seeing",
+          "for seeing",
+          "see"
+        ],
+        "distractor_rationale": [
+          "after 'happy' as a predicative adjective expressing a reaction, the to-infinitive is required, not the -ing form",
+          "'for seeing' is a prepositional phrase and cannot follow an adjective to express an emotional reaction",
+          "the bare infinitive without 'to' is not used after adjectives in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0012",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The instructions were so complicated that James did not know ___ next to fix the machine.",
+        "correct_answer": "what to do",
+        "distractors": [
+          "what he should do",
+          "what doing",
+          "what to doing"
+        ],
+        "distractor_rationale": [
+          "a full that-clause with subject and modal is grammatically possible in isolation but is explicitly the error pattern this item targets; the wh-word + to-infinitive is the required reduced form after 'know' in this register",
+          "'what doing' omits the infinitive marker 'to' and produces an ungrammatical sequence after a question word",
+          "'what to doing' incorrectly combines the infinitive marker 'to' with a gerund, which is not a valid English construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0013",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The suitcase is not light enough ___ me to carry up the stairs without help.",
+        "correct_answer": "for",
+        "distractors": [
+          "to",
+          "so",
+          "that"
+        ],
+        "distractor_rationale": [
+          "'to' cannot introduce the different-subject construction; 'for + object + to-infinitive' is required when the subject of the infinitive differs from the subject of the main clause",
+          "'so' is a conjunction and cannot link 'enough' to the infinitive phrase with a different subject",
+          "'that' would require a full finite clause with a subject and verb, not a to-infinitive phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_cloze_0014",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager explained ___ the new software during the training session, but several team members still felt confused afterwards.",
+        "correct_answer": "how to use",
+        "distractors": [
+          "how using",
+          "how use",
+          "how to using"
+        ],
+        "distractor_rationale": [
+          "'how using' omits the infinitive marker 'to' after the question word, producing an ungrammatical sequence",
+          "'how use' is the bare infinitive without 'to', which is not permitted after a question word in an embedded infinitive construction",
+          "'how to using' incorrectly attaches a gerund ending to a verb that already has the infinitive marker, creating a non-existent hybrid form"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "infinitive_constructions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0000",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The coffee is too hot ___ right now.",
+        "correct_answer": "to drink",
+        "distractors": [
+          "drinking",
+          "for drinking",
+          "drink"
+        ],
+        "distractor_rationale": [
+          "-ing form is incorrect after too + adjective; the structure requires to-infinitive",
+          "'for drinking' is a prepositional phrase, not the required to-infinitive construction after too + adjective",
+          "bare infinitive without 'to' is incorrect; too + adjective requires to-infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0001",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The instructions were easy ___ once we read them carefully.",
+        "correct_answer": "to follow",
+        "distractors": [
+          "following",
+          "follow",
+          "for following"
+        ],
+        "distractor_rationale": [
+          "-ing form is incorrect after adjective + to-infinitive construction; to-infinitive is required",
+          "bare infinitive without 'to' is incorrect; adjective + to-infinitive requires the 'to'",
+          "'for following' is a prepositional phrase and does not fit the adjective + to-infinitive pattern"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0002",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She was happy ___ her old friends at the reunion last weekend.",
+        "correct_answer": "to see",
+        "distractors": [
+          "seeing",
+          "see",
+          "that she sees"
+        ],
+        "distractor_rationale": [
+          "-ing form cannot follow 'happy' in this adjective + to-infinitive structure",
+          "bare infinitive without 'to' is incorrect after an adjective in this pattern",
+          "a that-clause with a finite verb is incorrect here; the standard pattern is adjective + to-infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0003",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The suitcase was too heavy ___ onto the overhead shelf on the train.",
+        "correct_answer": "for me to lift",
+        "distractors": [
+          "for me to lifting",
+          "to lift for me",
+          "for me lifting"
+        ],
+        "distractor_rationale": [
+          "'for me to lifting' is incorrect because the to-infinitive requires the base verb, not -ing",
+          "'to lift for me' places 'for + object' after the infinitive, which is incorrect word order in the too + adjective + for + object + to-infinitive structure",
+          "'for me lifting' omits 'to' before the verb, making the construction grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0004",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark had no idea ___ when the fire alarm went off during the meeting.",
+        "correct_answer": "what to do",
+        "distractors": [
+          "what he should doing",
+          "what doing",
+          "what to doing"
+        ],
+        "distractor_rationale": [
+          "'what he should doing' is incorrect because 'should' requires a bare infinitive, not -ing, and a that-clause structure is unnatural here",
+          "'what doing' omits 'to' before the verb, making the wh- word + to-infinitive construction incomplete",
+          "'what to doing' incorrectly adds -ing after 'to'; the to-infinitive requires the base form of the verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0005",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children were old enough ___ the film without their parents.",
+        "correct_answer": "to watch",
+        "distractors": [
+          "watching",
+          "for watching",
+          "that they watch"
+        ],
+        "distractor_rationale": [
+          "-ing form is incorrect after enough + to-infinitive; to-infinitive is required",
+          "'for watching' is a prepositional phrase and does not fit the adjective + enough + to-infinitive pattern",
+          "a that-clause is incorrect here; the standard pattern is adjective + enough + to-infinitive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0006",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager explained ___ the new software system to the team during the training session.",
+        "correct_answer": "how to use",
+        "distractors": [
+          "how using",
+          "how to using",
+          "how use"
+        ],
+        "distractor_rationale": [
+          "'how using' omits 'to' before the verb, making the wh- word + to-infinitive construction incomplete",
+          "'how to using' incorrectly adds -ing after 'to'; the to-infinitive requires the base form of the verb",
+          "'how use' omits 'to', producing a bare infinitive which is incorrect in this wh- word + to-infinitive structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0007",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The budget was not large enough ___ all the repairs that the old building needed.",
+        "correct_answer": "for us to cover",
+        "distractors": [
+          "for us to covering",
+          "to cover for us",
+          "for us covering"
+        ],
+        "distractor_rationale": [
+          "'for us to covering' is incorrect because to-infinitive requires the base verb form, not -ing",
+          "'to cover for us' places 'for + object' after the infinitive, which breaks the required word order: enough + for + object + to-infinitive",
+          "'for us covering' omits 'to' before the verb, making the construction grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0008",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna was unsure ___ at the interview, so she practised her answers with a friend the night before.",
+        "correct_answer": "what to say",
+        "distractors": [
+          "what she should say",
+          "what saying",
+          "what to saying"
+        ],
+        "distractor_rationale": [
+          "'what she should say' is a finite that-clause structure; while not impossible in all contexts, the wh- word + to-infinitive is the natural, expected form here and 'what she should say' does not fit the parallel structure of the sentence as naturally",
+          "'what saying' omits 'to', producing an incomplete and ungrammatical wh- word + to-infinitive construction",
+          "'what to saying' incorrectly adds -ing after 'to'; the to-infinitive requires the base form of the verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_multiple_choice_0009",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The noise from the street was too loud ___ concentrate on her work, so she closed the window.",
+        "correct_answer": "for her to",
+        "distractors": [
+          "for her to be",
+          "to her to",
+          "for she to"
+        ],
+        "distractor_rationale": [
+          "'for her to be' adds an incorrect extra verb 'be', making the infinitive clause 'for her to be concentrate' ungrammatical",
+          "'to her to' uses the wrong preposition 'to' instead of 'for' before the object in the too + adjective + for + object + to-infinitive structure",
+          "'for she to' uses the subject pronoun 'she' instead of the object pronoun 'her', which is required after the preposition 'for'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "infinitive_constructions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0000",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The bag is too heavy carrying up the stairs by herself.",
+        "correct_answer": "too heavy to carry",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The bag is too heavy carrying up the stairs by herself.",
+        "corrected_sentence": "The bag is too heavy to carry up the stairs by herself.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0001",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The water is warm enough swimming in the lake today.",
+        "correct_answer": "enough to swim",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The water is warm enough swimming in the lake today.",
+        "corrected_sentence": "The water is warm enough to swim in the lake today.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0002",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She was happy that she helped the new student find the library on his first day.",
+        "correct_answer": "happy to help",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She was happy that she helped the new student find the library on his first day.",
+        "corrected_sentence": "She was happy to help the new student find the library on his first day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0003",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The instructions were not clear enough for understanding how to set up the device.",
+        "correct_answer": "enough to understand",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The instructions were not clear enough for understanding how to set up the device.",
+        "corrected_sentence": "The instructions were not clear enough to understand how to set up the device.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0004",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Mark didn't know what he should say when his manager asked him about the missing report.",
+        "correct_answer": "what to say",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Mark didn't know what he should say when his manager asked him about the missing report.",
+        "corrected_sentence": "Mark didn't know what to say when his manager asked him about the missing report.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0005",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The suitcase was enough large to fit all her clothes and still close properly.",
+        "correct_answer": "large enough",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The suitcase was enough large to fit all her clothes and still close properly.",
+        "corrected_sentence": "The suitcase was large enough to fit all her clothes and still close properly.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0006",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager explained how to complete the form, but it was still too complicated for the new staff understand it without extra training.",
+        "correct_answer": "for the new staff to understand",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager explained how to complete the form, but it was still too complicated for the new staff understand it without extra training.",
+        "corrected_sentence": "The manager explained how to complete the form, but it was still too complicated for the new staff to understand without extra training.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_infinitive_constructions_error_correction_0007",
+      "skill_ids": [
+        "infinitive_constructions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "After the meeting, Anna was too tired for deciding where to go for dinner, so she asked her colleague to choose.",
+        "correct_answer": "too tired to decide",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "After the meeting, Anna was too tired for deciding where to go for dinner, so she asked her colleague to choose.",
+        "corrected_sentence": "After the meeting, Anna was too tired to decide where to go for dinner, so she asked her colleague to choose.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:14:14.223530+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "infinitive_constructions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

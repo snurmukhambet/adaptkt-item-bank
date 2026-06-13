@@ -1,0 +1,1863 @@
+{
+  "skill_id": "reported_speech_statements",
+  "skill_name": "Reported Speech: Statements",
+  "exercises": [
+    {
+      "id": "ex_reported_speech_statements_cloze_0000",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom said he ___ tired after his long shift at the supermarket.",
+        "correct_answer": "was",
+        "distractors": [
+          "is",
+          "were",
+          "be"
+        ],
+        "distractor_rationale": [
+          "present tense 'is' fails to back-shift from the original direct statement into reported speech",
+          "'were' does not agree with the singular subject 'he' in past simple",
+          "'be' is a bare infinitive and cannot function as the main verb in this reported clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0001",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ me that the meeting started at nine o'clock.",
+        "correct_answer": "told",
+        "distractors": [
+          "said",
+          "spoke",
+          "talked"
+        ],
+        "distractor_rationale": [
+          "'said' cannot be followed directly by a personal object; 'said me' is a classic learner error",
+          "'spoke' requires the preposition 'to' and cannot introduce a reported clause with 'that'",
+          "'talked' requires the preposition 'to' and cannot introduce a reported clause with 'that'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0002",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She said she ___ call me the next day, but I never heard from her.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "can",
+          "could"
+        ],
+        "distractor_rationale": [
+          "'will' is the direct speech form and must be back-shifted to 'would' in reported speech",
+          "'can' reports ability or permission, not a future promise, and is also not back-shifted correctly here",
+          "'could' is the back-shifted form of 'can', not 'will', so it misrepresents the original statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0003",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David told his manager that he ___ finish the report before the end of the week.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "will",
+          "would"
+        ],
+        "distractor_rationale": [
+          "'can' is the direct speech form of ability and must be back-shifted to 'could' in reported speech",
+          "'will' is a future marker in direct speech, not an ability marker, and does not match the original meaning here",
+          "'would' is the back-shift of 'will', not 'can', so it changes the meaning from ability to future intention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0004",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria said that she had bought the train tickets ___ and that we could leave early.",
+        "correct_answer": "that day",
+        "distractors": [
+          "today",
+          "this day",
+          "the next day"
+        ],
+        "distractor_rationale": [
+          "'today' is a direct speech time expression and must shift to 'that day' in reported speech",
+          "'this day' is not a standard English time expression in either direct or reported speech",
+          "'the next day' refers to the day after the reporting moment, which contradicts the meaning of same-day purchase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0005",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James told his colleague that the new office equipment ___ (arrive) the following Monday.",
+        "correct_answer": "would arrive",
+        "distractors": [
+          "will arrive",
+          "arrived",
+          "was arriving"
+        ],
+        "distractor_rationale": [
+          "'will arrive' is the direct speech form and must be back-shifted to 'would arrive' in reported speech",
+          "'arrived' is a simple past form that implies the event already happened, contradicting 'the following Monday'",
+          "'was arriving' is past continuous suggesting an arrangement already in progress, which changes the meaning and is not the correct back-shift of 'will arrive'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0006",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa said she ___ (not know) where the nearest pharmacy was, so she checked her phone.",
+        "correct_answer": "did not know",
+        "distractors": [
+          "does not know",
+          "had not known",
+          "was not knowing"
+        ],
+        "distractor_rationale": [
+          "'does not know' is present simple and fails to back-shift from the original direct statement",
+          "'had not known' is past perfect, which over-shifts the tense and implies the ignorance ended before another past event, which is not supported by the context",
+          "'was not knowing' is grammatically impossible as 'know' is a stative verb that cannot be used in the continuous aspect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0007",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor told Sara that she ___ (take) the medication twice a day and avoid coffee for at least a week.",
+        "correct_answer": "should take",
+        "distractors": [
+          "must take",
+          "would take",
+          "had to have taken"
+        ],
+        "distractor_rationale": [
+          "'must take' is a direct speech modal form; in reported speech, 'must' expressing advice typically shifts to 'should' or 'had to', and 'must take' here lacks the back-shift required by the reporting context",
+          "'would take' reports a future intention, not medical advice or instruction, changing the meaning of the original statement",
+          "'had to have taken' is a past modal perfect implying the action was already completed before a past point, which is grammatically inappropriate for ongoing medical instructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0008",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark said that he had already sent the email ___ and was waiting for a reply from the client.",
+        "correct_answer": "the day before",
+        "distractors": [
+          "yesterday",
+          "the next day",
+          "the previous morning"
+        ],
+        "distractor_rationale": [
+          "'yesterday' is a direct speech time expression that must be shifted to 'the day before' in reported speech",
+          "'the next day' refers to the day after the reporting moment, which is the opposite of the intended meaning",
+          "'the previous morning' specifies a time earlier in the same day, not the previous calendar day, making it inconsistent with the past perfect action described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0009",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager told the team that the project ___ (be) more challenging than expected, but that everyone ___ (do) an excellent job so far.",
+        "correct_answer": "was / had done",
+        "distractors": [
+          "is / have done",
+          "was / did",
+          "had been / had done"
+        ],
+        "distractor_rationale": [
+          "'is / have done' keeps both verbs in their direct speech forms with no back-shift applied to either",
+          "'was / did' correctly back-shifts 'is' to 'was' but fails to back-shift 'have done' to 'had done', losing the past perfect needed to show the action was complete before the reporting moment",
+          "'had been / had done' over-shifts 'was' to past perfect, which is not required when the state described is contemporaneous with the reporting verb, making the first verb incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0010",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ me that the meeting was on Friday, so I wrote it in my diary.",
+        "correct_answer": "told",
+        "distractors": [
+          "said",
+          "spoke",
+          "told to"
+        ],
+        "distractor_rationale": [
+          "say cannot be followed directly by a personal object — 'said me' is a classic learner error",
+          "speak cannot introduce a reported statement with a personal object and a that-clause",
+          "told requires no preposition before a personal object — 'told to me' is grammatically incorrect in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0011",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna said she ___ (be) tired after her long journey the day before.",
+        "correct_answer": "was",
+        "distractors": [
+          "is",
+          "has been",
+          "were"
+        ],
+        "distractor_rationale": [
+          "present tense is not back-shifted and cannot be used in a reported statement about a past situation",
+          "present perfect is not the correct back-shift of the simple present 'am/is' in reported speech",
+          "were does not agree with the third-person singular subject 'she' in a simple reported statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0012",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark told his manager that he ___ (finish) the report by the end of that week.",
+        "correct_answer": "would finish",
+        "distractors": [
+          "will finish",
+          "finished",
+          "had finished"
+        ],
+        "distractor_rationale": [
+          "will is not back-shifted and cannot be used in a reported statement when the reporting verb is in the past",
+          "simple past 'finished' implies the action was already completed at the time of speaking, which contradicts the future reference of 'by the end of that week'",
+          "past perfect 'had finished' implies the action was completed before the moment of reporting, which contradicts the forward-looking time reference"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0013",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor said that Lisa ___ (can) return to work after she had rested for a few days.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "would",
+          "might have"
+        ],
+        "distractor_rationale": [
+          "can is not back-shifted and cannot be used in a reported statement when the reporting verb is in the past",
+          "would expresses a future intention or conditional meaning, not the back-shifted form of 'can' indicating permission or ability",
+          "might have implies a past possibility that was uncertain, which does not correctly report the doctor's permission-granting statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_cloze_0014",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara told her colleague that she had already sent the documents ___ and that the client should receive them by the following morning.",
+        "correct_answer": "that day",
+        "distractors": [
+          "today",
+          "this day",
+          "the next day"
+        ],
+        "distractor_rationale": [
+          "today is a direct speech time expression and must be changed to 'that day' in reported speech when the reporting verb is in the past",
+          "'this day' is not a standard English time expression in either direct or reported speech and is therefore incorrect in any context here",
+          "'the next day' refers to the day after the day of speaking, which contradicts the meaning — the documents were sent on the same day as the conversation, not the following day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reported_speech_statements_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0000",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom said he ___ tired after the long journey.",
+        "correct_answer": "was",
+        "distractors": [
+          "is",
+          "were",
+          "be"
+        ],
+        "distractor_rationale": [
+          "no tense back-shift — learner keeps present simple 'is' instead of shifting to past simple 'was'",
+          "'were' is incorrect because the subject is singular third-person 'he', requiring 'was'",
+          "'be' is the base form and cannot follow 'he' in a reported clause without an auxiliary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0001",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria ___ me that the meeting started at nine o'clock.",
+        "correct_answer": "told",
+        "distractors": [
+          "said",
+          "spoke",
+          "talked"
+        ],
+        "distractor_rationale": [
+          "'said me' is a classic learner error — 'say' cannot take a personal object directly; 'told + object' is required",
+          "'spoke me' is ungrammatical; 'speak' requires a preposition ('spoke to me') and does not introduce a reported clause with 'that'",
+          "'talked me' is ungrammatical; 'talk' also requires a preposition ('talked to me') and does not introduce a 'that' clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0002",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna said she ___ finish the report before lunch.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "can",
+          "shall"
+        ],
+        "distractor_rationale": [
+          "no back-shift — learner keeps 'will' from direct speech instead of shifting to 'would' in reported speech",
+          "'can' reports ability, not the future intention expressed by 'will' in the original statement",
+          "'shall' is a direct-speech form and does not back-shift correctly here; the required back-shift of 'will' is 'would'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0003",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James told his manager that he ___ the documents to the client the previous afternoon.",
+        "correct_answer": "had sent",
+        "distractors": [
+          "has sent",
+          "sent",
+          "was sending"
+        ],
+        "distractor_rationale": [
+          "no back-shift — learner keeps present perfect 'has sent' instead of shifting to past perfect 'had sent'",
+          "'sent' (past simple) does not fully back-shift the present perfect and loses the completed-action meaning in context",
+          "'was sending' (past continuous) expresses an action in progress at a past moment, contradicting the completed delivery implied by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0004",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She said that she ___ call us the next day to confirm the booking.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "could",
+          "should"
+        ],
+        "distractor_rationale": [
+          "no back-shift — learner keeps 'will' from the original direct speech instead of converting it to 'would'",
+          "'could' back-shifts 'can' (ability/permission), not 'will' (future intention), so it misrepresents the original statement",
+          "'should' introduces obligation or advice, which changes the meaning of the original future statement entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0005",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David told his colleague that he ___ not understand the new software at first.",
+        "correct_answer": "could",
+        "distractors": [
+          "can",
+          "would",
+          "did"
+        ],
+        "distractor_rationale": [
+          "no back-shift — learner keeps 'can' from the original direct speech instead of shifting to 'could'",
+          "'would' back-shifts 'will', not 'can'; using it here changes the meaning from inability to a hypothetical or future idea",
+          "'did not understand' uses past simple, which fails to back-shift the modal 'can' correctly and loses the ability/possibility meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0006",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa said that she had already spoken to the doctor ___ and felt much better.",
+        "correct_answer": "that day",
+        "distractors": [
+          "today",
+          "this day",
+          "the next day"
+        ],
+        "distractor_rationale": [
+          "keeping 'today' from direct speech is a learner error — time expressions must shift in reported speech when reporting past events",
+          "'this day' is not a standard English time expression in either direct or reported speech and is therefore ungrammatical",
+          "'the next day' refers to the day after the reporting moment, not the same day, so it contradicts the meaning of the original 'today'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0007",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The technician told us that the heating system ___ properly since the previous week and needed urgent repairs.",
+        "correct_answer": "had not been working",
+        "distractors": [
+          "has not been working",
+          "was not working",
+          "did not work"
+        ],
+        "distractor_rationale": [
+          "no back-shift — learner keeps present perfect continuous instead of shifting to past perfect continuous",
+          "'was not working' (past continuous) describes a temporary state at a single past moment and loses the duration-from-a-past-point meaning required by 'since the previous week'",
+          "'did not work' (past simple) loses both the continuous aspect and the back-shifted perfect, failing to express the ongoing malfunction up to the reporting moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0008",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark said that the results of the test ___ be ready ___ the following morning, so we should wait.",
+        "correct_answer": "would",
+        "distractors": [
+          "will",
+          "shall",
+          "might"
+        ],
+        "distractor_rationale": [
+          "no back-shift — learner keeps 'will' from direct speech instead of converting it to 'would' in the reported clause",
+          "'shall' is a direct-speech modal that does not correctly back-shift to represent a future intention; 'would' is the required form",
+          "'might' introduces uncertainty or possibility and changes the meaning of the original confident future statement using 'will'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_multiple_choice_0009",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara told her supervisor that she ___ the presentation slides the night before and had saved them to the shared folder.",
+        "correct_answer": "had prepared",
+        "distractors": [
+          "prepared",
+          "has prepared",
+          "was preparing"
+        ],
+        "distractor_rationale": [
+          "'prepared' (past simple) does not back-shift the past simple from direct speech into past perfect, which is required to show the action was completed before the reporting time",
+          "no back-shift — learner keeps present perfect 'has prepared' instead of shifting to past perfect 'had prepared'",
+          "'was preparing' (past continuous) implies the action was still in progress at the time of speaking, which contradicts the completed action indicated by 'the night before'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reported_speech_statements_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0000",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She said me that she was tired after the long journey.",
+        "correct_answer": "told me",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She said me that she was tired after the long journey.",
+        "corrected_sentence": "She told me that she was tired after the long journey.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0001",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom said that he is hungry and wanted something to eat.",
+        "correct_answer": "was hungry",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom said that he is hungry and wanted something to eat.",
+        "corrected_sentence": "Tom said that he was hungry and wanted something to eat.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0002",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna told her manager that she will finish the report by the end of the week.",
+        "correct_answer": "would finish",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna told her manager that she will finish the report by the end of the week.",
+        "corrected_sentence": "Anna told her manager that she would finish the report by the end of the week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0003",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The doctor said the patient that he needed to rest for at least a week.",
+        "correct_answer": "told the patient",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The doctor said the patient that he needed to rest for at least a week.",
+        "corrected_sentence": "The doctor told the patient that he needed to rest for at least a week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0004",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Mark told his colleague that he can help her with the presentation tomorrow.",
+        "correct_answer": "could help",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Mark told his colleague that he can help her with the presentation tomorrow.",
+        "corrected_sentence": "Mark told his colleague that he could help her with the presentation the next day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0005",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Lisa said that she had visited the museum today and found it very interesting.",
+        "correct_answer": "that day",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Lisa said that she had visited the museum today and found it very interesting.",
+        "corrected_sentence": "Lisa said that she had visited the museum that day and found it very interesting.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0006",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "David told his flatmates that they should leave the keys on the table tomorrow, as he would be home late.",
+        "correct_answer": "the next day",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "David told his flatmates that they should leave the keys on the table tomorrow, as he would be home late.",
+        "corrected_sentence": "David told his flatmates that they should leave the keys on the table the next day, as he would be home late.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reported_speech_statements_error_correction_0007",
+      "skill_ids": [
+        "reported_speech_statements"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria explained that I had already sent the invoice and that the payment would arrive within three days.",
+        "correct_answer": "she had already sent",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria explained that I had already sent the invoice and that the payment would arrive within three days.",
+        "corrected_sentence": "Maria explained that she had already sent the invoice and that the payment would arrive within three days.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:32:32.995282+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reported_speech_statements_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

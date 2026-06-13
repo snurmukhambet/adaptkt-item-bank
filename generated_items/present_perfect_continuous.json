@@ -1,0 +1,1863 @@
+{
+  "skill_id": "present_perfect_continuous",
+  "skill_name": "Present Perfect Continuous",
+  "exercises": [
+    {
+      "id": "ex_present_perfect_continuous_cloze_0000",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (play) in the garden all morning, and now they are covered in mud.",
+        "correct_answer": "have been playing",
+        "distractors": [
+          "are playing",
+          "have played",
+          "were playing"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express duration from a past point up to now with a visible present result",
+          "present perfect simple does not emphasise the continuous, ongoing nature of the activity throughout the morning",
+          "past continuous describes an activity in progress at a past moment, not one that has continued up to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0001",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (study) for his exam since breakfast, so he needs a break now.",
+        "correct_answer": "has been studying",
+        "distractors": [
+          "is studying",
+          "has studied",
+          "studied"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot anchor the activity to a past starting point marked by 'since breakfast'",
+          "present perfect simple does not convey the uninterrupted, continuous effort over the whole period",
+          "past simple marks a completed action and cannot connect to the present need for a break"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0002",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My hands are really cold because I ___ (wait) outside for the bus for nearly forty minutes.",
+        "correct_answer": "have been waiting",
+        "distractors": [
+          "am waiting",
+          "have waited",
+          "was waiting"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express a duration of forty minutes leading up to and explaining the present result of cold hands",
+          "present perfect simple does not emphasise the prolonged, continuous nature of the wait that caused the cold hands",
+          "past continuous places the action in the past without connecting it to the present visible result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0003",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She ___ (cough) all day, so she has decided to leave work early and rest.",
+        "correct_answer": "has been coughing",
+        "distractors": [
+          "is coughing",
+          "has coughed",
+          "had been coughing"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot describe an activity that has lasted all day up to the present moment of deciding to leave",
+          "present perfect simple does not convey the repeated, continuous nature of the coughing throughout the whole day",
+          "past perfect continuous places the action before another past event, but the coughing is still relevant now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0004",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How long ___ you ___ (learn) to drive? Your instructor says you are almost ready for the test.",
+        "correct_answer": "have been learning",
+        "distractors": [
+          "are learning",
+          "have learned",
+          "did learn"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot form a 'how long' question about a duration stretching from the past to the present",
+          "present perfect simple is less natural here because the focus is on the ongoing duration of the learning process, not its completion",
+          "past simple cannot be used in a 'how long' question about an activity that is still continuing up to now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0005",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark looks exhausted because he ___ (work) on the report without a break since early this morning.",
+        "correct_answer": "has been working",
+        "distractors": [
+          "is working",
+          "has worked",
+          "have been working"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express the unbroken duration from early this morning that explains his current exhausted appearance",
+          "present perfect simple does not emphasise the continuous, uninterrupted effort that produced the visible result of exhaustion",
+          "the subject is 'he' (third-person singular), so 'have been working' is a subject-verb agreement error"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0006",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The neighbours ___ (renovate) their kitchen for three weeks now, and the noise is driving everyone on the street mad.",
+        "correct_answer": "have been renovating",
+        "distractors": [
+          "are renovating",
+          "have renovated",
+          "been renovating"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot link the activity to the three-week duration starting in the past and explain the ongoing present nuisance",
+          "present perfect simple suggests the renovation is finished, which contradicts the present tense 'is driving' showing it is still happening",
+          "omitting the auxiliary 'have' produces a non-finite form that cannot function as a main verb in this clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0007",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna's eyes are red because she ___ (cry), though she says she feels better now.",
+        "correct_answer": "has been crying",
+        "distractors": [
+          "is crying",
+          "has cried",
+          "was crying"
+        ],
+        "distractor_rationale": [
+          "present continuous is contradicted by the clause 'she feels better now', which shows the crying has recently stopped",
+          "present perfect simple does not convey the prolonged, repeated nature of the crying that produced the visible result of red eyes",
+          "past continuous places the activity in the past without explaining the present visible result of red eyes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0008",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (look) for a bigger flat since our second child was born, but we still haven't found the right one.",
+        "correct_answer": "have been looking",
+        "distractors": [
+          "are looking",
+          "have looked",
+          "looked"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot anchor the search to the specific past starting point 'since our second child was born'",
+          "present perfect simple does not emphasise the continuous, ongoing nature of the search that is still unresolved now",
+          "past simple marks a completed action and is incompatible with 'since' used to mark a duration up to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0009",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The floor is wet because the tap ___ (drip) for at least two hours before David noticed it.",
+        "correct_answer": "had been dripping",
+        "distractors": [
+          "has been dripping",
+          "was dripping",
+          "dripped"
+        ],
+        "distractor_rationale": [
+          "present perfect continuous cannot be used here because the dripping ended before a specific past event ('before David noticed it'), requiring the past perfect continuous",
+          "past continuous does not convey the extended, uninterrupted two-hour duration that led up to the past moment of noticing",
+          "past simple does not express the continuous, prolonged nature of the dripping that produced the wet floor before the past discovery"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0010",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (study) for his exam since early this morning, and he looks very tired now.",
+        "correct_answer": "has been studying",
+        "distractors": [
+          "is studying",
+          "has studied",
+          "have been studying"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express a duration starting in the past with 'since'; it only describes what is happening right now without anchoring to a past start point",
+          "present perfect simple focuses on the completed result, not the ongoing duration; 'since early this morning' emphasises continuity, making the continuous form more natural",
+          "the subject 'Tom' is third-person singular and requires 'has', not 'have'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0011",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (wait) for the bus for nearly forty minutes, and it still has not arrived.",
+        "correct_answer": "have been waiting",
+        "distractors": [
+          "are waiting",
+          "have waited",
+          "were waiting"
+        ],
+        "distractor_rationale": [
+          "present continuous with 'for nearly forty minutes' cannot express a duration that started in the past and continues now; it lacks the connection to a past starting point",
+          "present perfect simple is possible but unnatural here because 'for nearly forty minutes' highlights ongoing duration and continuity, which the continuous form expresses more precisely",
+          "past continuous describes an action in progress at a past moment, not one that started in the past and is still continuing now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0012",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Her hands are covered in paint because she ___ (decorate) the living room all afternoon.",
+        "correct_answer": "has been decorating",
+        "distractors": [
+          "is decorating",
+          "have been decorating",
+          "has decorated"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot explain a visible present result caused by a past activity; 'all afternoon' signals duration from earlier in the day up to now",
+          "the subject 'she' is third-person singular and requires 'has', not 'have'",
+          "present perfect simple does not emphasise the ongoing, continuous nature of the activity that produced the visible result; the continuous form is more natural with 'all afternoon'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0013",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "How long ___ (you / learn) Spanish? Your pronunciation is already very clear.",
+        "correct_answer": "have you been learning",
+        "distractors": [
+          "are you learning",
+          "have you learned",
+          "were you learning"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot form a 'How long' question about a duration stretching from a past point to the present moment",
+          "present perfect simple is grammatically possible but less natural in a 'How long' question about an ongoing skill, where the continuous form emphasises unfinished, repeated practice over time",
+          "past continuous forms a 'How long' question about a past moment only and cannot connect to the present result mentioned in the second clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_cloze_0014",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children ___ (run) around the garden since lunch, so they are completely out of breath now.",
+        "correct_answer": "have been running",
+        "distractors": [
+          "have been knowing",
+          "are running",
+          "have run"
+        ],
+        "distractor_rationale": [
+          "'know' is a stative verb and cannot be used in any continuous form; using it here produces a grammatically incorrect and semantically nonsensical sentence",
+          "present continuous with 'since lunch' cannot express a duration that began at a specific past time and continues to the present, and it does not explain the visible result described in the second clause",
+          "present perfect simple does not emphasise the continuous, energetic activity over the whole duration that caused the children to be out of breath; the continuous form is more natural with 'since lunch' and a visible present result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_continuous_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0000",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My hands are covered in paint because I ___ the kitchen walls all morning.",
+        "correct_answer": "have been painting",
+        "distractors": [
+          "am painting",
+          "have painted",
+          "have been paint"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express an action that has been going on since a past point and explains a present result",
+          "present perfect simple does not emphasise the ongoing duration and effort that produced the visible result",
+          "omits the -ing inflection on the main verb, producing an ungrammatical form after 'have been'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0001",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom looks exhausted because he ___ for his final exams since last Monday.",
+        "correct_answer": "has been studying",
+        "distractors": [
+          "is studying",
+          "has studied",
+          "was studying"
+        ],
+        "distractor_rationale": [
+          "present continuous with 'since' cannot link a past starting point to the current moment",
+          "present perfect simple does not convey the continuous effort over the period marked by 'since'",
+          "past continuous describes an ongoing action in the past but does not connect to the present result of exhaustion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0002",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The children are very tired because they ___ in the garden for three hours.",
+        "correct_answer": "have been playing",
+        "distractors": [
+          "are playing",
+          "were playing",
+          "have playing"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express a duration that started in the past and explains a current state",
+          "past continuous describes an interrupted past action and does not explain the children's current tiredness",
+          "omits 'been', producing an ungrammatical present perfect form without the auxiliary needed for the continuous aspect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0003",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ long have you been waiting for the doctor to call you back?",
+        "correct_answer": "How",
+        "distractors": [
+          "What",
+          "Since",
+          "For"
+        ],
+        "distractor_rationale": [
+          "'What long' is not a grammatical question form in English for asking about duration",
+          "'Since' introduces a starting point, not an open question about the length of a period",
+          "'For' introduces a specific duration but cannot open an interrogative asking about an unknown length of time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0004",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara's eyes are red and sore because she ___ at a bright screen for over two hours.",
+        "correct_answer": "has been staring",
+        "distractors": [
+          "is staring",
+          "has stared",
+          "had been staring"
+        ],
+        "distractor_rationale": [
+          "present continuous with 'for over two hours' cannot anchor the action to a past start point that explains the current result",
+          "present perfect simple does not emphasise the uninterrupted duration that caused the soreness",
+          "past perfect continuous places the duration entirely before another past event, not before the present moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0005",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ this apartment since we moved to the city, and we still enjoy living here.",
+        "correct_answer": "have been renting",
+        "distractors": [
+          "are renting",
+          "have rented",
+          "have been rent"
+        ],
+        "distractor_rationale": [
+          "present continuous cannot express an unbroken action that began at a specific past point marked by 'since'",
+          "present perfect simple is possible here but does not emphasise the continuous, uninterrupted nature of the renting over the whole period",
+          "omits the -ing inflection on the main verb, producing an ungrammatical structure after 'have been'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0006",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The floor is wet because someone ___ the bathroom tap on for nearly half an hour.",
+        "correct_answer": "has been leaving",
+        "distractors": [
+          "has left",
+          "is leaving",
+          "was leaving"
+        ],
+        "distractor_rationale": [
+          "present perfect simple describes a completed action and does not convey the continuous duration that caused the floor to become so wet",
+          "present continuous cannot express an action that started in the past and has produced a visible present result",
+          "past continuous describes an ongoing past action without the connection to the present state of the wet floor"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0007",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James ___ about the same problem at work for weeks, and his colleagues are getting tired of hearing it.",
+        "correct_answer": "has been complaining",
+        "distractors": [
+          "complains",
+          "has been complained",
+          "is complaining"
+        ],
+        "distractor_rationale": [
+          "simple present describes a habit or general truth but cannot express a continuous action spanning 'weeks' up to now",
+          "uses passive voice incorrectly; 'complain' is intransitive and the subject is the agent, not the recipient of the action",
+          "present continuous with 'for weeks' cannot anchor the action to a past starting point and emphasise its unbroken duration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0008",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna ___ her new language app every day since she bought it last month, and her vocabulary has already improved.",
+        "correct_answer": "has been using",
+        "distractors": [
+          "uses",
+          "has been knowing",
+          "used"
+        ],
+        "distractor_rationale": [
+          "simple present cannot express a continuous activity that began at a specific past point and has produced a present result",
+          "'know' is a stative verb and cannot be used in any continuous form; this distractor tests the stative-verb error",
+          "simple past places the action entirely in the past and cannot connect it to the present improvement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_multiple_choice_0009",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The team ___ on this project for six months, so they deserve a break now that it is finished.",
+        "correct_answer": "has been working",
+        "distractors": [
+          "has worked",
+          "had worked",
+          "is working"
+        ],
+        "distractor_rationale": [
+          "present perfect simple is possible but does not emphasise the continuous, sustained effort over the full six-month duration",
+          "past perfect places the action before another past event, not before the present moment of deserving a break",
+          "present continuous with 'for six months' cannot express an action anchored to a past starting point and now recently completed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_continuous_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0000",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She is waiting for the bus for over thirty minutes and looks very tired.",
+        "correct_answer": "has been waiting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She is waiting for the bus for over thirty minutes and looks very tired.",
+        "corrected_sentence": "She has been waiting for the bus for over thirty minutes and looks very tired.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0001",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom have been studying for his exam since early this morning.",
+        "correct_answer": "has been studying",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom have been studying for his exam since early this morning.",
+        "corrected_sentence": "Tom has been studying for his exam since early this morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0002",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The children have playing in the garden all afternoon, so their shoes are muddy.",
+        "correct_answer": "have been playing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The children have playing in the garden all afternoon, so their shoes are muddy.",
+        "corrected_sentence": "The children have been playing in the garden all afternoon, so their shoes are muddy.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0003",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 47,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I have been knowing Anna since we were at school together, so I trust her completely.",
+        "correct_answer": "have known",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I have been knowing Anna since we were at school together, so I trust her completely.",
+        "corrected_sentence": "I have known Anna since we were at school together, so I trust her completely.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 47,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0004",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "How long has your sister been work at the hospital? She seems exhausted lately.",
+        "correct_answer": "been working",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "How long has your sister been work at the hospital? She seems exhausted lately.",
+        "corrected_sentence": "How long has your sister been working at the hospital? She seems exhausted lately.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0005",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Mark has worked on that report since nine o'clock this morning and his eyes are red.",
+        "correct_answer": "has been working",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Mark has worked on that report since nine o'clock this morning and his eyes are red.",
+        "corrected_sentence": "Mark has been working on that report since nine o'clock this morning and his eyes are red.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0006",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We are living in this flat for three years now, and we still love the neighbourhood.",
+        "correct_answer": "have been living",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We are living in this flat for three years now, and we still love the neighbourhood.",
+        "corrected_sentence": "We have been living in this flat for three years now, and we still love the neighbourhood.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_continuous_error_correction_0007",
+      "skill_ids": [
+        "present_perfect_continuous"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Lisa has been wait for her test results since Monday, and she is feeling very anxious.",
+        "correct_answer": "has been waiting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Lisa has been wait for her test results since Monday, and she is feeling very anxious.",
+        "corrected_sentence": "Lisa has been waiting for her test results since Monday, and she is feeling very anxious.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:51:50.510645+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_continuous_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

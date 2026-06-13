@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_entertainment_culture",
+  "skill_name": "Entertainment & Culture",
+  "exercises": [
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0000",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ stood on the stage and spoke all of his lines without making a single mistake.",
+        "correct_answer": "actor",
+        "distractors": [
+          "audience",
+          "channel",
+          "album"
+        ],
+        "distractor_rationale": [
+          "audience refers to the people watching, not performing on stage",
+          "channel is a television or radio broadcast medium, not a person who performs on stage",
+          "album is a music recording, not a person who speaks lines on stage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0001",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children laughed at the funny ___ characters on TV — the animals could talk and dance.",
+        "correct_answer": "cartoon",
+        "distractors": [
+          "ceremony",
+          "band",
+          "art"
+        ],
+        "distractor_rationale": [
+          "ceremony is a formal event, not a type of animated TV programme with talking animals",
+          "band is a group of musicians, not animated characters on TV",
+          "art is a general creative domain, not a specific type of animated TV programme"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0002",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "We bought tickets and went to the ___ to watch the new film on a big screen.",
+        "correct_answer": "cinema",
+        "distractors": [
+          "album",
+          "book",
+          "channel"
+        ],
+        "distractor_rationale": [
+          "album is a music recording you listen to, not a place where you watch films on a big screen",
+          "book is something you read, not a place where you watch films on a big screen",
+          "channel is a TV or radio broadcast medium, not a physical place you buy tickets to enter"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0003",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ clapped loudly at the end of the concert to show that they had enjoyed the performance.",
+        "correct_answer": "audience",
+        "distractors": [
+          "band",
+          "actress",
+          "celebrity"
+        ],
+        "distractor_rationale": [
+          "band refers to the musicians performing, not the people watching and clapping at the end",
+          "actress is a single female performer on stage, not the group of people watching the concert",
+          "celebrity is a famous person, not the collective group of people who attend and applaud a performance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0004",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The pop ___ released their new ___ last Friday, and all twelve songs were available to stream online immediately.",
+        "correct_answer": "album",
+        "distractors": [
+          "cartoon",
+          "ceremony",
+          "channel"
+        ],
+        "distractor_rationale": [
+          "cartoon is an animated programme, not a music release containing twelve songs to stream",
+          "ceremony is a formal event, not a collection of songs released by a pop group",
+          "channel is a broadcast medium, not a music product containing twelve songs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0005",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The young ___ painted colourful pictures of the city and sold them at the market every weekend.",
+        "correct_answer": "artist",
+        "distractors": [
+          "actor",
+          "celebrity",
+          "audience"
+        ],
+        "distractor_rationale": [
+          "actor performs in films or plays and does not paint pictures to sell at a market",
+          "celebrity is a famous person in general, not specifically someone who paints and sells pictures",
+          "audience is a group of people who watch or listen, not a person who creates and sells paintings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0006",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The five musicians in the ___ practised together every evening so they could perform at the local festival.",
+        "correct_answer": "band",
+        "distractors": [
+          "ceremony",
+          "cartoon",
+          "book"
+        ],
+        "distractor_rationale": [
+          "ceremony is a formal event, not a group of five musicians who rehearse and perform together",
+          "cartoon is an animated programme, not a group of musicians who practise for a festival",
+          "book is a written publication, not a group of five musicians who rehearse together"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0007",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The awards ___ lasted three hours, during which prizes were given to the best films and performances of the year.",
+        "correct_answer": "ceremony",
+        "distractors": [
+          "channel",
+          "act",
+          "cartoon"
+        ],
+        "distractor_rationale": [
+          "channel is a broadcast medium, not an event that lasts three hours and includes prize-giving",
+          "act refers to a section of a play or a performer's routine, not a formal prize-giving event",
+          "cartoon is an animated programme, not a formal event where annual awards are presented"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0008",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The journalist interviewed the ___ backstage after her final performance in the play, asking her about her years of training.",
+        "correct_answer": "actress",
+        "distractors": [
+          "audience",
+          "celebrity",
+          "artist"
+        ],
+        "distractor_rationale": [
+          "audience is the group of people watching the play, not the individual performer interviewed backstage",
+          "celebrity is a general term for a famous person and does not specifically indicate someone who performs in plays with years of training",
+          "artist typically refers to a visual creator such as a painter, not a person who performs in theatrical plays"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0009",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She switched to a different ___ on the television because the documentary on the first one had already finished.",
+        "correct_answer": "channel",
+        "distractors": [
+          "act",
+          "album",
+          "book"
+        ],
+        "distractor_rationale": [
+          "act refers to a section of a performance or a performer's routine, not something you switch on a television set",
+          "album is a music recording, not something you switch between on a television when a documentary ends",
+          "book is a written publication, not something you switch to on a television set"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0010",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ stood on the stage and performed her role in the play in front of hundreds of people.",
+        "correct_answer": "actress",
+        "distractors": [
+          "audience",
+          "album",
+          "channel"
+        ],
+        "distractor_rationale": [
+          "audience refers to the people watching, not the person performing on stage",
+          "album is a music recording, not a person who performs in a play",
+          "channel is a television station, not a person who stands on a stage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0011",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "We bought tickets and went to the ___ to watch the new film on the big screen.",
+        "correct_answer": "cinema",
+        "distractors": [
+          "band",
+          "cartoon",
+          "ceremony"
+        ],
+        "distractor_rationale": [
+          "band is a group of musicians, not a place where you watch films on a big screen",
+          "cartoon is an animated programme or drawing, not a venue you buy tickets to enter",
+          "ceremony is a formal public event, not a place where films are shown on a big screen"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0012",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The rock ___ played their new songs at the outdoor festival, and thousands of fans sang along with every word.",
+        "correct_answer": "band",
+        "distractors": [
+          "actor",
+          "audience",
+          "celebrity"
+        ],
+        "distractor_rationale": [
+          "actor performs in films or plays, not a group that plays music together at a festival",
+          "audience refers to the fans watching and listening, not the group performing on stage",
+          "celebrity describes a famous individual person, not a group that plays songs together"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0013",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The painter spent three years creating the large ___ that now hangs in the main hall of the museum.",
+        "correct_answer": "art",
+        "distractors": [
+          "album",
+          "act",
+          "cartoon"
+        ],
+        "distractor_rationale": [
+          "album is a collection of music recordings, not something a painter creates and hangs in a museum",
+          "act refers to a section of a performance or a deed, not a visual work made by a painter and displayed in a museum",
+          "cartoon is a simple or animated drawing, not a large serious work created over three years by a painter for a museum"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_cloze_0014",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The concert hall was completely full, and the ___ applauded loudly after each piece of classical music was performed.",
+        "correct_answer": "audience",
+        "distractors": [
+          "artist",
+          "celebrity",
+          "band"
+        ],
+        "distractor_rationale": [
+          "artist refers to the person creating or performing the music, not the group of people sitting and applauding in the hall",
+          "celebrity describes a famous individual, not the collective group of people attending and reacting to a concert",
+          "band is the group of musicians performing the music, not the people filling the seats and applauding"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_entertainment_culture_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The children laughed at the funny ___ characters on TV on Saturday morning.",
+        "correct_answer": "cartoon",
+        "distractors": [
+          "album",
+          "ceremony",
+          "channel"
+        ],
+        "distractor_rationale": [
+          "an album is a music recording, not a visual programme with characters",
+          "a ceremony is a formal event, not a TV programme with funny characters",
+          "a channel is the broadcast service itself, not the characters that appear on it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The pop ___ played three guitars and a drum kit on stage at the concert.",
+        "correct_answer": "band",
+        "distractors": [
+          "actor",
+          "audience",
+          "artist"
+        ],
+        "distractor_rationale": [
+          "an actor performs in plays or films, not as a group playing guitars and drums",
+          "an audience watches a performance — it does not play instruments on stage",
+          "an artist usually refers to a solo performer or painter, not a group with guitars and drums"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "We bought tickets and sat in the ___ to watch the new film at the local cinema.",
+        "correct_answer": "audience",
+        "distractors": [
+          "band",
+          "act",
+          "celebrity"
+        ],
+        "distractor_rationale": [
+          "a band is a group of musicians, not people sitting to watch a film",
+          "an act is a performance or performer, not the group of people watching",
+          "a celebrity is a famous person, not the collective group watching a film"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The singer released a new ___ with twelve songs, and it became very popular on streaming platforms.",
+        "correct_answer": "album",
+        "distractors": [
+          "book",
+          "channel",
+          "cartoon"
+        ],
+        "distractor_rationale": [
+          "a book contains written text, not a collection of songs released by a singer",
+          "a channel is a TV or online broadcast service, not a collection of songs",
+          "a cartoon is an animated programme or drawing, not a music release with twelve songs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The famous ___ painted large, colourful pictures that now hang in galleries around the world.",
+        "correct_answer": "artist",
+        "distractors": [
+          "actress",
+          "celebrity",
+          "actor"
+        ],
+        "distractor_rationale": [
+          "an actress performs in films or theatre — she does not paint pictures for galleries",
+          "a celebrity is simply a famous person and does not specifically paint pictures for galleries",
+          "an actor performs in films or theatre — he does not paint pictures for galleries"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She changed the TV ___ because there was nothing interesting on the first one she tried.",
+        "correct_answer": "channel",
+        "distractors": [
+          "album",
+          "act",
+          "ceremony"
+        ],
+        "distractor_rationale": [
+          "you cannot change an album on a TV — albums are music releases, not broadcast services",
+          "an act is a performance or performer, not something you change on a television",
+          "a ceremony is a formal event — you do not change a ceremony when watching TV"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The young ___ performed her role so well in the film that she won an award for best female performance.",
+        "correct_answer": "actress",
+        "distractors": [
+          "artist",
+          "celebrity",
+          "band"
+        ],
+        "distractor_rationale": [
+          "an artist creates visual art or music — the word does not specifically describe a female film performer",
+          "a celebrity is simply a famous person and does not specifically describe someone who performs a role in a film",
+          "a band is a group of musicians — it cannot perform a female role or win a best female performance award"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The awards ___ was held in a large theatre, where the winners collected their prizes in front of thousands of guests.",
+        "correct_answer": "ceremony",
+        "distractors": [
+          "act",
+          "cartoon",
+          "album"
+        ],
+        "distractor_rationale": [
+          "an act is a single performance or performer, not the entire formal event where prizes are given to winners",
+          "a cartoon is an animated programme or drawing — it cannot be held in a theatre for prize-giving",
+          "an album is a music release — it is not an event held in a theatre where winners collect prizes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The opening ___ of the show was a comedian who told jokes for twenty minutes before the main singer appeared.",
+        "correct_answer": "act",
+        "distractors": [
+          "audience",
+          "channel",
+          "ceremony"
+        ],
+        "distractor_rationale": [
+          "an audience is the group of people watching — it cannot tell jokes as a performer before the main singer",
+          "a channel is a broadcast service — it cannot perform as a comedian before the main singer",
+          "a ceremony is a formal event — it does not describe a single comedian performing before the main act"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The concert hall was full of people who had come to enjoy an evening of ___ music by famous composers such as Mozart and Beethoven.",
+        "correct_answer": "classical",
+        "distractors": [
+          "cartoon",
+          "art",
+          "celebrity"
+        ],
+        "distractor_rationale": [
+          "cartoon music is informal and associated with animation — it is not linked to Mozart and Beethoven in a concert hall",
+          "art is a noun referring to creative works — it cannot function as an adjective modifying 'music' to describe the style of Mozart and Beethoven",
+          "celebrity music is not a recognised genre — it does not describe the formal style of composers like Mozart and Beethoven"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_entertainment_culture_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_word_formation_0000",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "My brother wants to be an ___ when he grows up. (ACT)",
+        "correct_answer": "actor",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ACT"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_entertainment_culture_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_word_formation_0001",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ clapped loudly at the end of the show. (AUDIENCE)",
+        "correct_answer": "audience",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "AUDIENCE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_entertainment_culture_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_word_formation_0002",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The gallery opened a new exhibition of ___ paintings from the nineteenth century. (ART)",
+        "correct_answer": "artistic",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ART"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_entertainment_culture_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_word_formation_0003",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The band received an award for the most popular ___ of the year at the music ceremony. (ALBUM)",
+        "correct_answer": "album",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ALBUM"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_entertainment_culture_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_entertainment_culture_word_formation_0004",
+      "skill_ids": [
+        "vocab_entertainment_culture"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Her ___ performance in the lead role earned her a nomination at the national cinema awards. (CELEBRATE)",
+        "correct_answer": "celebrated",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CELEBRATE"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:09:09.598254+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_entertainment_culture_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

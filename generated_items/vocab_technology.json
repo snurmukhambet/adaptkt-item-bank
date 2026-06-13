@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_technology",
+  "skill_name": "Technology & Media",
+  "exercises": [
+    {
+      "id": "ex_vocab_technology_cloze_0000",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Press the red ___ on the keyboard to delete the text you just typed.",
+        "correct_answer": "button",
+        "distractors": [
+          "screen",
+          "cable",
+          "speaker"
+        ],
+        "distractor_rationale": [
+          "a screen displays information but cannot be pressed to perform a delete action",
+          "a cable connects devices and is not pressed to delete text",
+          "a speaker produces sound and is not pressed to delete text"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0001",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She used her phone ___ to take a photo of the sunset from the balcony.",
+        "correct_answer": "camera",
+        "distractors": [
+          "battery",
+          "charger",
+          "signal"
+        ],
+        "distractor_rationale": [
+          "a battery stores power and cannot be used to take a photo",
+          "a charger supplies power to a device and cannot take photos",
+          "a signal is a wireless connection, not a tool for taking photos"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0002",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom turned on his ___ and opened a spreadsheet to check the sales figures for last month.",
+        "correct_answer": "computer",
+        "distractors": [
+          "printer",
+          "router",
+          "projector"
+        ],
+        "distractor_rationale": [
+          "a printer produces paper copies but cannot be turned on to open a spreadsheet",
+          "a router manages network connections and does not open spreadsheets",
+          "a projector displays images on a wall and is not used to open spreadsheets"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0003",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "You need to ___ on the blue link to open the registration form on the website.",
+        "correct_answer": "click",
+        "distractors": [
+          "type",
+          "scroll",
+          "upload"
+        ],
+        "distractor_rationale": [
+          "typing means entering text with a keyboard, which does not open a link",
+          "scrolling moves the page up or down but does not activate a link",
+          "uploading sends a file to a server and is not the action used to open a link"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0004",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The fitness ___ on her phone counts her steps every day and reminds her to drink water.",
+        "correct_answer": "app",
+        "distractors": [
+          "file",
+          "folder",
+          "update"
+        ],
+        "distractor_rationale": [
+          "a file stores data but cannot count steps or send reminders by itself",
+          "a folder organises files and cannot actively count steps or send reminders",
+          "an update is a software improvement, not a tool that actively tracks fitness"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0005",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She writes a weekly ___ about healthy recipes and posts new articles every Monday morning.",
+        "correct_answer": "blog",
+        "distractors": [
+          "podcast",
+          "channel",
+          "profile"
+        ],
+        "distractor_rationale": [
+          "a podcast is an audio programme, not a written format with articles",
+          "a channel is used for video content, not written articles posted weekly",
+          "a profile is a personal page on a social network, not a site with written articles"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0006",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Please ___ your laptop to the office Wi-Fi before you join the video meeting.",
+        "correct_answer": "connect",
+        "distractors": [
+          "charge",
+          "restart",
+          "print"
+        ],
+        "distractor_rationale": [
+          "charging supplies power to the battery and does not link the laptop to a Wi-Fi network",
+          "restarting shuts down and reboots the device but does not link it to a network",
+          "printing produces a paper copy and has nothing to do with joining a Wi-Fi network"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0007",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The company stores all customer ___ on secure servers so that personal information cannot be accessed by anyone outside the organisation.",
+        "correct_answer": "data",
+        "distractors": [
+          "design",
+          "code",
+          "content"
+        ],
+        "distractor_rationale": [
+          "design refers to the visual layout of a product, not the personal information stored on servers",
+          "code refers to programming instructions, not the personal records of customers stored on servers",
+          "content refers to published material such as text or videos, not private personal records kept on secure servers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0008",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The developer wrote the ___ for the new payment feature and then tested it carefully to make sure there were no errors.",
+        "correct_answer": "code",
+        "distractors": [
+          "data",
+          "device",
+          "design"
+        ],
+        "distractor_rationale": [
+          "data is a set of stored values, not the programming instructions that a developer writes for a feature",
+          "a device is a physical piece of hardware, not something a developer writes for a software feature",
+          "design refers to the visual appearance of a product, not the programming instructions written to make a feature work"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0009",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The team spent three months working on the ___ of the new website, choosing colours, fonts, and the layout of each page.",
+        "correct_answer": "design",
+        "distractors": [
+          "download",
+          "data",
+          "digital"
+        ],
+        "distractor_rationale": [
+          "a download is the act of transferring a file to a device, not the process of choosing colours, fonts, and layouts",
+          "data refers to stored information or statistics, not the visual planning of colours, fonts, and page layouts",
+          "digital is an adjective describing electronic technology, not a noun that describes the visual planning of a website"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0010",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She pressed the power ___ on her laptop to turn it on.",
+        "correct_answer": "button",
+        "distractors": [
+          "screen",
+          "cable",
+          "folder"
+        ],
+        "distractor_rationale": [
+          "a screen is a display surface, not something you press to power a device on",
+          "a cable is a wire used for connection, not a physical control you press",
+          "a folder is a storage location for files, not a physical part of a laptop"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0011",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom used his phone's ___ to take a photo of the meal before eating it.",
+        "correct_answer": "camera",
+        "distractors": [
+          "speaker",
+          "charger",
+          "keypad"
+        ],
+        "distractor_rationale": [
+          "a speaker produces sound and cannot take photos",
+          "a charger supplies power to a battery and has no function in capturing images",
+          "a keypad is used for typing or entering numbers, not for taking photos"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0012",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She used a fitness ___ on her phone to count her steps and track how many calories she burned each day.",
+        "correct_answer": "app",
+        "distractors": [
+          "blog",
+          "code",
+          "device"
+        ],
+        "distractor_rationale": [
+          "a blog is a website where people write articles, not a tool that counts steps or tracks calories on a phone",
+          "code refers to programming instructions and is not something a user opens and uses directly for fitness tracking",
+          "a device is a piece of hardware such as a phone or watch, not the software that runs on it and counts steps"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0013",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The hotel room had no Wi-Fi signal, so Mark could not ___ his tablet to the internet to check his emails.",
+        "correct_answer": "connect",
+        "distractors": [
+          "download",
+          "click",
+          "design"
+        ],
+        "distractor_rationale": [
+          "download means to transfer a file from the internet to a device, but you must already be connected before you can download anything",
+          "click refers to pressing a mouse button or tapping a link, not establishing a network connection",
+          "design means to plan or create the appearance of something, which has no relation to joining a network"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_cloze_0014",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The hospital stores all patient records in ___ form so that doctors can access and update them instantly from any computer on the network.",
+        "correct_answer": "digital",
+        "distractors": [
+          "electric",
+          "electronic",
+          "data"
+        ],
+        "distractor_rationale": [
+          "electric describes something powered by electricity, such as an electric car or light, and does not collocate with 'form' to mean stored as computer files",
+          "electronic can describe devices that use electronics, but 'electronic form' in this medical-records context is less precise than 'digital form', and more importantly the sentence specifies access via computer network, which specifically points to digital storage rather than a general electronic format",
+          "data is a noun referring to information itself, not an adjective that can modify 'form' to describe the format in which records are stored"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_technology_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She took a ___ of the birthday cake and sent it to her friends.",
+        "correct_answer": "photo",
+        "distractors": [
+          "click",
+          "code",
+          "download"
+        ],
+        "distractor_rationale": [
+          "click refers to pressing a button, not creating an image",
+          "code refers to programming instructions, not a captured image",
+          "download means to transfer data from the internet, not to take a picture"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom pressed the red ___ on the remote control to turn off the television.",
+        "correct_answer": "button",
+        "distractors": [
+          "screen",
+          "cable",
+          "camera"
+        ],
+        "distractor_rationale": [
+          "screen is a display surface that you look at, not something you press to operate a device",
+          "cable is a wire that connects devices, not a control you press",
+          "camera is a device for taking pictures, not a part of a remote control you press"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria uses a ___ every day to write emails and search for information online.",
+        "correct_answer": "computer",
+        "distractors": [
+          "printer",
+          "speaker",
+          "camera"
+        ],
+        "distractor_rationale": [
+          "a printer only produces paper copies and cannot be used to write emails or search online",
+          "a speaker only plays sound and cannot be used to write emails or search online",
+          "a camera takes photographs and cannot be used to write emails or search online"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "You need to ___ the music file to your phone before you can listen to it without an internet connection.",
+        "correct_answer": "download",
+        "distractors": [
+          "upload",
+          "connect",
+          "delete"
+        ],
+        "distractor_rationale": [
+          "upload means to send a file from your device to the internet, which is the opposite direction",
+          "connect means to link devices together, not to transfer a file onto a phone for offline use",
+          "delete means to remove a file permanently, which contradicts the goal of listening to it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James writes a ___ about cooking, and he posts new recipes on it every week for his readers.",
+        "correct_answer": "blog",
+        "distractors": [
+          "app",
+          "device",
+          "channel"
+        ],
+        "distractor_rationale": [
+          "an app is a software application, not a personal website where someone posts written recipes regularly",
+          "a device is a piece of hardware such as a phone or tablet, not a platform for publishing written content",
+          "a channel is typically used for video content, not for posting written recipes with regular text entries"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The new fitness ___ on her phone tracks how many steps she walks each day and shows her progress in a chart.",
+        "correct_answer": "app",
+        "distractors": [
+          "blog",
+          "cable",
+          "button"
+        ],
+        "distractor_rationale": [
+          "a blog is a website for publishing written content, not a tool that tracks steps and displays charts on a phone",
+          "a cable is a physical wire used to connect devices, not a software program that monitors daily activity",
+          "a button is a physical or on-screen control to press, not a program that tracks steps and shows progress"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "All the photos from the wedding were stored as ___ files, so the family could view them on any screen without printing them.",
+        "correct_answer": "digital",
+        "distractors": [
+          "electric",
+          "electronic",
+          "wireless"
+        ],
+        "distractor_rationale": [
+          "electric describes something powered by electricity, not the format in which image files are stored",
+          "electronic refers to devices or systems using electronic circuits, not the file format of stored photos",
+          "wireless describes a connection without cables, not the nature of how image files are formatted and stored"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The software engineer spent three days fixing the ___ in the program that was causing it to crash whenever users tried to save their work.",
+        "correct_answer": "code",
+        "distractors": [
+          "data",
+          "design",
+          "device"
+        ],
+        "distractor_rationale": [
+          "data refers to stored information or facts, not the written programming instructions that a software engineer fixes to stop crashes",
+          "design refers to the visual layout or plan of something, not the written programming instructions responsible for a software crash",
+          "device refers to a physical piece of hardware, not the written programming instructions that an engineer edits to repair a program"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The company collects ___ about how long users spend on each page so that it can improve the website experience.",
+        "correct_answer": "data",
+        "distractors": [
+          "design",
+          "code",
+          "signal"
+        ],
+        "distractor_rationale": [
+          "design refers to the visual appearance or structure of something, not the statistical information collected about user behaviour",
+          "code refers to written programming instructions, not the measurable information gathered about how users interact with pages",
+          "signal refers to a transmitted electronic impulse, not the recorded information about the time users spend on pages"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The graphic designer was asked to create a clean, modern ___ for the company's new website so that visitors would find it easy to navigate.",
+        "correct_answer": "design",
+        "distractors": [
+          "device",
+          "data",
+          "download"
+        ],
+        "distractor_rationale": [
+          "device refers to a physical piece of hardware, not the visual layout and structure that a graphic designer creates for a website",
+          "data refers to collected information or statistics, not the visual and structural plan that a graphic designer produces",
+          "download refers to the act of transferring files from the internet, not the visual layout created by a graphic designer"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_technology_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_word_formation_0000",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "My phone has a ___ camera on the front. (DIGIT)",
+        "correct_answer": "digital",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DIGIT"
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_technology_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_word_formation_0001",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She pressed the ___ on the screen to open the app. (BUTTON)",
+        "correct_answer": "button",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BUTTON"
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_technology_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_word_formation_0002",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the new website took the team several weeks to finish. (DESIGN)",
+        "correct_answer": "designing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DESIGN"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_technology_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_word_formation_0003",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "You need a strong internet ___ to stream videos without any interruptions. (CONNECT)",
+        "correct_answer": "connection",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CONNECT"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_technology_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_technology_word_formation_0004",
+      "skill_ids": [
+        "vocab_technology"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The software update improved the ___ of data between the app and the cloud server. (DOWNLOAD)",
+        "correct_answer": "downloading",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DOWNLOAD"
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:21:39.286892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_technology_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

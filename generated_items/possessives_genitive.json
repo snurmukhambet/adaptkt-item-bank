@@ -1,0 +1,1863 @@
+{
+  "skill_id": "possessives_genitive",
+  "skill_name": "Possessives & Genitive Forms",
+  "exercises": [
+    {
+      "id": "ex_possessives_genitive_cloze_0000",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "That is ___ bag. She left it on the chair.",
+        "correct_answer": "her",
+        "distractors": [
+          "hers",
+          "his",
+          "she"
+        ],
+        "distractor_rationale": [
+          "hers is a possessive pronoun and cannot be followed directly by a noun",
+          "his refers to a male owner, but the sentence says 'she'",
+          "she is a subject pronoun, not a possessive adjective"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0001",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom lost ___ keys, so he cannot open the door.",
+        "correct_answer": "his",
+        "distractors": [
+          "him",
+          "he",
+          "its"
+        ],
+        "distractor_rationale": [
+          "him is an object pronoun, not a possessive adjective",
+          "he is a subject pronoun and cannot modify a noun",
+          "its refers to a non-human subject, but Tom is a person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0002",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This phone is not mine — it is ___.",
+        "correct_answer": "yours",
+        "distractors": [
+          "your",
+          "you",
+          "yourself"
+        ],
+        "distractor_rationale": [
+          "your is a possessive adjective and must be followed by a noun, not used alone as a pronoun",
+          "you is a subject or object pronoun, not a possessive form",
+          "yourself is a reflexive pronoun and cannot express ownership here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0003",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We painted ___ living room last weekend, and it looks much brighter now.",
+        "correct_answer": "our",
+        "distractors": [
+          "ours",
+          "us",
+          "we"
+        ],
+        "distractor_rationale": [
+          "ours is a possessive pronoun and cannot directly precede a noun",
+          "us is an object pronoun and cannot function as a possessive adjective",
+          "we is a subject pronoun and has no possessive function"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0004",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The cat was sitting next to ___ bowl, waiting for food.",
+        "correct_answer": "its",
+        "distractors": [
+          "it's",
+          "their",
+          "her"
+        ],
+        "distractor_rationale": [
+          "it's is a contraction of 'it is' and is grammatically incorrect as a possessive adjective before a noun",
+          "their refers to multiple owners, but the sentence describes a single cat",
+          "her refers to a female person or animal whose gender has been established, but the sentence uses the neutral 'the cat' with no gender specified"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0005",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My neighbours invited us to ___ daughter's graduation party next Saturday.",
+        "correct_answer": "their",
+        "distractors": [
+          "theirs",
+          "its",
+          "them"
+        ],
+        "distractor_rationale": [
+          "theirs is a possessive pronoun and cannot be placed directly before a noun",
+          "its refers to a non-human subject, but neighbours are people",
+          "them is an object pronoun and has no possessive function"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0006",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I found a wallet on the bus, but I could not read ___ owner's name on the card inside.",
+        "correct_answer": "the",
+        "distractors": [
+          "its",
+          "their",
+          "his"
+        ],
+        "distractor_rationale": [
+          "its would create a double possessive ('its owner's') which is redundant and unnatural; the genitive 's on 'owner' already marks possession",
+          "their implies a plural or gender-neutral owner which is not established in the context",
+          "his assumes the owner is male, but no gender information is given in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0007",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The report on the desk belongs to the two managers — it is ___.",
+        "correct_answer": "theirs",
+        "distractors": [
+          "their",
+          "them",
+          "they"
+        ],
+        "distractor_rationale": [
+          "their is a possessive adjective and must be followed by a noun; it cannot stand alone as a pronoun after 'it is'",
+          "them is an object pronoun and does not express possession",
+          "they is a subject pronoun and cannot follow 'it is' to indicate ownership"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0008",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children in the front row raised ___ hands when the teacher asked who had finished the test.",
+        "correct_answer": "their",
+        "distractors": [
+          "its",
+          "theirs",
+          "our"
+        ],
+        "distractor_rationale": [
+          "its refers to a single non-human subject, not to a group of children",
+          "theirs is a possessive pronoun and cannot directly precede the noun 'hands'",
+          "our implies the speaker is part of the group of children, which contradicts the third-person reference 'the children'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0009",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The laptop on the left is ___, but the one on the right belongs to my colleague.",
+        "correct_answer": "mine",
+        "distractors": [
+          "my",
+          "me",
+          "I"
+        ],
+        "distractor_rationale": [
+          "my is a possessive adjective and must be followed by a noun; it cannot stand alone after 'is'",
+          "me is an object pronoun and cannot express ownership in this predicate position",
+          "I is a subject pronoun and cannot follow 'is' to indicate that something belongs to the speaker"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0010",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom left ___ bag on the bus this morning.",
+        "correct_answer": "his",
+        "distractors": [
+          "her",
+          "him",
+          "he"
+        ],
+        "distractor_rationale": [
+          "her is a possessive adjective for a female subject, but the subject is Tom, who is male",
+          "him is an object pronoun, not a possessive adjective, and cannot modify a noun",
+          "he is a subject pronoun, not a possessive adjective, and cannot modify a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0011",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna showed me ___ new phone at school today.",
+        "correct_answer": "her",
+        "distractors": [
+          "hers",
+          "she",
+          "their"
+        ],
+        "distractor_rationale": [
+          "hers is a possessive pronoun used without a following noun; it cannot directly modify 'phone'",
+          "she is a subject pronoun, not a possessive adjective, and cannot modify a noun",
+          "their refers to more than one person, but only Anna is the subject here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0012",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We couldn't find a table at the café, so we ate lunch at ___ place instead.",
+        "correct_answer": "our",
+        "distractors": [
+          "ours",
+          "us",
+          "we"
+        ],
+        "distractor_rationale": [
+          "ours is a possessive pronoun that stands alone without a following noun; it cannot directly modify 'place'",
+          "us is an object pronoun, not a possessive adjective, and cannot modify a noun",
+          "we is a subject pronoun, not a possessive adjective, and cannot modify a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0013",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The dog wagged ___ tail and ran towards the door when it heard the key.",
+        "correct_answer": "its",
+        "distractors": [
+          "it's",
+          "their",
+          "her"
+        ],
+        "distractor_rationale": [
+          "it's is a contraction of 'it is' or 'it has', not a possessive adjective, making the sentence grammatically incorrect",
+          "their refers to multiple owners, but the sentence describes a single dog",
+          "her assigns female gender to the dog, but the sentence uses the gender-neutral pronoun 'it' throughout, making 'her' contradictory in context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_cloze_0014",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "After the meeting, David realised he had been using ___ notes the whole time, not his own.",
+        "correct_answer": "his colleague's",
+        "distractors": [
+          "the notes of his colleague",
+          "his colleagues",
+          "his colleague"
+        ],
+        "distractor_rationale": [
+          "'the notes of his colleague' uses the 'of' construction, which is reserved for things and abstract concepts; for people, the genitive 's is the natural and correct form in English",
+          "'his colleagues' without an apostrophe is the plural form meaning more than one colleague, with no possessive meaning attached",
+          "'his colleague' is a bare noun phrase with no possessive marker, so it cannot show that the notes belong to the colleague"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "possessives_genitive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0000",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "That is ___ bag. She bought it yesterday.",
+        "correct_answer": "her",
+        "distractors": [
+          "his",
+          "their",
+          "its"
+        ],
+        "distractor_rationale": [
+          "his refers to a male owner, but the sentence establishes a female subject with 'she'",
+          "their refers to multiple owners, but only one person is described",
+          "its refers to a non-human possessor, but the owner is a person referred to as 'she'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0001",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We forgot ___ umbrellas at home, so we got wet in the rain.",
+        "correct_answer": "our",
+        "distractors": [
+          "my",
+          "their",
+          "your"
+        ],
+        "distractor_rationale": [
+          "my refers to a single speaker alone, but the sentence uses 'we' indicating multiple people",
+          "their refers to a third-person group, but the subject is 'we' indicating the speakers themselves",
+          "your refers to the person being spoken to, not to the speakers themselves"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0002",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The cat is sleeping in ___ basket near the kitchen door.",
+        "correct_answer": "its",
+        "distractors": [
+          "it's",
+          "her",
+          "their"
+        ],
+        "distractor_rationale": [
+          "it's is a contraction of 'it is' and cannot function as a possessive adjective before a noun",
+          "her assigns a female gender to the cat, but no gender has been established for this animal in the sentence",
+          "their refers to multiple owners or subjects, but the subject is a single cat"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0003",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I left my phone on the table, but this one is not ___. Mine has a blue case.",
+        "correct_answer": "mine",
+        "distractors": [
+          "my",
+          "me",
+          "myself"
+        ],
+        "distractor_rationale": [
+          "my is a possessive adjective and must be followed by a noun, but there is no noun after the gap here",
+          "me is an object pronoun, not a possessive form, and cannot indicate ownership in this position",
+          "myself is a reflexive pronoun used for emphasis or reflexive actions, not to express possession"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0004",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom showed me ___ new apartment last weekend — it has a great view of the park.",
+        "correct_answer": "his",
+        "distractors": [
+          "her",
+          "their",
+          "its"
+        ],
+        "distractor_rationale": [
+          "her refers to a female owner, but the subject established is Tom, who is male",
+          "their refers to multiple owners, but only one person, Tom, is mentioned as the owner",
+          "its refers to a non-human possessor, but Tom is a person"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0005",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We need to book ___ tickets for the concert before they sell out this afternoon.",
+        "correct_answer": "our",
+        "distractors": [
+          "ours",
+          "us",
+          "we"
+        ],
+        "distractor_rationale": [
+          "ours is a possessive pronoun and cannot directly precede a noun such as 'tickets'",
+          "us is an object pronoun and cannot function as a possessive modifier before a noun",
+          "we is a subject pronoun and cannot function as a possessive modifier before a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0006",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Could you pass me ___ glasses? I can't read the menu without them.",
+        "correct_answer": "your",
+        "distractors": [
+          "yours",
+          "you",
+          "yourself"
+        ],
+        "distractor_rationale": [
+          "yours is a possessive pronoun and cannot directly precede a noun such as 'glasses'",
+          "you is a subject or object pronoun and cannot function as a possessive adjective before a noun",
+          "yourself is a reflexive pronoun used for emphasis or reflexive actions, not to express possession"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0007",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria borrowed ___ laptop because hers was being repaired at the shop.",
+        "correct_answer": "her friend's",
+        "distractors": [
+          "the laptop of her friend",
+          "her friends'",
+          "her friend"
+        ],
+        "distractor_rationale": [
+          "'the laptop of her friend' uses the 'of' construction, which is unnatural in English for personal ownership and is a direct translation error from many other languages",
+          "'her friends'' uses a plural possessive apostrophe, implying multiple friends own the laptop together, but the context implies one specific friend",
+          "'her friend' without the apostrophe and 's' is missing the genitive marker entirely and produces an ungrammatical noun phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0008",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The apartment on the third floor belongs to two sisters, so the lease is in ___ names.",
+        "correct_answer": "their",
+        "distractors": [
+          "its",
+          "her",
+          "theirs"
+        ],
+        "distractor_rationale": [
+          "its refers to a non-human possessor, but the owners are two people described as sisters",
+          "her is singular and refers to one female, but the sentence clearly states there are two sisters",
+          "theirs is a possessive pronoun and cannot directly precede the noun 'names'; a possessive adjective is required here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_multiple_choice_0009",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The report that was submitted late was ___, not David's, so he should not be blamed for the delay.",
+        "correct_answer": "mine",
+        "distractors": [
+          "my",
+          "me",
+          "I"
+        ],
+        "distractor_rationale": [
+          "my is a possessive adjective and requires a noun immediately after it, but the gap here is in a predicative position with no following noun",
+          "me is an object pronoun expressing the receiver of an action, not the owner of something in a predicative possessive structure",
+          "I is a subject pronoun and cannot function as a possessive form in any position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "possessives_genitive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0000",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "This bag is mine bag — I bought it yesterday.",
+        "correct_answer": "my bag",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "This bag is mine bag — I bought it yesterday.",
+        "corrected_sentence": "This bag is my bag — I bought it yesterday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0001",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The dog wagged her tail and ran to the door.",
+        "correct_answer": "its tail",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The dog wagged her tail and ran to the door.",
+        "corrected_sentence": "The dog wagged its tail and ran to the door.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0002",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I need to return the book of Anna before she asks for it.",
+        "correct_answer": "Anna's book",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I need to return the book of Anna before she asks for it.",
+        "corrected_sentence": "I need to return Anna's book before she asks for it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0003",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The childrens' coats were left on the chairs after the school play.",
+        "correct_answer": "children's coats",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The childrens' coats were left on the chairs after the school play.",
+        "corrected_sentence": "The children's coats were left on the chairs after the school play.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0004",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Mark forgot his keys at home, so he borrowed the keys of his colleague to open the office.",
+        "correct_answer": "his colleague's keys",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Mark forgot his keys at home, so he borrowed the keys of his colleague to open the office.",
+        "corrected_sentence": "Mark forgot his keys at home, so he borrowed his colleague's keys to open the office.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0005",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The company announced that it's new policy on remote working would start in January.",
+        "correct_answer": "its new policy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The company announced that it's new policy on remote working would start in January.",
+        "corrected_sentence": "The company announced that its new policy on remote working would start in January.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0006",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My two sisters' apartment is on the third floor, but my brother's apartment is on the ground floor.",
+        "correct_answer": "My two sisters' apartment",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My two sister's apartment is on the third floor, but my brother's apartment is on the ground floor.",
+        "corrected_sentence": "My two sisters' apartment is on the third floor, but my brother's apartment is on the ground floor.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_possessives_genitive_error_correction_0007",
+      "skill_ids": [
+        "possessives_genitive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara told me that the decision was her, not her manager's, so I should speak to her directly.",
+        "correct_answer": "hers",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara told me that the decision was her, not her manager's, so I should speak to her directly.",
+        "corrected_sentence": "Sara told me that the decision was hers, not her manager's, so I should speak to her directly.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:27:25.802326+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "possessives_genitive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

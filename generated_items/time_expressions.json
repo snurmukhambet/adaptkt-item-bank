@@ -1,0 +1,1865 @@
+{
+  "skill_id": "time_expressions",
+  "skill_name": "Time Expressions & Markers",
+  "exercises": [
+    {
+      "id": "ex_time_expressions_cloze_0000",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ drinks coffee in the morning — he has a cup every single day.",
+        "correct_answer": "always",
+        "distractors": [
+          "yet",
+          "ago",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'yet' signals something expected but not done, not a daily habit",
+          "'ago' marks a past point in time, not a repeated habit",
+          "'since' marks the start of a duration, not a repeated habit"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0001",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My sister moved to this city three years ___.",
+        "correct_answer": "ago",
+        "distractors": [
+          "since",
+          "before",
+          "for"
+        ],
+        "distractor_rationale": [
+          "'since' requires a reference point and pairs with present perfect, not past simple",
+          "'before' needs a second event as a reference point to make sense here",
+          "'for' marks duration, not a finished past point in time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0002",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ eats fast food — maybe once or twice a month at most.",
+        "correct_answer": "sometimes",
+        "distractors": [
+          "never",
+          "always",
+          "still"
+        ],
+        "distractor_rationale": [
+          "'never' contradicts the fact that she eats it once or twice a month",
+          "'always' contradicts the low frequency stated in the sentence",
+          "'still' expresses continuation of a state, not a frequency level"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0003",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David has lived in this apartment ___ he graduated from university four years ago.",
+        "correct_answer": "since",
+        "distractors": [
+          "for",
+          "ago",
+          "yet"
+        ],
+        "distractor_rationale": [
+          "'for' marks a duration of time, not a specific past starting point such as 'he graduated'",
+          "'ago' marks a past point and cannot introduce a clause beginning with a subject",
+          "'yet' signals something expected but not done, and cannot introduce a time clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0004",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children have been waiting ___ almost two hours, and the bus still has not arrived.",
+        "correct_answer": "for",
+        "distractors": [
+          "since",
+          "ago",
+          "already"
+        ],
+        "distractor_rationale": [
+          "'since' must be followed by a specific point in time or an event, not a duration like 'two hours'",
+          "'ago' marks a finished past point and cannot follow 'been waiting' in a present perfect context",
+          "'already' is an adverb, not a preposition, and cannot precede a noun phrase like 'two hours'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0005",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "First, add the butter to the pan; ___, pour in the eggs and stir gently.",
+        "correct_answer": "then",
+        "distractors": [
+          "finally",
+          "since",
+          "yet"
+        ],
+        "distractor_rationale": [
+          "'finally' signals the last step in a sequence, but a third step follows, so this is not the last action",
+          "'since' marks a time reference or cause, not the next step in a sequence of instructions",
+          "'yet' signals something expected but not done, which does not fit a cooking instruction sequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0006",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Has Maria called you back ___? I left her a message two hours ago.",
+        "correct_answer": "yet",
+        "distractors": [
+          "still",
+          "already",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'still' in a question would mean the action is continuing, which does not fit calling back",
+          "'already' in a question expresses surprise that something happened sooner than expected, but the context shows it has not happened at all",
+          "'since' is a preposition or conjunction marking a start point, not a question word for completion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0007",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We have ___ checked in online, so we do not need to queue at the airport desk.",
+        "correct_answer": "already",
+        "distractors": [
+          "yet",
+          "still",
+          "just yet"
+        ],
+        "distractor_rationale": [
+          "'yet' is used in negatives and questions to mean something has not happened; it cannot appear between 'have' and a past participle in an affirmative sentence",
+          "'still' in an affirmative present perfect context would mean the action is ongoing, not completed",
+          "'just yet' is only used in negative constructions such as 'not just yet', making it grammatically incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0008",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James ___ hasn't replied to the team's email, even though it was sent on Monday morning.",
+        "correct_answer": "still",
+        "distractors": [
+          "yet",
+          "already",
+          "never"
+        ],
+        "distractor_rationale": [
+          "'yet' in a negative sentence goes at the end of the clause, not before the auxiliary verb",
+          "'already' in a negative sentence would be unusual and would not convey the sense of an ongoing, frustrating delay",
+          "'never' would mean he has not replied on any occasion ever, which contradicts the specific reference to one email sent on Monday"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0009",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa prepared the salad first, heated the soup ___ that, and ___ brought everything to the table at once.",
+        "correct_answer": "after / finally",
+        "distractors": [
+          "before / then",
+          "since / already",
+          "then / after that"
+        ],
+        "distractor_rationale": [
+          "'before that' would reverse the sequence, placing the soup heating before the salad, which contradicts 'first'; 'then' as the last sequencer is less precise than 'finally' for a closing step",
+          "'since' cannot function as a sequencer between two consecutive actions; 'already' does not mark the final step in a sequence",
+          "'then' can follow 'first' but cannot immediately follow 'after' to form 'after then'; 'after that' repeats the same connector used earlier in the sentence, creating awkward repetition and failing to signal the final step"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0011",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria moved to this city three years ___.",
+        "correct_answer": "ago",
+        "distractors": [
+          "since",
+          "before",
+          "for"
+        ],
+        "distractor_rationale": [
+          "'since' requires a present perfect verb, but the sentence uses simple past 'moved'",
+          "'before' does not anchor the time gap to the present moment and requires a reference clause",
+          "'for' describes a duration of ongoing time and cannot mark the distance from the present back to a past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0012",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We have lived in this apartment ___ we got married four years ago, and we love it here.",
+        "correct_answer": "since",
+        "distractors": [
+          "for",
+          "ago",
+          "yet"
+        ],
+        "distractor_rationale": [
+          "'for' is followed by a duration of time such as 'four years', not by a past-tense clause like 'we got married'",
+          "'ago' marks a point in the past with simple past tense and cannot introduce a time clause with present perfect",
+          "'yet' is used in questions and negatives to ask whether something has happened, not to mark a starting point"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0013",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The technician has ___ repaired the printer, so you can use it now.",
+        "correct_answer": "already",
+        "distractors": [
+          "still",
+          "yet",
+          "never"
+        ],
+        "distractor_rationale": [
+          "'still' in this position would mean the action is ongoing and not finished, which contradicts 'you can use it now'",
+          "'yet' in an affirmative statement with present perfect is not standard and does not convey completion; it belongs in negatives or questions",
+          "'never' means the action has not happened at any time, which directly contradicts 'you can use it now'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_cloze_0014",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project deadline was this morning, but Anna hasn't submitted her report ___.",
+        "correct_answer": "yet",
+        "distractors": [
+          "still",
+          "already",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'still' in a negative sentence ('still hasn't submitted') is grammatically possible but changes the meaning to emphasise a continuing delay that was expected to have ended earlier; 'yet' is the natural choice when simply stating that an expected action has not happened by a deadline",
+          "'already' in a negative sentence is ungrammatical and contradicts the meaning — it cannot be used with 'hasn't'",
+          "'since' is a preposition or conjunction marking a starting point and cannot function as a sentence-final adverb in this position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0000",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ drinks coffee in the morning before he goes to work.",
+        "correct_answer": "always",
+        "distractors": [
+          "yet",
+          "still",
+          "ago"
+        ],
+        "distractor_rationale": [
+          "'yet' is used in questions and negatives, not to express habitual frequency",
+          "'still' describes an ongoing situation, not a regular habit with a main verb",
+          "'ago' marks a past point in time and cannot express frequency"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0001",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria left her hometown two years ___ and now lives in the city.",
+        "correct_answer": "ago",
+        "distractors": [
+          "since",
+          "before",
+          "yet"
+        ],
+        "distractor_rationale": [
+          "'since' marks a starting point used with present perfect, not with past simple to express elapsed time",
+          "'before' without a reference point does not specify how long ago the action happened",
+          "'yet' is used in questions and negatives, not to indicate elapsed past time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0002",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She ___ eats fast food because she prefers home-cooked meals.",
+        "correct_answer": "never",
+        "distractors": [
+          "already",
+          "since",
+          "for"
+        ],
+        "distractor_rationale": [
+          "'already' expresses that something has happened sooner than expected, not frequency",
+          "'since' marks a starting point in time and cannot express frequency",
+          "'for' marks a duration of time and cannot express frequency"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0003",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David has lived in this apartment ___ three years, so he knows all his neighbours well.",
+        "correct_answer": "for",
+        "distractors": [
+          "since",
+          "ago",
+          "already"
+        ],
+        "distractor_rationale": [
+          "'since' must be followed by a specific point in time (e.g. 2021), not a duration like 'three years'",
+          "'ago' is used with past simple to count back from now, not with present perfect to express ongoing duration",
+          "'already' expresses completion before an expected time, not duration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0004",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna has studied French ___ she started secondary school, so her level is very good now.",
+        "correct_answer": "since",
+        "distractors": [
+          "for",
+          "ago",
+          "yet"
+        ],
+        "distractor_rationale": [
+          "'for' must be followed by a period of duration (e.g. three years), not a clause with a verb",
+          "'ago' is used with past simple to express elapsed time, not with present perfect",
+          "'yet' is used in questions and negatives, not to introduce a starting point"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0005",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James has ___ booked the hotel room, so we don't need to do it again.",
+        "correct_answer": "already",
+        "distractors": [
+          "yet",
+          "still",
+          "never"
+        ],
+        "distractor_rationale": [
+          "'yet' in a positive statement is non-standard and does not convey that the action is completed sooner than expected",
+          "'still' describes an ongoing situation or something that has not changed, not a completed action",
+          "'never' expresses that something has not happened at any time, which contradicts the context that the booking is done"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0006",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa woke up, ___ had a shower, and then ate breakfast before leaving the house.",
+        "correct_answer": "then",
+        "distractors": [
+          "finally",
+          "already",
+          "still"
+        ],
+        "distractor_rationale": [
+          "'finally' signals the last action in a sequence, but a shower is the second of three actions here, not the last",
+          "'already' expresses completion before an expected time and cannot sequence events in a narrative",
+          "'still' describes an ongoing or unchanged situation and cannot sequence events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0007",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The technician checked the wiring, replaced the broken part, and ___ tested the machine to make sure it was working correctly.",
+        "correct_answer": "finally",
+        "distractors": [
+          "first",
+          "still",
+          "yet"
+        ],
+        "distractor_rationale": [
+          "'first' signals the beginning of a sequence, but the action described is clearly the last step after two others",
+          "'still' describes an ongoing situation and cannot sequence events in a process",
+          "'yet' is used in questions and negatives to express expectation, not to close a sequence of actions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0008",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We have been waiting for the delivery ___ early this morning, but it still hasn't arrived.",
+        "correct_answer": "since",
+        "distractors": [
+          "for",
+          "ago",
+          "already"
+        ],
+        "distractor_rationale": [
+          "'for' must be followed by a duration (e.g. several hours), not a specific point in time like 'early this morning'",
+          "'ago' is used with past simple to count back from now and cannot follow present perfect continuous",
+          "'already' expresses completion before an expected time, which contradicts the context that the delivery has not yet arrived"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_multiple_choice_0009",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara hasn't received a reply from the company ___, even though she sent her application over a week ago.",
+        "correct_answer": "yet",
+        "distractors": [
+          "still",
+          "already",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'still' in a negative sentence emphasises that a situation is continuing longer than expected and typically comes before the auxiliary ('still hasn't'), not at the end of the clause",
+          "'already' in a negative sentence is unusual and would mean the opposite of what is intended here",
+          "'since' marks a starting point in time and cannot close a negative clause to express an expectation that has not been met"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "time_expressions_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0000",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She goes always to the market on Saturday mornings.",
+        "correct_answer": "always goes",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She goes always to the market on Saturday mornings.",
+        "corrected_sentence": "She always goes to the market on Saturday mornings.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0001",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom eats never vegetables because he doesn't like the taste.",
+        "correct_answer": "never eats",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom eats never vegetables because he doesn't like the taste.",
+        "corrected_sentence": "Tom never eats vegetables because he doesn't like the taste.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0002",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I have lived in this apartment since three years, so I know all my neighbours well.",
+        "correct_answer": "for three years",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I have lived in this apartment since three years, so I know all my neighbours well.",
+        "corrected_sentence": "I have lived in this apartment for three years, so I know all my neighbours well.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0003",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria has finished her homework two hours ago and is now watching a film.",
+        "correct_answer": "finished",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria has finished her homework two hours ago and is now watching a film.",
+        "corrected_sentence": "Maria finished her homework two hours ago and is now watching a film.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0004",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "First, he boiled the water. After that, he added the pasta. Finally, he served it. Then, he set the table.",
+        "correct_answer": "Then, he set the table. Finally, he served it.",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "First, he boiled the water. After that, he added the pasta. Finally, he served it. Then, he set the table.",
+        "corrected_sentence": "First, he boiled the water. After that, he added the pasta. Then, he set the table. Finally, he served it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0005",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The results of the test are still not ready — the teacher hasn't posted them already.",
+        "correct_answer": "yet",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The results of the test are still not ready — the teacher hasn't posted them already.",
+        "corrected_sentence": "The results of the test are still not ready — the teacher hasn't posted them yet.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0006",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "David has been working on this project since six months, and he still hasn't found a solution to the main problem.",
+        "correct_answer": "for six months",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "David has been working on this project since six months, and he still hasn't found a solution to the main problem.",
+        "corrected_sentence": "David has been working on this project for six months, and he still hasn't found a solution to the main problem.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_time_expressions_error_correction_0007",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna has applied for the job two weeks ago, but she hasn't received any reply yet, which is making her anxious.",
+        "correct_answer": "applied",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna has applied for the job two weeks ago, but she hasn't received any reply yet, which is making her anxious.",
+        "corrected_sentence": "Anna applied for the job two weeks ago, but she hasn't received any reply yet, which is making her anxious.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "time_expressions_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_time_expressions_cloze_0010",
+      "skill_ids": [
+        "time_expressions"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ drinks coffee in the morning — he has a cup every single day.",
+        "correct_answer": "always",
+        "distractors": [
+          "yet",
+          "ago",
+          "since"
+        ],
+        "distractor_rationale": [
+          "'yet' is used in questions and negatives about expected events, not to describe daily habits",
+          "'ago' marks a point in the past and cannot describe a repeated daily routine",
+          "'since' marks a starting point in time and cannot express habitual frequency"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:00:04.367934+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "time_expressions_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

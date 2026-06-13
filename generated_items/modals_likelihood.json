@@ -1,0 +1,1865 @@
+{
+  "skill_id": "modals_likelihood",
+  "skill_name": "Modals: Likelihood & Inference",
+  "exercises": [
+    {
+      "id": "ex_modals_likelihood_cloze_0000",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The lights are all off and no one is answering the door — they ___ be out.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "will",
+          "shall"
+        ],
+        "distractor_rationale": [
+          "should expresses expectation based on a plan or norm, not logical deduction from physical evidence",
+          "will expresses a future prediction or strong intention, not a present deduction from observed evidence",
+          "shall is used for offers or formal future reference, not for inferring a present situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0001",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark just ran five kilometres without stopping, so he ___ be very tired now.",
+        "correct_answer": "must",
+        "distractors": [
+          "can",
+          "would",
+          "shall"
+        ],
+        "distractor_rationale": [
+          "can expresses general ability or permission, not a logical deduction from a specific observed event",
+          "would expresses a hypothetical or conditional situation, not a certain inference from what just happened",
+          "shall is used for formal future or offers, not for deducing a current physical state"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0002",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "That ___ be Anna's bag — she always carries a red one exactly like it.",
+        "correct_answer": "must",
+        "distractors": [
+          "can't",
+          "won't",
+          "doesn't"
+        ],
+        "distractor_rationale": [
+          "can't expresses certain negative deduction, but the context ('she always carries a red one like it') supports a certain positive deduction, not a negative one",
+          "won't expresses a future refusal or negative intention, not a present deduction about ownership",
+          "doesn't is a simple present negative verb, not a modal expressing deduction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0003",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara has been studying medicine for six years, so she ___ know quite a lot about common illnesses by now.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "might",
+          "can"
+        ],
+        "distractor_rationale": [
+          "must expresses near-certain deduction from direct evidence, but here the inference is based on a reasonable expectation from training, not an observed fact — should fits better",
+          "might expresses a weak possibility with real doubt, but six years of study makes the expectation strong and near-certain, so should is more appropriate",
+          "can expresses general ability as a permanent characteristic, not an expectation based on accumulated experience over time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0004",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I'm not sure where David is right now — he ___ still be at the office, or he may have gone home already.",
+        "correct_answer": "might",
+        "distractors": [
+          "must",
+          "can't",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must expresses near-certain positive deduction, but the speaker explicitly says they are not sure and offers two alternatives, so certainty is impossible here",
+          "can't expresses certain negative deduction, which directly contradicts the speaker's suggestion that being at the office is one real possibility",
+          "should expresses expectation based on a norm or plan, but the speaker has no basis for expecting David to be at the office — genuine uncertainty is expressed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0005",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The parcel was sent three days ago, so it ___ arrive today or tomorrow at the latest.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "can't",
+          "might"
+        ],
+        "distractor_rationale": [
+          "must expresses deduction from direct observable evidence, but the speaker is reasoning from an expected delivery schedule, not from a physical observation — should expresses this norm-based expectation",
+          "can't expresses certain negative deduction, which is the opposite of what the speaker means — they expect the parcel to arrive, not that it cannot",
+          "might expresses weak possibility with real doubt, but the speaker is confident based on the timeline — should conveys this reasonable expectation more accurately"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0006",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "That man ___ be Tom's father — Tom told me his father passed away years ago, and this man is far too young anyway.",
+        "correct_answer": "can't",
+        "distractors": [
+          "mustn't",
+          "shouldn't",
+          "mightn't"
+        ],
+        "distractor_rationale": [
+          "mustn't expresses prohibition or a strong obligation not to do something, not a logical deduction that something is impossible based on evidence",
+          "shouldn't expresses that something is not expected or is inadvisable, but the speaker is making a certain negative deduction from two clear pieces of evidence, not expressing disapproval",
+          "mightn't expresses weak negative possibility, but the speaker has two concrete reasons to be certain the identification is wrong — can't is the only modal expressing certain negative deduction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0007",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The candidate has worked in finance for over fifteen years and holds two professional qualifications, so she ___ find the technical parts of this role straightforward.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "could",
+          "may"
+        ],
+        "distractor_rationale": [
+          "must expresses near-certain deduction from direct evidence, but the speaker is reasoning from credentials and experience to form a confident expectation — should captures this norm-based inference without overclaiming certainty",
+          "could expresses a mere theoretical possibility, which significantly understates the confidence the speaker has given the candidate's extensive background",
+          "may expresses open possibility with genuine uncertainty, but the speaker's phrasing ('over fifteen years' and 'two qualifications') signals a well-grounded expectation, not simple possibility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 27,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0008",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The test results showed no sign of any infection whatsoever, so the patient's symptoms ___ be caused by something entirely different, such as stress or fatigue.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "might",
+          "can"
+        ],
+        "distractor_rationale": [
+          "should expresses expectation based on a norm, but the test results provide conclusive negative evidence that rules out infection — this certainty calls for must, not mere expectation",
+          "might expresses weak possibility with genuine doubt, but the elimination of infection by test results makes the alternative cause highly certain, not merely possible",
+          "can expresses general ability or theoretical possibility in a neutral sense, not a logical deduction drawn from specific clinical evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0009",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa was seen boarding a flight to the coast early this morning, so she ___ be sitting on the beach somewhere right now, enjoying the sunshine.",
+        "correct_answer": "could",
+        "distractors": [
+          "must",
+          "can't",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must expresses near-certain deduction, but the speaker only knows Lisa boarded a flight — she could have had a connecting flight, gone to a hotel, or visited a friend, so beach-sitting is only one possibility among several",
+          "can't expresses certain negative deduction, which directly contradicts the speaker's suggestion that sitting on the beach is a real and plausible outcome of Lisa's journey",
+          "should expresses expectation based on a plan or norm, but there is no established schedule or obligation that would lead us to expect Lisa on a beach — it is simply one open possibility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0010",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom left home two hours ago and the office is only ten minutes away, so he ___ be there by now.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "might",
+          "can't"
+        ],
+        "distractor_rationale": [
+          "must expresses near-certain deduction from strong evidence, but the context signals expectation based on normal timing, not certainty",
+          "might expresses weak possibility, but the logical calculation of time makes arrival expected, not merely possible",
+          "can't expresses certain negative deduction, which contradicts the fact that arrival is the expected outcome"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0011",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The kitchen light is on and I can smell cooking — someone ___ be home already.",
+        "correct_answer": "must",
+        "distractors": [
+          "should",
+          "can't",
+          "would"
+        ],
+        "distractor_rationale": [
+          "should expresses expectation, but the direct sensory evidence (light on, smell of cooking) supports certain positive deduction, not mere expectation",
+          "can't expresses certain negative deduction, which directly contradicts the evidence that someone is present",
+          "would expresses a hypothetical or habitual situation, not a deduction from present evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0012",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria studied for weeks and knew every answer on the practice tests, so she ___ find the exam very difficult.",
+        "correct_answer": "can't",
+        "distractors": [
+          "must",
+          "might",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must expresses certain positive deduction, but the evidence points to the opposite — that difficulty is impossible given her preparation",
+          "might expresses weak possibility, but her extensive preparation makes difficulty highly unlikely, requiring a stronger negative deduction",
+          "should expresses expectation of a positive outcome, not a negative deduction about difficulty being impossible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0013",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I'm not sure where James is — he ___ have stopped at the supermarket on his way back, since he mentioned earlier that he needed milk.",
+        "correct_answer": "might",
+        "distractors": [
+          "must",
+          "can't",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must expresses near-certain deduction, but 'I'm not sure' explicitly signals uncertainty, ruling out a strong positive deduction",
+          "can't expresses certain negative deduction, which contradicts the plausible reason given for his absence",
+          "should expresses expectation based on a plan or schedule, but stopping at the supermarket was not a confirmed plan, only a possibility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_cloze_0014",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project report was submitted three days ago and the manager reviews all reports within 24 hours, so she ___ have read it and formed an opinion by now, even if she hasn't replied yet.",
+        "correct_answer": "must",
+        "distractors": [
+          "might",
+          "should",
+          "can't"
+        ],
+        "distractor_rationale": [
+          "might expresses weak possibility, but the established routine of reviewing within 24 hours makes reading a near-certain conclusion, not a weak guess",
+          "should expresses expectation that something will or ought to happen, but the 24-hour window has already passed, making this a deduction about a completed action rather than a future expectation",
+          "can't expresses certain negative deduction, which directly contradicts the evidence that the manager always reviews within 24 hours"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 34,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "modals_likelihood_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0001",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "That bag weighs almost 30 kilograms — it ___ be easy to carry up the stairs.",
+        "correct_answer": "can't",
+        "distractors": [
+          "must",
+          "might",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must expresses certain positive deduction, but the sentence logically concludes the opposite — impossibility of ease",
+          "might expresses weak possibility, but 30 kilograms makes it logically impossible to be easy, not just uncertain",
+          "should expresses expectation, but the weight evidence forces a certain negative conclusion, not a norm-based one"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0002",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria hasn't eaten anything since breakfast, so she ___ be hungry by now.",
+        "correct_answer": "must",
+        "distractors": [
+          "can't",
+          "may",
+          "would"
+        ],
+        "distractor_rationale": [
+          "can't signals certain negative deduction, which contradicts the logic — skipping meals causes hunger",
+          "may signals possibility, but the evidence (no food since breakfast) makes hunger a near certainty, not just a possibility",
+          "would signals a hypothetical or conditional situation, not a logical deduction from present evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0003",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The lights in the apartment are off and her car isn't outside, so Anna ___ be at home right now.",
+        "correct_answer": "can't",
+        "distractors": [
+          "must",
+          "should",
+          "might"
+        ],
+        "distractor_rationale": [
+          "must signals certain positive deduction, which contradicts the evidence — no lights and no car indicate absence",
+          "should signals expectation based on a routine or plan, not a logical deduction from physical evidence",
+          "might signals weak possibility, but the combination of two pieces of evidence makes absence virtually certain, not just possible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0004",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I'm not sure where James put my keys — they ___ be in the kitchen drawer or on the shelf by the door.",
+        "correct_answer": "could",
+        "distractors": [
+          "must",
+          "can't",
+          "will"
+        ],
+        "distractor_rationale": [
+          "must signals certain positive deduction, but the speaker explicitly says they are not sure, so certainty is ruled out",
+          "can't signals certain negative deduction, which contradicts the speaker's uncertainty — both locations are possible",
+          "will signals future certainty or a strong prediction, not an uncertain deduction about a present location"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0005",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The train was scheduled to arrive at half past three, so it ___ be pulling into the station about now.",
+        "correct_answer": "should",
+        "distractors": [
+          "must",
+          "can't",
+          "might"
+        ],
+        "distractor_rationale": [
+          "must signals deduction from direct evidence, but the speaker is reasoning from a timetable, which is expectation-based, not evidence-based certainty",
+          "can't signals certain negative deduction, which directly contradicts the schedule showing arrival is expected",
+          "might signals weak possibility, but a scheduled timetable creates a strong expectation, not mere possibility"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0006",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David has been studying Spanish for six months, but he ___ still find some grammar rules quite difficult at this stage.",
+        "correct_answer": "might",
+        "distractors": [
+          "must",
+          "can't",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must signals strong certainty based on clear evidence, but six months of study does not guarantee difficulty — it is a possibility, not a certainty",
+          "can't signals certain negative deduction, but difficulty after six months is entirely plausible and not logically impossible",
+          "should signals expectation based on a norm or plan, but the sentence expresses an open possibility about the learner's current state, not a norm"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0007",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She completed the advanced course with top marks and has five years of practical experience, so the interview panel ___ be very impressed with her application.",
+        "correct_answer": "must",
+        "distractors": [
+          "might",
+          "should",
+          "can't"
+        ],
+        "distractor_rationale": [
+          "might signals weak possibility, but the weight of the evidence — top marks plus five years of experience — justifies a strong logical deduction, not mere possibility",
+          "should signals expectation based on a norm or standard procedure, but the deduction here is drawn from specific personal evidence, making must more precise",
+          "can't signals certain negative deduction, which is contradicted by the strong positive evidence presented in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0008",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The manager said the report would be ready by Friday, so if it hasn't arrived by Monday morning, something ___ have gone wrong with the deadline.",
+        "correct_answer": "must",
+        "distractors": [
+          "can't",
+          "should",
+          "may"
+        ],
+        "distractor_rationale": [
+          "can't signals certain negative deduction, but the context requires a positive deduction — something going wrong is the logical conclusion of the missed deadline",
+          "should signals expectation, but here the speaker is drawing a logical inference from a concrete missed deadline, not stating what was expected to happen",
+          "may signals open possibility with less certainty, but missing a promised deadline by several days makes a problem virtually certain, not merely possible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 29,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0009",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B2",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa grew up speaking both languages at home with her parents, so she ___ have any difficulty understanding the bilingual presentation later this afternoon.",
+        "correct_answer": "can't",
+        "distractors": [
+          "must",
+          "might",
+          "should"
+        ],
+        "distractor_rationale": [
+          "must signals certain positive deduction, but the logical conclusion here is negative — a native bilingual speaker cannot logically have difficulty with a bilingual presentation",
+          "might signals weak possibility of difficulty, but growing up bilingual makes difficulty logically impossible, not just unlikely",
+          "should signals expectation of difficulty based on a norm, which is contradicted by the strong evidence of lifelong bilingual upbringing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 27,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0000",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The lights in the house are all off, so nobody must be home right now.",
+        "correct_answer": "can't be",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The lights in the house are all off, so nobody must be home right now.",
+        "corrected_sentence": "The lights in the house are all off, so nobody can't be home right now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0001",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She studied every day for six months, so she should passing the exam easily.",
+        "correct_answer": "should pass",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She studied every day for six months, so she should passing the exam easily.",
+        "corrected_sentence": "She studied every day for six months, so she should pass the exam easily.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0002",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom hasn't eaten anything all day, so he must not be very hungry by now.",
+        "correct_answer": "must be",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom hasn't eaten anything all day, so he must not be very hungry by now.",
+        "corrected_sentence": "Tom hasn't eaten anything all day, so he must be very hungry by now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0003",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I can hear someone moving around upstairs — it maybe the landlord checking the pipes.",
+        "correct_answer": "could be",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I can hear someone moving around upstairs — it maybe the landlord checking the pipes.",
+        "corrected_sentence": "I can hear someone moving around upstairs — it could be the landlord checking the pipes.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0004",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 51,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The road outside is completely wet, so it must have rained while we were having dinner.",
+        "correct_answer": "must have rained",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The road outside is completely wet, so it must rained while we were having dinner.",
+        "corrected_sentence": "The road outside is completely wet, so it must have rained while we were having dinner.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 51,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0005",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna has been learning Spanish for three years, so she can't speak it fairly well by now.",
+        "correct_answer": "must speak",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna has been learning Spanish for three years, so she can't speak it fairly well by now.",
+        "corrected_sentence": "Anna has been learning Spanish for three years, so she must speak it fairly well by now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0006",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The package was sent three days ago, so it should have been arrived at your address by now.",
+        "correct_answer": "should have arrived",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The package was sent three days ago, so it should have been arrived at your address by now.",
+        "corrected_sentence": "The package was sent three days ago, so it should have arrived at your address by now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_modals_likelihood_error_correction_0007",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 59,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "He left the office over two hours ago, so he can't have arrived home long before we called him.",
+        "correct_answer": "must have arrived",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "He left the office over two hours ago, so he can't have arrived home long before we called him.",
+        "corrected_sentence": "He left the office over two hours ago, so he must have arrived home long before we called him.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 59,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "modals_likelihood_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_modals_likelihood_multiple_choice_0000",
+      "skill_ids": [
+        "modals_likelihood"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom left home two hours ago and the office is only ten minutes away, so he ___ be there by now.",
+        "correct_answer": "must",
+        "distractors": [
+          "can't",
+          "might",
+          "should"
+        ],
+        "distractor_rationale": [
+          "can't expresses certain negative deduction, but the context confirms arrival is very likely, not impossible",
+          "might expresses weak possibility, but the time gap makes arrival virtually certain, not just possible",
+          "should expresses expectation based on a plan or norm, but here the deduction is based on logical certainty from elapsed time"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:18:15.470759+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "modals_likelihood_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

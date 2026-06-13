@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_time_calendar",
+  "skill_name": "Time & Calendar",
+  "exercises": [
+    {
+      "id": "ex_vocab_time_calendar_cloze_0000",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "My birthday is in ___, which is the second month of the year.",
+        "correct_answer": "February",
+        "distractors": [
+          "January",
+          "October",
+          "June"
+        ],
+        "distractor_rationale": [
+          "January is the first month, not the second — contradicts 'second month'",
+          "October is the tenth month, not the second — contradicts 'second month'",
+          "June is the sixth month, not the second — contradicts 'second month'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0001",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The school week starts on ___, and most children go back to class after the weekend.",
+        "correct_answer": "Monday",
+        "distractors": [
+          "Thursday",
+          "afternoon",
+          "evening"
+        ],
+        "distractor_rationale": [
+          "Thursday is the fourth weekday, not the first day after the weekend — contradicts 'starts'",
+          "afternoon is a time of day, not a day of the week — wrong category for a school-week start",
+          "evening is a time of day, not a day of the week — wrong category entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0002",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "January is the first month of the year, so the ___ after it is February.",
+        "correct_answer": "month",
+        "distractors": [
+          "day",
+          "evening",
+          "century"
+        ],
+        "distractor_rationale": [
+          "day is a 24-hour period, not a calendar unit that follows a month — wrong scale",
+          "evening is a part of the day, not a calendar unit — wrong category",
+          "century is 100 years, far too large a unit to follow a single month — contradicts the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0003",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After dinner, Tom usually reads a book in the ___ before going to bed at around ten o'clock.",
+        "correct_answer": "evening",
+        "distractors": [
+          "afternoon",
+          "autumn",
+          "morning"
+        ],
+        "distractor_rationale": [
+          "afternoon ends before dinner for most people, so reading after dinner cannot be in the afternoon — contradicts 'after dinner'",
+          "autumn is a season, not a time of day — wrong category for filling the gap after 'in the'",
+          "morning comes before dinner, not after it — contradicts 'after dinner'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0004",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The leaves on the trees turn red and orange in ___, just before winter arrives.",
+        "correct_answer": "autumn",
+        "distractors": [
+          "June",
+          "January",
+          "February"
+        ],
+        "distractor_rationale": [
+          "June is a summer month when leaves are green and full — contradicts 'before winter'",
+          "January is a winter month, not the season before winter — contradicts 'just before winter'",
+          "February is also a winter month, not the season that precedes winter — contradicts 'just before winter'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0005",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Could you please check the ___ on the calendar? We need to know exactly when the meeting is scheduled.",
+        "correct_answer": "date",
+        "distractors": [
+          "degree",
+          "century",
+          "afternoon"
+        ],
+        "distractor_rationale": [
+          "degree measures temperature or angles, not a position on a calendar — wrong meaning",
+          "century refers to a 100-year period, far too broad for scheduling a meeting — contradicts 'exactly when'",
+          "afternoon is a time of day but cannot be 'checked on a calendar' to confirm a specific scheduled event — wrong collocation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0006",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The weather forecast says it will be ___ all week, with no rain expected until the weekend.",
+        "correct_answer": "dry",
+        "distractors": [
+          "freeze",
+          "evening",
+          "October"
+        ],
+        "distractor_rationale": [
+          "freeze is a verb or noun describing extreme cold, not an adjective describing a week of no rain — wrong part of speech and meaning",
+          "evening is a time of day, not a weather condition — wrong category",
+          "October is a month, not a weather adjective — wrong category entirely"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0007",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Temperatures can ___ overnight in the mountains in winter, so always bring extra warm clothing.",
+        "correct_answer": "freeze",
+        "distractors": [
+          "dry",
+          "degree",
+          "date"
+        ],
+        "distractor_rationale": [
+          "dry describes a lack of moisture and cannot collocate with 'overnight temperatures' as a verb — wrong meaning and collocation",
+          "degree is a noun measuring temperature, not a verb describing what temperatures do overnight — wrong part of speech",
+          "date is a noun referring to a calendar point and cannot function as a verb meaning to drop below zero — wrong meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0008",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The thermometer showed only three ___ above zero when Sara left for work early on Thursday morning.",
+        "correct_answer": "degrees",
+        "distractors": [
+          "days",
+          "dates",
+          "centuries"
+        ],
+        "distractor_rationale": [
+          "days are units of time and cannot be measured on a thermometer — contradicts 'thermometer showed'",
+          "dates are calendar points and are not measured on a thermometer — contradicts 'thermometer showed'",
+          "centuries are 100-year periods and cannot appear on a thermometer reading — contradicts 'thermometer showed'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0009",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Historians believe the printing press changed communication so dramatically that its effects lasted for more than a ___.",
+        "correct_answer": "century",
+        "distractors": [
+          "afternoon",
+          "Monday",
+          "date"
+        ],
+        "distractor_rationale": [
+          "afternoon is a few hours long, far too short a period for lasting historical effects — contradicts 'more than a'",
+          "Monday is a single day of the week, not a long historical time span — contradicts the scale implied by 'historians' and 'dramatically'",
+          "date is a specific point in time, not a duration — cannot follow 'more than a' to express a long period"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0010",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "My birthday is in ___, so we always celebrate with a big cake in the middle of winter.",
+        "correct_answer": "January",
+        "distractors": [
+          "June",
+          "October",
+          "August"
+        ],
+        "distractor_rationale": [
+          "June is a summer month, which contradicts 'middle of winter' stated in the sentence",
+          "October is an autumn month, not the middle of winter",
+          "August is a summer month, which directly contradicts 'middle of winter'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0011",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children play outside every ___ after school, before it gets dark at six o'clock.",
+        "correct_answer": "afternoon",
+        "distractors": [
+          "morning",
+          "evening",
+          "midnight"
+        ],
+        "distractor_rationale": [
+          "morning is before school, not after school finishes",
+          "evening begins after it gets dark, but the sentence says they play before it gets dark at six",
+          "midnight is the middle of the night and children would not play outside then"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0012",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The leaves on the trees turn red and orange every ___, just before the cold weather arrives in November.",
+        "correct_answer": "autumn",
+        "distractors": [
+          "spring",
+          "century",
+          "Monday"
+        ],
+        "distractor_rationale": [
+          "spring is when new leaves grow and appear green, not when they turn red and orange before November",
+          "century is a period of one hundred years and cannot describe a seasonal change in nature",
+          "Monday is a day of the week and cannot describe a season when leaves change colour"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0013",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The pipes in the old building began to ___ during the night because the temperature dropped to minus ten degrees.",
+        "correct_answer": "freeze",
+        "distractors": [
+          "date",
+          "dry",
+          "degree"
+        ],
+        "distractor_rationale": [
+          "date means to write or note a date on something and cannot describe what pipes do in extreme cold",
+          "dry means to remove moisture, which is the opposite of what happens when water turns to ice in cold temperatures",
+          "degree is a unit of measurement and cannot function as a verb describing what happens to pipes in cold weather"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_cloze_0014",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The project manager asked everyone to confirm the exact ___ of the meeting so she could send the official invitations with the correct details.",
+        "correct_answer": "date",
+        "distractors": [
+          "century",
+          "degree",
+          "afternoon"
+        ],
+        "distractor_rationale": [
+          "century refers to a hundred-year period and cannot be confirmed for a specific meeting in the near future",
+          "degree is a unit of temperature or academic qualification and cannot be confirmed as a calendar detail for sending invitations",
+          "afternoon describes a general part of the day but cannot serve as the specific calendar detail needed for an official invitation, which requires a full date"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_time_calendar_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "My birthday is in ___, the second month of the year.",
+        "correct_answer": "February",
+        "distractors": [
+          "October",
+          "June",
+          "Monday"
+        ],
+        "distractor_rationale": [
+          "October is the tenth month, not the second month of the year",
+          "June is the sixth month, not the second month of the year",
+          "Monday is a day of the week, not a month at all"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The school week starts on ___, so I always set my alarm early on that day.",
+        "correct_answer": "Monday",
+        "distractors": [
+          "Thursday",
+          "January",
+          "afternoon"
+        ],
+        "distractor_rationale": [
+          "Thursday is the fourth weekday, not the first day of the school week",
+          "January is a month, not a day of the week",
+          "afternoon is a part of the day, not a day of the week"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The sun sets early in ___, when the leaves turn red and orange and fall from the trees.",
+        "correct_answer": "autumn",
+        "distractors": [
+          "century",
+          "date",
+          "degree"
+        ],
+        "distractor_rationale": [
+          "a century is a period of one hundred years and has no connection to leaves falling",
+          "a date is a specific point in time, not a season when leaves turn and fall",
+          "a degree is a unit of temperature or angle, not a season of the year"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "We usually have dinner together as a family in the ___, after everyone comes home from work and school.",
+        "correct_answer": "evening",
+        "distractors": [
+          "afternoon",
+          "January",
+          "century"
+        ],
+        "distractor_rationale": [
+          "afternoon refers to the period before 6 p.m., which is before most people return home from work",
+          "January is a month of the year, not a time of day",
+          "a century is a period of one hundred years, not a time of day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The weather in ___ is very hot and sunny, which makes it a popular month for beach holidays.",
+        "correct_answer": "June",
+        "distractors": [
+          "October",
+          "February",
+          "Thursday"
+        ],
+        "distractor_rationale": [
+          "October is an autumn month associated with cooler temperatures, not a peak beach holiday month",
+          "February is a winter month with cold weather, contradicting the hot and sunny description",
+          "Thursday is a day of the week, not a month of the year"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The pipes in the old house burst because the water inside them started to ___ during the cold winter night.",
+        "correct_answer": "freeze",
+        "distractors": [
+          "dry",
+          "date",
+          "degree"
+        ],
+        "distractor_rationale": [
+          "dry means to lose moisture, which does not cause pipes to burst in cold weather",
+          "date means to record a time or to go out with someone, not a process that happens to water in cold temperatures",
+          "degree is a unit of measurement and cannot describe what water does to cause pipes to burst"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Please write the ___ on the form — the office needs to know the exact day, month, and year you signed it.",
+        "correct_answer": "date",
+        "distractors": [
+          "day",
+          "afternoon",
+          "degree"
+        ],
+        "distractor_rationale": [
+          "day alone gives only the name such as Monday and does not include the month and year as required",
+          "afternoon is a time of day, not a combination of day, month, and year",
+          "degree is a unit of temperature or angle and cannot be written on a form to show when it was signed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The temperature dropped to minus five ___ overnight, so the roads were covered in ice by morning.",
+        "correct_answer": "degrees",
+        "distractors": [
+          "dates",
+          "days",
+          "centuries"
+        ],
+        "distractor_rationale": [
+          "dates refers to specific points in time on a calendar and cannot follow a temperature number",
+          "days is a unit of time and cannot be used to measure temperature",
+          "centuries are periods of one hundred years and have no connection to measuring temperature"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The region had almost no rain for three months, and the farmers were worried because the soil had become completely ___.",
+        "correct_answer": "dry",
+        "distractors": [
+          "freeze",
+          "autumn",
+          "January"
+        ],
+        "distractor_rationale": [
+          "freeze is a verb describing a process and cannot function as an adjective to describe the condition of soil",
+          "autumn is a season of the year and cannot describe the physical condition of soil",
+          "January is a month of the year and cannot be used as an adjective to describe soil"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ancient temple was built more than two ___ ago, meaning it has stood for over two hundred years.",
+        "correct_answer": "centuries",
+        "distractors": [
+          "afternoons",
+          "dates",
+          "degrees"
+        ],
+        "distractor_rationale": [
+          "afternoons are parts of a day and cannot represent a span of one hundred years each",
+          "dates are specific points on a calendar and cannot be counted to represent periods of one hundred years",
+          "degrees are units of temperature or angle and cannot represent periods of one hundred years"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_time_calendar_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_word_formation_0000",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "We have a short ___ break at three o'clock every day. (AFTERNOON)",
+        "correct_answer": "afternoon",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "AFTERNOON"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_time_calendar_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_word_formation_0001",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The weather in ___ is usually very cold and snowy in this region. (FREEZE)",
+        "correct_answer": "freezing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "FREEZE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_time_calendar_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_word_formation_0002",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The summer months are generally ___, with almost no rain from June to August. (DRY)",
+        "correct_answer": "drier",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "DRY"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_time_calendar_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_word_formation_0003",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The leaves turn red and orange during the ___ months, especially in October and November. (AUTUMN)",
+        "correct_answer": "autumnal",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "AUTUMN"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_time_calendar_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_time_calendar_word_formation_0004",
+      "skill_ids": [
+        "vocab_time_calendar"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Historians believe that the building was constructed in the early part of the nineteenth ___, sometime between 1810 and 1830. (CENTURY)",
+        "correct_answer": "century",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CENTURY"
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:58:33.488035+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_time_calendar_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_nature_environment",
+  "skill_name": "Nature & Environment",
+  "exercises": [
+    {
+      "id": "ex_vocab_nature_environment_cloze_0000",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children collected shells on the ___ and built a sandcastle near the water.",
+        "correct_answer": "beach",
+        "distractors": [
+          "desert",
+          "cloud",
+          "bush"
+        ],
+        "distractor_rationale": [
+          "a desert has no shells or sandcastles — it is dry land far from the sea",
+          "a cloud is in the sky, not a place where you walk and collect shells",
+          "a bush is a plant, not a location where you build sandcastles"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0001",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The farmer milked the ___ every morning before breakfast to get fresh milk.",
+        "correct_answer": "cow",
+        "distractors": [
+          "bear",
+          "bird",
+          "bee"
+        ],
+        "distractor_rationale": [
+          "bears are wild animals that are not milked on farms",
+          "birds do not produce milk and are not milked",
+          "bees produce honey, not milk, and cannot be milked"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0002",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She opened the window to let in some fresh ___ because the room felt stuffy.",
+        "correct_answer": "air",
+        "distractors": [
+          "cloud",
+          "coast",
+          "animal"
+        ],
+        "distractor_rationale": [
+          "you cannot let a cloud into a room through a window to make it less stuffy",
+          "a coast is a geographical area, not something you let into a room",
+          "letting an animal in would not solve a stuffy room, and the sentence specifies 'fresh'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0003",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The gardener was stung three times by a ___ while she was cutting the flowers near the hive.",
+        "correct_answer": "bee",
+        "distractors": [
+          "bird",
+          "cat",
+          "cow"
+        ],
+        "distractor_rationale": [
+          "birds do not sting, and they do not live in hives",
+          "cats do not sting and are not associated with hives in a garden",
+          "cows do not sting and are farm animals, not found near flower hives"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0004",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The hikers saw a large ___ eating berries near the forest trail and quickly moved away.",
+        "correct_answer": "bear",
+        "distractors": [
+          "bird",
+          "bee",
+          "cat"
+        ],
+        "distractor_rationale": [
+          "birds do not eat berries while standing near a trail in a way that would cause hikers to quickly move away in fear",
+          "bees do not eat berries and would not be described as 'large'",
+          "a cat is a domestic animal and would not typically cause hikers to move away in alarm on a forest trail"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0005",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Dark ___ gathered in the sky all afternoon, and by evening there was a heavy rainstorm.",
+        "correct_answer": "clouds",
+        "distractors": [
+          "coasts",
+          "deserts",
+          "continents"
+        ],
+        "distractor_rationale": [
+          "coasts are geographical land features and cannot gather in the sky",
+          "deserts are large dry land areas and cannot appear in the sky before rain",
+          "continents are massive land masses and cannot gather in the sky"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0006",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The small ___ outside the garden fence was covered in thorns and had bright red berries on it.",
+        "correct_answer": "bush",
+        "distractors": [
+          "beach",
+          "coast",
+          "desert"
+        ],
+        "distractor_rationale": [
+          "a beach is a sandy area by water and cannot be outside a garden fence covered in thorns",
+          "a coast is a large geographical feature and cannot be described as small and covered in thorns",
+          "a desert is a vast dry landscape and cannot be small and outside a garden fence with berries"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0007",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Scientists have warned that rising temperatures are causing the ___ to shift, which means some regions will become much drier while others will flood more frequently.",
+        "correct_answer": "climate",
+        "distractors": [
+          "coast",
+          "continent",
+          "desert"
+        ],
+        "distractor_rationale": [
+          "a coast shifting does not cause regions to become drier or flood more frequently in the way described",
+          "a continent shifting refers to tectonic movement over millions of years, not temperature-driven changes affecting rainfall patterns",
+          "a desert shifting describes sand movement, not a global system of temperature and rainfall patterns"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0008",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The earthquake caused a major ___ in the coastal town, destroying hundreds of homes and forcing thousands of residents to leave immediately.",
+        "correct_answer": "disaster",
+        "distractors": [
+          "continent",
+          "climate",
+          "coast"
+        ],
+        "distractor_rationale": [
+          "a continent is a geographical land mass, not an event caused by an earthquake",
+          "a climate is a long-term weather pattern, not an event that destroys homes in a single moment",
+          "a coast is a geographical feature and cannot be 'caused' by an earthquake or force residents to leave"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0009",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Africa is the only ___ where lions, elephants, and gorillas all live together in the wild in their natural habitats.",
+        "correct_answer": "continent",
+        "distractors": [
+          "coast",
+          "desert",
+          "climate"
+        ],
+        "distractor_rationale": [
+          "a coast is a narrow strip of land by the sea and cannot contain the full range of habitats where lions, elephants, and gorillas all live",
+          "a desert is a specific dry habitat and gorillas and elephants do not live in deserts",
+          "a climate is a weather pattern, not a physical place where animals live"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0010",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children played in the sand and swam in the sea at the ___ all afternoon.",
+        "correct_answer": "beach",
+        "distractors": [
+          "desert",
+          "cloud",
+          "bush"
+        ],
+        "distractor_rationale": [
+          "a desert has no sand suitable for swimming and is far from the sea",
+          "a cloud is in the sky and cannot be a location where children play in sand",
+          "a bush is a plant, not a place where people swim or play in sand"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0011",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The farmer milked the ___ every morning before breakfast to collect fresh milk.",
+        "correct_answer": "cow",
+        "distractors": [
+          "bear",
+          "bird",
+          "bee"
+        ],
+        "distractor_rationale": [
+          "bears are wild animals that are not milked by farmers",
+          "birds do not produce milk and are not milked",
+          "bees produce honey, not milk, and are not milked"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0012",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The ___ was so thick and dark that we knew a heavy rainstorm was about to start.",
+        "correct_answer": "cloud",
+        "distractors": [
+          "coast",
+          "air",
+          "continent"
+        ],
+        "distractor_rationale": [
+          "a coast is a strip of land by the sea and cannot be thick, dark, or signal rain by its appearance",
+          "air is invisible and cannot be described as thick and dark in a way that signals a rainstorm visually overhead",
+          "a continent is a large landmass and cannot be dark or thick in the sky above you"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0013",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Scientists say that the ___ is getting warmer every decade, causing ice at the poles to melt faster.",
+        "correct_answer": "climate",
+        "distractors": [
+          "animal",
+          "coast",
+          "desert"
+        ],
+        "distractor_rationale": [
+          "an animal does not get warmer over decades in a way that causes polar ice to melt",
+          "a coast is a geographical feature that does not get warmer by decade and does not directly cause polar ice to melt",
+          "a desert is already a hot, dry area and is not described as getting warmer per decade in a way that melts polar ice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_cloze_0014",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The flooding caused a terrible ___ in the valley, destroying hundreds of homes and forcing thousands of people to leave their villages.",
+        "correct_answer": "disaster",
+        "distractors": [
+          "continent",
+          "coast",
+          "bear"
+        ],
+        "distractor_rationale": [
+          "a continent is a large landmass and cannot be caused by flooding or describe the destruction of homes",
+          "a coast is a geographical location, not an event caused by flooding that destroys homes",
+          "a bear is an animal and cannot be caused by flooding or result in the destruction of hundreds of homes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_nature_environment_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The children played on the ___ and built a sandcastle near the water.",
+        "correct_answer": "beach",
+        "distractors": [
+          "desert",
+          "cloud",
+          "bush"
+        ],
+        "distractor_rationale": [
+          "a desert has sand but no water nearby for building sandcastles at the shore",
+          "a cloud is in the sky, not a place where children can stand and play",
+          "a bush is a plant, not a location where sandcastles are built"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The farmer keeps a ___ in the field so it can produce milk every morning.",
+        "correct_answer": "cow",
+        "distractors": [
+          "bird",
+          "bee",
+          "bear"
+        ],
+        "distractor_rationale": [
+          "birds do not produce milk and are not kept in fields for dairy purposes",
+          "bees produce honey, not milk, and are not kept in fields for dairy purposes",
+          "bears are wild animals and are not kept on farms to produce milk"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "We could not see the sun because a large dark ___ was covering the whole sky.",
+        "correct_answer": "cloud",
+        "distractors": [
+          "coast",
+          "bush",
+          "animal"
+        ],
+        "distractor_rationale": [
+          "a coast is the edge of land by the sea and cannot cover the sky",
+          "a bush is a low plant and cannot float in the sky to block the sun",
+          "an animal cannot cover the entire sky to block sunlight"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The ___ flew from flower to flower in the garden, collecting nectar to make honey.",
+        "correct_answer": "bee",
+        "distractors": [
+          "cat",
+          "cow",
+          "bear"
+        ],
+        "distractor_rationale": [
+          "cats do not fly or collect nectar from flowers to make honey",
+          "cows are large farm animals that do not fly between flowers to collect nectar",
+          "bears eat honey but do not fly between flowers to produce it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The town is built along the ___, so many of the streets have a clear view of the sea.",
+        "correct_answer": "coast",
+        "distractors": [
+          "desert",
+          "continent",
+          "cloud"
+        ],
+        "distractor_rationale": [
+          "a desert is a dry inland area and does not border the sea",
+          "a continent is a vast landmass, not a specific location a town is built along",
+          "a cloud is in the sky and cannot be a geographical feature a town is built along"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The hikers saw a wild ___ eating berries near the river and quickly walked away.",
+        "correct_answer": "bear",
+        "distractors": [
+          "bird",
+          "cow",
+          "cat"
+        ],
+        "distractor_rationale": [
+          "birds do not eat berries near rivers in a way that would make hikers quickly walk away in fear",
+          "cows are domesticated farm animals and would not typically be described as wild near a river",
+          "cats are small domestic animals and would not cause hikers to quickly walk away in alarm"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Scientists say that ___ change is causing temperatures around the world to rise every decade.",
+        "correct_answer": "climate",
+        "distractors": [
+          "air",
+          "coast",
+          "desert"
+        ],
+        "distractor_rationale": [
+          "'air change' is not a recognised scientific term for rising global temperatures",
+          "'coast change' does not collocate with causing global temperatures to rise",
+          "'desert change' is not a recognised term for the global phenomenon of rising temperatures"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The earthquake was such a terrible ___ that thousands of people lost their homes in just a few minutes.",
+        "correct_answer": "disaster",
+        "distractors": [
+          "climate",
+          "continent",
+          "coast"
+        ],
+        "distractor_rationale": [
+          "climate refers to long-term weather patterns, not a sudden destructive event caused by an earthquake",
+          "a continent is a large landmass and cannot describe the impact of an earthquake on people's homes",
+          "a coast is a geographical feature and cannot describe the destructive nature of an earthquake event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Africa is the only ___ where you can find both lions and elephants living in the wild in the same region.",
+        "correct_answer": "continent",
+        "distractors": [
+          "coast",
+          "desert",
+          "beach"
+        ],
+        "distractor_rationale": [
+          "a coast is a narrow strip of land by the sea and cannot contain the full range of wild habitats described",
+          "a desert is a specific dry habitat and does not encompass the entire geographical area where both animals live",
+          "a beach is a small area of shoreline and cannot describe a landmass large enough to contain lions and elephants"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The Sahara is the largest hot ___ in the world, receiving almost no rainfall throughout the entire year.",
+        "correct_answer": "desert",
+        "distractors": [
+          "coast",
+          "continent",
+          "beach"
+        ],
+        "distractor_rationale": [
+          "a coast borders the sea and receives moisture, contradicting the description of almost no rainfall",
+          "a continent is a vast landmass and the Sahara is only one part of the African continent, not a continent itself",
+          "a beach is a small coastal area and cannot describe the vast dry inland region of the Sahara"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_nature_environment_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_word_formation_0000",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The sky was ___ and grey all morning. (CLOUD)",
+        "correct_answer": "cloudy",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLOUD"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_nature_environment_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_word_formation_0001",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "We spent the afternoon at a ___ town near the sea. (COAST)",
+        "correct_answer": "coastal",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COAST"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_nature_environment_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_word_formation_0002",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The scientists studied the ___ patterns of birds that travel south every winter. (MIGRATE)",
+        "correct_answer": "migration",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "MIGRATE"
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_nature_environment_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_word_formation_0003",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Many ___ species are losing their homes because forests are being cut down. (ANIMAL)",
+        "correct_answer": "animal",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ANIMAL"
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_nature_environment_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_nature_environment_word_formation_0004",
+      "skill_ids": [
+        "vocab_nature_environment"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Experts warn that ___ change is making extreme weather events more frequent and harder to predict. (CLIMATE)",
+        "correct_answer": "climatic",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLIMATE"
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:19:54.932390+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_nature_environment_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

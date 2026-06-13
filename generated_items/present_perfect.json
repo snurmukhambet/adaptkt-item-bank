@@ -1,0 +1,1863 @@
+{
+  "skill_id": "present_perfect",
+  "skill_name": "Present Perfect Simple",
+  "exercises": [
+    {
+      "id": "ex_present_perfect_cloze_0000",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (never / try) sushi, so tonight is his first time.",
+        "correct_answer": "has never tried",
+        "distractors": [
+          "never tried",
+          "never tries",
+          "was never trying"
+        ],
+        "distractor_rationale": [
+          "past simple with 'never' cannot describe a life experience that is still true up to now — it would imply a closed past period",
+          "present simple cannot link a past starting point to the present moment and does not carry the experiential meaning of 'never'",
+          "past continuous describes an interrupted action in progress, not an experience that has not occurred at any point in one's life"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0001",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (live) in this flat for three years and we are very happy here.",
+        "correct_answer": "have lived",
+        "distractors": [
+          "lived",
+          "are living",
+          "were living"
+        ],
+        "distractor_rationale": [
+          "past simple with 'for' implies the situation ended in the past, but 'we are very happy here' shows it is ongoing",
+          "present continuous cannot anchor the situation to a duration starting in the past with 'for'",
+          "past continuous describes an action in progress at a past moment, not a situation continuing up to now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0002",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (just / finish) her homework, so she can watch TV now.",
+        "correct_answer": "has just finished",
+        "distractors": [
+          "just finished",
+          "is just finishing",
+          "just finishes"
+        ],
+        "distractor_rationale": [
+          "past simple with 'just' is possible in informal speech but the current result 'she can watch TV now' requires the present perfect to connect the recent action to the present moment",
+          "present continuous with 'just' suggests the action is still in progress, which contradicts 'she can watch TV now'",
+          "present simple cannot express a recently completed action or link it to a present consequence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0003",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Mark ___ (work) at the same company since he left college, and he hopes to stay there.",
+        "correct_answer": "has worked",
+        "distractors": [
+          "worked",
+          "works",
+          "had worked"
+        ],
+        "distractor_rationale": [
+          "past simple with 'since' implies the period ended, but 'he hopes to stay there' confirms the situation is ongoing",
+          "present simple cannot express duration from a past point up to now using 'since'",
+          "past perfect describes a situation completed before another past event, not one continuing up to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0004",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Have you ever ___ (meet) someone who speaks more than four languages fluently?",
+        "correct_answer": "met",
+        "distractors": [
+          "meet",
+          "meeting",
+          "have met"
+        ],
+        "distractor_rationale": [
+          "the base form cannot follow 'have' in a present perfect question — the past participle is required",
+          "the -ing form cannot follow 'have' as an auxiliary in the present perfect — it would require 'been' before it",
+          "double auxiliary 'have have met' is grammatically impossible; the auxiliary 'Have' is already provided in the question"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0005",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa ___ (already / send) the report to her manager, so there is nothing left to do this morning.",
+        "correct_answer": "has already sent",
+        "distractors": [
+          "already sent",
+          "already sends",
+          "had already sent"
+        ],
+        "distractor_rationale": [
+          "past simple with 'already' does not connect the completed action to the present result 'there is nothing left to do this morning'",
+          "present simple cannot express a completed action with current relevance using 'already'",
+          "past perfect requires a reference past moment before which the action was completed; no such past reference point exists here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0006",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David ___ (be) to Japan twice, so he already knows some useful phrases in Japanese.",
+        "correct_answer": "has been",
+        "distractors": [
+          "has gone",
+          "went",
+          "was"
+        ],
+        "distractor_rationale": [
+          "'has gone' means he went and is still there, but 'he already knows some useful phrases' shows he has returned and the knowledge is with him now",
+          "past simple 'went' does not connect the experience to the present knowledge he currently has",
+          "past simple 'was' implies a single completed event with no link to the present result, and cannot express a repeated life experience with 'twice'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0007",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The team ___ (not / decide) yet which approach to use, so the meeting tomorrow is still necessary.",
+        "correct_answer": "has not decided",
+        "distractors": [
+          "did not decide",
+          "does not decide",
+          "had not decided"
+        ],
+        "distractor_rationale": [
+          "past simple with 'yet' implies a closed past period, but 'the meeting tomorrow is still necessary' shows the situation has current relevance and is unresolved",
+          "present simple cannot express an action that was expected to happen by now but has not occurred, which is the meaning of 'not yet'",
+          "past perfect requires a reference past event before which the decision was absent; no such past reference point exists here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0008",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "So far this month, Sara ___ (attend) every training session and ___ (receive) very positive feedback from her supervisor.",
+        "correct_answer": "has attended … has received",
+        "distractors": [
+          "attended … received",
+          "attends … receives",
+          "had attended … had received"
+        ],
+        "distractor_rationale": [
+          "past simple cannot be used with 'so far this month', which is an open time frame extending to the present moment",
+          "present simple cannot express completed actions within an ongoing period indicated by 'so far this month'",
+          "past perfect describes actions completed before a specific past moment, not within an open period that includes now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0009",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My parents ___ (know) each other since they were teenagers, and they still talk every single day.",
+        "correct_answer": "have known",
+        "distractors": [
+          "knew",
+          "have been knowing",
+          "had known"
+        ],
+        "distractor_rationale": [
+          "past simple 'knew' with 'since' implies the relationship ended in the past, which contradicts 'they still talk every single day'",
+          "'have been knowing' is impossible because 'know' is a stative verb and cannot be used in any continuous form",
+          "past perfect 'had known' describes a state completed before a specific past event, not one that continues up to the present"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0010",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom ___ (never / try) sushi, so he is a little nervous about ordering it tonight.",
+        "correct_answer": "has never tried",
+        "distractors": [
+          "never tried",
+          "is never trying",
+          "never tries"
+        ],
+        "distractor_rationale": [
+          "past simple without a definite past time marker cannot express a life experience that remains true up to now",
+          "present continuous cannot express a life experience; it only describes an action in progress right now",
+          "present simple describes a habit or fact, not a life experience with 'never' anchored to the present moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0011",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (live) in this apartment for three years, and we still love it.",
+        "correct_answer": "have lived",
+        "distractors": [
+          "lived",
+          "are living",
+          "live"
+        ],
+        "distractor_rationale": [
+          "past simple with 'for' suggests the situation is finished, but 'still love it' confirms the situation is ongoing up to now",
+          "present continuous with 'for three years' cannot anchor the start of the situation to a point in the past",
+          "present simple cannot express a duration that started in the past and continues to the present moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0012",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria ___ (already / send) the report to her manager, so she can leave the office early today.",
+        "correct_answer": "has already sent",
+        "distractors": [
+          "already sent",
+          "is already sending",
+          "had already sent"
+        ],
+        "distractor_rationale": [
+          "past simple with 'already' does not convey the current relevance — the reason she can leave now depends on a just-completed action with a present result",
+          "present continuous with 'already' is grammatically incoherent; the sending is completed, not in progress",
+          "past perfect requires a second past reference point to establish sequence, but the main clause is in the present ('she can leave'), making past perfect incorrect here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0013",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James ___ (work) at the same company since he graduated from college, and he hopes to be promoted soon.",
+        "correct_answer": "has worked",
+        "distractors": [
+          "worked",
+          "has been worked",
+          "works"
+        ],
+        "distractor_rationale": [
+          "past simple with 'since' implies the situation ended in the past, but 'hopes to be promoted soon' confirms it is still ongoing",
+          "'has been worked' is a passive construction that is grammatically incorrect here because 'work' is intransitive in this context",
+          "present simple with 'since' cannot express a situation that started at a specific point in the past and continues to now"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_cloze_0014",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna ___ (just / return) from her trip abroad, so she ___ (not / unpack) her bags yet — they are still by the front door.",
+        "correct_answer": "has just returned / hasn't unpacked",
+        "distractors": [
+          "just returned / didn't unpack",
+          "has just returned / isn't unpacking",
+          "just returned / hasn't unpacked"
+        ],
+        "distractor_rationale": [
+          "using past simple for both verbs removes the present relevance signalled by 'just' and 'yet'; the bags being by the door now confirms both situations are connected to the present moment",
+          "the second gap requires present perfect with 'yet' to express an action not completed up to now; present continuous 'isn't unpacking' describes an action in progress, which contradicts the implication that she hasn't started",
+          "mixing past simple for the first verb with present perfect for the second is inconsistent; 'just' in the first clause signals a recently completed action with present relevance, requiring present perfect throughout"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "present_perfect_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0000",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom ___ never eaten sushi, so tonight will be his first time.",
+        "correct_answer": "has",
+        "distractors": [
+          "is",
+          "was",
+          "does"
+        ],
+        "distractor_rationale": [
+          "is forms present continuous, which cannot express a life experience with never",
+          "was forms past simple auxiliary, which does not combine with a past participle to express present relevance",
+          "does forms present simple, which cannot express a life experience with never"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0001",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We ___ already finished our homework, so we can watch a film now.",
+        "correct_answer": "have",
+        "distractors": [
+          "are",
+          "did",
+          "do"
+        ],
+        "distractor_rationale": [
+          "are forms present continuous, which cannot express a completed action with already",
+          "did forms past simple, which cannot combine with a past participle to express current relevance",
+          "do forms present simple, which cannot express a recently completed action with already"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0002",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa ___ just arrived at the airport, so she will call us very soon.",
+        "correct_answer": "has",
+        "distractors": [
+          "is",
+          "had",
+          "was"
+        ],
+        "distractor_rationale": [
+          "is forms present continuous, which cannot express a just-completed action with just",
+          "had forms past perfect auxiliary, which places the action before another past event rather than expressing current relevance",
+          "was forms past simple auxiliary and does not combine with a past participle to express a recent event with just"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0003",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My parents ___ lived in the same house for over thirty years and they love it there.",
+        "correct_answer": "have",
+        "distractors": [
+          "lived",
+          "are living",
+          "live"
+        ],
+        "distractor_rationale": [
+          "lived is past simple, which cannot express an ongoing situation continuing to the present with for",
+          "are living is present continuous, which cannot anchor the situation to a point in the past with for",
+          "live is present simple, which cannot express duration from a past starting point with for"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0004",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Have you ever ___ to a live music concert in an outdoor stadium?",
+        "correct_answer": "been",
+        "distractors": [
+          "gone",
+          "went",
+          "go"
+        ],
+        "distractor_rationale": [
+          "gone implies the person went and has not yet returned, but the question asks about a life experience of visiting, making been the correct choice",
+          "went is the past simple form and cannot follow the auxiliary have in a present perfect structure",
+          "go is the base form and cannot follow the auxiliary have in a present perfect structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0005",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna has worked at the same company since she ___ university in 2019.",
+        "correct_answer": "finished",
+        "distractors": [
+          "has finished",
+          "finishes",
+          "was finishing"
+        ],
+        "distractor_rationale": [
+          "has finished is present perfect, but the time clause with a definite past date requires past simple",
+          "finishes is present simple, which cannot refer to a completed event at a specific past moment",
+          "was finishing is past continuous, which describes an action in progress rather than a completed event at a specific past point"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0006",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I haven't received a reply from the hotel ___; I'll try calling them tomorrow.",
+        "correct_answer": "yet",
+        "distractors": [
+          "already",
+          "just",
+          "since"
+        ],
+        "distractor_rationale": [
+          "already is used in affirmative sentences to say something happened sooner than expected, not in negatives expressing an expected event that has not occurred",
+          "just signals that something happened a very short time ago, which contradicts the negative meaning that the reply has not arrived at all",
+          "since requires a reference point in time (a noun or clause) and cannot stand alone at the end of a sentence in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0007",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David ___ gone to the head office in the city, so he won't be back until Thursday.",
+        "correct_answer": "has",
+        "distractors": [
+          "is",
+          "have",
+          "had"
+        ],
+        "distractor_rationale": [
+          "is forms present continuous, which cannot express that David went and is still there using the structure has gone",
+          "have is the plural auxiliary and does not agree with the third-person singular subject David",
+          "had forms past perfect auxiliary, which places the event before another past event rather than expressing that David is currently away"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0008",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "By the time the manager arrived, the team ___ already solved the technical problem without any help.",
+        "correct_answer": "had",
+        "distractors": [
+          "have",
+          "has",
+          "was"
+        ],
+        "distractor_rationale": [
+          "have is present perfect auxiliary, which cannot express an action completed before a specific past moment indicated by by the time the manager arrived",
+          "has is present perfect auxiliary with third-person singular agreement, but it cannot place the action before a past reference point",
+          "was forms past simple or past continuous auxiliary, which does not combine correctly with already and a past participle to express prior completion"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_multiple_choice_0009",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara has been a member of the local sports club ___ she moved to this neighbourhood three years ago.",
+        "correct_answer": "since",
+        "distractors": [
+          "for",
+          "during",
+          "while"
+        ],
+        "distractor_rationale": [
+          "for requires a period of duration (e.g. for three years) and cannot precede a clause with a subject and verb",
+          "during requires a noun phrase referring to a period (e.g. during the summer) and cannot introduce a clause",
+          "while introduces a simultaneous action in progress, not the starting point of an ongoing situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "present_perfect_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0000",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She has never ate sushi before, so she was nervous at the restaurant.",
+        "correct_answer": "eaten",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She has never ate sushi before, so she was nervous at the restaurant.",
+        "corrected_sentence": "She has never eaten sushi before, so she was nervous at the restaurant.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0001",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom have already finished his homework, so he can watch TV now.",
+        "correct_answer": "has already finished",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom have already finished his homework, so he can watch TV now.",
+        "corrected_sentence": "Tom has already finished his homework, so he can watch TV now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0002",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I have seen that film last weekend, and I really enjoyed it.",
+        "correct_answer": "saw",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I have seen that film last weekend, and I really enjoyed it.",
+        "corrected_sentence": "I saw that film last weekend, and I really enjoyed it.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0003",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My parents live in this house since 2010, and they have no plans to move.",
+        "correct_answer": "have lived",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My parents live in this house since 2010, and they have no plans to move.",
+        "corrected_sentence": "My parents have lived in this house since 2010, and they have no plans to move.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0004",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Anna has gone to Paris twice, so she knows the city very well.",
+        "correct_answer": "been",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Anna has gone to Paris twice, so she knows the city very well.",
+        "corrected_sentence": "Anna has been to Paris twice, so she knows the city very well.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0005",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We waited for the test results for three days, and we still haven't received any news.",
+        "correct_answer": "have been waiting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We waited for the test results for three days, and we still haven't received any news.",
+        "corrected_sentence": "We have been waiting for the test results for three days, and we still haven't received any news.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0006",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James is gone to the library, so you won't find him at home right now.",
+        "correct_answer": "has gone",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James is gone to the library, so you won't find him at home right now.",
+        "corrected_sentence": "James has gone to the library, so you won't find him at home right now.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_present_perfect_error_correction_0007",
+      "skill_ids": [
+        "present_perfect"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 49,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager hasn't approved the new schedule yet, although she received it since Monday.",
+        "correct_answer": "has received it since",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager hasn't approved the new schedule yet, although she received it since Monday.",
+        "corrected_sentence": "The manager hasn't approved the new schedule yet, although she has received it since Monday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 49,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:31:14.733499+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "present_perfect_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

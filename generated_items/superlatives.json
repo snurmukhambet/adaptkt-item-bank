@@ -1,0 +1,1863 @@
+{
+  "skill_id": "superlatives",
+  "skill_name": "Superlatives",
+  "exercises": [
+    {
+      "id": "ex_superlatives_cloze_0000",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom is ___ (tall) boy in his class — he is almost 1.9 metres.",
+        "correct_answer": "the tallest",
+        "distractors": [
+          "the most tall",
+          "tallest",
+          "the more tall"
+        ],
+        "distractor_rationale": [
+          "'most' is used with long adjectives only; 'tall' is a one-syllable adjective and takes '-est'",
+          "superlatives require 'the' before them; omitting 'the' is a common learner error",
+          "'more tall' is a comparative form, not a superlative, and 'the more tall' mixes structures incorrectly"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0001",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This is ___ (hot) day of the whole summer — everyone is staying inside.",
+        "correct_answer": "the hottest",
+        "distractors": [
+          "the most hot",
+          "the hotest",
+          "hottest"
+        ],
+        "distractor_rationale": [
+          "'most' is incorrect with one-syllable adjectives like 'hot'; the correct form doubles the final consonant and adds '-est'",
+          "the spelling is wrong — 'hot' requires doubling the final consonant before '-est', giving 'hottest' not 'hotest'",
+          "superlatives require 'the' before them; omitting 'the' is a frequent learner error"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0002",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "That old sofa is ___ (cheap) item in the whole furniture shop.",
+        "correct_answer": "the cheapest",
+        "distractors": [
+          "the most cheap",
+          "cheapest",
+          "the most cheapest"
+        ],
+        "distractor_rationale": [
+          "'cheap' is a one-syllable adjective and takes '-est', not 'most'",
+          "superlatives require 'the' before them; omitting 'the' is a common learner error",
+          "using both 'most' and '-est' together is a double superlative, which is always incorrect in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0003",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna said the science exam was ___ (difficult) test she had ever taken at school.",
+        "correct_answer": "the most difficult",
+        "distractors": [
+          "the difficultest",
+          "the most difficultest",
+          "most difficult"
+        ],
+        "distractor_rationale": [
+          "'difficult' is a three-syllable adjective and cannot take '-est'; it must use 'most'",
+          "using both 'most' and '-est' together is a double superlative and is always grammatically wrong",
+          "superlatives require 'the' before them; omitting 'the' is a common learner error"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0004",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This restaurant serves ___ (good) pizza in the whole city, according to every food review I have read.",
+        "correct_answer": "the best",
+        "distractors": [
+          "the most good",
+          "the goodest",
+          "the better"
+        ],
+        "distractor_rationale": [
+          "'good' is an irregular adjective; its superlative is 'best', not 'most good'",
+          "'goodest' is a non-standard invented form; the irregular superlative of 'good' is 'best'",
+          "'better' is the comparative form of 'good', not the superlative; 'best' is required here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0005",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Of all the athletes in the competition, Maria ran ___ (fast) and finished the race in record time.",
+        "correct_answer": "the fastest",
+        "distractors": [
+          "the most fast",
+          "the most fastest",
+          "faster"
+        ],
+        "distractor_rationale": [
+          "'fast' is a one-syllable adverb and takes '-est' to form the superlative, not 'most'",
+          "using both 'most' and '-est' creates a double superlative, which is always incorrect",
+          "'faster' is the comparative adverb form used when comparing two items, not a group; the superlative is needed here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0006",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new apartment block near the park is one of ___ (expensive) buildings in the neighbourhood.",
+        "correct_answer": "the most expensive",
+        "distractors": [
+          "the expensivest",
+          "most expensive",
+          "the more expensive"
+        ],
+        "distractor_rationale": [
+          "'expensive' is a three-syllable adjective and cannot take '-est'; it must use 'most'",
+          "the 'one of the + superlative + plural noun' structure requires 'the' before the superlative",
+          "'more expensive' is a comparative form, not a superlative; 'most expensive' is required after 'one of the'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0007",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Although several candidates applied for the position, David performed ___ (badly) at the interview and was not offered the job.",
+        "correct_answer": "the worst",
+        "distractors": [
+          "the most badly",
+          "the baddest",
+          "the least well"
+        ],
+        "distractor_rationale": [
+          "'badly' is an irregular adverb; its superlative is 'worst', not 'most badly'",
+          "'baddest' is a non-standard invented form; the irregular superlative adverb of 'badly' is 'worst'",
+          "'the least well' means the opposite direction of comparison — the lowest degree of performing well — whereas 'the worst' directly expresses the poorest performance, which is what the context demands"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0008",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The project manager chose the design that had been completed ___ (efficiently) of all the teams, since deadlines were critical.",
+        "correct_answer": "the most efficiently",
+        "distractors": [
+          "the efficientliest",
+          "most efficiently",
+          "the more efficiently"
+        ],
+        "distractor_rationale": [
+          "'efficiently' is a multi-syllable adverb and cannot take '-est'; it must use 'most'",
+          "superlative adverbs with 'most' require 'the' before them; omitting 'the' is a common learner error",
+          "'more efficiently' is a comparative adverb form used to compare two items; the superlative 'most efficiently' is required when comparing all teams"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0009",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Surprisingly, the ___ (little) popular dish on the menu — a plain vegetable soup — turned out to be the one that sold out first.",
+        "correct_answer": "least",
+        "distractors": [
+          "most little",
+          "less",
+          "fewest"
+        ],
+        "distractor_rationale": [
+          "'most little' is not a valid superlative form; 'little' has an irregular superlative 'least' when used as an adverb of degree modifying 'popular'",
+          "'less popular' is the comparative form used to compare two items, not the superlative needed to describe the lowest rank within the whole menu",
+          "'fewest' is the superlative of 'few' and refers to countable nouns, not to a degree of popularity modifying an adjective"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0010",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom is ___ (tall) student in the whole class.",
+        "correct_answer": "the tallest",
+        "distractors": [
+          "the most tall",
+          "tallest",
+          "the more tall"
+        ],
+        "distractor_rationale": [
+          "most is used only with long adjectives; tall is a one-syllable adjective and takes -est",
+          "omitting the before a superlative is grammatically incorrect in English",
+          "more is used for comparatives, not superlatives; the superlative of tall is tallest"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0011",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "This is ___ (bad) film I have ever seen at the cinema.",
+        "correct_answer": "the worst",
+        "distractors": [
+          "the most bad",
+          "the baddest",
+          "the most worst"
+        ],
+        "distractor_rationale": [
+          "bad is an irregular adjective; its superlative is worst, not most bad",
+          "baddest is a non-standard invented form; the correct irregular superlative is worst",
+          "double superlative combining most and worst is grammatically impossible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0012",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Out of all the dishes on the menu, the vegetable soup was ___ (cheap) option we could order.",
+        "correct_answer": "the cheapest",
+        "distractors": [
+          "the most cheap",
+          "cheapest",
+          "the least cheapest"
+        ],
+        "distractor_rationale": [
+          "cheap is a one-syllable adjective and forms its superlative with -est, not with most",
+          "the definite article the is required before a superlative adjective in this structure",
+          "least cheapest is a double superlative and contradicts the meaning; the correct form is the cheapest"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0013",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna speaks ___ (fluently) of all the candidates who interviewed for the position.",
+        "correct_answer": "the most fluently",
+        "distractors": [
+          "the fluently",
+          "most fluently",
+          "the fluently most"
+        ],
+        "distractor_rationale": [
+          "fluently is an adverb and requires most to form its superlative; the alone cannot create a superlative",
+          "the definite article the is required before the superlative adverb most fluently",
+          "placing most after the adverb is incorrect word order; the correct structure is the most + adverb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_cloze_0014",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The coastal path near the village is one of ___ (scenic) walking routes in the entire region, attracting visitors throughout the year.",
+        "correct_answer": "the most scenic",
+        "distractors": [
+          "the scenicest",
+          "the most scenicest",
+          "most scenic"
+        ],
+        "distractor_rationale": [
+          "scenic is a two-syllable adjective ending in a consonant cluster and does not take -est; it requires most",
+          "combining most with -est creates an impossible double superlative form",
+          "the definite article the is obligatory in the structure one of the most + adjective + plural noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "superlatives_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0000",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "This is ___ bag in the shop — it costs only two euros.",
+        "correct_answer": "the cheapest",
+        "distractors": [
+          "the most cheap",
+          "cheapest",
+          "the more cheap"
+        ],
+        "distractor_rationale": [
+          "most cheap is incorrect because 'cheap' is a one-syllable adjective that forms its superlative with -est, not 'most'",
+          "omitting 'the' before a superlative adjective is a common learner error; 'the' is required",
+          "more cheap is a comparative form, not a superlative, and also incorrectly uses 'more' with a short adjective"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0001",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "July is ___ month of the year in our city — temperatures reach 40 degrees.",
+        "correct_answer": "the hottest",
+        "distractors": [
+          "the most hot",
+          "hottest",
+          "the hotest"
+        ],
+        "distractor_rationale": [
+          "most hot is incorrect because 'hot' is a one-syllable adjective that takes -est, not 'most'",
+          "omitting 'the' before the superlative is a grammatical error; 'the' is obligatory",
+          "hotest is a spelling error — the final consonant must be doubled before -est for short CVC adjectives"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0002",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna runs ___ of all the students in her class — she always finishes first.",
+        "correct_answer": "the fastest",
+        "distractors": [
+          "the most fast",
+          "the most fastest",
+          "faster"
+        ],
+        "distractor_rationale": [
+          "most fast is incorrect because 'fast' is a one-syllable adverb that forms its superlative with -est",
+          "the most fastest is a double superlative, which is always incorrect in standard English",
+          "faster is a comparative adverb form used to compare two people, not a superlative comparing within a whole group"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0003",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "That was ___ film I have ever seen — I fell asleep twice during it.",
+        "correct_answer": "the most boring",
+        "distractors": [
+          "the boringest",
+          "the most bored",
+          "most boring"
+        ],
+        "distractor_rationale": [
+          "boringest is incorrect because 'boring' is a two-syllable adjective ending in -ing, which requires 'most' rather than -est",
+          "most bored is incorrect because 'bored' describes a person's feeling, not a film's quality; the sentence describes the film itself",
+          "omitting 'the' before the superlative is a grammatical error; 'the' is obligatory with superlatives"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0004",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark scored ___ on the maths test — he only got three answers correct out of twenty.",
+        "correct_answer": "the worst",
+        "distractors": [
+          "the most bad",
+          "the baddest",
+          "the least good"
+        ],
+        "distractor_rationale": [
+          "most bad is incorrect because 'bad' has an irregular superlative form 'worst'; 'most bad' does not exist in standard English",
+          "baddest is incorrect because 'bad' is irregular and does not take -est; the correct form is 'worst'",
+          "the least good is grammatically possible in some contexts but is semantically wrong here — it implies he was barely good, whereas the context shows he performed very poorly, making 'the worst' the only natural choice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0005",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The blue dress is ___ of all the ones she tried on, so she decided not to buy it.",
+        "correct_answer": "the least attractive",
+        "distractors": [
+          "the most unattractive",
+          "the attractivest",
+          "less attractive"
+        ],
+        "distractor_rationale": [
+          "the most unattractive, while structurally possible, changes the meaning by using a negative adjective rather than the 'the least' construction that the sentence structure calls for; the sentence tests the 'the least + adjective' superlative pattern specifically",
+          "attractivest is incorrect because 'attractive' is a multi-syllable adjective that requires 'most' or 'least', never -est",
+          "less attractive is a comparative form used to compare two items, not a superlative comparing within a group of all the dresses she tried"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0006",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The Pacific Ocean is ___ ocean on Earth — it covers more than 165 million square kilometres.",
+        "correct_answer": "the largest",
+        "distractors": [
+          "the most large",
+          "the most largest",
+          "largest"
+        ],
+        "distractor_rationale": [
+          "most large is incorrect because 'large' is a one-syllable adjective that takes -est to form its superlative",
+          "the most largest is a double superlative, combining both 'most' and -est, which is always wrong in standard English",
+          "omitting 'the' before the superlative adjective is a grammatical error; 'the' is required when using a superlative before a noun"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0007",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new software update runs ___ of all the versions they have released, even on older computers.",
+        "correct_answer": "the most efficiently",
+        "distractors": [
+          "the most efficient",
+          "the efficientliest",
+          "most efficiently"
+        ],
+        "distractor_rationale": [
+          "the most efficient is an adjective superlative and cannot modify the verb 'runs'; an adverb superlative is required here",
+          "efficientliest is not a real word; multi-syllable adverbs always use 'most' or 'least' to form the superlative",
+          "omitting 'the' before a superlative adverb is a grammatical error; 'the' is required in superlative adverb constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0008",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The old library on the corner is ___ buildings in the whole district, having been built over two hundred years ago.",
+        "correct_answer": "one of the oldest",
+        "distractors": [
+          "one of the most old",
+          "the oldest",
+          "one of the older"
+        ],
+        "distractor_rationale": [
+          "one of the most old is incorrect because 'old' is a one-syllable adjective that forms its superlative with -est, not 'most'",
+          "the oldest is grammatically correct as a superlative but does not fit the 'one of the + superlative + plural noun' structure required by the plural noun 'buildings' later in the sentence",
+          "one of the older uses a comparative form, which cannot be used in the 'one of the + superlative + plural noun' construction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_multiple_choice_0009",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After testing all five candidates, the manager agreed that Sara had performed ___ during the interview process and offered her the job immediately.",
+        "correct_answer": "the best",
+        "distractors": [
+          "the goodest",
+          "the most good",
+          "the most well"
+        ],
+        "distractor_rationale": [
+          "goodest is an incorrect regularisation of the irregular adverb 'well'; the superlative of 'well' is 'best', not 'goodest'",
+          "the most good is incorrect because 'good' used as an adverb takes the irregular superlative 'best', not 'most good'",
+          "the most well is incorrect because 'well' has an irregular superlative form 'best'; 'most well' does not exist in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "superlatives_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0000",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "This is most tall building in our city.",
+        "correct_answer": "the tallest building",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "This is most tall building in our city.",
+        "corrected_sentence": "This is the tallest building in our city.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0001",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My dog is the goodest pet I have ever had.",
+        "correct_answer": "the best",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My dog is the goodest pet I have ever had.",
+        "corrected_sentence": "My dog is the best pet I have ever had.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0002",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "January is coldest month of the year in this region.",
+        "correct_answer": "the coldest month",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "January is coldest month of the year in this region.",
+        "corrected_sentence": "January is the coldest month of the year in this region.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0003",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "That was the most bad meal I have ever eaten at a restaurant.",
+        "correct_answer": "the worst",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "That was the most bad meal I have ever eaten at a restaurant.",
+        "corrected_sentence": "That was the worst meal I have ever eaten at a restaurant.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0004",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Sara works the most hard of everyone in the office, so she deserves a bonus.",
+        "correct_answer": "the hardest",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Sara works the most hard of everyone in the office, so she deserves a bonus.",
+        "corrected_sentence": "Sara works the hardest of everyone in the office, so she deserves a bonus.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0005",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The science exam was the most longest test we had taken all term, and many students ran out of time.",
+        "correct_answer": "the longest",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The science exam was the most longest test we had taken all term, and many students ran out of time.",
+        "corrected_sentence": "The science exam was the longest test we had taken all term, and many students ran out of time.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0006",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "This hiking trail is one of the most popular trail in the national park, attracting thousands of visitors each summer.",
+        "correct_answer": "the most popular trails",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "This hiking trail is one of the most popular trail in the national park, attracting thousands of visitors each summer.",
+        "corrected_sentence": "This hiking trail is one of the most popular trails in the national park, attracting thousands of visitors each summer.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_superlatives_error_correction_0007",
+      "skill_ids": [
+        "superlatives"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although the new model is expensive, it is clearly the least cheapest option when you consider how long it will last.",
+        "correct_answer": "the least expensive",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although the new model is expensive, it is clearly the least cheapest option when you consider how long it will last.",
+        "corrected_sentence": "Although the new model is expensive, it is clearly the least expensive option when you consider how long it will last.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 26,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:09:27.273087+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "superlatives_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

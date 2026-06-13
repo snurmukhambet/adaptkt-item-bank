@@ -1,0 +1,1866 @@
+{
+  "skill_id": "prepositions_other",
+  "skill_name": "Prepositions (Logical/Instrumental/Causal)",
+  "exercises": [
+    {
+      "id": "ex_prepositions_other_cloze_0000",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom goes to school ___ bus every morning.",
+        "correct_answer": "by",
+        "distractors": [
+          "with",
+          "on",
+          "in"
+        ],
+        "distractor_rationale": [
+          "with is used for instruments or accompaniment, not for means of transport in fixed phrases",
+          "on is used for specific vehicles you board (on the bus), but the fixed phrase for means of transport is by bus without an article",
+          "in is used for enclosed vehicles with a specific reference (in the car), not in the fixed means-of-transport phrase by bus"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0001",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She paid ___ the groceries using her credit card.",
+        "correct_answer": "for",
+        "distractors": [
+          "with",
+          "by",
+          "about"
+        ],
+        "distractor_rationale": [
+          "with introduces the instrument used for payment, not the thing being paid for; 'paid with her credit card' is correct but 'paid with the groceries' is wrong",
+          "by introduces the method of payment (by card), not the item purchased; 'paid by card' is correct but 'paid by the groceries' is wrong",
+          "about introduces a subject of discussion or concern, not the object of a financial transaction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0002",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The children drew pictures ___ coloured pencils in their art class.",
+        "correct_answer": "with",
+        "distractors": [
+          "by",
+          "for",
+          "from"
+        ],
+        "distractor_rationale": [
+          "by introduces the agent or means in passive constructions, not the physical instrument held in the hand",
+          "for introduces purpose or duration, not the physical tool used to perform an action",
+          "from introduces a source or origin, not the instrument used directly to perform an action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0003",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria is very interested ___ learning about different cultures and traditions.",
+        "correct_answer": "in",
+        "distractors": [
+          "at",
+          "about",
+          "for"
+        ],
+        "distractor_rationale": [
+          "at is used with adjectives like good/bad/surprised, not with interested; 'interested at' is a classic learner error",
+          "about collocates with worried, excited, or talk, but the fixed collocation for interested is always interested in",
+          "for collocates with ready, responsible, or used, but not with interested in this meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0004",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The team won the match ___ the very cold weather and the wet pitch.",
+        "correct_answer": "despite",
+        "distractors": [
+          "although",
+          "because of",
+          "even"
+        ],
+        "distractor_rationale": [
+          "although is a conjunction and must be followed by a subject and verb, not a noun phrase; 'although the very cold weather' is grammatically incorrect",
+          "because of introduces a cause, but cold weather and a wet pitch would explain a loss, not a win; the logical relationship here is contrast, not cause",
+          "even is an adverb and cannot function as a preposition before a noun phrase; 'even the very cold weather' would need 'even though' plus a clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0005",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager spoke ___ the new office rules at the start of the meeting.",
+        "correct_answer": "about",
+        "distractors": [
+          "for",
+          "with",
+          "against"
+        ],
+        "distractor_rationale": [
+          "for introduces purpose or benefit, not the subject matter of speech; 'spoke for the rules' would mean advocating for them, not discussing their content",
+          "with introduces accompaniment or instrument; 'spoke with the rules' is semantically nonsensical as rules are not a companion or tool in speech",
+          "against means in opposition to; 'spoke against the rules' would mean he criticised or opposed them, which contradicts the neutral context of explaining new rules at a meeting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0006",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna saved money ___ three months so she could buy a new laptop.",
+        "correct_answer": "for",
+        "distractors": [
+          "since",
+          "during",
+          "while"
+        ],
+        "distractor_rationale": [
+          "since requires a specific point in time as its complement (since January), not a duration like three months",
+          "during introduces a period within which events happen (during the summer), not a measured span of duration used with save/wait/work",
+          "while is a conjunction introducing a clause with a subject and verb, not a preposition that can precede a noun phrase like three months"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0007",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The outdoor concert was cancelled ___ the heavy rain that started just before it was due to begin.",
+        "correct_answer": "because of",
+        "distractors": [
+          "because",
+          "despite",
+          "due"
+        ],
+        "distractor_rationale": [
+          "because is a conjunction and must be followed by a full clause with a subject and verb; 'because the heavy rain' omits the verb and is grammatically incomplete",
+          "despite introduces a contrasting condition, not a cause; using it here would mean the concert was cancelled in spite of the rain, which is logically contradictory",
+          "due must be followed by 'to' to form the prepositional phrase 'due to'; 'due the heavy rain' without 'to' is grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0008",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The local residents signed a petition ___ the construction of a new factory near their homes.",
+        "correct_answer": "against",
+        "distractors": [
+          "about",
+          "for",
+          "despite"
+        ],
+        "distractor_rationale": [
+          "about would mean the petition concerned or discussed the factory, not that it opposed it; the context of residents objecting to something near their homes signals opposition, not neutral discussion",
+          "for would mean the residents were supporting and advocating for the factory, which directly contradicts the idea of residents objecting to something near their homes",
+          "despite is a preposition of contrast, not of opposition; 'a petition despite the construction' would mean the petition existed in spite of the construction, which is illogical in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0009",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James managed to finish the project on time ___ the fact that two members of his team were absent all week.",
+        "correct_answer": "despite",
+        "distractors": [
+          "due to",
+          "because of",
+          "although"
+        ],
+        "distractor_rationale": [
+          "due to introduces a cause that explains a result; using it here would mean the absences caused James to finish on time, which is logically contradictory",
+          "because of also introduces a cause; 'finished on time because of the absences' implies the absences helped him finish, which contradicts the meaning of the sentence",
+          "although is a conjunction and requires a subject and verb to follow it; 'although the fact that' produces a grammatically malformed structure where a conjunction precedes a noun phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0010",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Every morning, Tom goes to school ___ bus because it is fast and cheap.",
+        "correct_answer": "by",
+        "distractors": [
+          "with",
+          "on",
+          "in"
+        ],
+        "distractor_rationale": [
+          "with is used for instruments held in the hand, not for means of transport",
+          "on is used with specific vehicle surfaces (on the bus) but not in the pattern 'go ___ bus' without an article",
+          "in is used for enclosed vehicles with an article (in the car), not in the fixed phrase for transport mode"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0011",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria signed the contract ___ a pen that she borrowed from the receptionist.",
+        "correct_answer": "with",
+        "distractors": [
+          "by",
+          "for",
+          "about"
+        ],
+        "distractor_rationale": [
+          "by introduces means of transport or agent, not a physical instrument held in the hand",
+          "for expresses purpose or duration, not the instrument used to perform an action",
+          "about introduces a subject or topic, not the tool used to carry out a physical action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0012",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The flight was cancelled ___ the heavy storm that hit the region overnight.",
+        "correct_answer": "because of",
+        "distractors": [
+          "because",
+          "despite",
+          "although"
+        ],
+        "distractor_rationale": [
+          "because is a conjunction and must be followed by a subject and verb, not a noun phrase",
+          "despite introduces a contrasting condition, not a cause, and would make the sentence logically contradictory",
+          "although is a conjunction expressing contrast, not cause, and cannot be followed directly by a noun phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0013",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara kept working on the project ___ her tiredness, and she finished it before the deadline.",
+        "correct_answer": "despite",
+        "distractors": [
+          "although",
+          "because of",
+          "due to"
+        ],
+        "distractor_rationale": [
+          "although is a conjunction and must introduce a full clause with a subject and verb, not a noun phrase",
+          "because of introduces a cause, but tiredness here is an obstacle she worked against, not the reason she worked",
+          "due to also introduces a cause rather than a contrast, making the sentence logically contradictory in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_cloze_0014",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The manager sent a formal memo ___ the new safety regulations, asking all staff to read it carefully before Monday.",
+        "correct_answer": "about",
+        "distractors": [
+          "for",
+          "against",
+          "despite"
+        ],
+        "distractor_rationale": [
+          "for expresses purpose or intended recipient, not the subject matter or topic of a written communication",
+          "against expresses opposition, which contradicts the neutral informational purpose of the memo in this context",
+          "despite expresses contrast with an obstacle, which is semantically incompatible with introducing the topic of a document"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "prepositions_other_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0001",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She wrote the note ___ a red pen because she had no pencil.",
+        "correct_answer": "with",
+        "distractors": [
+          "by",
+          "for",
+          "from"
+        ],
+        "distractor_rationale": [
+          "'by' marks means of transport or agent, not a physical instrument held in the hand",
+          "'for' expresses purpose or duration, not the instrument used to perform an action",
+          "'from' indicates origin or material source, not the tool used to write"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0002",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "This bag is ___ carrying books to and from the library.",
+        "correct_answer": "for",
+        "distractors": [
+          "to",
+          "with",
+          "about"
+        ],
+        "distractor_rationale": [
+          "'to' before a gerund is not standard; 'for + gerund' is the correct structure to express purpose",
+          "'with' expresses accompaniment or instrument, not the purpose an object is designed for",
+          "'about' introduces a subject or topic, not the intended function of an object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0003",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The documentary we watched last night was ___ the effects of plastic on ocean life.",
+        "correct_answer": "about",
+        "distractors": [
+          "for",
+          "of",
+          "with"
+        ],
+        "distractor_rationale": [
+          "'for' expresses purpose or benefit, not the subject matter of a film or documentary",
+          "'of' can follow nouns like 'topic' or 'subject' but does not directly follow 'was' to introduce the subject of a documentary",
+          "'with' signals accompaniment or instrument, not the theme or content of a programme"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0005",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Maria has been studying ___ three hours and still has more chapters to read.",
+        "correct_answer": "for",
+        "distractors": [
+          "since",
+          "during",
+          "from"
+        ],
+        "distractor_rationale": [
+          "'since' requires a fixed point in time (since 9 o'clock), not a duration (three hours)",
+          "'during' is followed by a named period or event (during the exam), not a quantity of time",
+          "'from' requires a paired 'to' or 'until' to express a time span and cannot stand alone before a duration"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0006",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new law is ___ building any more factories near the city's water supply.",
+        "correct_answer": "against",
+        "distractors": [
+          "about",
+          "for",
+          "with"
+        ],
+        "distractor_rationale": [
+          "'about' introduces a topic or subject matter, not a prohibition or opposition",
+          "'for' expresses support or purpose, which is the opposite meaning of what the sentence requires",
+          "'with' signals accompaniment or instrument and does not express legal prohibition or opposition"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0007",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The contract was signed ___ the company's legal representative, who was present throughout the meeting.",
+        "correct_answer": "by",
+        "distractors": [
+          "with",
+          "from",
+          "through"
+        ],
+        "distractor_rationale": [
+          "'with' indicates accompaniment or instrument but does not mark the agent of a passive action in formal legal contexts",
+          "'from' indicates origin or source but is not used to introduce the agent in a passive construction",
+          "'through' can indicate an intermediary channel but does not correctly mark the direct agent of a passive verb in standard English"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0008",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ the poor weather conditions, the outdoor concert went ahead and the audience enjoyed every minute of it.",
+        "correct_answer": "Despite",
+        "distractors": [
+          "Although",
+          "Because of",
+          "Due to"
+        ],
+        "distractor_rationale": [
+          "'Although' is a conjunction and must introduce a full clause with a subject and verb, not a noun phrase such as 'the poor weather conditions'",
+          "'Because of' expresses cause, but the sentence clearly shows a contrast between bad weather and the event continuing successfully, not a causal relationship",
+          "'Due to' also expresses cause, which contradicts the meaning of the sentence — the concert continued in spite of, not as a result of, the bad weather"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0009",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The delay in the project's completion was ___ a shortage of skilled workers in the local area.",
+        "correct_answer": "due to",
+        "distractors": [
+          "because",
+          "despite",
+          "although"
+        ],
+        "distractor_rationale": [
+          "'because' is a conjunction requiring a full clause (subject + verb) to follow it; it cannot precede a noun phrase directly",
+          "'despite' expresses contrast or concession, not cause — using it would make the sentence contradict itself logically",
+          "'although' is a conjunction expressing contrast and requires a full clause, not a noun phrase, making it both grammatically and semantically wrong here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0000",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My younger brother always goes to school with bus every morning.",
+        "correct_answer": "by bus",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My younger brother always goes to school with bus every morning.",
+        "corrected_sentence": "My younger brother always goes to school by bus every morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0001",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She wrote the note with pen, so I could read it easily.",
+        "correct_answer": "with a pen",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She wrote the note with pen, so I could read it easily.",
+        "corrected_sentence": "She wrote the note with a pen, so I could read it easily.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0002",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom is very interested at cooking and watches food programmes every weekend.",
+        "correct_answer": "interested in",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom is very interested at cooking and watches food programmes every weekend.",
+        "corrected_sentence": "Tom is very interested in cooking and watches food programmes every weekend.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0003",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The manager paid for the team dinner with credit card at the restaurant.",
+        "correct_answer": "by credit card",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The manager paid for the team dinner with credit card at the restaurant.",
+        "corrected_sentence": "The manager paid for the team dinner by credit card at the restaurant.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0004",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Because the heavy rain, the outdoor sports day was cancelled at the last minute.",
+        "correct_answer": "Because of",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Because the heavy rain, the outdoor sports day was cancelled at the last minute.",
+        "corrected_sentence": "Because of the heavy rain, the outdoor sports day was cancelled at the last minute.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0005",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Although the cold weather, the children played outside for the whole afternoon.",
+        "correct_answer": "Despite",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Although the cold weather, the children played outside for the whole afternoon.",
+        "corrected_sentence": "Despite the cold weather, the children played outside for the whole afternoon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0006",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The doctor explained that the patient's slow recovery was due of his poor diet over many months.",
+        "correct_answer": "due to",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The doctor explained that the patient's slow recovery was due of his poor diet over many months.",
+        "corrected_sentence": "The doctor explained that the patient's slow recovery was due to his poor diet over many months.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_prepositions_other_error_correction_0007",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Despite of the long delay at the airport, most passengers remained calm and waited quietly in the terminal.",
+        "correct_answer": "Despite",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Despite of the long delay at the airport, most passengers remained calm and waited quietly in the terminal.",
+        "corrected_sentence": "Despite the long delay at the airport, most passengers remained calm and waited quietly in the terminal.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "prepositions_other_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_prepositions_other_multiple_choice_0000",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 36,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Tom goes to school ___ bus every morning.",
+        "correct_answer": "by",
+        "distractors": [
+          "with",
+          "on",
+          "in"
+        ],
+        "distractor_rationale": [
+          "'with' is used for instruments or accompaniment, not means of transport — a classic learner error (go with bus)",
+          "'on' collocates with specific vehicles when used as a surface (on the bus), but the fixed phrase for means of transport is 'by bus' without an article",
+          "'in' is used for enclosed private vehicles with an article (in a car), not for the fixed means-of-transport phrase"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 36,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    },
+    {
+      "id": "ex_prepositions_other_multiple_choice_0004",
+      "skill_ids": [
+        "prepositions_other"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 44,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The flight was cancelled ___ the heavy storm that hit the region overnight.",
+        "correct_answer": "because of",
+        "distractors": [
+          "because",
+          "due",
+          "although"
+        ],
+        "distractor_rationale": [
+          "'because' is a conjunction and must be followed by a full clause (subject + verb), not a noun phrase",
+          "'due' alone is incomplete; the correct prepositional phrase is 'due to', and even then 'because of' is more natural in informal contexts here",
+          "'although' is a conjunction expressing contrast, not cause, and requires a full clause, making it grammatically and semantically wrong"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 44,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:41:42.348454+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "prepositions_other_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 31,
+    "filter_rejected": 2
+  }
+}

@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_evaluation_goals",
+  "skill_name": "Evaluation, Goals & Achievement",
+  "exercises": [
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0000",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She worked very hard all year and finally managed to ___ her goal of running a half marathon.",
+        "correct_answer": "achieve",
+        "distractors": [
+          "attempt",
+          "aim",
+          "challenge"
+        ],
+        "distractor_rationale": [
+          "'attempt' means to try, not to succeed — the sentence says 'finally managed to', which confirms success, not just an effort",
+          "'aim' means to set a target, not to reach it — you aim at a goal before you achieve it",
+          "'challenge' means to question or compete against something — it does not mean to successfully reach a personal goal"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0001",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The team made a serious ___ to finish the project before the deadline, staying late every evening that week.",
+        "correct_answer": "effort",
+        "distractors": [
+          "chance",
+          "benefit",
+          "choice"
+        ],
+        "distractor_rationale": [
+          "'chance' refers to an opportunity or possibility — it does not describe the energy and work put into a task",
+          "'benefit' refers to an advantage or positive result — it does not describe the act of working hard toward something",
+          "'choice' refers to selecting between options — it does not describe the dedicated work described by 'staying late every evening'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0002",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Passing the exam with top marks was a remarkable ___ for someone who had only studied for three weeks.",
+        "correct_answer": "achievement",
+        "distractors": [
+          "alternative",
+          "amount",
+          "advantage"
+        ],
+        "distractor_rationale": [
+          "'alternative' means another option or choice — it cannot describe the result of succeeding at a difficult task",
+          "'amount' refers to a quantity of something — it does not describe a personal success or accomplishment",
+          "'advantage' means a favourable condition — it describes a starting benefit, not the result of one's own effort and success"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0003",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Learning to manage your time well is ___ if you want to balance work, study, and personal life successfully.",
+        "correct_answer": "essential",
+        "distractors": [
+          "beneficial",
+          "alternative",
+          "challenging"
+        ],
+        "distractor_rationale": [
+          "'beneficial' means helpful or useful, but the sentence says 'if you want to balance … successfully', implying this is a necessary condition, not merely a helpful one — 'essential' is the only word that expresses necessity",
+          "'alternative' means another option — it does not describe the importance or necessity of a skill",
+          "'challenging' means difficult — it describes difficulty, not the necessity expressed by the conditional structure 'if you want to … successfully'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0004",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor explained that regular exercise has a clear ___ for heart health, reducing the risk of serious illness over time.",
+        "correct_answer": "benefit",
+        "distractors": [
+          "challenge",
+          "effort",
+          "circumstance"
+        ],
+        "distractor_rationale": [
+          "'challenge' refers to a difficulty or test — it contradicts the positive outcome described by 'reducing the risk of serious illness'",
+          "'effort' means the energy put into doing something — it does not describe a positive result that exercise produces for health",
+          "'circumstance' refers to a condition or situation — it does not collocate with 'has a clear … for health' to mean a positive outcome"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0005",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The manager gave each employee the ___ to suggest improvements to the new work schedule before it was finalised.",
+        "correct_answer": "chance",
+        "distractors": [
+          "aim",
+          "amount",
+          "achievement"
+        ],
+        "distractor_rationale": [
+          "'aim' means a goal or purpose — it does not mean an opportunity given to someone to do something",
+          "'amount' refers to a quantity — it does not describe an opportunity offered to employees",
+          "'achievement' means a success already accomplished — the sentence describes something offered before a decision, not a past success"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0006",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "If the train is cancelled, taking the bus is the only ___ that will still get you to the conference on time.",
+        "correct_answer": "alternative",
+        "distractors": [
+          "effort",
+          "advantage",
+          "crisis"
+        ],
+        "distractor_rationale": [
+          "'effort' means hard work or energy spent — it does not describe another transport option available to the traveller",
+          "'advantage' means a favourable condition — it does not describe a different option chosen when the first is unavailable",
+          "'crisis' means a serious, dangerous situation — it does not describe a substitute travel option"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0007",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Despite making three separate ___ to contact the supplier, the purchasing team received no reply and had to find a new one.",
+        "correct_answer": "attempts",
+        "distractors": [
+          "efforts",
+          "aims",
+          "choices"
+        ],
+        "distractor_rationale": [
+          "'efforts' describes the energy or work put into something — but the sentence specifies 'three separate', which collocates with 'attempts' to mean distinct tries; 'three separate efforts' would require an object ('three separate efforts to …' is possible but 'attempts to contact' is the fixed collocation for individual tries that failed",
+          "'aims' means goals or objectives — you aim to achieve something but you do not make 'three separate aims to contact' someone; this breaks the fixed collocation",
+          "'choices' means decisions between options — the team was not selecting between options; they were repeatedly trying to reach the same supplier, making 'choices' semantically contradictory"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0008",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The sudden loss of funding put the research centre in a serious ___, forcing staff to suspend all ongoing projects immediately.",
+        "correct_answer": "crisis",
+        "distractors": [
+          "challenge",
+          "circumstance",
+          "choice"
+        ],
+        "distractor_rationale": [
+          "'challenge' describes a difficult task or test — it is too mild for a situation described as 'sudden', 'serious', and causing immediate suspension of all work; 'crisis' specifically denotes an acute emergency",
+          "'circumstance' refers to a background condition or situation — it is neutral and does not carry the urgency or severity implied by 'serious' and 'forcing staff to suspend all projects immediately'",
+          "'choice' means a decision between options — the sentence describes an external emergency imposed on the centre, not a decision the staff made"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0009",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Under the difficult ___ of working with a reduced budget and a smaller team, she still delivered a high-quality report on schedule.",
+        "correct_answer": "circumstances",
+        "distractors": [
+          "challenges",
+          "amounts",
+          "aims"
+        ],
+        "distractor_rationale": [
+          "'challenges' refers to specific difficult tasks — the phrase 'under the difficult ___ of working with …' requires a word meaning conditions or situation; 'under the difficult challenges of' is not a natural fixed phrase, whereas 'under the circumstances' is a standard collocation",
+          "'amounts' refers to quantities — it does not describe the conditions under which someone works and cannot follow 'under the difficult' in this context",
+          "'aims' means goals or intentions — you work toward aims, not 'under' them; the preposition 'under' makes this combination ungrammatical in meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0010",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Learning to manage your time well is ___ if you want to succeed in your studies and meet every deadline.",
+        "correct_answer": "essential",
+        "distractors": [
+          "optional",
+          "alternative",
+          "challenging"
+        ],
+        "distractor_rationale": [
+          "'optional' directly contradicts the sentence's meaning — it implies the skill is not required, which opposes 'if you want to succeed'",
+          "'alternative' means a different choice or option and cannot describe a quality or requirement of a skill",
+          "'challenging' describes difficulty, not necessity — it does not express that something must be done"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0011",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria made a serious ___ to finish the report before the meeting, but she ran out of time.",
+        "correct_answer": "attempt",
+        "distractors": [
+          "benefit",
+          "amount",
+          "choice"
+        ],
+        "distractor_rationale": [
+          "'benefit' means an advantage gained, not a try at doing something — it cannot collocate with 'made a serious' in this context",
+          "'amount' refers to a quantity of something and cannot describe a try at completing a task",
+          "'choice' means a decision between options, not an effort or try at completing something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0012",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "One clear ___ of living near your workplace is that you spend far less money and time on daily travel.",
+        "correct_answer": "advantage",
+        "distractors": [
+          "challenge",
+          "circumstance",
+          "effort"
+        ],
+        "distractor_rationale": [
+          "'challenge' refers to something difficult, not a positive benefit — it contradicts the sentence's positive framing ('far less money and time')",
+          "'circumstance' means a condition or situation, not a positive benefit that results from something",
+          "'effort' means the energy used to do something — it cannot describe a positive result of a living situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0013",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The team put a great deal of ___ into preparing the presentation, working late every evening for two weeks.",
+        "correct_answer": "effort",
+        "distractors": [
+          "chance",
+          "achievement",
+          "aim"
+        ],
+        "distractor_rationale": [
+          "'chance' means an opportunity or possibility — it cannot collocate with 'put a great deal of' to describe hard work",
+          "'achievement' is a result or success already reached, not the energy invested before a task is completed",
+          "'aim' means a goal or objective — it cannot collocate with 'put a great deal of' to describe the work done"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_cloze_0014",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "When the hospital faced a funding ___, managers had to make difficult decisions about which services to cut immediately.",
+        "correct_answer": "crisis",
+        "distractors": [
+          "benefit",
+          "achievement",
+          "alternative"
+        ],
+        "distractor_rationale": [
+          "'benefit' means a positive gain — it contradicts the negative context of having to cut services immediately",
+          "'achievement' refers to a success or accomplishment, which is the opposite of the urgent, negative situation described",
+          "'alternative' means another option — it cannot describe the situation the hospital faced, only a possible solution to it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_evaluation_goals_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara studied hard every evening and finally managed to ___ her goal of passing the final exam.",
+        "correct_answer": "achieve",
+        "distractors": [
+          "attempt",
+          "aim",
+          "challenge"
+        ],
+        "distractor_rationale": [
+          "'attempt' means to try, not to successfully reach a goal — the word 'finally managed to' signals success, not just effort",
+          "'aim' means to set a target, not to reach one — you aim at a goal before you achieve it",
+          "'challenge' means to question or compete against something, not to successfully complete it"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The main ___ of living near the school is that the children can walk there every morning.",
+        "correct_answer": "advantage",
+        "distractors": [
+          "effort",
+          "amount",
+          "choice"
+        ],
+        "distractor_rationale": [
+          "'effort' refers to energy spent doing something, not a positive feature of a situation",
+          "'amount' refers to a quantity of something, not a benefit of a location",
+          "'choice' refers to a decision between options, not a positive feature of a situation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James made three ___ to fix the printer before he finally called a technician for help.",
+        "correct_answer": "attempts",
+        "distractors": [
+          "achievements",
+          "benefits",
+          "alternatives"
+        ],
+        "distractor_rationale": [
+          "'achievements' refers to successful results, but the sentence describes repeated failures before calling for help",
+          "'benefits' refers to positive gains, not individual tries at a task",
+          "'alternatives' refers to other possible options, not repeated efforts to do the same thing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The teacher told the students that regular practice is ___ if they want to improve their writing skills before the assessment.",
+        "correct_answer": "essential",
+        "distractors": [
+          "alternative",
+          "beneficial",
+          "challenging"
+        ],
+        "distractor_rationale": [
+          "'alternative' means another option, not something that is necessary or required",
+          "'beneficial' means helpful or useful, but the sentence says 'want to improve', implying a requirement, not just a nice addition — and 'is beneficial' does not collocate with the strong necessity implied by the context",
+          "'challenging' means difficult, not necessary — it describes difficulty, not requirement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Winning the regional science competition was a remarkable ___ for Maria, who had only started the project six weeks earlier.",
+        "correct_answer": "achievement",
+        "distractors": [
+          "attempt",
+          "circumstance",
+          "chance"
+        ],
+        "distractor_rationale": [
+          "'attempt' refers to a try, not a successful result — winning is a completed success, not just an effort",
+          "'circumstance' refers to a condition or situation surrounding an event, not the successful outcome itself",
+          "'chance' refers to an opportunity or possibility, not a completed successful result"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The project manager explained that keeping costs low while maintaining quality was the biggest ___ the team had ever faced.",
+        "correct_answer": "challenge",
+        "distractors": [
+          "benefit",
+          "achievement",
+          "advantage"
+        ],
+        "distractor_rationale": [
+          "'benefit' refers to a positive gain, but the sentence describes a difficult problem that must be overcome",
+          "'achievement' refers to a successful result already reached, but the sentence describes an ongoing difficulty",
+          "'advantage' refers to a favourable condition, which contradicts the difficulty described in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "If the bus is not running tomorrow, taking the train is the only practical ___ for getting to the conference on time.",
+        "correct_answer": "alternative",
+        "distractors": [
+          "effort",
+          "crisis",
+          "aim"
+        ],
+        "distractor_rationale": [
+          "'effort' refers to energy or work put into a task, not a different option available to someone",
+          "'crisis' refers to a serious emergency situation, not a substitute travel option",
+          "'aim' refers to a goal or target, not a different method or route someone can choose"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Under the difficult ___ of a tight deadline and limited resources, the team still produced a report that impressed the entire board.",
+        "correct_answer": "circumstances",
+        "distractors": [
+          "challenges",
+          "efforts",
+          "aims"
+        ],
+        "distractor_rationale": [
+          "'challenges' refers to difficult tasks or problems, but the fixed phrase 'under the circumstances' describes the conditions surrounding an event, not the tasks themselves",
+          "'efforts' refers to the energy or work applied, not the surrounding conditions — 'under the efforts' is not a standard collocation",
+          "'aims' refers to goals or intentions, and 'under the aims' is not a grammatically or idiomatically acceptable phrase in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The sudden drop in funding created a serious ___ for the organisation, forcing the director to suspend three ongoing programmes immediately.",
+        "correct_answer": "crisis",
+        "distractors": [
+          "challenge",
+          "circumstance",
+          "choice"
+        ],
+        "distractor_rationale": [
+          "'challenge' suggests a difficult but manageable obstacle, whereas the sentence describes a sudden, severe disruption requiring immediate suspension of programmes",
+          "'circumstance' refers to a background condition, not an urgent event that forces immediate action",
+          "'choice' refers to a decision between options, but the sentence describes an external event that happened to the organisation, not a decision it made"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Despite putting in considerable ___, the research team was unable to replicate the original experiment's results within the given timeframe.",
+        "correct_answer": "effort",
+        "distractors": [
+          "advantage",
+          "achievement",
+          "chance"
+        ],
+        "distractor_rationale": [
+          "'advantage' refers to a favourable condition, not the energy or work invested in a task — 'putting in considerable advantage' is not a standard collocation",
+          "'achievement' refers to a successful result, but the sentence describes failure to replicate, making a successful outcome contradictory",
+          "'chance' refers to an opportunity or probability, and 'putting in considerable chance' is not a grammatically acceptable collocation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_evaluation_goals_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_word_formation_0000",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Finishing the marathon was a great ___ for someone who had never run before. (ACHIEVE)",
+        "correct_answer": "achievement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ACHIEVE"
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_evaluation_goals_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_word_formation_0001",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "It is ___ to read the safety instructions before using the new equipment. (ESSENCE)",
+        "correct_answer": "essential",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ESSENCE"
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_evaluation_goals_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_word_formation_0002",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The team made several ___ attempts to solve the problem before finally finding a solution that worked. (BENEFIT)",
+        "correct_answer": "beneficial",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "BENEFIT"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_evaluation_goals_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_word_formation_0003",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Under such difficult ___, it is impressive that the students managed to complete their project on time. (CIRCUMSTANCE)",
+        "correct_answer": "circumstances",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CIRCUMSTANCE"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_evaluation_goals_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_evaluation_goals_word_formation_0004",
+      "skill_ids": [
+        "vocab_evaluation_goals"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 58,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The manager praised the team for their ___ in dealing with the unexpected crisis without any outside support. (CHALLENGE)",
+        "correct_answer": "challenging",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CHALLENGE"
+      },
+      "difficulty_features": {
+        "gse_target": 58,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:36:28.135562+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_evaluation_goals_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

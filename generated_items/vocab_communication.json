@@ -1,0 +1,1715 @@
+{
+  "skill_id": "vocab_communication",
+  "skill_name": "Communication & Language",
+  "exercises": [
+    {
+      "id": "ex_vocab_communication_cloze_0000",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher asked Maria to ___ her name clearly so everyone in the class could hear it.",
+        "correct_answer": "call",
+        "distractors": [
+          "argue",
+          "admit",
+          "chat"
+        ],
+        "distractor_rationale": [
+          "argue means to disagree with someone, not to say a name aloud to a group",
+          "admit means to confess something, not to announce one's name to a class",
+          "chat means to have an informal conversation, not to say a single name aloud"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0001",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom and his friend always ___ about football during the lunch break at school.",
+        "correct_answer": "chat",
+        "distractors": [
+          "announce",
+          "argue",
+          "admit"
+        ],
+        "distractor_rationale": [
+          "announce means to make a formal public statement, not an informal friendly conversation",
+          "argue means to disagree in an angry way, which contradicts the friendly context of talking about a shared interest",
+          "admit means to confess something wrong, which does not fit a casual conversation about football"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0002",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The school principal used the loudspeaker to ___ that classes would finish early on Friday.",
+        "correct_answer": "announce",
+        "distractors": [
+          "ask",
+          "chat",
+          "apologize"
+        ],
+        "distractor_rationale": [
+          "ask means to request information or a favour, not to broadcast official news to a whole school",
+          "chat means to have a casual conversation, which is not possible through a loudspeaker to a whole school",
+          "apologize means to say sorry, which does not match giving information about a schedule change"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0003",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After arriving late to every lesson this week, James had to ___ that he had not been managing his time well.",
+        "correct_answer": "admit",
+        "distractors": [
+          "announce",
+          "advise",
+          "argue"
+        ],
+        "distractor_rationale": [
+          "announce is used for sharing news formally with others, not for confessing a personal fault",
+          "advise means to give recommendations to someone else, not to confess one's own bad behaviour",
+          "argue means to disagree with someone, but the sentence describes accepting a personal failure, not a dispute"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0004",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The two students began to ___ loudly about whose turn it was to use the computer, and the teacher had to step in.",
+        "correct_answer": "argue",
+        "distractors": [
+          "chat",
+          "communicate",
+          "agree"
+        ],
+        "distractor_rationale": [
+          "chat describes a friendly, relaxed conversation, which contradicts the loud disagreement described",
+          "communicate is too neutral and does not capture the conflict that required the teacher to intervene",
+          "agree means to share the same opinion, which is the opposite of what the sentence describes"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0005",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The careers counsellor met with each student to ___ them on the best university courses to apply for.",
+        "correct_answer": "advise",
+        "distractors": [
+          "ask",
+          "argue",
+          "announce"
+        ],
+        "distractor_rationale": [
+          "ask means to request something, not to give professional guidance and recommendations",
+          "argue means to disagree in a heated way, which contradicts the helpful role of a careers counsellor",
+          "announce means to make a public statement, not to give personal guidance in a one-to-one meeting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0006",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara spoke with a strong regional ___ that made it difficult for her new classmates to understand her at first.",
+        "correct_answer": "accent",
+        "distractors": [
+          "argument",
+          "comment",
+          "communication"
+        ],
+        "distractor_rationale": [
+          "argument refers to a disagreement, not to the way a person pronounces words",
+          "comment refers to a remark someone makes, not a feature of how someone speaks in general",
+          "communication refers to the process of sharing information, not to a pronunciation quality of a speaker's voice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0007",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The researcher ___ that students who read for pleasure every day develop stronger writing skills, though some experts disagreed with her findings.",
+        "correct_answer": "claimed",
+        "distractors": [
+          "agreed",
+          "apologized",
+          "admitted"
+        ],
+        "distractor_rationale": [
+          "agreed means to share another person's view, but the sentence describes an original statement that others disputed, not a shared position",
+          "apologized means to say sorry for something wrong, which is unrelated to presenting a research finding",
+          "admitted means to confess something negative or previously hidden, but the researcher is presenting a positive research conclusion, not a confession"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0008",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After the misunderstanding over the homework deadline, Anna decided to ___ to her teacher and explain what had happened.",
+        "correct_answer": "apologize",
+        "distractors": [
+          "argue",
+          "claim",
+          "comment"
+        ],
+        "distractor_rationale": [
+          "argue means to dispute something angrily, which would make the situation worse rather than resolving the misunderstanding",
+          "claim means to state something as a fact, which does not involve expressing regret for a misunderstanding",
+          "comment means to make a remark, which is too vague and does not carry the meaning of expressing regret for causing a problem"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0009",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The professor asked the students to ___ on each other's essays by writing detailed feedback in the margins before the next seminar.",
+        "correct_answer": "comment",
+        "distractors": [
+          "argue",
+          "admit",
+          "announce"
+        ],
+        "distractor_rationale": [
+          "argue means to disagree with someone in a confrontational way, not to write structured written feedback on academic work",
+          "admit means to confess something negative, which does not describe the task of giving feedback on a peer's writing",
+          "announce means to make a formal public statement, not to write personal responses in the margins of a document"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0010",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The teacher asked Maria to ___ her mistake in front of the class, so she said, 'I was wrong.'",
+        "correct_answer": "admit",
+        "distractors": [
+          "argue",
+          "announce",
+          "chat"
+        ],
+        "distractor_rationale": [
+          "argue means to disagree or dispute, which is the opposite of accepting a mistake",
+          "announce means to make a formal public statement about new information, not to confess an error",
+          "chat means to talk in a friendly, casual way and cannot collocate with 'her mistake' in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0011",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom stepped onto the stage and ___ that the school trip had been cancelled due to bad weather.",
+        "correct_answer": "announced",
+        "distractors": [
+          "argued",
+          "apologized",
+          "chatted"
+        ],
+        "distractor_rationale": [
+          "argued means to disagree strongly, but stepping onto a stage to deliver news is a formal announcement, not a dispute",
+          "apologized means to say sorry, but the sentence describes sharing factual news, not expressing regret",
+          "chatted means to talk informally, which contradicts the formal, public setting of stepping onto a stage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0012",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor ___ the patient to drink more water and rest for at least three days before returning to work.",
+        "correct_answer": "advised",
+        "distractors": [
+          "argued",
+          "agreed",
+          "apologized"
+        ],
+        "distractor_rationale": [
+          "argued means to disagree or dispute, which is the opposite of offering professional guidance to a patient",
+          "agreed means to share the same opinion, but the sentence describes the doctor giving instructions, not accepting someone else's view",
+          "apologized means to say sorry, which makes no sense in the context of giving medical recommendations"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0013",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara and James had a long ___ about whose turn it was to do the dishes, and neither of them wanted to give in.",
+        "correct_answer": "argument",
+        "distractors": [
+          "accent",
+          "comment",
+          "communication"
+        ],
+        "distractor_rationale": [
+          "accent refers to the way a person pronounces words, which has no connection to a dispute about chores",
+          "comment refers to a single remark or observation, not a prolonged dispute where neither side gives in",
+          "communication is a general process of sharing information and cannot describe a specific heated dispute between two people"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_cloze_0014",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The company representative ___ that their product had no side effects, even though several independent studies had already shown the opposite.",
+        "correct_answer": "claimed",
+        "distractors": [
+          "admitted",
+          "agreed",
+          "asked"
+        ],
+        "distractor_rationale": [
+          "admitted means to confess or accept something as true, but the sentence describes someone asserting something despite contradicting evidence, not accepting fault",
+          "agreed means to share the same view as someone else, but the sentence shows the representative contradicting existing studies, not aligning with them",
+          "asked means to request information or a response, which does not fit the context of making an assertive statement about a product's safety"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_communication_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The teacher asked the students to ___ quietly because the exam had already started.",
+        "correct_answer": "chat",
+        "distractors": [
+          "shout",
+          "argue",
+          "announce"
+        ],
+        "distractor_rationale": [
+          "shout means to speak very loudly, which is the opposite of quietly",
+          "argue means to disagree strongly, which does not describe quiet talking",
+          "announce means to make a formal public statement, not informal quiet talk"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria wanted to ___ for being late to class, so she said sorry to the teacher.",
+        "correct_answer": "apologize",
+        "distractors": [
+          "argue",
+          "claim",
+          "advise"
+        ],
+        "distractor_rationale": [
+          "argue means to disagree, which contradicts the act of saying sorry",
+          "claim means to state something as true, not to express regret",
+          "advise means to give a recommendation, not to say sorry"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom has a strong ___ because he grew up speaking English in a different region.",
+        "correct_answer": "accent",
+        "distractors": [
+          "argument",
+          "comment",
+          "communication"
+        ],
+        "distractor_rationale": [
+          "argument refers to a disagreement, not a way of pronouncing words",
+          "comment refers to a remark made about something, not a pronunciation pattern",
+          "communication is the general process of sharing information, not a pronunciation feature"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The school principal will ___ the results of the science competition to all students at the assembly tomorrow.",
+        "correct_answer": "announce",
+        "distractors": [
+          "chat",
+          "admit",
+          "ask"
+        ],
+        "distractor_rationale": [
+          "chat means to talk informally, which does not fit a formal public declaration of results",
+          "admit means to confess or accept something reluctantly, not to share news publicly",
+          "ask means to pose a question, not to make a formal public statement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The doctor ___ the patient to drink more water and get enough sleep every night.",
+        "correct_answer": "advised",
+        "distractors": [
+          "argued",
+          "announced",
+          "claimed"
+        ],
+        "distractor_rationale": [
+          "argued means to disagree, which is not what a doctor does when giving health guidance",
+          "announced means to make a public statement, which does not fit a private medical consultation",
+          "claimed means to assert something as true, not to give a professional recommendation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "After the lesson, the teacher asked the class to ___ on the most interesting part of the story they had just read.",
+        "correct_answer": "comment",
+        "distractors": [
+          "argue",
+          "call",
+          "apologize"
+        ],
+        "distractor_rationale": [
+          "argue implies a disagreement, but the teacher is asking for a general response, not a debate",
+          "call means to phone someone or shout out a name, not to share a thought about a text",
+          "apologize means to say sorry, which is unrelated to responding to a reading activity"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The student finally ___ that he had not done the homework, even though he had said earlier that he had finished it.",
+        "correct_answer": "admitted",
+        "distractors": [
+          "claimed",
+          "agreed",
+          "announced"
+        ],
+        "distractor_rationale": [
+          "claimed means to assert something as true, but the sentence describes confessing the opposite of what was said before",
+          "agreed means to share someone else's opinion, but no other person's view is mentioned here",
+          "announced implies a formal public statement, which does not fit the private confession described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The researcher ___ that the new teaching method improved test scores, but other experts disagreed with her findings.",
+        "correct_answer": "claimed",
+        "distractors": [
+          "admitted",
+          "apologized",
+          "chatted"
+        ],
+        "distractor_rationale": [
+          "admitted implies confessing something negative or reluctant, which contradicts presenting a positive research finding",
+          "apologized means to say sorry, which is entirely unrelated to presenting research results",
+          "chatted means to talk informally, which does not describe the formal act of presenting a research position"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Good ___ between teachers and parents is essential so that children receive the same support both at school and at home.",
+        "correct_answer": "communication",
+        "distractors": [
+          "argument",
+          "accent",
+          "comment"
+        ],
+        "distractor_rationale": [
+          "argument refers to a disagreement, which contradicts the idea of cooperative support for children",
+          "accent refers to a pronunciation pattern, not the exchange of information between people",
+          "comment refers to a single remark, not the ongoing two-way process described in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_word_formation_0000",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She gave a short ___ to the whole class about the new rules. (ANNOUNCE)",
+        "correct_answer": "announcement",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ANNOUNCE"
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_communication_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_word_formation_0001",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 33,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom said sorry to his friend, and his ___ was accepted straight away. (APOLOGIZE)",
+        "correct_answer": "apology",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "APOLOGIZE"
+      },
+      "difficulty_features": {
+        "gse_target": 33,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_communication_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_word_formation_0002",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The two neighbours had a loud ___ in the street about the noise late at night. (ARGUE)",
+        "correct_answer": "argument",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ARGUE"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_communication_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_word_formation_0003",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The manager sent an ___ email to all staff asking them to attend the meeting on Friday. (ADVISE)",
+        "correct_answer": "advisory",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ADVISE"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_communication_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_communication_word_formation_0004",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Good ___ between team members is essential when working on a project with a tight deadline. (COMMUNICATE)",
+        "correct_answer": "communication",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COMMUNICATE"
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_communication_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_vocab_communication_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_communication"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The two students began to ___ loudly about whose turn it was to use the computer, and the teacher had to step in.",
+        "correct_answer": "argue",
+        "distractors": [
+          "agree",
+          "communicate",
+          "advise"
+        ],
+        "distractor_rationale": [
+          "agree means to have the same opinion, which contradicts the need for a teacher to intervene",
+          "communicate is too general and does not imply the conflict described in the sentence",
+          "advise means to give guidance or a recommendation, not to disagree loudly"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:23:24.141459+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_communication_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 29,
+    "filter_rejected": 1
+  }
+}

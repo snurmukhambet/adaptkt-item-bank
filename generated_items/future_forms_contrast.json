@@ -1,0 +1,1865 @@
+{
+  "skill_id": "future_forms_contrast",
+  "skill_name": "Future Forms (Contrast)",
+  "exercises": [
+    {
+      "id": "ex_future_forms_contrast_cloze_0000",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The next bus ___ (leave) at half past seven, so we have enough time for a coffee.",
+        "correct_answer": "leaves",
+        "distractors": [
+          "will leave",
+          "is leaving",
+          "is going to leave"
+        ],
+        "distractor_rationale": [
+          "will is used for spontaneous decisions or predictions, not fixed public timetables",
+          "present continuous describes a personal arrangement, not a scheduled transport timetable",
+          "going to describes personal plans or evidence-based predictions, not fixed timetabled departures"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0001",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at those dark clouds — it ___ (rain) very soon.",
+        "correct_answer": "is going to rain",
+        "distractors": [
+          "will rain",
+          "rains",
+          "is raining"
+        ],
+        "distractor_rationale": [
+          "will is for predictions without present evidence; the dark clouds are visible evidence that selects going to",
+          "present simple cannot express an imminent future event; it is used for timetables only",
+          "present continuous describes a fixed personal arrangement, not a weather prediction based on visual evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0002",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The pharmacy ___ (close) at six o'clock every evening, including Saturdays.",
+        "correct_answer": "closes",
+        "distractors": [
+          "will close",
+          "is closing",
+          "is going to close"
+        ],
+        "distractor_rationale": [
+          "will is for spontaneous decisions or open-ended predictions, not regular scheduled closing times",
+          "present continuous marks a specific personal arrangement on a particular day, not a regular timetabled routine",
+          "going to marks a personal intention or evidence-based prediction, not a fixed institutional schedule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0003",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I ___ (meet) Anna at the new café on Friday — we booked a table there last week.",
+        "correct_answer": "am meeting",
+        "distractors": [
+          "will meet",
+          "meet",
+          "am going to meet"
+        ],
+        "distractor_rationale": [
+          "will is used for spontaneous decisions made at the moment of speaking, but the booking was made last week, so this is a fixed arrangement",
+          "present simple is reserved for official timetables such as trains or flights, not personal social arrangements",
+          "going to expresses intention but not a confirmed, booked arrangement; present continuous is the correct form for a fixed social appointment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0004",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Don't worry about carrying all those bags — I ___ (help) you with them right now.",
+        "correct_answer": "will help",
+        "distractors": [
+          "am helping",
+          "am going to help",
+          "help"
+        ],
+        "distractor_rationale": [
+          "present continuous requires a prior arrangement; the decision to help is made spontaneously at this moment",
+          "going to implies a pre-formed intention decided before this moment, but the offer is clearly made on the spot",
+          "present simple cannot express a spontaneous future offer; it is used only for timetabled events"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0005",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (spend) our holiday in the mountains this summer — we decided back in January and already paid the deposit.",
+        "correct_answer": "are going to spend",
+        "distractors": [
+          "will spend",
+          "are spending",
+          "spend"
+        ],
+        "distractor_rationale": [
+          "will is for spontaneous decisions or predictions, but this plan was made months ago and is a firm intention",
+          "present continuous signals a fixed confirmed arrangement such as a booking; here the focus is on the pre-formed decision and intention rather than a specific booked event",
+          "present simple cannot express a personal future plan; it is used only for official timetables"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0006",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The doctor ___ (see) you at three o'clock this afternoon — your appointment is already confirmed in the system.",
+        "correct_answer": "will see",
+        "distractors": [
+          "sees",
+          "is going to see",
+          "is seeing"
+        ],
+        "distractor_rationale": [
+          "present simple is for publicly scheduled timetables like trains or classes, not individual confirmed appointments described from the doctor's perspective as a future certainty",
+          "going to describes a personal intention; here the sentence presents a confirmed future fact about the appointment from an institutional perspective, making will appropriate",
+          "present continuous is correct when describing the patient's own fixed arrangement, but this sentence presents the event from a third-party scheduling perspective where will conveys the confirmed future fact"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0007",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom has eaten almost nothing all day and he ___ (faint) if he doesn't have something to eat very soon.",
+        "correct_answer": "is going to faint",
+        "distractors": [
+          "will faint",
+          "faints",
+          "is fainting"
+        ],
+        "distractor_rationale": [
+          "will is for predictions based on general belief or opinion without present visible evidence; the observable evidence here — Tom eating almost nothing — demands going to",
+          "present simple cannot express an imminent future event; it describes only timetabled or habitual actions",
+          "present continuous describes a fixed personal arrangement; fainting is not an arrangement but an imminent event predicted from current evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0008",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The conference ___ (start) at nine sharp tomorrow, so all speakers must be in the hall at least fifteen minutes before.",
+        "correct_answer": "starts",
+        "distractors": [
+          "will start",
+          "is starting",
+          "is going to start"
+        ],
+        "distractor_rationale": [
+          "will is inappropriate for a formally scheduled institutional event with a fixed time on an official programme; present simple is required for timetabled events",
+          "present continuous marks a personal social arrangement; a conference on an official programme is a timetabled event requiring present simple",
+          "going to marks personal intention or evidence-based prediction; an institutionally scheduled conference on a fixed programme requires present simple"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0009",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Sara ___ (fly) to the regional office next Tuesday — her manager confirmed the trip and booked her ticket yesterday.",
+        "correct_answer": "is flying",
+        "distractors": [
+          "will fly",
+          "is going to fly",
+          "flies"
+        ],
+        "distractor_rationale": [
+          "will is for spontaneous decisions made at the moment of speaking; Sara's trip was confirmed and booked in advance, making it a fixed arrangement",
+          "going to expresses a pre-formed intention or decision; because the ticket is already booked and the arrangement is fully confirmed, present continuous is the more precise choice",
+          "present simple is reserved for publicly scheduled timetables such as transport or class schedules, not individual travel arrangements"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0010",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The last bus ___ (leave) the station at 11:30 tonight, so don't be late.",
+        "correct_answer": "leaves",
+        "distractors": [
+          "will leave",
+          "is leaving",
+          "is going to leave"
+        ],
+        "distractor_rationale": [
+          "will is used for spontaneous decisions or predictions, not fixed timetable departures",
+          "present continuous describes a personal arrangement, not a scheduled public transport timetable",
+          "going to describes personal plans or evidence-based predictions, not official scheduled services"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0012",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "We ___ (meet) Anna and her colleagues at the conference centre at 9am tomorrow — she booked the room last week.",
+        "correct_answer": "are meeting",
+        "distractors": [
+          "will meet",
+          "meet",
+          "are going to meet"
+        ],
+        "distractor_rationale": [
+          "will is for spontaneous decisions made at the moment of speaking, but this arrangement was made in advance",
+          "present simple is for official timetables such as trains or flights, not personal social arrangements",
+          "going to describes a general intention or plan, but present continuous is more appropriate when a specific time and place have been fixed in advance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0013",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "I haven't decided on a gift yet, but I think I ___ (buy) her some flowers from the shop on the corner.",
+        "correct_answer": "will buy",
+        "distractors": [
+          "am buying",
+          "am going to buy",
+          "buy"
+        ],
+        "distractor_rationale": [
+          "present continuous requires a fixed prior arrangement, but the speaker has just admitted they haven't decided yet",
+          "going to requires a formed intention decided before the moment of speaking, but the speaker is deciding right now",
+          "present simple is for scheduled timetable events, not spontaneous decisions made during conversation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_cloze_0014",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom has already saved enough money and found a flat he likes, so he ___ (move) out of his parents' house next month.",
+        "correct_answer": "is going to move",
+        "distractors": [
+          "will move",
+          "is moving",
+          "moves"
+        ],
+        "distractor_rationale": [
+          "will is for spontaneous decisions or open predictions without prior evidence; here the completed preparations — saving money and finding a flat — provide concrete evidence of a formed intention",
+          "present continuous is used when a specific date, time, and arrangement with another party have been confirmed; moving out of one's own home does not require external scheduling, so going to is more appropriate than present continuous here",
+          "present simple is restricted to officially published timetables such as transport schedules, not personal life decisions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0000",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The museum ___ at nine o'clock every morning, including Sundays.",
+        "correct_answer": "opens",
+        "distractors": [
+          "will open",
+          "is opening",
+          "is going to open"
+        ],
+        "distractor_rationale": [
+          "will open is used for spontaneous decisions or predictions, not for fixed institutional timetables",
+          "is opening implies a personal arrangement, not a scheduled timetable event",
+          "is going to open implies a plan or evidence-based prediction, not a regular schedule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0001",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Look at those black clouds — it ___ very soon.",
+        "correct_answer": "is going to rain",
+        "distractors": [
+          "will rain",
+          "rains",
+          "is raining"
+        ],
+        "distractor_rationale": [
+          "will rain is for predictions without visible evidence; here the black clouds provide clear physical evidence, requiring going to",
+          "rains is present simple used for timetables, not evidence-based predictions",
+          "is raining describes an action happening right now, not a near-future prediction based on evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0002",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The last bus ___ at midnight, so we need to leave the party before then.",
+        "correct_answer": "leaves",
+        "distractors": [
+          "will leave",
+          "is leaving",
+          "is going to leave"
+        ],
+        "distractor_rationale": [
+          "will leave suggests a spontaneous or predicted event, not a fixed transport timetable",
+          "is leaving suggests a personal arrangement, not a scheduled timetable departure",
+          "is going to leave implies intention or evidence-based prediction, not a fixed schedule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0003",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna has already bought her ticket — she ___ the concert next Saturday.",
+        "correct_answer": "is attending",
+        "distractors": [
+          "will attend",
+          "attends",
+          "is going to attend"
+        ],
+        "distractor_rationale": [
+          "will attend is used for spontaneous decisions made at the moment of speaking, but the ticket purchase shows this is a pre-arranged plan",
+          "attends is present simple for timetables, not for personal social arrangements",
+          "is going to attend could express intention, but the purchased ticket makes this a confirmed fixed arrangement, best expressed with present continuous"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0004",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "I haven't decided where to go on holiday yet, but I think I ___ somewhere warm this summer.",
+        "correct_answer": "will go",
+        "distractors": [
+          "am going",
+          "go",
+          "am going to go"
+        ],
+        "distractor_rationale": [
+          "am going implies a fixed arrangement already made, but the sentence says no decision has been taken yet",
+          "go is present simple, used for timetables, not personal predictions without a plan",
+          "am going to go implies a formed intention or plan, but the speaker explicitly says they haven't decided yet"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0005",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "We have reserved a table at the new restaurant — we ___ there with Tom and Sara on Friday evening.",
+        "correct_answer": "are eating",
+        "distractors": [
+          "will eat",
+          "eat",
+          "are going to eat"
+        ],
+        "distractor_rationale": [
+          "will eat is for spontaneous decisions or predictions, not confirmed reservations already made",
+          "eat is present simple for scheduled timetables, not personal social arrangements",
+          "are going to eat expresses intention, but a confirmed reservation makes this a fixed arrangement, best expressed by present continuous"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0006",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark has decided to change jobs — he ___ his own small business next year.",
+        "correct_answer": "is going to start",
+        "distractors": [
+          "will start",
+          "starts",
+          "is starting"
+        ],
+        "distractor_rationale": [
+          "will start is for spontaneous decisions made at the moment of speaking, but the sentence states the decision has already been made",
+          "starts is present simple for fixed timetables, not personal future plans",
+          "is starting implies a confirmed arrangement with a specific time fixed, but the sentence describes a formed intention rather than a booked event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0007",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The phone is ringing but my hands are full of shopping bags — don't worry, I ___ it.",
+        "correct_answer": "will answer",
+        "distractors": [
+          "am going to answer",
+          "am answering",
+          "answer"
+        ],
+        "distractor_rationale": [
+          "am going to answer implies a pre-formed intention, but the decision to answer is being made spontaneously at the moment of speaking",
+          "am answering describes an action in progress right now, not a decision just made in response to the situation",
+          "answer is present simple for timetables or habitual actions, not for a spontaneous offer made in the moment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0008",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "According to the programme, the opening ceremony ___ at exactly half past seven tomorrow evening.",
+        "correct_answer": "starts",
+        "distractors": [
+          "will start",
+          "is starting",
+          "is going to start"
+        ],
+        "distractor_rationale": [
+          "will start implies a prediction or spontaneous decision, not an event fixed in an official published programme",
+          "is starting implies a personal arrangement, but an official ceremony listed in a programme is a timetabled event",
+          "is going to start implies intention or evidence-based prediction, but a programme entry represents a fixed institutional schedule"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_multiple_choice_0009",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Lisa has been saving money for months and has already spoken to an estate agent — she ___ a flat in the city centre before the end of the year.",
+        "correct_answer": "is going to buy",
+        "distractors": [
+          "will buy",
+          "is buying",
+          "buys"
+        ],
+        "distractor_rationale": [
+          "will buy is for spontaneous decisions or general predictions without prior evidence, but months of saving and speaking to an agent show a clear prior intention",
+          "is buying suggests a specific confirmed arrangement with a date fixed, whereas the sentence describes a strong intention not yet finalised as a booking",
+          "buys is present simple for habitual or timetabled events, not for a personal future plan based on evidence of prior preparation"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "future_forms_contrast_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0000",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Look at those dark clouds — it will rain very soon.",
+        "correct_answer": "it is going to rain",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Look at those dark clouds — it will rain very soon.",
+        "corrected_sentence": "Look at those dark clouds — it is going to rain very soon.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0001",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The train to the city centre will leave at 8:15 every morning.",
+        "correct_answer": "leaves",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The train to the city centre will leave at 8:15 every morning.",
+        "corrected_sentence": "The train to the city centre leaves at 8:15 every morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0002",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Maria will meet her dentist tomorrow afternoon — she booked the appointment two weeks ago.",
+        "correct_answer": "is meeting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Maria will meet her dentist tomorrow afternoon — she booked the appointment two weeks ago.",
+        "corrected_sentence": "Maria is meeting her dentist tomorrow afternoon — she booked the appointment two weeks ago.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0003",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom is going to help you carry those bags — he just offered when he saw you struggling.",
+        "correct_answer": "will help",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom is going to help you carry those bags — he just offered when he saw you struggling.",
+        "corrected_sentence": "Tom will help you carry those bags — he just offered when he saw you struggling.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0004",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 48,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "We will fly to the coast next Friday — we bought the tickets online last month.",
+        "correct_answer": "are flying",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "We will fly to the coast next Friday — we bought the tickets online last month.",
+        "corrected_sentence": "We are flying to the coast next Friday — we bought the tickets online last month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 48,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0005",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "According to the school timetable, the autumn term will start on the third of September this year.",
+        "correct_answer": "starts",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "According to the school timetable, the autumn term will start on the third of September this year.",
+        "corrected_sentence": "According to the school timetable, the autumn term starts on the third of September this year.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0006",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "James is having a headache, so he is staying home tonight instead of going to the party.",
+        "correct_answer": "has",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "James is having a headache, so he is staying home tonight instead of going to the party.",
+        "corrected_sentence": "James has a headache, so he is staying home tonight instead of going to the party.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_future_forms_contrast_error_correction_0007",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "If you look at her training schedule, you can see that Sara is going to run a marathon next spring — she has been preparing for months.",
+        "correct_answer": "is running",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "If you look at her training schedule, you can see that Sara is going to run a marathon next spring — she has been preparing for months.",
+        "corrected_sentence": "If you look at her training schedule, you can see that Sara is running a marathon next spring — she has been preparing for months.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 27,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "future_forms_contrast_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_future_forms_contrast_cloze_0011",
+      "skill_ids": [
+        "future_forms_contrast"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 41,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Look at those dark clouds — it ___ (rain) very soon.",
+        "correct_answer": "is going to rain",
+        "distractors": [
+          "will rain",
+          "rains",
+          "is raining"
+        ],
+        "distractor_rationale": [
+          "will is for predictions without present visual evidence; here the dark clouds provide clear evidence",
+          "present simple is for fixed timetable events, not weather predictions based on visible signs",
+          "present continuous describes a fixed personal arrangement, not a prediction based on current evidence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 41,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T11:57:51.224790+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "future_forms_contrast_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

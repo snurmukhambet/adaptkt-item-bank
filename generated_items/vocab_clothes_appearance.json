@@ -1,0 +1,1715 @@
+{
+  "skill_id": "vocab_clothes_appearance",
+  "skill_name": "Clothes & Appearance",
+  "exercises": [
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0000",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "It was raining heavily, so Maria put on her ___ and went outside.",
+        "correct_answer": "coat",
+        "distractors": [
+          "dress",
+          "glove",
+          "cap"
+        ],
+        "distractor_rationale": [
+          "a dress is not worn over other clothes to protect against rain",
+          "a glove covers only the hand and does not protect the body from rain",
+          "a cap covers only the head and would not protect the body from heavy rain"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0001",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom wore a ___ around his waist to stop his trousers from falling down.",
+        "correct_answer": "belt",
+        "distractors": [
+          "boot",
+          "hat",
+          "jacket"
+        ],
+        "distractor_rationale": [
+          "a boot is worn on the foot, not around the waist",
+          "a hat is worn on the head and cannot hold up trousers",
+          "a jacket is worn on the upper body and does not go around the waist to hold trousers up"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0002",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The snow was very deep, so Anna wore her ___ to keep her feet warm and dry.",
+        "correct_answer": "boots",
+        "distractors": [
+          "gloves",
+          "jeans",
+          "belt"
+        ],
+        "distractor_rationale": [
+          "gloves cover the hands, not the feet, so they cannot keep feet dry in snow",
+          "jeans are trousers and do not cover the feet to keep them dry in deep snow",
+          "a belt goes around the waist and cannot protect the feet from snow"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0003",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Sara has ___ hair that forms tight ringlets when it gets wet.",
+        "correct_answer": "curly",
+        "distractors": [
+          "fashionable",
+          "cotton",
+          "tall"
+        ],
+        "distractor_rationale": [
+          "fashionable describes a style trend, not the physical shape of hair strands",
+          "cotton is a fabric material and cannot describe the shape of hair",
+          "tall describes height and cannot describe the texture or shape of hair"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0004",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The shirt felt soft and light because it was made of pure ___, not a synthetic material.",
+        "correct_answer": "cotton",
+        "distractors": [
+          "jewellery",
+          "clothing",
+          "glove"
+        ],
+        "distractor_rationale": [
+          "jewellery is a decorative accessory, not a fabric material a shirt can be made of",
+          "clothing is a general category word for garments, not a specific fabric material",
+          "a glove is a garment for the hand, not a fabric material a shirt is made from"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0005",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James wore a smart ___ over his shirt when he went to the job interview at the office.",
+        "correct_answer": "jacket",
+        "distractors": [
+          "dress",
+          "cap",
+          "belt"
+        ],
+        "distractor_rationale": [
+          "a dress is a one-piece garment typically worn by women, not over a shirt in a formal male office context",
+          "a cap is worn on the head, not over a shirt as a smart garment for an interview",
+          "a belt goes around the waist and is not worn over a shirt as a smart outer garment"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0006",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Lisa wore a gold necklace and matching earrings — she loved wearing ___ to special occasions.",
+        "correct_answer": "jewellery",
+        "distractors": [
+          "clothing",
+          "cotton",
+          "boots"
+        ],
+        "distractor_rationale": [
+          "clothing refers to garments worn on the body, not decorative accessories such as necklaces and earrings",
+          "cotton is a fabric material and cannot describe necklaces and earrings",
+          "boots are footwear and are unrelated to necklaces and earrings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0007",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The doctor asked David his ___ and weight before writing the details on his medical form.",
+        "correct_answer": "height",
+        "distractors": [
+          "clothing",
+          "jewellery",
+          "dress"
+        ],
+        "distractor_rationale": [
+          "clothing is not a physical measurement recorded alongside weight on a medical form",
+          "jewellery is a decorative accessory and is not a body measurement recorded on a medical form",
+          "dress is a garment or a style of dressing, not a physical measurement like weight"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0008",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The new collection at the shop was very ___, with designs that matched the latest trends seen on international runways.",
+        "correct_answer": "fashionable",
+        "distractors": [
+          "curly",
+          "cotton",
+          "tall"
+        ],
+        "distractor_rationale": [
+          "curly describes the shape of hair or a line, not the style quality of a clothing collection",
+          "cotton is a fabric material and does not describe whether designs follow current trends",
+          "tall describes physical height and cannot describe a clothing collection's style"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0009",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The charity collected warm ___ such as coats, jumpers, and trousers to give to people who needed them during winter.",
+        "correct_answer": "clothing",
+        "distractors": [
+          "jewellery",
+          "height",
+          "cotton"
+        ],
+        "distractor_rationale": [
+          "jewellery refers to decorative accessories and cannot include coats, jumpers, and trousers",
+          "height is a physical measurement and is not something that can be collected and given to people to keep warm",
+          "cotton is a fabric material, not a category that includes finished garments such as coats and trousers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0011",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom wore his favourite ___ to the party — they were blue and a little too tight around the waist.",
+        "correct_answer": "jeans",
+        "distractors": [
+          "boots",
+          "belt",
+          "jacket"
+        ],
+        "distractor_rationale": [
+          "boots are footwear worn on the feet, not around the waist, so they cannot be tight around the waist",
+          "a belt goes around the waist but is a thin strap, not a garment described as blue and tight",
+          "a jacket covers the upper body and chest, not the waist area in the way described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0012",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The shirt felt soft and comfortable because it was made of pure ___, which is a natural fabric.",
+        "correct_answer": "cotton",
+        "distractors": [
+          "clothing",
+          "jewellery",
+          "height"
+        ],
+        "distractor_rationale": [
+          "clothing is a general word for garments and is not a fabric that a shirt can be made of",
+          "jewellery refers to decorative accessories such as rings or necklaces, not a fabric",
+          "height refers to how tall something is and has no connection to fabric or material"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0013",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna has ___ hair that forms tight ringlets, so she uses a special cream to keep it smooth.",
+        "correct_answer": "curly",
+        "distractors": [
+          "fashionable",
+          "cotton",
+          "tall"
+        ],
+        "distractor_rationale": [
+          "fashionable describes a style trend and cannot describe the physical shape of hair that forms ringlets",
+          "cotton is a fabric material and cannot be used to describe the texture or shape of hair",
+          "tall describes vertical height of a person or object and cannot describe the shape of hair strands"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0014",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The designer's new collection was considered very ___ because all the top magazines featured it and young people immediately wanted to buy it.",
+        "correct_answer": "fashionable",
+        "distractors": [
+          "curly",
+          "cotton",
+          "belted"
+        ],
+        "distractor_rationale": [
+          "curly describes the shape of hair or a curved object and cannot describe a clothing collection's popularity or trend status",
+          "cotton describes a type of fabric material and does not describe whether a collection is trendy or widely desired",
+          "belted means having a belt attached and describes a specific garment feature, not the overall popularity of an entire collection"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "It was very cold outside, so she put on her warm ___ before leaving the house.",
+        "correct_answer": "coat",
+        "distractors": [
+          "dress",
+          "cap",
+          "glove"
+        ],
+        "distractor_rationale": [
+          "a dress is not a warm outer garment worn specifically to protect against cold weather",
+          "a cap only covers the head and would not keep the whole body warm",
+          "a glove covers only the hand, not the whole body, so it cannot replace a coat here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom wears a ___ on his head when he plays football to keep the sun out of his eyes.",
+        "correct_answer": "cap",
+        "distractors": [
+          "belt",
+          "boot",
+          "jacket"
+        ],
+        "distractor_rationale": [
+          "a belt goes around the waist, not on the head",
+          "a boot is worn on the foot, not the head",
+          "a jacket covers the upper body, not the head"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She wore rubber ___ to walk through the muddy field so her feet stayed completely dry.",
+        "correct_answer": "boots",
+        "distractors": [
+          "gloves",
+          "hats",
+          "belts"
+        ],
+        "distractor_rationale": [
+          "gloves are worn on the hands and cannot protect the feet from mud",
+          "hats are worn on the head and do not keep feet dry",
+          "belts go around the waist and have no connection to protecting feet from mud"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "He uses a leather ___ to hold his trousers up because they are a little too big for him.",
+        "correct_answer": "belt",
+        "distractors": [
+          "jacket",
+          "glove",
+          "hat"
+        ],
+        "distractor_rationale": [
+          "a jacket goes over the upper body and cannot hold trousers up around the waist",
+          "a glove covers the hand and has no function in keeping trousers in place",
+          "a hat is worn on the head and cannot be used to hold up trousers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria prefers to buy ___ clothes because the fabric is light and comfortable in hot weather.",
+        "correct_answer": "cotton",
+        "distractors": [
+          "curly",
+          "fashionable",
+          "tall"
+        ],
+        "distractor_rationale": [
+          "curly describes the shape of hair, not a fabric type for clothing",
+          "fashionable describes style or trend, not a material that makes clothes light and breathable",
+          "tall describes a person's height and cannot describe a fabric or material"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna has ___ hair that forms tight rings, so she spends a long time brushing it every morning.",
+        "correct_answer": "curly",
+        "distractors": [
+          "fashionable",
+          "cotton",
+          "slim"
+        ],
+        "distractor_rationale": [
+          "fashionable describes whether something follows current trends, not the physical shape of hair",
+          "cotton is a fabric material and cannot describe the texture or shape of someone's hair",
+          "slim describes body shape or size, not the form or texture of hair"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The shop sells all kinds of ___, including shirts, trousers, and jackets, for both men and women.",
+        "correct_answer": "clothing",
+        "distractors": [
+          "jewellery",
+          "height",
+          "cotton"
+        ],
+        "distractor_rationale": [
+          "jewellery refers to decorative accessories such as rings and necklaces, not shirts or trousers",
+          "height is a measurement of how tall something is and is not a category that includes shirts and trousers",
+          "cotton is a single fabric type, not a category that covers all types of garments for men and women"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "She always wears ___ to formal events — last night she had on a gold necklace and matching earrings.",
+        "correct_answer": "jewellery",
+        "distractors": [
+          "clothing",
+          "gloves",
+          "boots"
+        ],
+        "distractor_rationale": [
+          "clothing is a general category for garments, not the specific term for necklaces and earrings",
+          "gloves are a type of handwear and do not describe necklaces and earrings",
+          "boots are footwear and cannot refer to necklaces and earrings"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The doctor asked the patient his ___ and weight before the examination, then wrote both numbers in the medical file.",
+        "correct_answer": "height",
+        "distractors": [
+          "clothing",
+          "jewellery",
+          "appearance"
+        ],
+        "distractor_rationale": [
+          "clothing refers to what someone wears and is not a measurement recorded alongside weight",
+          "jewellery refers to decorative accessories and is not a physical measurement taken by a doctor",
+          "appearance is a general term for how someone looks overall, not a specific numerical measurement paired with weight"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James bought a pair of dark blue ___ to wear at the weekend because they are comfortable and easy to match with any top.",
+        "correct_answer": "jeans",
+        "distractors": [
+          "gloves",
+          "belts",
+          "coats"
+        ],
+        "distractor_rationale": [
+          "gloves are worn on the hands and do not come in pairs that you wear as trousers at the weekend",
+          "belts are accessories worn around the waist and are not described as comfortable trousers to match with a top",
+          "coats are outer garments for the whole upper body and are not typically described as dark blue items easy to match with any top in this context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_clothes_appearance_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_word_formation_0000",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She always wears ___ clothes because she loves looking stylish. (FASHION)",
+        "correct_answer": "fashionable",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "FASHION"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_clothes_appearance_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_word_formation_0001",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom wore a warm ___ over his shirt because it was cold outside. (COAT)",
+        "correct_answer": "overcoat",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "COAT"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_clothes_appearance_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_word_formation_0002",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The shop sells a wide range of ___, including shirts, trousers, and jackets for men. (CLOTH)",
+        "correct_answer": "clothing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLOTH"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_clothes_appearance_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_word_formation_0003",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 38,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Maria has beautiful ___ hair that falls in tight rings around her face. (CURL)",
+        "correct_answer": "curly",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CURL"
+      },
+      "difficulty_features": {
+        "gse_target": 38,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_clothes_appearance_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_clothes_appearance_word_formation_0004",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 45,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The store assistant measured his ___ carefully before recommending the right size of jacket. (HIGH)",
+        "correct_answer": "height",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "HIGH"
+      },
+      "difficulty_features": {
+        "gse_target": 45,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_clothes_appearance_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_vocab_clothes_appearance_cloze_0010",
+      "skill_ids": [
+        "vocab_clothes_appearance"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "It was raining heavily, so Maria put on her ___ and went outside.",
+        "correct_answer": "coat",
+        "distractors": [
+          "dress",
+          "cap",
+          "glove"
+        ],
+        "distractor_rationale": [
+          "a dress is not outerwear worn specifically for rain protection and would get wet",
+          "a cap only covers the head and gives no protection from heavy rain on the body",
+          "a glove covers only the hand and cannot protect the whole body from rain"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:56:46.882892+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_clothes_appearance_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 29,
+    "filter_rejected": 1
+  }
+}

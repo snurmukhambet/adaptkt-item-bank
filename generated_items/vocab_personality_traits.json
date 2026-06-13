@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_personality_traits",
+  "skill_name": "Personality Traits & Character",
+  "exercises": [
+    {
+      "id": "ex_vocab_personality_traits_cloze_0000",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom is always smiling and laughing — he is the most ___ person in our class.",
+        "correct_answer": "cheerful",
+        "distractors": [
+          "cruel",
+          "careless",
+          "curious"
+        ],
+        "distractor_rationale": [
+          "cruel means unkind and hurtful, which contradicts smiling and laughing",
+          "careless means not paying attention to mistakes, unrelated to smiling or happiness",
+          "curious means wanting to learn or know things, not connected to always smiling"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0001",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She ran into the burning building to save the child — everyone agreed she was very ___.",
+        "correct_answer": "brave",
+        "distractors": [
+          "clever",
+          "fair",
+          "cool"
+        ],
+        "distractor_rationale": [
+          "clever means intelligent, but running into danger to save someone describes courage, not intelligence",
+          "fair means treating people equally, which has no connection to entering a burning building",
+          "cool means calm or fashionable, neither of which describes the act of risking one's life to save someone"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0002",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The boy spilled his drink because he was not ___ enough when he picked up the glass.",
+        "correct_answer": "careful",
+        "distractors": [
+          "confident",
+          "ambitious",
+          "creative"
+        ],
+        "distractor_rationale": [
+          "confident means feeling sure of yourself, which does not explain why something was spilled by accident",
+          "ambitious means wanting to achieve great things, unrelated to handling objects with attention",
+          "creative means having new ideas, which has no connection to spilling a drink through lack of attention"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0003",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria always asks questions about everything around her — her teacher says she is naturally ___ and loves to discover new things.",
+        "correct_answer": "curious",
+        "distractors": [
+          "cheerful",
+          "careless",
+          "confident"
+        ],
+        "distractor_rationale": [
+          "cheerful describes someone who is happy and positive, not someone who constantly asks questions to learn",
+          "careless describes someone who makes mistakes through lack of attention, the opposite of someone who actively seeks knowledge",
+          "confident describes someone who feels sure of themselves, but asking many questions is specifically a sign of wanting to know more, not of self-assurance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0004",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "David spoke clearly in front of the whole school without feeling nervous — he seemed very ___ on stage.",
+        "correct_answer": "confident",
+        "distractors": [
+          "familiar",
+          "creative",
+          "brave"
+        ],
+        "distractor_rationale": [
+          "familiar means knowing something well, but it does not describe the feeling of not being nervous while speaking in public",
+          "creative means having original ideas, which is unrelated to speaking without nervousness in front of an audience",
+          "brave describes courage in dangerous situations, whereas speaking without nervousness in public is specifically described by confidence, not bravery"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0005",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The judge listened carefully to both sides and made a decision that treated everyone equally — her colleagues described her as completely ___.",
+        "correct_answer": "fair",
+        "distractors": [
+          "clever",
+          "ambitious",
+          "cheerful"
+        ],
+        "distractor_rationale": [
+          "clever means intelligent, but treating both sides equally and making balanced decisions specifically describes fairness, not intelligence",
+          "ambitious means having strong goals for personal success, which contradicts the idea of impartially treating everyone equally",
+          "cheerful means happy and positive in manner, which has no connection to making equal and balanced decisions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0006",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna designed a completely new way to organise the office space using only recycled materials — her manager said she was very ___.",
+        "correct_answer": "creative",
+        "distractors": [
+          "careful",
+          "cool",
+          "familiar"
+        ],
+        "distractor_rationale": [
+          "careful means paying close attention to avoid mistakes, but inventing a completely new design from unusual materials describes creativity, not carefulness",
+          "cool means calm or fashionable, neither of which describes inventing an original solution using recycled materials",
+          "familiar means knowing something well already, which contradicts designing something completely new"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0007",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Despite working in a junior position, Sara set herself the goal of becoming head of the department within three years — her colleagues admired how ___ she was.",
+        "correct_answer": "ambitious",
+        "distractors": [
+          "confident",
+          "clever",
+          "curious"
+        ],
+        "distractor_rationale": [
+          "confident describes feeling sure of oneself, but setting a high career goal specifically within a fixed timeframe describes ambition, not confidence",
+          "clever describes intelligence, but having a strong drive to reach a high professional goal is a quality of ambition, not cleverness",
+          "curious describes a desire to learn and ask questions, which does not explain the motivation to set and pursue a specific career target"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0008",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The manager often forgot to check his reports for errors and regularly missed important details, which made his colleagues frustrated with his ___ attitude toward his work.",
+        "correct_answer": "careless",
+        "distractors": [
+          "cruel",
+          "cool",
+          "fair"
+        ],
+        "distractor_rationale": [
+          "cruel means deliberately causing pain or suffering to others, which does not describe forgetting to check reports or missing details",
+          "cool means calm and relaxed, but the sentence specifies forgetting to check for errors and missing details, which describes carelessness, not a relaxed personality",
+          "fair means treating people equally and justly, which has no connection to making repeated mistakes by failing to check one's own work"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 29,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0009",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Although Mark had never visited the city before, the streets and buildings felt strangely ___ to him because he had studied so many photographs of the area.",
+        "correct_answer": "familiar",
+        "distractors": [
+          "attractive",
+          "fancy",
+          "creative"
+        ],
+        "distractor_rationale": [
+          "attractive means pleasing to look at, but feeling as though you have seen something before because of prior study describes familiarity, not attractiveness",
+          "fancy means elaborate or high quality, which does not describe the feeling of recognising a place you have never physically visited",
+          "creative means having original ideas, which has no connection to recognising streets and buildings from photographs studied in advance"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0010",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The little boy ran into the burning building to save his dog — everyone said he was very ___.",
+        "correct_answer": "brave",
+        "distractors": [
+          "clever",
+          "cheerful",
+          "careful"
+        ],
+        "distractor_rationale": [
+          "clever describes intelligence, not the willingness to face physical danger",
+          "cheerful describes a happy mood, which contradicts the dangerous and serious situation described",
+          "careful means avoiding risk, which is the opposite of running into a burning building"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0011",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria always smiles and laughs with her friends, so everyone finds her very ___ to be around.",
+        "correct_answer": "cheerful",
+        "distractors": [
+          "cruel",
+          "curious",
+          "confident"
+        ],
+        "distractor_rationale": [
+          "cruel means unkind and causing pain, which directly contradicts smiling and laughing with friends",
+          "curious describes a desire to learn or know things, not a consistently happy and friendly manner",
+          "confident describes self-assurance, but the sentence specifically focuses on her happy, smiling nature rather than any belief in her own abilities"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0012",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "James checked every number in the report three times before sending it, because he is extremely ___ about his work.",
+        "correct_answer": "careful",
+        "distractors": [
+          "ambitious",
+          "creative",
+          "fair"
+        ],
+        "distractor_rationale": [
+          "ambitious describes a strong desire for success or achievement, not the act of repeatedly checking details for accuracy",
+          "creative describes the ability to produce new ideas or things, which is unrelated to the act of checking numbers for mistakes",
+          "fair describes treating people equally and justly, which has no connection to checking a report multiple times"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0013",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The new manager always gives the same rules to every member of the team and never treats anyone differently, so the staff think she is very ___.",
+        "correct_answer": "fair",
+        "distractors": [
+          "confident",
+          "ambitious",
+          "familiar"
+        ],
+        "distractor_rationale": [
+          "confident describes self-assurance in one's own abilities, not the equal treatment of others",
+          "ambitious describes a strong desire to achieve personal goals, which does not explain applying the same rules to everyone",
+          "familiar describes knowing something or someone well, which has no connection to applying equal rules to all team members"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 28,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_cloze_0014",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Even though Sara had never spoken in front of a large audience before, she walked onto the stage and delivered her speech without hesitating once, which impressed everyone who had expected her to be nervous.",
+        "correct_answer": "confident",
+        "distractors": [
+          "creative",
+          "careless",
+          "curious"
+        ],
+        "distractor_rationale": [
+          "creative describes the ability to produce original ideas, which does not explain the absence of hesitation or nervousness when speaking in public",
+          "careless describes a lack of attention to detail and implies mistakes, which contradicts the impression of someone who performed well enough to impress the audience",
+          "curious describes an eagerness to learn or explore, which does not account for the composure and lack of hesitation described in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 40,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_personality_traits_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The little girl smiled and laughed all day — she was very ___.",
+        "correct_answer": "cheerful",
+        "distractors": [
+          "cruel",
+          "careless",
+          "curious"
+        ],
+        "distractor_rationale": [
+          "cruel means unkind and causing pain, which contradicts smiling and laughing all day",
+          "careless means not paying attention to mistakes, which is unrelated to smiling and laughing",
+          "curious means wanting to know things, which does not describe someone who smiles and laughs all day"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom ran into the burning building to save the child — everyone said he was very ___.",
+        "correct_answer": "brave",
+        "distractors": [
+          "clever",
+          "fair",
+          "cool"
+        ],
+        "distractor_rationale": [
+          "clever means intelligent, which does not describe the act of running into danger to save someone",
+          "fair means treating people equally, which is unrelated to entering a burning building",
+          "cool means calm or fashionable, which does not capture the courageous act described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The teacher always gave the same marks to every student for the same work — she was completely ___.",
+        "correct_answer": "fair",
+        "distractors": [
+          "creative",
+          "confident",
+          "ambitious"
+        ],
+        "distractor_rationale": [
+          "creative means having new ideas, which does not describe giving equal marks for equal work",
+          "confident means sure of oneself, which is unrelated to treating students equally",
+          "ambitious means wanting to achieve a lot, which does not describe equal treatment of students"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria always checks her work twice and never makes mistakes — her colleagues say she is very ___.",
+        "correct_answer": "careful",
+        "distractors": [
+          "careless",
+          "curious",
+          "cheerful"
+        ],
+        "distractor_rationale": [
+          "careless means the opposite — not paying attention and making mistakes, which directly contradicts checking work twice",
+          "curious means wanting to learn new things, which does not describe someone who checks their work for mistakes",
+          "cheerful means happy and smiling, which is unrelated to checking work carefully for errors"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "James solved the maths problem in his head in seconds, without using a calculator — he is extremely ___.",
+        "correct_answer": "clever",
+        "distractors": [
+          "brave",
+          "fair",
+          "attractive"
+        ],
+        "distractor_rationale": [
+          "brave describes courage in dangerous situations, not the ability to solve maths problems mentally",
+          "fair describes equal treatment of people, which is unrelated to solving maths problems quickly",
+          "attractive describes physical appearance, not the ability to perform mental calculations"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna always speaks in front of large groups without feeling nervous — she is a very ___ presenter.",
+        "correct_answer": "confident",
+        "distractors": [
+          "familiar",
+          "creative",
+          "cruel"
+        ],
+        "distractor_rationale": [
+          "familiar means knowing something well, but does not describe someone who speaks without nervousness",
+          "creative means producing new ideas, which does not describe the absence of nervousness when speaking publicly",
+          "cruel means causing pain to others, which contradicts the neutral, professional context described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The young designer came up with ten completely new ideas for the project in one afternoon — she is very ___.",
+        "correct_answer": "creative",
+        "distractors": [
+          "careful",
+          "confident",
+          "familiar"
+        ],
+        "distractor_rationale": [
+          "careful means checking for mistakes, which does not explain producing ten completely new ideas",
+          "confident means not feeling nervous, which is unrelated to generating original ideas",
+          "familiar means knowing something well already, which contradicts producing new and original ideas"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Despite working a full-time job, David studied every evening because he was ___ enough to want to reach the top of his profession.",
+        "correct_answer": "ambitious",
+        "distractors": [
+          "curious",
+          "cheerful",
+          "cool"
+        ],
+        "distractor_rationale": [
+          "curious means wanting to learn about new things, but does not explain the drive to reach the top of a profession through sacrifice",
+          "cheerful means happy and positive, which does not explain why someone studies every evening after work",
+          "cool means calm or fashionable, which does not describe the motivation to work hard and advance professionally"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The manager punished some employees for the same mistake she ignored in others, so her team felt she was being completely ___.",
+        "correct_answer": "unfair",
+        "distractors": [
+          "careless",
+          "cruel",
+          "curious"
+        ],
+        "distractor_rationale": [
+          "careless means not paying attention, but the manager clearly noticed the mistake — she chose to treat people differently",
+          "cruel means causing deliberate suffering, which is too extreme for inconsistent rule-application in a workplace context",
+          "curious means wanting to find out about things, which has no connection to inconsistent treatment of employees"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara kept asking her teacher questions about every topic they studied, even after class — she was naturally very ___ about the world around her.",
+        "correct_answer": "curious",
+        "distractors": [
+          "ambitious",
+          "confident",
+          "brave"
+        ],
+        "distractor_rationale": [
+          "ambitious means wanting to achieve success or status, which does not explain asking extra questions about every topic out of interest",
+          "confident means feeling sure of oneself, which contradicts the behaviour of someone who keeps asking questions because they want to know more",
+          "brave means showing courage in dangerous situations, which is entirely unrelated to asking questions after class"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_personality_traits_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_word_formation_0000",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Tom is very ___ and always helps his friends. (CARE)",
+        "correct_answer": "careful",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CARE"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_personality_traits_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_word_formation_0001",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "She is always smiling and has a very ___ personality. (CHEER)",
+        "correct_answer": "cheerful",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CHEER"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_personality_traits_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_word_formation_0002",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The young student showed great ___ when she asked the teacher many questions about the topic. (CURIOUS)",
+        "correct_answer": "curiosity",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CURIOUS"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_personality_traits_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_word_formation_0003",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 42,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "His ___ in front of the large audience surprised everyone, because he had never spoken in public before. (CONFIDENT)",
+        "correct_answer": "confidence",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CONFIDENT"
+      },
+      "difficulty_features": {
+        "gse_target": 42,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_personality_traits_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_personality_traits_word_formation_0004",
+      "skill_ids": [
+        "vocab_personality_traits"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 55,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "Her colleagues were impressed by the ___ of her designs, which combined ideas from art and science in a way nobody had tried before. (CREATE)",
+        "correct_answer": "creativity",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CREATE"
+      },
+      "difficulty_features": {
+        "gse_target": 55,
+        "sentence_length_tokens": 25,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:27:10.450702+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_personality_traits_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}

@@ -1,0 +1,1865 @@
+{
+  "skill_id": "verb_complementation_basic",
+  "skill_name": "Verb Complementation: Basic (Like/Love/Hate + -ing, Gerund as Subject/Complement)",
+  "exercises": [
+    {
+      "id": "ex_verb_complementation_basic_cloze_0000",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My little brother hates ___ (eat) vegetables at dinner.",
+        "correct_answer": "eating",
+        "distractors": [
+          "to eat",
+          "eat",
+          "eats"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after hate is a common learner error mapping to L1 transfer; hate as a general preference verb requires -ing",
+          "bare base verb after hate is ungrammatical; a gerund suffix is required",
+          "third-person singular inflection produces a finite verb, which cannot function as a gerund object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0001",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom loves ___ (play) football with his friends.",
+        "correct_answer": "playing",
+        "distractors": [
+          "to playing",
+          "play",
+          "played"
+        ],
+        "distractor_rationale": [
+          "to + -ing is a double-marking error; only the gerund form without 'to' is correct here",
+          "bare base verb after loves is ungrammatical; the gerund suffix is required",
+          "past tense form cannot function as a gerund object after loves"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 8,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0002",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ (swim) in the sea is Anna's favourite activity in summer.",
+        "correct_answer": "Swimming",
+        "distractors": [
+          "To swimming",
+          "Swim",
+          "Swims"
+        ],
+        "distractor_rationale": [
+          "to + -ing is a double-marking error; only the gerund form without 'to' can function as a sentence subject",
+          "bare infinitive cannot function as a grammatical subject in this position without 'to'; and even 'to swim' is less natural here than the gerund",
+          "finite third-person verb form cannot function as a noun phrase subject"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0003",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Maria enjoys ___ (cook) new recipes at the weekend when she has more time.",
+        "correct_answer": "cooking",
+        "distractors": [
+          "to cook",
+          "cook",
+          "cooked"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after enjoy is a very common learner error; enjoy exclusively takes a gerund object",
+          "bare base verb after enjoys is ungrammatical; a gerund is required",
+          "past participle form cannot function as a gerund object after enjoy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0004",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you mind ___ (wait) here for a few minutes while I get my coat?",
+        "correct_answer": "waiting",
+        "distractors": [
+          "to wait",
+          "wait",
+          "waited"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after mind is a common learner error; mind requires a gerund object, not an infinitive",
+          "bare base verb after mind is ungrammatical; the gerund suffix is required",
+          "past tense form cannot function as a gerund object after mind"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0005",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "James always avoids ___ (take) the bus during rush hour because it is very crowded.",
+        "correct_answer": "taking",
+        "distractors": [
+          "to take",
+          "take",
+          "takes"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after avoid is a frequent learner error; avoid exclusively takes a gerund object",
+          "bare base verb after avoids is ungrammatical; a gerund is required",
+          "third-person singular finite form cannot serve as a gerund object after avoids"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0006",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "She prefers ___ (shop) online rather than going to a busy supermarket.",
+        "correct_answer": "shopping",
+        "distractors": [
+          "to shopping",
+          "shop",
+          "shopped"
+        ],
+        "distractor_rationale": [
+          "to + -ing is a double-marking error; prefer as a general preference verb takes a bare gerund",
+          "bare base verb after prefers is ungrammatical; a gerund suffix is required",
+          "past tense form cannot function as a gerund object after prefers"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0007",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "David finally finished ___ (write) his report and sent it to his manager before lunchtime.",
+        "correct_answer": "writing",
+        "distractors": [
+          "to write",
+          "write",
+          "written"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after finish is a common learner error; finish exclusively takes a gerund object",
+          "bare base verb after finished is ungrammatical; a gerund is required",
+          "past participle form cannot function as a gerund object after finished"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0008",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ (learn) a new language takes a lot of time and regular practice every day.",
+        "correct_answer": "Learning",
+        "distractors": [
+          "To learning",
+          "Learn",
+          "Learned"
+        ],
+        "distractor_rationale": [
+          "to + -ing is a double-marking error; only the gerund without 'to' can head a noun-phrase subject in this position",
+          "bare base verb cannot function as a noun-phrase subject; a gerund is required",
+          "past tense form cannot function as a noun-phrase subject"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0009",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Lisa doesn't enjoy ___ (present) her ideas in front of a large group of people at work.",
+        "correct_answer": "presenting",
+        "distractors": [
+          "to present",
+          "presented",
+          "presents"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after enjoy is a very common learner error; enjoy exclusively requires a gerund object",
+          "past tense form cannot function as a gerund object after enjoy",
+          "third-person singular finite form cannot serve as a gerund object after doesn't enjoy"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0011",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Tom loves ___ (swim) in the sea on hot days.",
+        "correct_answer": "swimming",
+        "distractors": [
+          "to swim",
+          "swim",
+          "swims"
+        ],
+        "distractor_rationale": [
+          "to-infinitive after 'loves' signals a specific wish ('would love to swim'), not a general preference, making it wrong in this habitual context",
+          "bare base form cannot directly follow 'loves' as a complement — a non-finite form is required",
+          "third-person present form creates two finite verbs in one clause without a conjunction, making the sentence ungrammatical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0012",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Anna always avoids ___ (take) the bus during rush hour because it is too crowded.",
+        "correct_answer": "taking",
+        "distractors": [
+          "to take",
+          "take",
+          "took"
+        ],
+        "distractor_rationale": [
+          "to-infinitive is not used after 'avoid' — 'avoid' always requires a gerund complement",
+          "bare base form cannot follow 'avoids' as a complement — the gerund form is obligatory after this verb",
+          "past simple form is a finite verb and cannot function as the complement of 'avoids' in this structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0013",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "___ (cook) a big meal for the whole family every Sunday takes a lot of time and energy.",
+        "correct_answer": "Cooking",
+        "distractors": [
+          "To cooking",
+          "Cook",
+          "Cooked"
+        ],
+        "distractor_rationale": [
+          "'To cooking' combines 'to' with a gerund, which is not a valid English structure — the subject role here requires a gerund alone",
+          "bare base form 'Cook' cannot function as the grammatical subject of a sentence — a gerund is required for this noun-like subject role",
+          "past participle 'Cooked' cannot stand alone as the subject of a sentence without an auxiliary verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_cloze_0014",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Do you mind ___ (wait) for a few minutes while I finish this report for my manager?",
+        "correct_answer": "waiting",
+        "distractors": [
+          "to wait",
+          "wait",
+          "waited"
+        ],
+        "distractor_rationale": [
+          "to-infinitive is not grammatically permitted after 'mind' — 'mind' always takes a gerund as its complement",
+          "bare base form cannot follow 'mind' as a complement — the gerund is the only correct non-finite form here",
+          "past simple form cannot function as the complement of 'mind' in this structure — it creates an ungrammatical sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0000",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "My little brother loves ___ football in the park.",
+        "correct_answer": "playing",
+        "distractors": [
+          "to play",
+          "play",
+          "played"
+        ],
+        "distractor_rationale": [
+          "to-infinitive is used after 'would love', not after 'loves' expressing general preference",
+          "bare base verb cannot follow 'loves' as a gerund object",
+          "past tense form cannot serve as a gerund complement after 'loves'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0001",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Anna hates ___ the dishes after dinner every night.",
+        "correct_answer": "washing",
+        "distractors": [
+          "to wash",
+          "wash",
+          "washed"
+        ],
+        "distractor_rationale": [
+          "to-infinitive follows 'would hate' for a specific event, not 'hates' expressing habitual dislike",
+          "bare base verb is ungrammatical directly after 'hates' as its complement",
+          "past tense form cannot function as a gerund object after 'hates'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0002",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ early every morning is very difficult for Tom.",
+        "correct_answer": "Getting up",
+        "distractors": [
+          "To getting up",
+          "Get up",
+          "Gets up"
+        ],
+        "distractor_rationale": [
+          "'To getting up' mixes to-infinitive and gerund, producing an impossible hybrid form",
+          "bare base verb phrase cannot function as the subject of a sentence; a gerund is required",
+          "third-person conjugated form cannot serve as the subject noun phrase of a clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0003",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "David enjoys ___ to new music on his way to work each morning.",
+        "correct_answer": "listening",
+        "distractors": [
+          "to listen",
+          "listen",
+          "listened"
+        ],
+        "distractor_rationale": [
+          "to-infinitive is not used after 'enjoy'; 'enjoy' always requires a gerund complement",
+          "bare base verb is ungrammatical after 'enjoy' and does not express habitual activity",
+          "past tense form cannot act as a gerund object and changes the meaning incorrectly"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0004",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Sara would like ___ a cooking class next weekend with her sister.",
+        "correct_answer": "to join",
+        "distractors": [
+          "joining",
+          "join",
+          "joined"
+        ],
+        "distractor_rationale": [
+          "'would like' expresses a specific wish and requires to-infinitive, not a gerund",
+          "bare base verb cannot follow 'would like'; the to-infinitive marker is obligatory here",
+          "past tense form is ungrammatical after 'would like' and does not express a future wish"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0005",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Do you mind ___ the window? It's very hot in this room.",
+        "correct_answer": "opening",
+        "distractors": [
+          "to open",
+          "open",
+          "opened"
+        ],
+        "distractor_rationale": [
+          "'mind' always takes a gerund complement; to-infinitive after 'mind' is a very common learner error",
+          "bare base verb cannot directly follow 'mind' as its complement in standard grammar",
+          "past tense form is grammatically impossible as a gerund complement after 'mind'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0006",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "James prefers ___ to work rather than taking the bus every day.",
+        "correct_answer": "cycling",
+        "distractors": [
+          "to cycling",
+          "cycle",
+          "cycled"
+        ],
+        "distractor_rationale": [
+          "'to cycling' incorrectly combines the preposition 'to' with a gerund after 'prefers'; the gerund alone is required",
+          "bare base verb is ungrammatical as a complement after 'prefers' without 'to'",
+          "past tense form cannot serve as a gerund object after 'prefers'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0007",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "She always avoids ___ the supermarket on Saturday mornings because it gets very crowded.",
+        "correct_answer": "visiting",
+        "distractors": [
+          "to visit",
+          "visit",
+          "visits"
+        ],
+        "distractor_rationale": [
+          "'avoid' always requires a gerund; using to-infinitive after 'avoid' is a common transfer error from learners' first languages",
+          "bare base verb is ungrammatical after 'avoid' and does not indicate habitual behaviour",
+          "third-person conjugated form cannot function as a gerund object after 'avoid'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0008",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Mark finished ___ the report just before the meeting started, so he felt very relieved.",
+        "correct_answer": "writing",
+        "distractors": [
+          "to write",
+          "write",
+          "written"
+        ],
+        "distractor_rationale": [
+          "'finish' always takes a gerund complement; to-infinitive after 'finish' is a frequent learner error caused by overgeneralisation",
+          "bare base verb is ungrammatical directly after 'finished' as its object complement",
+          "past participle form cannot serve as a gerund object and confuses the verb phrase with a passive structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_multiple_choice_0009",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "___ a foreign language fluently takes a lot of practice and patience over many years.",
+        "correct_answer": "Speaking",
+        "distractors": [
+          "To speaking",
+          "Speak",
+          "Spoken"
+        ],
+        "distractor_rationale": [
+          "'To speaking' is an impossible hybrid of to-infinitive and gerund; only the gerund alone can function as the subject here",
+          "bare base verb cannot serve as the grammatical subject of a clause in standard English",
+          "past participle form cannot function as a gerund subject and suggests a passive meaning instead"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "verb_complementation_basic_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0000",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My brother enjoys to play football after school every day.",
+        "correct_answer": "playing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My brother enjoys to play football after school every day.",
+        "corrected_sentence": "My brother enjoys playing football after school every day.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0001",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "She hates get up early on cold winter mornings.",
+        "correct_answer": "getting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "She hates get up early on cold winter mornings.",
+        "corrected_sentence": "She hates getting up early on cold winter mornings.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0002",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Tom finished to write his homework before dinner and then watched TV.",
+        "correct_answer": "writing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Tom finished to write his homework before dinner and then watched TV.",
+        "corrected_sentence": "Tom finished writing his homework before dinner and then watched TV.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0003",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Do you mind to wait here for a few minutes while I speak to the manager?",
+        "correct_answer": "waiting",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Do you mind to wait here for a few minutes while I speak to the manager?",
+        "corrected_sentence": "Do you mind waiting here for a few minutes while I speak to the manager?",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0004",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Cook at home is much cheaper than eating at a restaurant every night.",
+        "correct_answer": "Cooking",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Cook at home is much cheaper than eating at a restaurant every night.",
+        "corrected_sentence": "Cooking at home is much cheaper than eating at a restaurant every night.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0005",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "A2+",
+      "gse_target": 37,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Lisa prefers to walk to work, but she avoids to cross the busy main road.",
+        "correct_answer": "crossing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Lisa prefers to walk to work, but she avoids to cross the busy main road.",
+        "corrected_sentence": "Lisa prefers to walk to work, but she avoids crossing the busy main road.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 37,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0006",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "I would like visiting the new art gallery downtown, so let's go there this weekend.",
+        "correct_answer": "to visit",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "I would like visiting the new art gallery downtown, so let's go there this weekend.",
+        "corrected_sentence": "I would like to visit the new art gallery downtown, so let's go there this weekend.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_verb_complementation_basic_error_correction_0007",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 43,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "My parents love spend time in the garden on sunny afternoons, especially in summer.",
+        "correct_answer": "spending",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "My parents love spend time in the garden on sunny afternoons, especially in summer.",
+        "corrected_sentence": "My parents love spending time in the garden on sunny afternoons, especially in summer.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 43,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "verb_complementation_basic_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "ex_verb_complementation_basic_cloze_0010",
+      "skill_ids": [
+        "verb_complementation_basic"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 31,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "My little brother hates ___ (eat) vegetables at dinner.",
+        "correct_answer": "eating",
+        "distractors": [
+          "to eat",
+          "eat",
+          "eats"
+        ],
+        "distractor_rationale": [
+          "to-infinitive is used after 'would like/want', not after 'hate' as a general preference verb",
+          "bare base form cannot follow 'hates' — a gerund or to-infinitive is required, and only gerund is correct here",
+          "third-person singular present form is a verb, not a complement — it creates a grammatically broken structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 31,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T10:58:17.170396+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "verb_complementation_basic_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": null
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          false,
+          "exact duplicate of a prior item"
+        ]
+      },
+      "rejection_reason": "duplicate: exact duplicate of a prior item"
+    }
+  ],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 32,
+    "filter_rejected": 1
+  }
+}

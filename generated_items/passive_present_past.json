@@ -1,0 +1,1863 @@
+{
+  "skill_id": "passive_present_past",
+  "skill_name": "Passive Voice (Present & Past Simple)",
+  "exercises": [
+    {
+      "id": "ex_passive_present_past_cloze_0000",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The classroom ___ (clean) by the students every Friday afternoon.",
+        "correct_answer": "is cleaned",
+        "distractors": [
+          "cleans",
+          "was cleaned",
+          "are cleaned"
+        ],
+        "distractor_rationale": [
+          "active voice cannot be used here because the subject 'the classroom' is the receiver of the action, not the doer",
+          "past simple passive 'was cleaned' contradicts the habitual time marker 'every Friday afternoon', which requires present simple",
+          "'are cleaned' uses a plural auxiliary but 'the classroom' is a singular subject, making the agreement wrong"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0001",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "These shoes ___ (make) in a large factory in the north of the country.",
+        "correct_answer": "are made",
+        "distractors": [
+          "is made",
+          "were made",
+          "make"
+        ],
+        "distractor_rationale": [
+          "'is made' uses a singular auxiliary but 'these shoes' is a plural subject, which is a subject-verb agreement error",
+          "'were made' is past simple passive and implies the shoes were made in the past and no longer are, but the sentence describes a current, ongoing fact",
+          "'make' is active voice and implies the shoes perform the action themselves, which is nonsensical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0002",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The old bridge ___ (damage) by the storm last Tuesday, so the road is now closed.",
+        "correct_answer": "was damaged",
+        "distractors": [
+          "were damaged",
+          "was damage",
+          "is damaged"
+        ],
+        "distractor_rationale": [
+          "'were damaged' uses a plural auxiliary but 'the old bridge' is a singular subject, making the agreement wrong",
+          "'was damage' uses the base form of the verb instead of the past participle 'damaged', which is the error of confusing base form with past participle",
+          "'is damaged' is present simple passive and cannot refer to a completed event anchored by 'last Tuesday'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0003",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Fresh vegetables ___ (deliver) to the restaurant kitchen every morning before six o'clock.",
+        "correct_answer": "are delivered",
+        "distractors": [
+          "were delivered",
+          "is delivered",
+          "delivered"
+        ],
+        "distractor_rationale": [
+          "'were delivered' is past simple passive and cannot express a regular, repeated action described by 'every morning'",
+          "'is delivered' uses a singular auxiliary but 'fresh vegetables' is a plural subject, which is a subject-verb agreement error",
+          "'delivered' is active past simple, which does not match the passive structure required when the agent performing the delivery is not the subject"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0004",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The winning design ___ (choose) by a panel of judges at the end of the competition last month.",
+        "correct_answer": "was chosen",
+        "distractors": [
+          "was chose",
+          "were chosen",
+          "was choosing"
+        ],
+        "distractor_rationale": [
+          "'was chose' uses the past simple form of the verb instead of the past participle 'chosen', which is the common error of substituting the wrong verb form after 'was'",
+          "'were chosen' uses a plural auxiliary but 'the winning design' is a singular subject, making the agreement wrong",
+          "'was choosing' is past continuous active voice and implies the subject was performing the action, but the design cannot choose anything"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0005",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "All new employees ___ (give) a safety handbook on their first day at the company.",
+        "correct_answer": "are given",
+        "distractors": [
+          "is given",
+          "were given",
+          "give"
+        ],
+        "distractor_rationale": [
+          "'is given' uses a singular auxiliary but 'all new employees' is a plural subject, making the agreement wrong",
+          "'were given' is past simple passive and cannot describe a standing company policy that applies to every new employee at present",
+          "'give' is active voice and implies the employees distribute the handbook themselves, which contradicts the meaning of the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0006",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The suspect ___ (arrest) by two police officers near the train station yesterday evening.",
+        "correct_answer": "was arrested",
+        "distractors": [
+          "was arrest",
+          "were arrested",
+          "has been arrested"
+        ],
+        "distractor_rationale": [
+          "'was arrest' uses the base form instead of the past participle 'arrested', reflecting the common learner error of not applying the correct verb form after 'was'",
+          "'were arrested' uses a plural auxiliary but 'the suspect' is a singular subject, making the agreement wrong",
+          "'has been arrested' is present perfect passive and cannot be used with the specific past time marker 'yesterday evening'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0007",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The annual report ___ (write) by the finance team and then ___ (send) to all department heads last week.",
+        "correct_answer": "was written and then was sent",
+        "distractors": [
+          "was wrote and then was sent",
+          "was written and then is sent",
+          "were written and then were sent"
+        ],
+        "distractor_rationale": [
+          "'was wrote' uses the past simple form instead of the past participle 'written', which is the error of confusing the past simple and past participle forms of irregular verbs",
+          "'is sent' switches to present simple passive for the second verb, creating a tense inconsistency with 'was written' and contradicting the past time marker 'last week'",
+          "'were written' and 'were sent' use plural auxiliaries but 'the annual report' is a singular subject, making both verbs wrong in agreement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0008",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Applicants who do not meet the basic requirements ___ (not / consider) for the position, regardless of their experience.",
+        "correct_answer": "are not considered",
+        "distractors": [
+          "were not considered",
+          "is not considered",
+          "are not considering"
+        ],
+        "distractor_rationale": [
+          "'were not considered' is past simple passive and cannot express a fixed, current policy described without any past time marker",
+          "'is not considered' uses a singular auxiliary but 'applicants' is a plural subject, making the agreement wrong",
+          "'are not considering' is present continuous active voice and implies the applicants are performing the action of considering, which is nonsensical in context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0009",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The original painting ___ (steal) from the museum during the night, and the alarm system ___ (find) to have been switched off deliberately.",
+        "correct_answer": "was stolen and the alarm system was found",
+        "distractors": [
+          "was stole and the alarm system was found",
+          "was stolen and the alarm system is found",
+          "were stolen and the alarm system were found"
+        ],
+        "distractor_rationale": [
+          "'was stole' uses the past simple form instead of the past participle 'stolen', which is the learner error of substituting the simple past for the past participle with irregular verbs",
+          "'is found' switches to present simple passive for the second clause, creating a tense inconsistency with 'was stolen' and the implied past narrative context",
+          "'were stolen' and 'were found' use plural auxiliaries but 'the original painting' and 'the alarm system' are both singular subjects, making both verbs wrong in agreement"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0010",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The windows ___ (clean) every Friday morning by the building staff.",
+        "correct_answer": "are cleaned",
+        "distractors": [
+          "clean",
+          "were cleaned",
+          "are cleaning"
+        ],
+        "distractor_rationale": [
+          "active voice 'clean' omits the auxiliary 'are' required for present passive and inverts the agent relationship",
+          "'were cleaned' is past passive, but 'every Friday morning' signals a regular present routine",
+          "'are cleaning' is present continuous active, which makes the windows the doers rather than the receivers of the action"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0011",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The broken chair ___ (fix) by the carpenter yesterday afternoon.",
+        "correct_answer": "was fixed",
+        "distractors": [
+          "was fixing",
+          "fixed",
+          "were fixed"
+        ],
+        "distractor_rationale": [
+          "'was fixing' is past continuous active, making the chair the one doing the fixing rather than receiving it",
+          "'fixed' is active past simple with no auxiliary, which reverses the agent and receiver roles incorrectly",
+          "'were fixed' uses a plural be-form, but 'the broken chair' is a singular subject requiring 'was'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0012",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "All the sandwiches ___ (eat) by the children before the other guests arrived at the party.",
+        "correct_answer": "were eaten",
+        "distractors": [
+          "was eaten",
+          "were ate",
+          "have been eaten"
+        ],
+        "distractor_rationale": [
+          "'was eaten' uses a singular be-form, but 'all the sandwiches' is a plural subject requiring 'were'",
+          "'were ate' uses the past simple form instead of the past participle; the correct past participle of 'eat' is 'eaten'",
+          "'have been eaten' is present perfect passive, but the time reference 'before the other guests arrived' places the action in a completed past sequence requiring past simple passive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0013",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new safety rules ___ (explain) to all the workers at the start of every shift.",
+        "correct_answer": "are explained",
+        "distractors": [
+          "were explained",
+          "is explained",
+          "explained"
+        ],
+        "distractor_rationale": [
+          "'were explained' is past simple passive, but 'at the start of every shift' signals a habitual present routine",
+          "'is explained' uses a singular be-form, but 'the new safety rules' is a plural subject requiring 'are'",
+          "'explained' is active past simple with no auxiliary, omitting the passive structure entirely and reversing agent and receiver"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_cloze_0014",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The annual report ___ (prepare) by the finance team last week, and the results will be shared with all departments tomorrow.",
+        "correct_answer": "was prepared",
+        "distractors": [
+          "were prepared",
+          "was preparing",
+          "was wrote"
+        ],
+        "distractor_rationale": [
+          "'were prepared' uses a plural be-form, but 'the annual report' is a singular subject requiring 'was'",
+          "'was preparing' is past continuous active, which makes the report the agent doing the preparing rather than the object receiving the action",
+          "'was wrote' uses the past simple form 'wrote' instead of a past participle, and also substitutes the wrong verb entirely; the correct past participle of 'prepare' is 'prepared'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "passive_present_past_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0000",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The classroom ___ every morning before the students arrive.",
+        "correct_answer": "is cleaned",
+        "distractors": [
+          "was cleaned",
+          "are cleaned",
+          "is cleaning"
+        ],
+        "distractor_rationale": [
+          "past simple passive refers to a finished past event, not a regular daily routine",
+          "'are' is used with plural subjects; 'classroom' is singular and requires 'is'",
+          "'is cleaning' is active present continuous, not passive voice"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0001",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The windows ___ by the workers yesterday afternoon.",
+        "correct_answer": "were repaired",
+        "distractors": [
+          "was repaired",
+          "are repaired",
+          "were repair"
+        ],
+        "distractor_rationale": [
+          "'was' is singular but 'windows' is plural and requires 'were'",
+          "present passive 'are repaired' conflicts with the time marker 'yesterday afternoon'",
+          "the past participle 'repaired' is required after 'were'; the base form 'repair' is incorrect in passive constructions"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 10,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0002",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "Fresh bread ___ at that bakery on the corner every day.",
+        "correct_answer": "is sold",
+        "distractors": [
+          "was sold",
+          "is sell",
+          "are sold"
+        ],
+        "distractor_rationale": [
+          "'was sold' is past simple passive, but 'every day' signals a present habitual action",
+          "'is sell' uses the base form instead of the required past participle 'sold'",
+          "'are sold' is plural passive but 'bread' is an uncountable singular noun requiring 'is'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0003",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The injured man ___ to the nearest hospital immediately after the accident.",
+        "correct_answer": "was taken",
+        "distractors": [
+          "were taken",
+          "was took",
+          "is taken"
+        ],
+        "distractor_rationale": [
+          "'were taken' is plural but 'man' is singular and requires 'was'",
+          "'was took' uses the past simple form 'took' instead of the past participle 'taken'",
+          "'is taken' is present passive but 'after the accident' indicates a completed past event"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0004",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "These machines ___ by trained technicians twice a year to keep them working safely.",
+        "correct_answer": "are checked",
+        "distractors": [
+          "is checked",
+          "were checked",
+          "are checking"
+        ],
+        "distractor_rationale": [
+          "'is checked' is singular but 'machines' is plural and requires 'are'",
+          "'were checked' is past passive but 'twice a year' describes a regular present routine",
+          "'are checking' is active present continuous, not the passive voice required here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0005",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new school building ___ by a well-known architect in the 1990s.",
+        "correct_answer": "was designed",
+        "distractors": [
+          "is designed",
+          "was design",
+          "were designed"
+        ],
+        "distractor_rationale": [
+          "'is designed' is present passive but 'in the 1990s' clearly locates the event in the past",
+          "'was design' uses the base form instead of the required past participle 'designed'",
+          "'were designed' is plural but 'building' is singular and requires 'was'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0006",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "English ___ as the main language of instruction at this international school.",
+        "correct_answer": "is used",
+        "distractors": [
+          "was used",
+          "are used",
+          "is using"
+        ],
+        "distractor_rationale": [
+          "'was used' is past passive, but the sentence describes a current and ongoing institutional policy",
+          "'are used' is plural passive but 'English' is a singular uncountable noun requiring 'is'",
+          "'is using' is active present continuous, which requires an animate agent subject, not a language"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0007",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "After the flood last winter, several roads in the valley ___ for over three weeks before traffic could pass again.",
+        "correct_answer": "were closed",
+        "distractors": [
+          "are closed",
+          "was closed",
+          "were closing"
+        ],
+        "distractor_rationale": [
+          "'are closed' is present passive but 'last winter' and 'before traffic could pass again' firmly anchor the event in the past",
+          "'was closed' is singular past passive but 'roads' is plural and requires 'were'",
+          "'were closing' is active past continuous, which requires an animate agent closing the roads, not a passive state"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0008",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "All complaints received by the customer service team ___ within two working days, according to the company's policy.",
+        "correct_answer": "are handled",
+        "distractors": [
+          "were handled",
+          "is handled",
+          "are handle"
+        ],
+        "distractor_rationale": [
+          "'were handled' is past passive but 'according to the company's policy' signals a current standing procedure, not a past event",
+          "'is handled' is singular passive but 'complaints' is plural and requires 'are'",
+          "'are handle' uses the base form instead of the required past participle 'handled'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_multiple_choice_0009",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The annual report ___ by the finance director and presented to the board at the meeting last Thursday.",
+        "correct_answer": "was prepared",
+        "distractors": [
+          "were prepared",
+          "was prepare",
+          "is prepared"
+        ],
+        "distractor_rationale": [
+          "'were prepared' is plural past passive but 'report' is singular and requires 'was'",
+          "'was prepare' uses the base form instead of the required past participle 'prepared'",
+          "'is prepared' is present passive but 'at the meeting last Thursday' clearly situates the action in the past"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "passive_present_past_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0000",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The windows is cleaned every Friday morning by the building staff.",
+        "correct_answer": "are cleaned",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The windows is cleaned every Friday morning by the building staff.",
+        "corrected_sentence": "The windows are cleaned every Friday morning by the building staff.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 12,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0001",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 46,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The letter was write by a student in the evening class last Tuesday.",
+        "correct_answer": "was written",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The letter was write by a student in the evening class last Tuesday.",
+        "corrected_sentence": "The letter was written by a student in the evening class last Tuesday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 46,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0002",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new sports centre were opened by the mayor at a ceremony last month.",
+        "correct_answer": "was opened",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new sports centre were opened by the mayor at a ceremony last month.",
+        "corrected_sentence": "The new sports centre was opened by the mayor at a ceremony last month.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0003",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "Fresh vegetables are delivered the local farm to the supermarket every morning.",
+        "correct_answer": "are delivered by the local farm",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "Fresh vegetables are delivered the local farm to the supermarket every morning.",
+        "corrected_sentence": "Fresh vegetables are delivered by the local farm to the supermarket every morning.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0004",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "All the reports are checked the manager before they are sent to the client.",
+        "correct_answer": "are checked by the manager",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "All the reports are checked the manager before they are sent to the client.",
+        "corrected_sentence": "All the reports are checked by the manager before they are sent to the client.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0005",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The old bridge was went down during the storm, so the road was closed for two weeks.",
+        "correct_answer": "was taken down",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The old bridge was went down during the storm, so the road was closed for two weeks.",
+        "corrected_sentence": "The old bridge was taken down during the storm, so the road was closed for two weeks.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0006",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The equipment is store in a locked room at the back of the building when it is not in use.",
+        "correct_answer": "is stored",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The equipment is store in a locked room at the back of the building when it is not in use.",
+        "corrected_sentence": "The equipment is stored in a locked room at the back of the building when it is not in use.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_passive_present_past_error_correction_0007",
+      "skill_ids": [
+        "passive_present_past"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 56,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The announcement was make by the director just before the staff meeting ended yesterday.",
+        "correct_answer": "was made",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The announcement was make by the director just before the staff meeting ended yesterday.",
+        "corrected_sentence": "The announcement was made by the director just before the staff meeting ended yesterday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 56,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:12:13.077718+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "passive_present_past_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

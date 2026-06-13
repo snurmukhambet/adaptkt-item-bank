@@ -1,0 +1,1863 @@
+{
+  "skill_id": "reduced_relatives_passive",
+  "skill_name": "Reduced Relative Clauses with Past Participle (The book written by…)",
+  "exercises": [
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0000",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The letter ___ (write) by the manager was sent to all staff members this morning.",
+        "correct_answer": "written",
+        "distractors": [
+          "writing",
+          "that writing",
+          "that written"
+        ],
+        "distractor_rationale": [
+          "present participle 'writing' signals an active meaning, but the letter did not write anything — a past participle is required for the passive reduced relative",
+          "'that writing' incorrectly combines the relative pronoun 'that' with a present participle, producing a grammatically broken structure",
+          "'that written' incorrectly retains the relative pronoun 'that' before the past participle; in a reduced relative clause, 'that' is omitted"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0001",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The cake ___ (make) by Anna for the party was completely eaten within an hour.",
+        "correct_answer": "made",
+        "distractors": [
+          "making",
+          "that made",
+          "was made"
+        ],
+        "distractor_rationale": [
+          "present participle 'making' implies an active role — the cake was not making anything; the passive past participle is needed",
+          "'that made' is an error where the student uses a full relative clause structure but omits the auxiliary 'was', making it grammatically incorrect",
+          "'was made' introduces a finite verb form that turns the reduced relative into a full finite clause, breaking the noun-phrase structure"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0002",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The report ___ (prepare) by the finance team must be submitted before Friday afternoon.",
+        "correct_answer": "prepared",
+        "distractors": [
+          "preparing",
+          "that was preparing",
+          "that prepare"
+        ],
+        "distractor_rationale": [
+          "present participle 'preparing' signals active meaning — the report did not prepare anything; the passive past participle is required",
+          "'that was preparing' uses a full relative clause with active continuous meaning, which contradicts the passive context — the team prepared the report, not the report",
+          "'that prepare' uses the base form in a relative clause with no auxiliary, which is grammatically incorrect in any tense"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0003",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The photographs ___ (take) by the professional photographer at the event were displayed in the entrance hall.",
+        "correct_answer": "taken",
+        "distractors": [
+          "taking",
+          "that were taking",
+          "took"
+        ],
+        "distractor_rationale": [
+          "present participle 'taking' implies the photographs were actively doing the taking, which is nonsensical; the passive past participle is required",
+          "'that were taking' is a full active relative clause — it implies the photographs were taking something, which is semantically impossible",
+          "simple past 'took' introduces a finite verb that creates a run-on clause without a conjunction, making the sentence grammatically incorrect"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0004",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The proposal ___ (submit) by the two junior architects last month has now been approved by the board.",
+        "correct_answer": "submitted",
+        "distractors": [
+          "submitting",
+          "that submitting",
+          "which submitted"
+        ],
+        "distractor_rationale": [
+          "present participle 'submitting' implies the proposal was actively submitting something, which is semantically impossible and grammatically wrong for a passive reduced relative",
+          "'that submitting' combines a relative pronoun with a present participle without an auxiliary verb, producing an ungrammatical structure",
+          "'which submitted' is a full relative clause with active meaning — it incorrectly implies the proposal itself performed the action of submitting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0005",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new road ___ (build) by the construction company last year has already developed several serious cracks.",
+        "correct_answer": "built",
+        "distractors": [
+          "building",
+          "that built",
+          "was built"
+        ],
+        "distractor_rationale": [
+          "present participle 'building' gives the road an active role — roads do not build things; the passive past participle is required",
+          "'that built' uses an active relative clause, wrongly implying the road performed the building action",
+          "'was built' introduces a finite passive verb that creates a second independent clause, making the sentence a run-on without a coordinating conjunction"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0006",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The medicine ___ (prescribe) by the doctor needs to be taken twice a day with food.",
+        "correct_answer": "prescribed",
+        "distractors": [
+          "prescribing",
+          "which prescribing",
+          "that was prescribing"
+        ],
+        "distractor_rationale": [
+          "present participle 'prescribing' implies the medicine is actively prescribing something to someone, which is semantically absurd and grammatically incorrect for a passive reduced relative",
+          "'which prescribing' combines a relative pronoun with a present participle without an auxiliary, producing an ungrammatical fragment",
+          "'that was prescribing' is a full active relative clause implying the medicine performed the prescribing action, which contradicts the real-world relationship"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0007",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The research findings ___ (publish) by the university team earlier this year have attracted significant attention from health professionals worldwide.",
+        "correct_answer": "published",
+        "distractors": [
+          "publishing",
+          "that were publishing",
+          "having published"
+        ],
+        "distractor_rationale": [
+          "present participle 'publishing' implies the findings were actively publishing something, which is semantically impossible; a passive past participle is required to show the findings were the object of the publishing action",
+          "'that were publishing' is a full active relative clause incorrectly suggesting the findings performed the publishing, reversing the logical agent-patient relationship",
+          "perfect participle 'having published' signals an active completed action by the subject — it would mean the findings themselves completed a publishing action, which is logically impossible"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0008",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The budget cuts ___ (announce) by the director at last week's meeting have caused considerable concern among the project managers.",
+        "correct_answer": "announced",
+        "distractors": [
+          "announcing",
+          "which announcing",
+          "having been announcing"
+        ],
+        "distractor_rationale": [
+          "present participle 'announcing' gives the budget cuts an active role — cuts do not announce things; the passive past participle is required to show the cuts were the subject of the announcement",
+          "'which announcing' combines a relative pronoun with a bare present participle without an auxiliary, producing an ungrammatical and incoherent structure",
+          "'having been announcing' is a perfect continuous passive participle implying an ongoing action over time, which contradicts the one-time event of a formal announcement at a specific meeting"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0009",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The complaints ___ (receive) by the customer service department over the past two weeks clearly indicate that the new system needs to be improved.",
+        "correct_answer": "received",
+        "distractors": [
+          "receiving",
+          "that received",
+          "being received"
+        ],
+        "distractor_rationale": [
+          "present participle 'receiving' implies the complaints were actively receiving something, which is semantically impossible; the past participle is required to show the complaints were received by the department",
+          "'that received' uses an active relative clause suggesting the complaints performed the action of receiving, which reverses the correct agent-patient relationship",
+          "present passive participle 'being received' signals an ongoing action happening at the moment of speaking, which is inconsistent with the time frame 'over the past two weeks' that refers to a completed accumulation of complaints"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 24,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0010",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The email ___ (send) to all staff members yesterday explained the new office rules clearly.",
+        "correct_answer": "sent",
+        "distractors": [
+          "sending",
+          "that sending",
+          "which sent"
+        ],
+        "distractor_rationale": [
+          "present participle 'sending' signals an active reduced relative, but the email did not send itself — a passive past participle is required",
+          "'that sending' incorrectly combines a relative pronoun with a present participle, producing an ungrammatical structure",
+          "'which sent' uses a full relative pronoun with an active verb form, but the email was sent by someone, so the passive is required and the pronoun must be dropped in a reduced clause"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0011",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The report ___ (prepare) by the finance team is ready for the manager to review.",
+        "correct_answer": "prepared",
+        "distractors": [
+          "preparing",
+          "that prepared",
+          "has prepared"
+        ],
+        "distractor_rationale": [
+          "'preparing' is a present participle indicating an active meaning, but the report did not prepare anything — the passive past participle is needed",
+          "'that prepared' inserts a relative pronoun before an active verb, making the report the subject that performed the action, which is semantically impossible here",
+          "'has prepared' is a finite present perfect verb form, which cannot function as a reduced relative modifier before 'by the finance team'"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0012",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The photographs ___ (take) during the school trip last month will be displayed in the main hall next week.",
+        "correct_answer": "taken",
+        "distractors": [
+          "taking",
+          "that taken",
+          "were taken"
+        ],
+        "distractor_rationale": [
+          "'taking' is a present active participle, implying the photographs were taking something, which is semantically impossible",
+          "'that taken' incorrectly places a relative pronoun directly before a past participle without an auxiliary, producing an ungrammatical reduced clause",
+          "'were taken' is a full finite passive verb phrase, which turns the modifier into a main clause, leaving the sentence without a main verb"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0013",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "Most of the furniture ___ (damage) in the flood has already been replaced by the building owners.",
+        "correct_answer": "damaged",
+        "distractors": [
+          "damaging",
+          "that was damaging",
+          "which damaged"
+        ],
+        "distractor_rationale": [
+          "'damaging' is a present active participle meaning the furniture was causing damage to something else, which contradicts the context",
+          "'that was damaging' uses a full active relative clause, implying the furniture was actively damaging something, which is the wrong meaning and the wrong structure",
+          "'which damaged' introduces a full active relative clause where the furniture is the agent of damage, contradicting the passive meaning required by the context"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_cloze_0014",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Complete the sentence with the correct form.",
+        "prompt": "The new safety procedures ___ (introduce) by the management team last quarter have significantly reduced the number of workplace accidents.",
+        "correct_answer": "introduced",
+        "distractors": [
+          "introducing",
+          "that introduced",
+          "being introduced"
+        ],
+        "distractor_rationale": [
+          "'introducing' is a present active participle, implying the procedures were actively introducing something else, which is semantically impossible and structurally incorrect for a passive meaning",
+          "'that introduced' uses a full active relative clause making the procedures the agent of introducing, but the procedures were introduced by the management team, so the passive reduced form is required",
+          "'being introduced' expresses an ongoing passive action at the time of reference, but the procedures were completed and already in place last quarter, so the simple past participle is needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_cloze_v1",
+        "batch_id": "reduced_relatives_passive_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0000",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The email ___ by the manager yesterday has not been read by anyone yet.",
+        "correct_answer": "sent",
+        "distractors": [
+          "sending",
+          "that sending",
+          "that sent"
+        ],
+        "distractor_rationale": [
+          "present participle 'sending' signals active meaning, but the email does not send itself — passive past participle is required",
+          "'that sending' incorrectly keeps the relative pronoun and uses the present participle, producing an ungrammatical reduced form",
+          "'that sent' incorrectly retains 'that' before the participle — reduced relative clauses drop the relative pronoun and auxiliary"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0001",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The report ___ last month showed that sales had increased by fifteen percent.",
+        "correct_answer": "published",
+        "distractors": [
+          "publishing",
+          "that was publishing",
+          "that published"
+        ],
+        "distractor_rationale": [
+          "present participle 'publishing' implies the report is actively publishing something, which is not the intended passive meaning",
+          "'that was publishing' uses a full active progressive relative clause, which contradicts the passive meaning required here",
+          "'that published' uses an active relative clause, but the report does not publish itself — a passive construction is needed"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0002",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The cake ___ by Anna for the party looked beautiful and tasted even better.",
+        "correct_answer": "made",
+        "distractors": [
+          "making",
+          "that making",
+          "that was making"
+        ],
+        "distractor_rationale": [
+          "present participle 'making' would mean the cake is actively making something, which is semantically impossible",
+          "'that making' combines the relative pronoun with a present participle, producing an ungrammatical string",
+          "'that was making' is an active progressive relative clause implying the cake was making something, which is nonsensical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0003",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new bridge ___ over the river last year has already become an important route for commuters.",
+        "correct_answer": "built",
+        "distractors": [
+          "building",
+          "that built",
+          "that was built"
+        ],
+        "distractor_rationale": [
+          "present participle 'building' implies an active meaning — the bridge is not building anything, so the passive past participle is required",
+          "'that built' uses an active relative clause, but the bridge did not build itself — a passive form is needed",
+          "'that was built' is a grammatically correct full passive relative clause, but it is not a reduced form and therefore does not fit the gap, which requires only the participle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0004",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The patients ___ to the hospital after the accident were all treated within two hours.",
+        "correct_answer": "taken",
+        "distractors": [
+          "taking",
+          "that taken",
+          "who took"
+        ],
+        "distractor_rationale": [
+          "present participle 'taking' implies the patients were actively taking someone somewhere, which contradicts the passive meaning",
+          "'that taken' incorrectly retains the relative pronoun 'that' before the past participle, making the clause ungrammatical",
+          "'who took' is an active relative clause suggesting the patients took someone to the hospital, which reverses the intended meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0005",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The photographs ___ during the school trip will be displayed in the main hall next week.",
+        "correct_answer": "taken",
+        "distractors": [
+          "taking",
+          "that were taking",
+          "that take"
+        ],
+        "distractor_rationale": [
+          "present participle 'taking' implies the photographs are actively taking something, which is semantically impossible",
+          "'that were taking' is an active progressive relative clause, suggesting the photographs were capturing something themselves, which is nonsensical",
+          "'that take' is an active present relative clause, which incorrectly implies the photographs habitually take something"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0006",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The proposal ___ by the finance team earlier this week needs to be approved before Friday.",
+        "correct_answer": "prepared",
+        "distractors": [
+          "preparing",
+          "that preparing",
+          "that has prepared"
+        ],
+        "distractor_rationale": [
+          "present participle 'preparing' implies the proposal is actively preparing something, which makes no sense in this context",
+          "'that preparing' incorrectly retains the relative pronoun and uses a present participle, creating an ungrammatical structure",
+          "'that has prepared' uses an active present perfect relative clause, implying the proposal itself has prepared something, which is illogical"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0007",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The historical documents ___ in the library's archive for over a century were finally made available to the public.",
+        "correct_answer": "stored",
+        "distractors": [
+          "storing",
+          "that storing",
+          "which storing"
+        ],
+        "distractor_rationale": [
+          "present participle 'storing' implies the documents are actively storing something, which contradicts the passive meaning required",
+          "'that storing' combines the relative pronoun 'that' with a present participle without an auxiliary, producing an ungrammatical string",
+          "'which storing' similarly retains the relative pronoun 'which' before a bare present participle, which is ungrammatical in both full and reduced relative clauses"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0008",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The new software ___ specifically for small businesses has helped many local shops manage their accounts more efficiently.",
+        "correct_answer": "designed",
+        "distractors": [
+          "designing",
+          "that designed",
+          "which has designed"
+        ],
+        "distractor_rationale": [
+          "present participle 'designing' implies the software is actively designing something, which is semantically wrong in this passive context",
+          "'that designed' is an active relative clause suggesting the software designed something, but the software itself was designed by someone — passive meaning is required",
+          "'which has designed' is an active present perfect relative clause implying the software has designed something, which misrepresents the intended passive relationship"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_multiple_choice_0009",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Choose the correct option to complete the sentence.",
+        "prompt": "The survey results ___ from over two thousand participants across different age groups suggest that people prefer shorter working hours.",
+        "correct_answer": "collected",
+        "distractors": [
+          "collecting",
+          "that were collecting",
+          "which collect"
+        ],
+        "distractor_rationale": [
+          "present participle 'collecting' implies the results are actively collecting something, which reverses the passive relationship — the results were collected, not collecting",
+          "'that were collecting' is an active progressive relative clause implying the results were in the process of collecting something, which is semantically impossible",
+          "'which collect' is an active present relative clause implying the results habitually collect something, which contradicts the required passive meaning"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 23,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_mc_v1",
+        "batch_id": "reduced_relatives_passive_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0000",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The report writing by the manager was sent to all the team members yesterday.",
+        "correct_answer": "written",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The report writing by the manager was sent to all the team members yesterday.",
+        "corrected_sentence": "The report written by the manager was sent to all the team members yesterday.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0001",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 52,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The photos taking at the school event last Friday are now on the notice board.",
+        "correct_answer": "taken",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The photos taking at the school event last Friday are now on the notice board.",
+        "corrected_sentence": "The photos taken at the school event last Friday are now on the notice board.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 52,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0002",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The package that delivered to our office this morning contained some important documents.",
+        "correct_answer": "delivered",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The package that delivered to our office this morning contained some important documents.",
+        "corrected_sentence": "The package delivered to our office this morning contained some important documents.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0003",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The instructions giving to us before the exam were very clear and easy to follow.",
+        "correct_answer": "given",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The instructions giving to us before the exam were very clear and easy to follow.",
+        "corrected_sentence": "The instructions given to us before the exam were very clear and easy to follow.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0004",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 54,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The car parking outside the building without a permit was towed away by the police.",
+        "correct_answer": "parked",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The car parking outside the building without a permit was towed away by the police.",
+        "corrected_sentence": "The car parked outside the building without a permit was towed away by the police.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 54,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0005",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The new policy that introduced by the director last month has already changed the way we handle customer complaints.",
+        "correct_answer": "introduced",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The new policy that introduced by the director last month has already changed the way we handle customer complaints.",
+        "corrected_sentence": "The new policy introduced by the director last month has already changed the way we handle customer complaints.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0006",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The feedback collecting from customers over the past three months shows that most people are satisfied with the service.",
+        "correct_answer": "collected",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The feedback collecting from customers over the past three months shows that most people are satisfied with the service.",
+        "corrected_sentence": "The feedback collected from customers over the past three months shows that most people are satisfied with the service.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_reduced_relatives_passive_error_correction_0007",
+      "skill_ids": [
+        "reduced_relatives_passive"
+      ],
+      "exercise_type": "error_correction",
+      "cefr_level": "B1+",
+      "gse_target": 57,
+      "content": {
+        "instruction": "Find and correct the grammar mistake in the sentence.",
+        "prompt": "The application forms that submitting online before the deadline will be reviewed by the admissions team next week.",
+        "correct_answer": "submitted",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": "The application forms that submitting online before the deadline will be reviewed by the admissions team next week.",
+        "corrected_sentence": "The application forms submitted online before the deadline will be reviewed by the admissions team next week.",
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 57,
+        "sentence_length_tokens": 21,
+        "target_form_complexity": "complex"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T12:34:37.611745+00:00",
+        "template_id": "grammar_error_correction_v1",
+        "batch_id": "reduced_relatives_passive_error_correction",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 33,
+    "schema_failed": 0,
+    "filter_passed": 33,
+    "filter_rejected": 0
+  }
+}

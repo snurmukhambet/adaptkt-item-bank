@@ -1,0 +1,1713 @@
+{
+  "skill_id": "vocab_motion",
+  "skill_name": "Motion & Movement",
+  "exercises": [
+    {
+      "id": "ex_vocab_motion_cloze_0000",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children ___ over the puddles on the way to school.",
+        "correct_answer": "jumped",
+        "distractors": [
+          "floated",
+          "landed",
+          "escaped"
+        ],
+        "distractor_rationale": [
+          "floated means to move gently on water or air — a person cannot float over a puddle on the ground",
+          "landed means to come down after being in the air — it cannot describe the action of going over puddles on foot",
+          "escaped means to get away from a dangerous situation — there is no danger or confinement described here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 11,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0001",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "She ___ the stairs slowly because her legs were tired after the long walk.",
+        "correct_answer": "climbed",
+        "distractors": [
+          "crossed",
+          "followed",
+          "drove"
+        ],
+        "distractor_rationale": [
+          "crossed means to go from one side to the other of a flat surface — you cross a road or a river, not stairs",
+          "followed means to move behind someone — there is no person being followed in this sentence",
+          "drove means to operate a vehicle — you cannot drive stairs"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0002",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The pilot ___ the plane safely at the airport after a six-hour journey.",
+        "correct_answer": "landed",
+        "distractors": [
+          "floated",
+          "entered",
+          "followed"
+        ],
+        "distractor_rationale": [
+          "floated means to move slowly through the air or water without control — a pilot does not float a plane",
+          "entered means to go into a place — you enter a building, not a plane onto a runway",
+          "followed means to move behind someone — there is no person or object being followed here"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0003",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Mark was late for his meeting, so he ___ down the corridor and knocked on the door.",
+        "correct_answer": "hurried",
+        "distractors": [
+          "floated",
+          "climbed",
+          "flew"
+        ],
+        "distractor_rationale": [
+          "floated means to move gently and slowly — this contradicts being late and needing to move quickly",
+          "climbed means to go upward using hands or feet — a corridor is flat, so climbing makes no sense here",
+          "flew means to move through the air — a person cannot literally fly down a corridor"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0004",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The dog ___ its owner all the way from the park to the front door of the house.",
+        "correct_answer": "followed",
+        "distractors": [
+          "escaped",
+          "entered",
+          "arrived"
+        ],
+        "distractor_rationale": [
+          "escaped means to get away from a place or person — the dog is moving toward its owner, not away",
+          "entered means to go into a place — the dog is described moving along a route, not going inside something",
+          "arrived means to reach a destination — arrived is intransitive and cannot take 'its owner' as a direct object"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0005",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The small boat ___ gently on the calm lake while the passengers relaxed inside.",
+        "correct_answer": "floated",
+        "distractors": [
+          "landed",
+          "hurried",
+          "crossed"
+        ],
+        "distractor_rationale": [
+          "landed means to come down and stop on a surface — a boat already on water does not land",
+          "hurried means to move quickly — this contradicts the calm, relaxed scene described in the sentence",
+          "crossed means to go from one side to the other — the sentence describes a gentle, stationary drift, not a purposeful crossing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0006",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom ___ his car into the garage and turned off the engine before going inside.",
+        "correct_answer": "drove",
+        "distractors": [
+          "followed",
+          "entered",
+          "crossed"
+        ],
+        "distractor_rationale": [
+          "followed means to move behind someone — there is no person or object being followed into the garage",
+          "entered means to go into a place on foot — you enter a building yourself, but you drive a car into a garage",
+          "crossed means to go from one side to the other of something — you cross a road or bridge, not drive into a garage"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0007",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The elderly man ___ the busy road carefully, waiting for the traffic lights to turn green before he stepped off the pavement.",
+        "correct_answer": "crossed",
+        "distractors": [
+          "entered",
+          "climbed",
+          "escaped"
+        ],
+        "distractor_rationale": [
+          "entered means to go into an enclosed space — you enter a building or room, not a road",
+          "climbed means to go upward — a road is flat, so climbing it is nonsensical in this context",
+          "escaped means to get away from a place of danger or confinement — the man is making a planned, careful movement, not fleeing"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0008",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The cat managed to ___ from the garden by squeezing through a small gap in the fence while no one was watching.",
+        "correct_answer": "escape",
+        "distractors": [
+          "arrive",
+          "float",
+          "land"
+        ],
+        "distractor_rationale": [
+          "arrive means to reach a destination — the cat is leaving the garden, not reaching one",
+          "float means to move gently on air or water — a cat squeezing through a fence gap cannot float",
+          "land means to come down after being in the air — the cat is moving horizontally through a fence, not descending from above"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 20,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0009",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "After a long flight from abroad, Lisa was relieved to finally ___ at her home city's airport and see her family waiting for her.",
+        "correct_answer": "arrive",
+        "distractors": [
+          "escape",
+          "enter",
+          "fall"
+        ],
+        "distractor_rationale": [
+          "escape means to get away from a dangerous or confined place — Lisa is completing a journey, not fleeing from anything",
+          "enter means to go into an enclosed space — you arrive at an airport, not enter it in the context of completing a journey from abroad",
+          "fall means to drop downward unintentionally — this contradicts the positive, relieved tone and the planned end of a journey"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0010",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The children ___ over the puddle on the pavement so their shoes stayed dry.",
+        "correct_answer": "jumped",
+        "distractors": [
+          "floated",
+          "climbed",
+          "drove"
+        ],
+        "distractor_rationale": [
+          "floated means to move on water or air without effort — a person cannot float over a puddle on the ground",
+          "climbed means to go up a surface such as a ladder or hill — a puddle on flat ground cannot be climbed",
+          "drove refers to operating a vehicle — children on foot cannot drive over a puddle"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0011",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Maria ___ the busy road carefully at the traffic lights before walking to the market.",
+        "correct_answer": "crossed",
+        "distractors": [
+          "entered",
+          "followed",
+          "landed"
+        ],
+        "distractor_rationale": [
+          "entered means to go inside a place such as a building — a road is not entered, it is crossed",
+          "followed means to go behind someone or something — Maria is moving across the road, not behind another person",
+          "landed means to come down from the air onto a surface — Maria is on foot on the ground, not descending from above"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0012",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Tom had to ___ to the bus stop because he was already five minutes late for work.",
+        "correct_answer": "hurry",
+        "distractors": [
+          "float",
+          "land",
+          "climb"
+        ],
+        "distractor_rationale": [
+          "float describes moving gently on water or air — a person rushing to a bus stop on foot cannot float",
+          "land means to arrive from the air onto a surface — Tom is already on the ground and moving along a street",
+          "climb means to go upward on a surface — a bus stop on a flat pavement is not something that is climbed to"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0013",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "The pilot announced that the plane would ___ at the airport in about twenty minutes, so passengers should fasten their seatbelts.",
+        "correct_answer": "land",
+        "distractors": [
+          "arrive",
+          "enter",
+          "escape"
+        ],
+        "distractor_rationale": [
+          "arrive describes reaching a destination in general and cannot describe the physical act of a plane touching down on a runway — 'the plane arrives' is used for schedules, not the physical landing action described here with seatbelt instruction",
+          "enter means to go inside a place — a plane does not enter an airport in the way passengers do; it lands on a runway",
+          "escape means to get away from a dangerous or confined situation — landing safely at an airport is the opposite of escaping"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_cloze_0014",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "cloze",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the correct word to complete the sentence.",
+        "prompt": "Anna had to ___ the locked back door of the building after she realised the main entrance had closed for the night.",
+        "correct_answer": "escape",
+        "distractors": [
+          "enter",
+          "follow",
+          "float"
+        ],
+        "distractor_rationale": [
+          "enter means to go into a place — Anna is already inside and needs to get out through the back door, not go in",
+          "follow means to move behind someone — there is no person or route mentioned that Anna is moving behind",
+          "float means to move without effort on water or air — a person cannot float through a locked door in a building"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 22,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_cloze_v1",
+        "batch_id": "vocab_motion_cloze",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0000",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The children ___ over the puddle on the path so their shoes stayed dry.",
+        "correct_answer": "jumped",
+        "distractors": [
+          "floated",
+          "landed",
+          "escaped"
+        ],
+        "distractor_rationale": [
+          "floated means to move on air or water without effort, which a person cannot do over a puddle on a path",
+          "landed means to come down after being in the air, which is the end of a jump, not the act of crossing a puddle",
+          "escaped means to get away from danger or confinement, which contradicts the ordinary outdoor scene described"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0001",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Maria was late for the bus, so she ___ all the way to the stop.",
+        "correct_answer": "hurried",
+        "distractors": [
+          "floated",
+          "climbed",
+          "flew"
+        ],
+        "distractor_rationale": [
+          "floated means to drift slowly without effort, which is the opposite of moving quickly to catch a bus",
+          "climbed means to go up a surface using hands and feet, which cannot describe running to a bus stop on flat ground",
+          "flew means to move through the air, which a person cannot literally do on the way to a bus stop"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 13,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0002",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Tom ___ the heavy box and it hit the floor with a loud bang.",
+        "correct_answer": "dropped",
+        "distractors": [
+          "followed",
+          "entered",
+          "crossed"
+        ],
+        "distractor_rationale": [
+          "followed means to go behind someone or something, which cannot describe a box hitting the floor",
+          "entered means to go into a place, which cannot describe what happened to the box",
+          "crossed means to go from one side to the other, which does not explain the box hitting the floor"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0003",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The plane ___ safely at the airport after a three-hour flight from the coast.",
+        "correct_answer": "landed",
+        "distractors": [
+          "arrived",
+          "entered",
+          "fell"
+        ],
+        "distractor_rationale": [
+          "arrived can describe reaching a destination but does not collocate specifically with a plane touching down on a runway, making it imprecise and technically wrong in aviation context",
+          "entered means to go into an enclosed space and cannot describe a plane touching down on a runway",
+          "fell implies an uncontrolled downward movement, which contradicts the word 'safely' in the sentence"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0004",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "David ___ the busy road carefully after checking both ways for traffic.",
+        "correct_answer": "crossed",
+        "distractors": [
+          "followed",
+          "entered",
+          "climbed"
+        ],
+        "distractor_rationale": [
+          "followed means to go behind someone or something, which does not describe moving from one side of a road to the other",
+          "entered means to go inside a place, and a road is not an enclosed space one can enter",
+          "climbed means to go upward using physical effort, which cannot describe walking across a flat road"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0005",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The dog ___ its owner all the way home from the park without stopping once.",
+        "correct_answer": "followed",
+        "distractors": [
+          "crossed",
+          "escaped",
+          "drove"
+        ],
+        "distractor_rationale": [
+          "crossed means to go from one side to the other, not to move behind someone over a long distance",
+          "escaped means to get away from a place or person, which is the opposite of staying close to the owner",
+          "drove means to operate a vehicle, and a dog cannot drive"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0006",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "A2+",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Sara ___ her car to the supermarket every Saturday morning to do the weekly shop.",
+        "correct_answer": "drives",
+        "distractors": [
+          "flies",
+          "floats",
+          "climbs"
+        ],
+        "distractor_rationale": [
+          "flies means to travel through the air, which is impossible for a car on a road to a supermarket",
+          "floats means to drift on water or air without effort, which cannot describe a car moving on a road",
+          "climbs means to go upward on a surface, which cannot describe a car travelling to a supermarket"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0007",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "The prisoner managed to ___ from the building through a small window at the back.",
+        "correct_answer": "escape",
+        "distractors": [
+          "arrive",
+          "enter",
+          "land"
+        ],
+        "distractor_rationale": [
+          "arrive means to reach a destination, which is the opposite of leaving a place through a window",
+          "enter means to go into a place, which contradicts moving out through a window to get away",
+          "land means to come down after being in the air, which does not describe getting out of a building through a window"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 15,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0008",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "A large piece of wood was ___ on the surface of the river after the storm broke the old bridge.",
+        "correct_answer": "floating",
+        "distractors": [
+          "flying",
+          "falling",
+          "climbing"
+        ],
+        "distractor_rationale": [
+          "flying means moving through the air under power, which cannot describe a piece of wood resting on a river's surface",
+          "falling means moving downward quickly due to gravity, which contradicts the wood being on the surface of the water",
+          "climbing means moving upward on a surface, which cannot describe a piece of wood drifting on a river"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_multiple_choice_0009",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "multiple_choice",
+      "cefr_level": "B1",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Choose the best word to complete the sentence.",
+        "prompt": "Anna had to ___ the steep hill behind the village to reach the viewpoint at the top.",
+        "correct_answer": "climb",
+        "distractors": [
+          "cross",
+          "enter",
+          "follow"
+        ],
+        "distractor_rationale": [
+          "cross means to go from one side to the other on a flat surface, which does not describe the upward effort needed to reach the top of a steep hill",
+          "enter means to go into an enclosed space, and a hill is not an enclosed space one can enter",
+          "follow means to go behind someone or something, and there is no person or path mentioned that Anna is going behind"
+        ],
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": null
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 16,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_mc_v1",
+        "batch_id": "vocab_motion_multiple_choice",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_word_formation_0000",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the plane was smooth and on time. (LAND)",
+        "correct_answer": "landing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "LAND"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 9,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_motion_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_word_formation_0001",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "A2",
+      "gse_target": 30,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The children were very ___ when they heard the school bus was late. (HURRY)",
+        "correct_answer": "hurried",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "HURRY"
+      },
+      "difficulty_features": {
+        "gse_target": 30,
+        "sentence_length_tokens": 14,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_motion_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_word_formation_0002",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The ___ of the river took longer than we expected because the current was very strong. (CROSS)",
+        "correct_answer": "crossing",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CROSS"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 17,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_motion_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_word_formation_0003",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1",
+      "gse_target": 40,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "After a long delay at the airport, the passengers were relieved when the ___ was finally announced. (ARRIVE)",
+        "correct_answer": "arrival",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "ARRIVE"
+      },
+      "difficulty_features": {
+        "gse_target": 40,
+        "sentence_length_tokens": 18,
+        "target_form_complexity": "simple"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_motion_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    },
+    {
+      "id": "ex_vocab_motion_word_formation_0004",
+      "skill_ids": [
+        "vocab_motion"
+      ],
+      "exercise_type": "word_formation",
+      "cefr_level": "B1+",
+      "gse_target": 50,
+      "content": {
+        "instruction": "Use the word in brackets in the correct form to complete the sentence.",
+        "prompt": "The mountain ___ lasted three days and required the team to carry all their equipment on their backs. (CLIMB)",
+        "correct_answer": "climb",
+        "distractors": null,
+        "distractor_rationale": null,
+        "error_sentence": null,
+        "corrected_sentence": null,
+        "base_word": "CLIMB"
+      },
+      "difficulty_features": {
+        "gse_target": 50,
+        "sentence_length_tokens": 19,
+        "target_form_complexity": "compound"
+      },
+      "provenance": {
+        "generator_model": "claude-sonnet-4-6",
+        "generation_timestamp": "2026-04-26T13:12:42.118110+00:00",
+        "template_id": "vocab_word_formation_v1",
+        "batch_id": "vocab_motion_word_formation",
+        "auto_checks": {
+          "schema_valid": true,
+          "skill_match": null,
+          "ambiguity_check": null,
+          "duplicate_check": true
+        }
+      },
+      "_filter_checks": {
+        "schema": [
+          true,
+          "ok"
+        ],
+        "distractor_collision": [
+          true,
+          "ok"
+        ],
+        "duplicate": [
+          true,
+          "ok"
+        ]
+      }
+    }
+  ],
+  "rejected": [],
+  "stats": {
+    "generated": 30,
+    "schema_failed": 0,
+    "filter_passed": 30,
+    "filter_rejected": 0
+  }
+}
